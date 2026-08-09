@@ -4,21 +4,21 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 08 Aug 2026 03:24:29 GMT</pubDate>
+  <pubDate>Sun, 09 Aug 2026 03:33:26 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
     <description>The official Vim repository</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
     <title>sainnhe / everforest</title>
@@ -46,19 +46,9 @@
     <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
-    <title>preservim / nerdtree</title>
-    <link>https://github.com/preservim/nerdtree</link>
-    <description>A tree explorer plugin for vim.</description>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
   </item>
   <item>
     <title>tpope / vim-sensible</title>
@@ -66,9 +56,19 @@
     <description>sensible.vim: Defaults everyone can agree on</description>
   </item>
   <item>
-    <title>tpope / vim-rhubarb</title>
-    <link>https://github.com/tpope/vim-rhubarb</link>
-    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
+  </item>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+  </item>
+  <item>
+    <title>preservim / nerdtree</title>
+    <link>https://github.com/preservim/nerdtree</link>
+    <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
     <title>amix / vimrc</title>
@@ -81,14 +81,9 @@
     <description>Vim motions on speed!</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
-  </item>
-  <item>
-    <title>jbranchaud / til</title>
-    <link>https://github.com/jbranchaud/til</link>
-    <description>📝 Today I Learned</description>
+    <title>prabirshrestha / vim-lsp</title>
+    <link>https://github.com/prabirshrestha/vim-lsp</link>
+    <description>async language server protocol plugin for vim and neovim</description>
   </item>
   <item>
     <title>hrsh7th / vim-vsnip</title>
@@ -101,9 +96,14 @@
     <description>A very simple plugin that makes hlsearch more useful.</description>
   </item>
   <item>
-    <title>prabirshrestha / vim-lsp</title>
-    <link>https://github.com/prabirshrestha/vim-lsp</link>
-    <description>async language server protocol plugin for vim and neovim</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
+  </item>
+  <item>
+    <title>altercation / vim-colors-solarized</title>
+    <link>https://github.com/altercation/vim-colors-solarized</link>
+    <description>precision colorscheme for the vim text editor</description>
   </item>
 </channel>
 </rss>

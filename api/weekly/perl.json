@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
+  "pubDate": "Sun, 09 Aug 2026 03:31:07 GMT",
   "items": [
     {
       "title": "AlDanial / cloc",
@@ -10,19 +10,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23407,
-      "forks": 1119,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2552,
-      "forks": 162,
-      "added_stars": "18 stars this week"
+      "stars": 23409,
+      "forks": 1120,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "brendangregg / FlameGraph",
@@ -30,9 +20,19 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19656,
+      "stars": 19655,
       "forks": 2104,
-      "added_stars": "25 stars this week"
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "szTheory / exifcleaner",
+      "url": "https://github.com/szTheory/exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2554,
+      "forks": 162,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "manwar / perlweeklychallenge-club",
@@ -45,6 +45,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "lm-sensors / lm-sensors",
+      "url": "https://github.com/lm-sensors/lm-sensors",
+      "description": "lm-sensors repository",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1130,
+      "forks": 298,
+      "added_stars": "3 stars this week"
+    },
+    {
       "title": "glpi-project / glpi-agent",
       "url": "https://github.com/glpi-project/glpi-agent",
       "description": "GLPI Agent",
@@ -55,23 +65,13 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "lm-sensors / lm-sensors",
-      "url": "https://github.com/lm-sensors/lm-sensors",
-      "description": "lm-sensors repository",
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1129,
-      "forks": 298,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "sitaramc / gitolite",
-      "url": "https://github.com/sitaramc/gitolite",
-      "description": "Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 8581,
-      "forks": 1007,
+      "stars": 2311,
+      "forks": 636,
       "added_stars": "2 stars this week"
     },
     {
@@ -85,52 +85,12 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Perl / perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2310,
-      "forks": 636,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1502,
-      "forks": 1214,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "Aetherinox / csf-firewall",
-      "url": "https://github.com/Aetherinox/csf-firewall",
-      "description": "ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 361,
-      "forks": 71,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3383,
-      "forks": 376,
-      "added_stars": "11 stars this week"
-    },
-    {
       "title": "exiftool / exiftool",
       "url": "https://github.com/exiftool/exiftool",
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 4933,
+      "stars": 4934,
       "forks": 467,
       "added_stars": "19 stars this week"
     },
@@ -143,36 +103,6 @@
       "stars": 92,
       "forks": 301,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3851,
-      "forks": 201,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "inverse-inc / packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1663,
-      "forks": 321,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "docker-library / repo-info",
-      "url": "https://github.com/docker-library/repo-info",
-      "description": "Extended information (especially license and layer details) about the published Official Images",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 604,
-      "forks": 359,
-      "added_stars": "1 star this week"
     }
   ]
 }

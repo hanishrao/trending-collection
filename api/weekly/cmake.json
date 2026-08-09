@@ -2,27 +2,27 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
+  "pubDate": "Sun, 09 Aug 2026 03:31:07 GMT",
   "items": [
-    {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1684,
-      "forks": 227,
-      "added_stars": "20 stars this week"
-    },
     {
       "title": "microsoft / vcpkg",
       "url": "https://github.com/microsoft/vcpkg",
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27336,
+      "stars": 27339,
       "forks": 7664,
-      "added_stars": "31 stars this week"
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1691,
+      "forks": 228,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "flathub / shared-modules",
@@ -31,7 +31,7 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": 171,
-      "forks": 106,
+      "forks": 107,
       "added_stars": "1 star this week"
     },
     {
@@ -43,6 +43,16 @@
       "stars": 78,
       "forks": 57,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1475,
+      "forks": 149,
+      "added_stars": "1 star this week"
     },
     {
       "title": "KiCad / kicad-footprints",
@@ -65,44 +75,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "title": "MarkSchofield / WindowsToolchain",
+      "url": "https://github.com/MarkSchofield/WindowsToolchain",
+      "description": "A repository containing a CMake toolchain for using MSVC",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1605,
-      "forks": 127,
-      "added_stars": "4 stars this week"
+      "stars": 184,
+      "forks": 30,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "corrosion-rs / corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "title": "vector-of-bool / cmrc",
+      "url": "https://github.com/vector-of-bool/cmrc",
+      "description": "A Resource Compiler in a Single CMake Script",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1475,
-      "forks": 149,
+      "stars": 777,
+      "forks": 83,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "GEOS-ESM / GEOSgcm",
-      "url": "https://github.com/GEOS-ESM/GEOSgcm",
-      "description": "GEOS Earth System Model GEOSgcm Fixture",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 50,
-      "forks": 17,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "KiCad / kicad-symbols",
-      "url": "https://github.com/KiCad/kicad-symbols",
-      "description": "Official KiCad schematic symbol libraries for Kicad 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 765,
-      "forks": 724,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "TheLartians / PackageProject.cmake",
@@ -115,13 +105,43 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MarkSchofield / WindowsToolchain",
-      "url": "https://github.com/MarkSchofield/WindowsToolchain",
-      "description": "A repository containing a CMake toolchain for using MSVC",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 184,
-      "forks": 30,
+      "stars": 1606,
+      "forks": 127,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "boostorg / cmake",
+      "url": "https://github.com/boostorg/cmake",
+      "description": "CMake support infrastructure Boost submodule",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 119,
+      "forks": 36,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "GEOS-ESM / GEOSgcm",
+      "url": "https://github.com/GEOS-ESM/GEOSgcm",
+      "description": "GEOS Earth System Model GEOSgcm Fixture",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 50,
+      "forks": 17,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "ecmwf / ecbuild",
+      "url": "https://github.com/ecmwf/ecbuild",
+      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 39,
+      "forks": 40,
       "added_stars": "0 stars this week"
     }
   ]

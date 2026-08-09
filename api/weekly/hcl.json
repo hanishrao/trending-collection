@@ -2,18 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
+  "pubDate": "Sun, 09 Aug 2026 03:31:07 GMT",
   "items": [
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2077,
-      "forks": 1253,
-      "added_stars": "2 stars this week"
-    },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
@@ -25,6 +15,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2077,
+      "forks": 1254,
+      "added_stars": "2 stars this week"
+    },
+    {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
@@ -32,27 +32,7 @@
       "languageColor": "#844FBA",
       "stars": 4996,
       "forks": 4405,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3254,
-      "forks": 4626,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "bridgecrewio / checkov-action",
-      "url": "https://github.com/bridgecrewio/checkov-action",
-      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 312,
-      "forks": 114,
-      "added_stars": "0 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "chainguard-images / images",
@@ -65,6 +45,16 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "bridgecrewio / checkov-action",
+      "url": "https://github.com/bridgecrewio/checkov-action",
+      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 312,
+      "forks": 112,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "cloudposse / terraform-aws-ecs-container-definition",
       "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
       "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
@@ -73,6 +63,26 @@
       "stars": 350,
       "forks": 239,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 867,
+      "forks": 1110,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1047,
+      "forks": 771,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "hashicorp / setup-packer",
@@ -85,24 +95,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
+      "description": "Terraform Azure Verified Resource Module for Key Vault",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 867,
-      "forks": 1109,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1047,
-      "forks": 771,
-      "added_stars": "3 stars this week"
+      "stars": 48,
+      "forks": 58,
+      "added_stars": "1 star this week"
     },
     {
       "title": "cisco-open / forge",
@@ -115,54 +115,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "cloudposse / terraform-aws-lb-s3-bucket",
-      "url": "https://github.com/cloudposse/terraform-aws-lb-s3-bucket",
-      "description": "Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs",
+      "title": "zealvora / terraform-beginner-to-advanced-resource",
+      "url": "https://github.com/zealvora/terraform-beginner-to-advanced-resource",
+      "description": "HashiCorp Certified Terraform Associate 2026",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 45,
-      "forks": 33,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "aws-ia / terraform-aws-eks-blueprints",
-      "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
-      "description": "Configure and deploy complete EKS clusters.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3033,
-      "forks": 1514,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "kubernetes / k8s.io",
-      "url": "https://github.com/kubernetes/k8s.io",
-      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 976,
-      "forks": 1029,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "cloudposse / terraform-aws-alb",
-      "url": "https://github.com/cloudposse/terraform-aws-alb",
-      "description": "Terraform module to provision a standard ALB for HTTP/HTTP traffic",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 116,
-      "forks": 120,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 48,
-      "forks": 58,
-      "added_stars": "1 star this week"
+      "stars": 2488,
+      "forks": 6339,
+      "added_stars": "5 stars this week"
     }
   ]
 }

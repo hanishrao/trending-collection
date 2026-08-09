@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 08 Aug 2026 03:22:21 GMT",
+  "pubDate": "Sun, 09 Aug 2026 03:31:07 GMT",
   "items": [
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -10,9 +10,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32926,
-      "forks": 2123,
-      "added_stars": "4,739 stars this week"
+      "stars": 33198,
+      "forks": 2144,
+      "added_stars": "4,704 stars this week"
     },
     {
       "title": "alibaba / open-code-review",
@@ -20,19 +20,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19595,
-      "forks": 1362,
-      "added_stars": "2,633 stars this week"
-    },
-    {
-      "title": "passteque / gluetun",
-      "url": "https://github.com/passteque/gluetun",
-      "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15112,
-      "forks": 604,
-      "added_stars": "86 stars this week"
+      "stars": 19741,
+      "forks": 1379,
+      "added_stars": "2,345 stars this week"
     },
     {
       "title": "github / gh-stack",
@@ -40,29 +30,9 @@
       "description": "GitHub Stacked PRs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1171,
-      "forks": 49,
-      "added_stars": "499 stars this week"
-    },
-    {
-      "title": "pranshuparmar / witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19813,
-      "forks": 643,
-      "added_stars": "1,186 stars this week"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64329,
-      "forks": 6127,
-      "added_stars": "139 stars this week"
+      "stars": 1186,
+      "forks": 51,
+      "added_stars": "437 stars this week"
     },
     {
       "title": "binwiederhier / ntfy",
@@ -70,9 +40,49 @@
       "description": "Send push notifications to your phone or desktop using PUT/POST",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33258,
-      "forks": 1533,
-      "added_stars": "669 stars this week"
+      "stars": 33315,
+      "forks": 1537,
+      "added_stars": "632 stars this week"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17414,
+      "forks": 5479,
+      "added_stars": "178 stars this week"
+    },
+    {
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20150,
+      "forks": 663,
+      "added_stars": "1,657 stars this week"
+    },
+    {
+      "title": "helm / helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 30131,
+      "forks": 7757,
+      "added_stars": "61 stars this week"
+    },
+    {
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 64352,
+      "forks": 6130,
+      "added_stars": "147 stars this week"
     },
     {
       "title": "multica-ai / multica",
@@ -80,19 +90,9 @@
       "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 44712,
-      "forks": 5675,
-      "added_stars": "1,825 stars this week"
-    },
-    {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 82437,
-      "forks": 2852,
-      "added_stars": "372 stars this week"
+      "stars": 44830,
+      "forks": 5694,
+      "added_stars": "1,734 stars this week"
     },
     {
       "title": "superplanehq / superplane",
@@ -100,29 +100,9 @@
       "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4860,
-      "forks": 527,
-      "added_stars": "510 stars this week"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1104,
-      "forks": 215,
-      "added_stars": "178 stars this week"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7695,
-      "forks": 404,
-      "added_stars": "108 stars this week"
+      "stars": 4910,
+      "forks": 529,
+      "added_stars": "541 stars this week"
     },
     {
       "title": "kgretzky / evilginx2",
@@ -130,19 +110,19 @@
       "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15445,
-      "forks": 2694,
-      "added_stars": "62 stars this week"
+      "stars": 15450,
+      "forks": 2696,
+      "added_stars": "55 stars this week"
     },
     {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "title": "dolthub / dolt",
+      "url": "https://github.com/dolthub/dolt",
+      "description": "Dolt – Git for Data",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 48315,
-      "forks": 4349,
-      "added_stars": "267 stars this week"
+      "stars": 24121,
+      "forks": 853,
+      "added_stars": "93 stars this week"
     },
     {
       "title": "gastownhall / beads",
@@ -150,29 +130,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26125,
-      "forks": 1751,
-      "added_stars": "354 stars this week"
-    },
-    {
-      "title": "cli / cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45735,
-      "forks": 8832,
-      "added_stars": "202 stars this week"
-    },
-    {
-      "title": "bettercap / bettercap",
-      "url": "https://github.com/bettercap/bettercap",
-      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19742,
-      "forks": 1702,
-      "added_stars": "180 stars this week"
+      "stars": 26142,
+      "forks": 1750,
+      "added_stars": "357 stars this week"
     },
     {
       "title": "kubescape / kubescape",
@@ -180,8 +140,8 @@
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11574,
-      "forks": 993,
+      "stars": 11579,
+      "forks": 996,
       "added_stars": "25 stars this week"
     },
     {
@@ -190,59 +150,29 @@
       "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22312,
-      "forks": 1500,
-      "added_stars": "296 stars this week"
+      "stars": 22317,
+      "forks": 1502,
+      "added_stars": "297 stars this week"
     },
     {
-      "title": "dolthub / dolt",
-      "url": "https://github.com/dolthub/dolt",
-      "description": "Dolt – Git for Data",
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24107,
-      "forks": 850,
-      "added_stars": "89 stars this week"
+      "stars": 1168,
+      "forks": 223,
+      "added_stars": "217 stars this week"
     },
     {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
+      "title": "junegunn / fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17399,
-      "forks": 5419,
-      "added_stars": "182 stars this week"
-    },
-    {
-      "title": "labstack / echo",
-      "url": "https://github.com/labstack/echo",
-      "description": "High performance, minimalist Go web framework",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32613,
-      "forks": 2359,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "versenilvis / IRIS",
-      "url": "https://github.com/versenilvis/IRIS",
-      "description": "A shell auto-completion tool for your terminal",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1195,
-      "forks": 42,
-      "added_stars": "182 stars this week"
-    },
-    {
-      "title": "Project-HAMi / HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "description": "Heterogeneous GPU Sharing on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4259,
-      "forks": 734,
-      "added_stars": "122 stars this week"
+      "stars": 82460,
+      "forks": 2854,
+      "added_stars": "377 stars this week"
     },
     {
       "title": "zzet / gortex",
@@ -250,9 +180,69 @@
       "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1107,
-      "forks": 101,
-      "added_stars": "109 stars this week"
+      "stars": 1112,
+      "forks": 102,
+      "added_stars": "113 stars this week"
+    },
+    {
+      "title": "bettercap / bettercap",
+      "url": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19752,
+      "forks": 1702,
+      "added_stars": "180 stars this week"
+    },
+    {
+      "title": "passteque / gluetun",
+      "url": "https://github.com/passteque/gluetun",
+      "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15122,
+      "forks": 604,
+      "added_stars": "87 stars this week"
+    },
+    {
+      "title": "Project-HAMi / HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4266,
+      "forks": 740,
+      "added_stars": "129 stars this week"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45744,
+      "forks": 8835,
+      "added_stars": "195 stars this week"
+    },
+    {
+      "title": "autobrr / qui",
+      "url": "https://github.com/autobrr/qui",
+      "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4333,
+      "forks": 146,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "alibaba / skill-up",
+      "url": "https://github.com/alibaba/skill-up",
+      "description": "An evaluation and evolution tool for Agent Skills.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 437,
+      "forks": 27,
+      "added_stars": "117 stars this week"
     }
   ]
 }
