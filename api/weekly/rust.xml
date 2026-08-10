@@ -4,21 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:31:07 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
   <item>
-    <title>block / buzz</title>
-    <link>https://github.com/block/buzz</link>
-    <description>A hive mind communication platform</description>
-  </item>
-  <item>
-    <title>1jehuang / jcode</title>
-    <link>https://github.com/1jehuang/jcode</link>
-    <description>The most RAM efficient harness</description>
-  </item>
-  <item>
-    <title>raphamorim / rio</title>
-    <link>https://github.com/raphamorim/rio</link>
-    <description>A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.</description>
+    <title>firecrawl / pdf-inspector</title>
+    <link>https://github.com/firecrawl/pdf-inspector</link>
+    <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
   </item>
   <item>
     <title>jdx / mise</title>
@@ -26,9 +16,14 @@
     <description>dev tools, env vars, task runner</description>
   </item>
   <item>
-    <title>BurntSushi / ripgrep</title>
-    <link>https://github.com/BurntSushi/ripgrep</link>
-    <description>ripgrep recursively searches directories for a regex pattern while respecting your gitignore</description>
+    <title>raphamorim / rio</title>
+    <link>https://github.com/raphamorim/rio</link>
+    <description>A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.</description>
+  </item>
+  <item>
+    <title>block / buzz</title>
+    <link>https://github.com/block/buzz</link>
+    <description>A hive mind communication platform</description>
   </item>
   <item>
     <title>FalkorDB / FalkorDB</title>
@@ -36,64 +31,9 @@
     <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
   </item>
   <item>
-    <title>moghtech / komodo</title>
-    <link>https://github.com/moghtech/komodo</link>
-    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
-  </item>
-  <item>
     <title>warp-tech / warpgate</title>
     <link>https://github.com/warp-tech/warpgate</link>
     <description>Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn&#x27;t need additional client-side software</description>
-  </item>
-  <item>
-    <title>dani-garcia / vaultwarden</title>
-    <link>https://github.com/dani-garcia/vaultwarden</link>
-    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  </item>
-  <item>
-    <title>tokio-rs / tokio</title>
-    <link>https://github.com/tokio-rs/tokio</link>
-    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
-  </item>
-  <item>
-    <title>risingwavelabs / risingwave</title>
-    <link>https://github.com/risingwavelabs/risingwave</link>
-    <description>Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.</description>
-  </item>
-  <item>
-    <title>sharkdp / bat</title>
-    <link>https://github.com/sharkdp/bat</link>
-    <description>A cat(1) clone with wings.</description>
-  </item>
-  <item>
-    <title>rust-lang / mdBook</title>
-    <link>https://github.com/rust-lang/mdBook</link>
-    <description>Create book from markdown files. Like Gitbook but implemented in Rust</description>
-  </item>
-  <item>
-    <title>agavra / tuicr</title>
-    <link>https://github.com/agavra/tuicr</link>
-    <description>a code review TUI with vim keybindings</description>
-  </item>
-  <item>
-    <title>pimalaya / himalaya</title>
-    <link>https://github.com/pimalaya/himalaya</link>
-    <description>CLI to manage emails</description>
-  </item>
-  <item>
-    <title>ruffle-rs / ruffle</title>
-    <link>https://github.com/ruffle-rs/ruffle</link>
-    <description>A Flash Player emulator written in Rust</description>
-  </item>
-  <item>
-    <title>zed-industries / zed</title>
-    <link>https://github.com/zed-industries/zed</link>
-    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
-  </item>
-  <item>
-    <title>vercel-labs / agent-browser</title>
-    <link>https://github.com/vercel-labs/agent-browser</link>
-    <description>Browser automation CLI for AI agents</description>
   </item>
   <item>
     <title>modelcontextprotocol / rust-sdk</title>
@@ -101,14 +41,64 @@
     <description>The official Rust SDK for the Model Context Protocol</description>
   </item>
   <item>
-    <title>reacherhq / check-if-email-exists</title>
-    <link>https://github.com/reacherhq/check-if-email-exists</link>
-    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+    <title>tokio-rs / tokio</title>
+    <link>https://github.com/tokio-rs/tokio</link>
+    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
-    <title>servo / servo</title>
-    <link>https://github.com/servo/servo</link>
-    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
+    <title>zed-industries / zed</title>
+    <link>https://github.com/zed-industries/zed</link>
+    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
+  </item>
+  <item>
+    <title>risingwavelabs / risingwave</title>
+    <link>https://github.com/risingwavelabs/risingwave</link>
+    <description>Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.</description>
+  </item>
+  <item>
+    <title>pimalaya / himalaya</title>
+    <link>https://github.com/pimalaya/himalaya</link>
+    <description>CLI to manage emails</description>
+  </item>
+  <item>
+    <title>1jehuang / jcode</title>
+    <link>https://github.com/1jehuang/jcode</link>
+    <description>The most RAM efficient harness</description>
+  </item>
+  <item>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+  </item>
+  <item>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+  </item>
+  <item>
+    <title>GCWing / BitFun</title>
+    <link>https://github.com/GCWing/BitFun</link>
+    <description>BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+  </item>
+  <item>
+    <title>rivet-dev / rivet</title>
+    <link>https://github.com/rivet-dev/rivet</link>
+    <description>Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.</description>
+  </item>
+  <item>
+    <title>moghtech / komodo</title>
+    <link>https://github.com/moghtech/komodo</link>
+    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+  </item>
+  <item>
+    <title>sharkdp / bat</title>
+    <link>https://github.com/sharkdp/bat</link>
+    <description>A cat(1) clone with wings.</description>
+  </item>
+  <item>
+    <title>vercel-labs / agent-browser</title>
+    <link>https://github.com/vercel-labs/agent-browser</link>
+    <description>Browser automation CLI for AI agents</description>
   </item>
 </channel>
 </rss>

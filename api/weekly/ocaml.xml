@@ -4,11 +4,11 @@
   <title>GitHub Ocaml Languages Daily Trending</title>
   <description>Daily Trending of Ocaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:31:07 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
   <item>
-    <title>ocaml / ocaml</title>
-    <link>https://github.com/ocaml/ocaml</link>
-    <description>The core OCaml system: compilers, runtime system, base libraries</description>
+    <title>semgrep / semgrep</title>
+    <link>https://github.com/semgrep/semgrep</link>
+    <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
   </item>
   <item>
     <title>opengrep / opengrep</title>
@@ -16,9 +16,14 @@
     <description>🔎 Static code analysis engine to find security issues in code.</description>
   </item>
   <item>
-    <title>semgrep / semgrep</title>
-    <link>https://github.com/semgrep/semgrep</link>
-    <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
+    <title>ocaml / ocaml</title>
+    <link>https://github.com/ocaml/ocaml</link>
+    <description>The core OCaml system: compilers, runtime system, base libraries</description>
+  </item>
+  <item>
+    <title>ocaml / dune</title>
+    <link>https://github.com/ocaml/dune</link>
+    <description>A composable build system for OCaml.</description>
   </item>
   <item>
     <title>rocq-prover / rocq</title>
@@ -36,14 +41,14 @@
     <description>opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.</description>
   </item>
   <item>
-    <title>ocaml / dune</title>
-    <link>https://github.com/ocaml/dune</link>
-    <description>A composable build system for OCaml.</description>
-  </item>
-  <item>
     <title>janestreet / magic-trace</title>
     <link>https://github.com/janestreet/magic-trace</link>
     <description>magic-trace collects and displays high-resolution traces of what a process is doing</description>
+  </item>
+  <item>
+    <title>astrada / google-drive-ocamlfuse</title>
+    <link>https://github.com/astrada/google-drive-ocamlfuse</link>
+    <description>FUSE filesystem over Google Drive</description>
   </item>
   <item>
     <title>semgrep / ocaml-tree-sitter-core</title>
@@ -56,9 +61,9 @@
     <description>OCaml - Oxidized!</description>
   </item>
   <item>
-    <title>facebook / infer</title>
-    <link>https://github.com/facebook/infer</link>
-    <description>A static analyzer for Java, C, C++, and Objective-C</description>
+    <title>caffeinelabs / motoko</title>
+    <link>https://github.com/caffeinelabs/motoko</link>
+    <description>Simple high-level language for writing Internet Computer canisters</description>
   </item>
   <item>
     <title>MinaProtocol / mina</title>
@@ -69,6 +74,11 @@
     <title>AeneasVerif / aeneas</title>
     <link>https://github.com/AeneasVerif/aeneas</link>
     <description>A verification toolchain for Rust programs</description>
+  </item>
+  <item>
+    <title>facebook / infer</title>
+    <link>https://github.com/facebook/infer</link>
+    <description>A static analyzer for Java, C, C++, and Objective-C</description>
   </item>
 </channel>
 </rss>

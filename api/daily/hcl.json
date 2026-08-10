@@ -2,88 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 09 Aug 2026 03:27:53 GMT",
+  "pubDate": "Mon, 10 Aug 2026 03:47:45 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3254,
-      "forks": 4627,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 581,
-      "forks": 3809,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Azure / terraform-azurerm-naming",
-      "url": "https://github.com/Azure/terraform-azurerm-naming",
-      "description": "",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 272,
-      "forks": 144,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1047,
-      "forks": 771,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-github-actions-runners",
-      "url": "https://github.com/terraform-google-modules/terraform-google-github-actions-runners",
-      "description": "Creates self-hosted GitHub Actions Runners on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 253,
-      "forks": 130,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 4996,
-      "forks": 4405,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-vpn",
-      "url": "https://github.com/terraform-google-modules/terraform-google-vpn",
-      "description": "Sets up a Cloud VPN gateway",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 100,
-      "forks": 106,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "chainguard-images / images",
       "url": "https://github.com/chainguard-images/images",
@@ -95,23 +15,103 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-vm",
-      "url": "https://github.com/terraform-google-modules/terraform-google-vm",
-      "description": "Provisions VMs in Google Cloud",
+      "title": "terraform-google-modules / terraform-google-container-vm",
+      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
+      "description": "Deploys containers on Compute Engine instances",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 270,
-      "forks": 401,
+      "stars": 170,
+      "forks": 77,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-folders",
-      "url": "https://github.com/terraform-google-modules/terraform-google-folders",
-      "description": "Creates several Google Cloud folders under the same parent",
+      "title": "cloudposse / terraform-aws-efs",
+      "url": "https://github.com/cloudposse/terraform-aws-efs",
+      "description": "Terraform Module to define an EFS Filesystem (aka NFS)",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 67,
-      "forks": 56,
+      "stars": 96,
+      "forks": 137,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "iam-veeramalla / ultimate-devops-project-aws",
+      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
+      "description": "End to End DevOps project",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 928,
+      "forks": 2433,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-cloudwatch-logs",
+      "url": "https://github.com/cloudposse/terraform-aws-cloudwatch-logs",
+      "description": "Terraform Module to Provide a CloudWatch Logs Endpoint",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 72,
+      "forks": 25,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-alb-service-task",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-alb-service-task",
+      "description": "Terraform module which implements an ECS service which exposes a web service via ALB.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 162,
+      "forks": 195,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2219,
+      "forks": 1481,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-rds-cluster",
+      "url": "https://github.com/cloudposse/terraform-aws-rds-cluster",
+      "description": "Terraform module to provision an RDS Aurora cluster for MySQL or Postgres",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 169,
+      "forks": 196,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "aws-ia / terraform-aws-mwaa",
+      "url": "https://github.com/aws-ia/terraform-aws-mwaa",
+      "description": "Terraform module for Amazon MWAA(Apache Airflow)",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 57,
+      "forks": 73,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kms",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
+      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 63,
+      "forks": 109,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
       "added_stars": "0 stars today"
     }
   ]

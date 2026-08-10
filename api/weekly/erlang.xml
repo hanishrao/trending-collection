@@ -4,16 +4,16 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:31:07 GMT</pubDate>
-  <item>
-    <title>erlang / otp</title>
-    <link>https://github.com/erlang/otp</link>
-    <description>Erlang/OTP</description>
-  </item>
+  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
   <item>
     <title>emqx / emqx</title>
     <link>https://github.com/emqx/emqx</link>
     <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
+  </item>
+  <item>
+    <title>erlang / otp</title>
+    <link>https://github.com/erlang/otp</link>
+    <description>Erlang/OTP</description>
   </item>
   <item>
     <title>WhatsApp / erlfmt</title>
@@ -26,11 +26,6 @@
     <description>A rebar3 port compiler</description>
   </item>
   <item>
-    <title>erlang-lager / lager</title>
-    <link>https://github.com/erlang-lager/lager</link>
-    <description>A logging framework for Erlang/OTP</description>
-  </item>
-  <item>
     <title>ninenines / cowlib</title>
     <link>https://github.com/ninenines/cowlib</link>
     <description>Support library for manipulating Web protocols.</description>
@@ -41,9 +36,19 @@
     <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
   </item>
   <item>
+    <title>erlang-lager / lager</title>
+    <link>https://github.com/erlang-lager/lager</link>
+    <description>A logging framework for Erlang/OTP</description>
+  </item>
+  <item>
     <title>proper-testing / proper</title>
     <link>https://github.com/proper-testing/proper</link>
     <description>PropEr: a QuickCheck-inspired property-based testing tool for Erlang</description>
+  </item>
+  <item>
+    <title>potatosalad / erlang-jose</title>
+    <link>https://github.com/potatosalad/erlang-jose</link>
+    <description>JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</description>
   </item>
   <item>
     <title>ninenines / cowboy</title>
@@ -51,14 +56,14 @@
     <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
   </item>
   <item>
-    <title>benoitc / hackney</title>
-    <link>https://github.com/benoitc/hackney</link>
-    <description>simple HTTP client in Erlang</description>
-  </item>
-  <item>
     <title>erlang / rebar3</title>
     <link>https://github.com/erlang/rebar3</link>
     <description>Erlang build tool that makes it easy to compile and test Erlang applications and releases.</description>
+  </item>
+  <item>
+    <title>benoitc / hackney</title>
+    <link>https://github.com/benoitc/hackney</link>
+    <description>simple HTTP client in Erlang</description>
   </item>
 </channel>
 </rss>

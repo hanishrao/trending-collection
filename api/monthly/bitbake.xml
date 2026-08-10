@@ -4,21 +4,21 @@
   <title>GitHub Bitbake Languages Daily Trending</title>
   <description>Daily Trending of Bitbake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:33:26 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 03:53:25 GMT</pubDate>
   <item>
     <title>openbmc / openbmc</title>
     <link>https://github.com/openbmc/openbmc</link>
     <description>OpenBMC Distribution</description>
   </item>
   <item>
-    <title>nxp-imx / meta-imx</title>
-    <link>https://github.com/nxp-imx/meta-imx</link>
-    <description>i.MX Yocto Project i.MX BSP Layer</description>
-  </item>
-  <item>
     <title>openembedded / meta-openembedded</title>
     <link>https://github.com/openembedded/meta-openembedded</link>
     <description></description>
+  </item>
+  <item>
+    <title>nxp-imx / meta-imx</title>
+    <link>https://github.com/nxp-imx/meta-imx</link>
+    <description>i.MX Yocto Project i.MX BSP Layer</description>
   </item>
   <item>
     <title>sbabic / meta-swupdate</title>
@@ -46,29 +46,24 @@
     <description>The official Git repository is at https://git.openembedded.org/openembedded-core/.</description>
   </item>
   <item>
-    <title>Freescale / meta-freescale-3rdparty</title>
-    <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
-    <description>OpenEmbedded/Yocto BSP layer for Freescale&#x27;s ARM based platforms</description>
-  </item>
-  <item>
-    <title>Xilinx / meta-xilinx</title>
-    <link>https://github.com/Xilinx/meta-xilinx</link>
-    <description>Collection of Yocto Project layers to enable AMD Xilinx products</description>
-  </item>
-  <item>
     <title>aws4embeddedlinux / meta-aws</title>
     <link>https://github.com/aws4embeddedlinux/meta-aws</link>
     <description>The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.</description>
   </item>
   <item>
-    <title>rust-embedded / meta-rust-bin</title>
-    <link>https://github.com/rust-embedded/meta-rust-bin</link>
-    <description>Yocto layer for installing Rust toolchain from pre-built binaries</description>
+    <title>Freescale / meta-freescale-3rdparty</title>
+    <link>https://github.com/Freescale/meta-freescale-3rdparty</link>
+    <description>OpenEmbedded/Yocto BSP layer for Freescale&#x27;s ARM based platforms</description>
   </item>
   <item>
     <title>OE4T / meta-tegra</title>
     <link>https://github.com/OE4T/meta-tegra</link>
     <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
+  </item>
+  <item>
+    <title>rust-embedded / meta-rust-bin</title>
+    <link>https://github.com/rust-embedded/meta-rust-bin</link>
+    <description>Yocto layer for installing Rust toolchain from pre-built binaries</description>
   </item>
   <item>
     <title>rauc / meta-rauc</title>
@@ -81,14 +76,14 @@
     <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
   </item>
   <item>
-    <title>OSSystems / meta-browser</title>
-    <link>https://github.com/OSSystems/meta-browser</link>
-    <description>OpenEmbedded/Yocto BSP layer for Web Browsers</description>
-  </item>
-  <item>
     <title>OpenCentauri / cosmos</title>
     <link>https://github.com/OpenCentauri/cosmos</link>
     <description>Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer</description>
+  </item>
+  <item>
+    <title>OSSystems / meta-browser</title>
+    <link>https://github.com/OSSystems/meta-browser</link>
+    <description>OpenEmbedded/Yocto BSP layer for Web Browsers</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 09 Aug 2026 03:33:26 GMT",
+  "pubDate": "Mon, 10 Aug 2026 03:53:25 GMT",
   "items": [
     {
       "title": "kubernetes-monitoring / kubernetes-mixin",
@@ -12,7 +12,27 @@
       "languageColor": "#0064bd",
       "stars": 2435,
       "forks": 640,
-      "added_stars": "17 stars this month"
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "prometheus-operator / kube-prometheus",
+      "url": "https://github.com/prometheus-operator/kube-prometheus",
+      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7716,
+      "forks": 2043,
+      "added_stars": "25 stars this month"
+    },
+    {
+      "title": "argoproj / argocd-example-apps",
+      "url": "https://github.com/argoproj/argocd-example-apps",
+      "description": "Example Apps to Demonstrate Argo CD",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2153,
+      "forks": 10191,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "google / jsonnet",
@@ -23,26 +43,6 @@
       "stars": 7550,
       "forks": 472,
       "added_stars": "19 stars this month"
-    },
-    {
-      "title": "prometheus-operator / kube-prometheus",
-      "url": "https://github.com/prometheus-operator/kube-prometheus",
-      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 7716,
-      "forks": 2043,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "argoproj / argocd-example-apps",
-      "url": "https://github.com/argoproj/argocd-example-apps",
-      "description": "Example Apps to Demonstrate Argo CD",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 2154,
-      "forks": 10185,
-      "added_stars": "18 stars this month"
     }
   ]
 }

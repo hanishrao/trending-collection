@@ -2,27 +2,37 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 09 Aug 2026 03:27:53 GMT",
+  "pubDate": "Mon, 10 Aug 2026 03:47:45 GMT",
   "items": [
-    {
-      "title": "NirDiamant / GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 23702,
-      "forks": 3982,
-      "added_stars": "21 stars today"
-    },
     {
       "title": "ArcInstitute / evo2",
       "url": "https://github.com/ArcInstitute/evo2",
       "description": "Genome modeling and design across all domains of life",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 4072,
-      "forks": 532,
+      "stars": 4087,
+      "forks": 534,
       "added_stars": "16 stars today"
+    },
+    {
+      "title": "neo4j-labs / llm-graph-builder",
+      "url": "https://github.com/neo4j-labs/llm-graph-builder",
+      "description": "Neo4j graph construction from unstructured data using LLMs",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 5143,
+      "forks": 866,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "stefan-jansen / machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 20370,
+      "forks": 5501,
+      "added_stars": "19 stars today"
     },
     {
       "title": "HandsOnLLM / Hands-On-Large-Language-Models",
@@ -30,99 +40,39 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 28046,
-      "forks": 6503,
-      "added_stars": "24 stars today"
+      "stars": 28061,
+      "forks": 6505,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "karpathy / micrograd",
-      "url": "https://github.com/karpathy/micrograd",
-      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+      "title": "anthropics / claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 17049,
-      "forks": 2712,
+      "stars": 51188,
+      "forks": 6062,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "DataTalksClub / llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "description": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 7024,
+      "forks": 1286,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "patchy631 / ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 36920,
+      "forks": 6093,
       "added_stars": "13 stars today"
-    },
-    {
-      "title": "anthropics / courses",
-      "url": "https://github.com/anthropics/courses",
-      "description": "Anthropic's educational courses",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 22570,
-      "forks": 2428,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "datawhalechina / self-llm",
-      "url": "https://github.com/datawhalechina/self-llm",
-      "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 31626,
-      "forks": 3075,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "NVIDIA / cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 11416,
-      "forks": 813,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "microsoft / Data-Science-For-Beginners",
-      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
-      "description": "10 Weeks, 20 Lessons, Data Science for All!",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 36553,
-      "forks": 7404,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "NVIDIA-NeMo / Nemotron",
-      "url": "https://github.com/NVIDIA-NeMo/Nemotron",
-      "description": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 1839,
-      "forks": 372,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "ed-donner / llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "description": "Repo to accompany my mastering LLM engineering course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6988,
-      "forks": 6828,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "anthropics / prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 37586,
-      "forks": 4133,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "borglab / gtsam",
-      "url": "https://github.com/borglab/gtsam",
-      "description": "GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 3620,
-      "forks": 977,
-      "added_stars": "3 stars today"
     },
     {
       "title": "jackfrued / Python-100-Days",
@@ -130,59 +80,29 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 185006,
-      "forks": 55692,
-      "added_stars": "45 stars today"
+      "stars": 185036,
+      "forks": 55690,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "facebookresearch / dinov2",
-      "url": "https://github.com/facebookresearch/dinov2",
-      "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+      "title": "NVIDIA-NeMo / Nemotron",
+      "url": "https://github.com/NVIDIA-NeMo/Nemotron",
+      "description": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 13210,
-      "forks": 1253,
-      "added_stars": "4 stars today"
+      "stars": 1841,
+      "forks": 374,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "guipsamora / pandas_exercises",
-      "url": "https://github.com/guipsamora/pandas_exercises",
-      "description": "Practice your pandas skills!",
+      "title": "anthropics / courses",
+      "url": "https://github.com/anthropics/courses",
+      "description": "Anthropic's educational courses",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 13016,
-      "forks": 9036,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "DataExpert-io / data-engineer-handbook",
-      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 43487,
-      "forks": 9018,
-      "added_stars": "102 stars today"
-    },
-    {
-      "title": "karpathy / nn-zero-to-hero",
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 23910,
-      "forks": 3505,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "ageron / handson-mlp",
-      "url": "https://github.com/ageron/handson-mlp",
-      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 1811,
-      "forks": 587,
-      "added_stars": "0 stars today"
+      "stars": 22585,
+      "forks": 2430,
+      "added_stars": "14 stars today"
     },
     {
       "title": "higgsfield-ai / higgsfield",
@@ -190,29 +110,69 @@
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 4044,
+      "stars": 4050,
       "forks": 692,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openai / CLIP",
-      "url": "https://github.com/openai/CLIP",
-      "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 34148,
-      "forks": 4041,
       "added_stars": "6 stars today"
     },
     {
-      "title": "microsoft / ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "18 Lessons to Get Started Building AI Agents",
+      "title": "microsoft / Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 71658,
-      "forks": 23732,
-      "added_stars": "107 stars today"
+      "stars": 36565,
+      "forks": 7404,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "Liquid4All / cookbook",
+      "url": "https://github.com/Liquid4All/cookbook",
+      "description": "Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2178,
+      "forks": 352,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "domokane / FinancePy",
+      "url": "https://github.com/domokane/FinancePy",
+      "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 3096,
+      "forks": 428,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "karpathy / nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 23921,
+      "forks": 3504,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "mrdbourke / pytorch-deep-learning",
+      "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+      "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 18665,
+      "forks": 5110,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "NirDiamant / GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 23720,
+      "forks": 3985,
+      "added_stars": "19 stars today"
     }
   ]
 }

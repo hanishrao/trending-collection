@@ -4,16 +4,11 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:31:07 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
-  </item>
-  <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
   </item>
   <item>
     <title>github / copilot.vim</title>
@@ -21,14 +16,14 @@
     <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
+  </item>
+  <item>
     <title>andymass / vim-matchup</title>
     <link>https://github.com/andymass/vim-matchup</link>
     <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
-    <title>sainnhe / everforest</title>
-    <link>https://github.com/sainnhe/everforest</link>
-    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
     <title>dense-analysis / ale</title>
@@ -36,9 +31,9 @@
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>chrisbra / csv.vim</title>
-    <link>https://github.com/chrisbra/csv.vim</link>
-    <description>A Filetype plugin for csv files</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
   </item>
   <item>
     <title>junegunn / vim-plug</title>
@@ -46,44 +41,19 @@
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>lambdalisue / vim-suda</title>
-    <link>https://github.com/lambdalisue/vim-suda</link>
-    <description>🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</description>
-  </item>
-  <item>
     <title>ggml-org / llama.vim</title>
     <link>https://github.com/ggml-org/llama.vim</link>
     <description>Vim plugin for LLM-assisted code/text completion</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
+    <title>wellle / targets.vim</title>
+    <link>https://github.com/wellle/targets.vim</link>
+    <description>Vim plugin that provides additional text objects</description>
   </item>
   <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
-  </item>
-  <item>
-    <title>romainl / vim-cool</title>
-    <link>https://github.com/romainl/vim-cool</link>
-    <description>A very simple plugin that makes hlsearch more useful.</description>
-  </item>
-  <item>
-    <title>tpope / vim-sensible</title>
-    <link>https://github.com/tpope/vim-sensible</link>
-    <description>sensible.vim: Defaults everyone can agree on</description>
-  </item>
-  <item>
-    <title>junegunn / vader.vim</title>
-    <link>https://github.com/junegunn/vader.vim</link>
-    <description>A simple Vimscript test framework</description>
-  </item>
-  <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+    <title>sainnhe / everforest</title>
+    <link>https://github.com/sainnhe/everforest</link>
+    <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
     <title>mhinz / vim-signify</title>
@@ -91,24 +61,34 @@
     <description>➕ Show a diff using Vim its sign column.</description>
   </item>
   <item>
-    <title>VundleVim / Vundle.vim</title>
-    <link>https://github.com/VundleVim/Vundle.vim</link>
-    <description>Vundle, the plug-in manager for Vim</description>
-  </item>
-  <item>
     <title>tpope / vim-endwise</title>
     <link>https://github.com/tpope/vim-endwise</link>
     <description>endwise.vim: Wisely add</description>
   </item>
   <item>
-    <title>tpope / vim-rails</title>
-    <link>https://github.com/tpope/vim-rails</link>
-    <description>rails.vim: Ruby on Rails power tools</description>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>wellle / targets.vim</title>
-    <link>https://github.com/wellle/targets.vim</link>
-    <description>Vim plugin that provides additional text objects</description>
+    <title>lambdalisue / vim-suda</title>
+    <link>https://github.com/lambdalisue/vim-suda</link>
+    <description>🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>VundleVim / Vundle.vim</title>
+    <link>https://github.com/VundleVim/Vundle.vim</link>
+    <description>Vundle, the plug-in manager for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 09 Aug 2026 03:31:07 GMT",
+  "pubDate": "Mon, 10 Aug 2026 03:51:04 GMT",
   "items": [
     {
       "title": "bazelbuild / rules_rust",
@@ -15,34 +15,14 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8671,
-      "forks": 2611,
-      "added_stars": "12 stars this week"
-    },
-    {
       "title": "GoogleContainerTools / distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22917,
+      "stars": 22918,
       "forks": 1419,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 378,
-      "forks": 836,
-      "added_stars": "0 stars this week"
+      "added_stars": "22 stars this week"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -53,6 +33,16 @@
       "stars": 3929,
       "forks": 302,
       "added_stars": "12 stars this week"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8673,
+      "forks": 2611,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -80,18 +70,18 @@
       "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 683,
+      "stars": 684,
       "forks": 708,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 100,
-      "forks": 70,
+      "stars": 378,
+      "forks": 837,
       "added_stars": "0 stars this week"
     },
     {
@@ -105,13 +95,23 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "ash2k / bazel-tools",
-      "url": "https://github.com/ash2k/bazel-tools",
-      "description": "Reusable bits for Bazel",
+      "title": "bazel-contrib / toolchains_llvm",
+      "url": "https://github.com/bazel-contrib/toolchains_llvm",
+      "description": "LLVM toolchain for bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 59,
-      "forks": 25,
+      "stars": 370,
+      "forks": 281,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 100,
+      "forks": 70,
       "added_stars": "0 stars this week"
     },
     {
@@ -125,13 +125,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazel-contrib / toolchains_llvm",
-      "url": "https://github.com/bazel-contrib/toolchains_llvm",
-      "description": "LLVM toolchain for bazel",
+      "title": "ash2k / bazel-tools",
+      "url": "https://github.com/ash2k/bazel-tools",
+      "description": "Reusable bits for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 370,
-      "forks": 281,
+      "stars": 59,
+      "forks": 25,
       "added_stars": "0 stars this week"
     },
     {
@@ -152,7 +152,7 @@
       "languageColor": "#76d275",
       "stars": 151,
       "forks": 123,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -162,16 +162,6 @@
       "languageColor": "#76d275",
       "stars": 244,
       "forks": 190,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "jvolkman / rules_pycross",
-      "url": "https://github.com/jvolkman/rules_pycross",
-      "description": "Bazel + Python rules for cross-platform external dependencies",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 95,
-      "forks": 51,
       "added_stars": "0 stars this week"
     }
   ]

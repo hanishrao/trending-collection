@@ -2,16 +2,26 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 09 Aug 2026 03:27:53 GMT",
+  "pubDate": "Mon, 10 Aug 2026 03:47:45 GMT",
   "items": [
     {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "title": "OpenZeppelin / openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1053,
-      "forks": 513,
+      "stars": 27211,
+      "forks": 12403,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2526,
+      "forks": 1309,
       "added_stars": "1 star today"
     },
     {
@@ -22,17 +32,17 @@
       "languageColor": "#AA6746",
       "stars": 221,
       "forks": 42,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "matter-labs / era-contracts",
-      "url": "https://github.com/matter-labs/era-contracts",
-      "description": "Smart Contract Submodule For zkSync Era",
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 536,
-      "forks": 417,
-      "added_stars": "0 stars today"
+      "stars": 1054,
+      "forks": 513,
+      "added_stars": "1 star today"
     },
     {
       "title": "dapphub / ds-test",
@@ -42,36 +52,6 @@
       "languageColor": "#AA6746",
       "stars": 238,
       "forks": 73,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 513,
-      "forks": 57,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "OpenZeppelin / openzeppelin-contracts",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 27209,
-      "forks": 12401,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "OffchainLabs / nitro-contracts",
-      "url": "https://github.com/OffchainLabs/nitro-contracts",
-      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 151,
-      "forks": 159,
       "added_stars": "0 stars today"
     },
     {
@@ -85,6 +65,26 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 3347,
+      "forks": 483,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "dmfxyz / murky",
+      "url": "https://github.com/dmfxyz/murky",
+      "description": "Merkle Proof Generator and Validator in Solidity",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 513,
+      "forks": 57,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "transmissions11 / solmate",
       "url": "https://github.com/transmissions11/solmate",
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
@@ -92,27 +92,57 @@
       "languageColor": "#AA6746",
       "stars": 4290,
       "forks": 707,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 199,
+      "forks": 112,
       "added_stars": "1 star today"
     },
     {
-      "title": "cowprotocol / contracts",
-      "url": "https://github.com/cowprotocol/contracts",
-      "description": "Smart contracts for CoW Protocol",
+      "title": "matter-labs / era-contracts",
+      "url": "https://github.com/matter-labs/era-contracts",
+      "description": "Smart Contract Submodule For zkSync Era",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 158,
-      "forks": 56,
+      "stars": 536,
+      "forks": 417,
       "added_stars": "0 stars today"
     },
     {
-      "title": "succinctlabs / sp1-contracts",
-      "url": "https://github.com/succinctlabs/sp1-contracts",
-      "description": "Smart contracts for onchain verification of SP1.",
+      "title": "OffchainLabs / nitro-contracts",
+      "url": "https://github.com/OffchainLabs/nitro-contracts",
+      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 147,
-      "forks": 44,
+      "stars": 151,
+      "forks": 159,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "celo-org / celo-monorepo",
+      "url": "https://github.com/celo-org/celo-monorepo",
+      "description": "Official repository for core projects comprising the Celo platform",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 801,
+      "forks": 478,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PaulRBerg / prb-math",
+      "url": "https://github.com/PaulRBerg/prb-math",
+      "description": "Solidity library for advanced fixed-point math",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1006,
+      "forks": 144,
+      "added_stars": "2 stars today"
     },
     {
       "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
@@ -123,36 +153,6 @@
       "stars": 257,
       "forks": 42,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "morpho-org / midnight",
-      "url": "https://github.com/morpho-org/midnight",
-      "description": "Morpho fixed rate market",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 104,
-      "forks": 48,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "smartcontractkit / chainlink-evm",
-      "url": "https://github.com/smartcontractkit/chainlink-evm",
-      "description": "",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 81,
-      "forks": 26,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 3347,
-      "forks": 483,
-      "added_stars": "1 star today"
     }
   ]
 }

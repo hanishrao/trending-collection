@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:33:26 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 03:53:25 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
@@ -31,14 +31,14 @@
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>fatih / vim-go</title>
-    <link>https://github.com/fatih/vim-go</link>
-    <description>Go development plugin for Vim</description>
-  </item>
-  <item>
     <title>dense-analysis / ale</title>
     <link>https://github.com/dense-analysis/ale</link>
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>fatih / vim-go</title>
+    <link>https://github.com/fatih/vim-go</link>
+    <description>Go development plugin for Vim</description>
   </item>
   <item>
     <title>morhetz / gruvbox</title>
@@ -56,11 +56,6 @@
     <description>sensible.vim: Defaults everyone can agree on</description>
   </item>
   <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
     <title>tpope / vim-fugitive</title>
     <link>https://github.com/tpope/vim-fugitive</link>
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
@@ -71,24 +66,19 @@
     <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
-    <title>amix / vimrc</title>
-    <link>https://github.com/amix/vimrc</link>
-    <description>The ultimate Vim configuration (vimrc)</description>
-  </item>
-  <item>
-    <title>easymotion / vim-easymotion</title>
-    <link>https://github.com/easymotion/vim-easymotion</link>
-    <description>Vim motions on speed!</description>
-  </item>
-  <item>
     <title>prabirshrestha / vim-lsp</title>
     <link>https://github.com/prabirshrestha/vim-lsp</link>
     <description>async language server protocol plugin for vim and neovim</description>
   </item>
   <item>
-    <title>hrsh7th / vim-vsnip</title>
-    <link>https://github.com/hrsh7th/vim-vsnip</link>
-    <description>Snippet plugin for vim/nvim that supports LSP/VSCode&#x27;s snippet format.</description>
+    <title>andymass / vim-matchup</title>
+    <link>https://github.com/andymass/vim-matchup</link>
+    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
+  </item>
+  <item>
+    <title>amix / vimrc</title>
+    <link>https://github.com/amix/vimrc</link>
+    <description>The ultimate Vim configuration (vimrc)</description>
   </item>
   <item>
     <title>romainl / vim-cool</title>
@@ -96,9 +86,14 @@
     <description>A very simple plugin that makes hlsearch more useful.</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
+    <title>junegunn / vim-easy-align</title>
+    <link>https://github.com/junegunn/vim-easy-align</link>
+    <description>🌻 A Vim alignment plugin</description>
+  </item>
+  <item>
+    <title>easymotion / vim-easymotion</title>
+    <link>https://github.com/easymotion/vim-easymotion</link>
+    <description>Vim motions on speed!</description>
   </item>
   <item>
     <title>altercation / vim-colors-solarized</title>

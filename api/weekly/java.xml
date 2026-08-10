@@ -4,7 +4,7 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 09 Aug 2026 03:31:07 GMT</pubDate>
+  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
   <item>
     <title>google / guava</title>
     <link>https://github.com/google/guava</link>
@@ -16,19 +16,24 @@
     <description>Free universal database tool and SQL client</description>
   </item>
   <item>
-    <title>bazelbuild / bazel</title>
-    <link>https://github.com/bazelbuild/bazel</link>
-    <description>a fast, scalable, multi-language and extensible build system</description>
-  </item>
-  <item>
-    <title>github / copilot-sdk</title>
-    <link>https://github.com/github/copilot-sdk</link>
-    <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
+    <title>TheAlgorithms / Java</title>
+    <link>https://github.com/TheAlgorithms/Java</link>
+    <description>All Algorithms implemented in Java</description>
   </item>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
+  </item>
+  <item>
+    <title>bazelbuild / bazel</title>
+    <link>https://github.com/bazelbuild/bazel</link>
+    <description>a fast, scalable, multi-language and extensible build system</description>
+  </item>
+  <item>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
     <title>ashishps1 / awesome-system-design-resources</title>
@@ -41,34 +46,9 @@
     <description>Spring Framework</description>
   </item>
   <item>
-    <title>TheAlgorithms / Java</title>
-    <link>https://github.com/TheAlgorithms/Java</link>
-    <description>All Algorithms implemented in Java</description>
-  </item>
-  <item>
-    <title>DrKLO / Telegram</title>
-    <link>https://github.com/DrKLO/Telegram</link>
-    <description>Telegram for Android source</description>
-  </item>
-  <item>
-    <title>Apicurio / apicurio-registry</title>
-    <link>https://github.com/Apicurio/apicurio-registry</link>
-    <description>An API/Schema registry - stores APIs and Schemas.</description>
-  </item>
-  <item>
-    <title>emanuele-f / PCAPdroid</title>
-    <link>https://github.com/emanuele-f/PCAPdroid</link>
-    <description>No-root network monitor, firewall and PCAP dumper for Android</description>
-  </item>
-  <item>
-    <title>liquibase / liquibase</title>
-    <link>https://github.com/liquibase/liquibase</link>
-    <description>Main Liquibase Source</description>
-  </item>
-  <item>
-    <title>apache / maven</title>
-    <link>https://github.com/apache/maven</link>
-    <description>Apache Maven core</description>
+    <title>neoforged / NeoForge</title>
+    <link>https://github.com/neoforged/NeoForge</link>
+    <description>Neo Modding API for Minecraft: Java Edition, based on Forge</description>
   </item>
   <item>
     <title>trinodb / trino</title>
@@ -76,24 +56,34 @@
     <description>Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)</description>
   </item>
   <item>
+    <title>Apicurio / apicurio-registry</title>
+    <link>https://github.com/Apicurio/apicurio-registry</link>
+    <description>An API/Schema registry - stores APIs and Schemas.</description>
+  </item>
+  <item>
+    <title>DrKLO / Telegram</title>
+    <link>https://github.com/DrKLO/Telegram</link>
+    <description>Telegram for Android source</description>
+  </item>
+  <item>
+    <title>apache / maven</title>
+    <link>https://github.com/apache/maven</link>
+    <description>Apache Maven core</description>
+  </item>
+  <item>
     <title>FCL-Team / FoldCraftLauncher</title>
     <link>https://github.com/FCL-Team/FoldCraftLauncher</link>
     <description>Fold Craft Launcher, an Android Minecraft : Java Edition launcher.</description>
   </item>
   <item>
-    <title>neo4j / neo4j</title>
-    <link>https://github.com/neo4j/neo4j</link>
-    <description>Graphs for Everyone</description>
+    <title>liquibase / liquibase</title>
+    <link>https://github.com/liquibase/liquibase</link>
+    <description>Main Liquibase Source</description>
   </item>
   <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
-  </item>
-  <item>
-    <title>StarRocks / starrocks</title>
-    <link>https://github.com/StarRocks/starrocks</link>
-    <description>The world&#x27;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
+    <title>apache / fluss</title>
+    <link>https://github.com/apache/fluss</link>
+    <description>Apache Fluss is a streaming storage built for real-time analytics.</description>
   </item>
   <item>
     <title>netty / netty</title>
@@ -101,9 +91,9 @@
     <description>Netty project - an event-driven asynchronous network application framework</description>
   </item>
   <item>
-    <title>redisson / redisson</title>
-    <link>https://github.com/redisson/redisson</link>
-    <description>Redisson: Valkey &amp; Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..</description>
+    <title>androidx / media</title>
+    <link>https://github.com/androidx/media</link>
+    <description>Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android</description>
   </item>
   <item>
     <title>PaperMC / Paper</title>
@@ -111,14 +101,19 @@
     <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
   </item>
   <item>
-    <title>oracle / graal</title>
-    <link>https://github.com/oracle/graal</link>
-    <description>GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀</description>
+    <title>Mininglamp-OSS / octo-android</title>
+    <link>https://github.com/Mininglamp-OSS/octo-android</link>
+    <description>OCTO Android Client — Open-source enterprise IM</description>
   </item>
   <item>
-    <title>spring-projects / spring-boot</title>
-    <link>https://github.com/spring-projects/spring-boot</link>
-    <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
+    <title>YunaiV / ruoyi-vue-pro</title>
+    <link>https://github.com/YunaiV/ruoyi-vue-pro</link>
+    <description>🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue &amp; Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！</description>
+  </item>
+  <item>
+    <title>neo4j / neo4j</title>
+    <link>https://github.com/neo4j/neo4j</link>
+    <description>Graphs for Everyone</description>
   </item>
 </channel>
 </rss>

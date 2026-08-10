@@ -2,167 +2,107 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 09 Aug 2026 03:27:53 GMT",
+  "pubDate": "Mon, 10 Aug 2026 03:47:45 GMT",
   "items": [
+    {
+      "title": "bambulab / BambuStudio",
+      "url": "https://github.com/bambulab/BambuStudio",
+      "description": "PC Software for BambuLab and other 3D printers",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4883,
+      "forks": 915,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "microsoft / BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 39935,
+      "forks": 3673,
+      "added_stars": "101 stars today"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 40027,
+      "forks": 2008,
+      "added_stars": "27 stars today"
+    },
     {
       "title": "LadybirdBrowser / ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 65023,
-      "forks": 3106,
-      "added_stars": "48 stars today"
+      "stars": 65119,
+      "forks": 3111,
+      "added_stars": "190 stars today"
     },
     {
-      "title": "ocornut / imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "title": "juce-framework / JUCE",
+      "url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 75579,
-      "forks": 11998,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "google / leveldb",
-      "url": "https://github.com/google/leveldb",
-      "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 39308,
-      "forks": 8206,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "throneproj / Throne",
-      "url": "https://github.com/throneproj/Throne",
-      "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6697,
-      "forks": 373,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "barry-ran / QtScrcpy",
-      "url": "https://github.com/barry-ran/QtScrcpy",
-      "description": "Android real-time display control software",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31261,
-      "forks": 3717,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "ROCm / rocm-systems",
-      "url": "https://github.com/ROCm/rocm-systems",
-      "description": "super repo for rocm systems projects",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 456,
-      "forks": 337,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "openvinotoolkit / openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10624,
-      "forks": 3310,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "wolfpld / tracy",
-      "url": "https://github.com/wolfpld/tracy",
-      "description": "Frame profiler",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16555,
-      "forks": 1211,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "microsoft / WSL",
-      "url": "https://github.com/microsoft/WSL",
-      "description": "Windows Subsystem for Linux",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 33344,
-      "forks": 1797,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "MrNeRF / LichtFeld-Studio",
-      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
-      "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3496,
-      "forks": 421,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 50328,
-      "forks": 7458,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "electron / electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122400,
-      "forks": 17392,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "BruceDevices / firmware",
-      "url": "https://github.com/BruceDevices/firmware",
-      "description": "Predatory ESP32 Firmware",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6382,
-      "forks": 2121,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "microsoft / onnxruntime",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21314,
-      "forks": 4107,
+      "stars": 8747,
+      "forks": 2137,
       "added_stars": "5 stars today"
     },
     {
-      "title": "alibaba / MNN",
-      "url": "https://github.com/alibaba/MNN",
-      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15839,
-      "forks": 2398,
+      "stars": 19417,
+      "forks": 2378,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "Tencent / ncnn",
+      "url": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 23682,
+      "forks": 4477,
       "added_stars": "10 stars today"
     },
     {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
+      "title": "qbittorrent / qBittorrent",
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 71705,
-      "forks": 16209,
-      "added_stars": "4 stars today"
+      "stars": 39373,
+      "forks": 4811,
+      "added_stars": "36 stars today"
+    },
+    {
+      "title": "mozilla-ai / llamafile",
+      "url": "https://github.com/mozilla-ai/llamafile",
+      "description": "Distribute and run LLMs with a single file.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 25527,
+      "forks": 1545,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 123229,
+      "forks": 21494,
+      "added_stars": "108 stars today"
     },
     {
       "title": "notepad-plus-plus / notepad-plus-plus",
@@ -170,19 +110,129 @@
       "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28947,
-      "forks": 5320,
-      "added_stars": "10 stars today"
+      "stars": 28960,
+      "forks": 5324,
+      "added_stars": "19 stars today"
     },
     {
-      "title": "google-ai-edge / LiteRT",
-      "url": "https://github.com/google-ai-edge/LiteRT",
-      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+      "title": "YimMenu / YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3274,
-      "forks": 415,
+      "stars": 1639,
+      "forks": 379,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "throneproj / Throne",
+      "url": "https://github.com/throneproj/Throne",
+      "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6714,
+      "forks": 373,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10629,
+      "forks": 3312,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "futo-org / android-keyboard",
+      "url": "https://github.com/futo-org/android-keyboard",
+      "description": "Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2989,
+      "forks": 210,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "azerothcore / azerothcore-wotlk",
+      "url": "https://github.com/azerothcore/azerothcore-wotlk",
+      "description": "Complete Open Source and Modular solution for MMO",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8746,
+      "forks": 3635,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "ocornut / imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 75595,
+      "forks": 11997,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "justcallmekoko / ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11887,
+      "forks": 1392,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "PancakeTAS / lsfg-vk",
+      "url": "https://github.com/PancakeTAS/lsfg-vk",
+      "description": "Lossless Scaling Frame Generation on Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4640,
+      "forks": 129,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "audacity / audacity",
+      "url": "https://github.com/audacity/audacity",
+      "description": "Audio Editor",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 17534,
+      "forks": 2608,
       "added_stars": "7 stars today"
+    },
+    {
+      "title": "UE4SS-RE / RE-UE4SS",
+      "url": "https://github.com/UE4SS-RE/RE-UE4SS",
+      "description": "Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2784,
+      "forks": 476,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Azure / azure-sdk-for-cpp",
+      "url": "https://github.com/Azure/azure-sdk-for-cpp",
+      "description": "This repository is for active development of the Azure SDK for C++. For consumers of the SDK we recommend visiting our versioned developer docs at https://azure.github.io/azure-sdk-for-cpp.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 205,
+      "forks": 167,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "aristocratos / btop",
+      "url": "https://github.com/aristocratos/btop",
+      "description": "A monitor of resources",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 33909,
+      "forks": 1114,
+      "added_stars": "24 stars today"
     }
   ]
 }
