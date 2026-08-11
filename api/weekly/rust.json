@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 10 Aug 2026 03:51:04 GMT",
+  "pubDate": "Tue, 11 Aug 2026 03:33:13 GMT",
   "items": [
     {
       "title": "firecrawl / pdf-inspector",
@@ -10,9 +10,9 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13978,
-      "forks": 953,
-      "added_stars": "8,641 stars this week"
+      "stars": 14435,
+      "forks": 989,
+      "added_stars": "7,143 stars this week"
     },
     {
       "title": "jdx / mise",
@@ -20,9 +20,9 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32214,
+      "stars": 32256,
       "forks": 1344,
-      "added_stars": "782 stars this week"
+      "added_stars": "779 stars this week"
     },
     {
       "title": "raphamorim / rio",
@@ -30,19 +30,9 @@
       "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7294,
-      "forks": 324,
-      "added_stars": "166 stars this week"
-    },
-    {
-      "title": "block / buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 25718,
-      "forks": 3041,
-      "added_stars": "4,712 stars this week"
+      "stars": 7308,
+      "forks": 325,
+      "added_stars": "184 stars this week"
     },
     {
       "title": "FalkorDB / FalkorDB",
@@ -50,19 +40,9 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5460,
+      "stars": 5489,
       "forks": 426,
-      "added_stars": "584 stars this week"
-    },
-    {
-      "title": "warp-tech / warpgate",
-      "url": "https://github.com/warp-tech/warpgate",
-      "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7531,
-      "forks": 332,
-      "added_stars": "82 stars this week"
+      "added_stars": "418 stars this week"
     },
     {
       "title": "modelcontextprotocol / rust-sdk",
@@ -70,9 +50,19 @@
       "description": "The official Rust SDK for the Model Context Protocol",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3776,
-      "forks": 596,
+      "stars": 3786,
+      "forks": 599,
       "added_stars": "42 stars this week"
+    },
+    {
+      "title": "warp-tech / warpgate",
+      "url": "https://github.com/warp-tech/warpgate",
+      "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7544,
+      "forks": 335,
+      "added_stars": "96 stars this week"
     },
     {
       "title": "tokio-rs / tokio",
@@ -80,9 +70,9 @@
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32883,
-      "forks": 3193,
-      "added_stars": "140 stars this week"
+      "stars": 32896,
+      "forks": 3195,
+      "added_stars": "144 stars this week"
     },
     {
       "title": "zed-industries / zed",
@@ -90,9 +80,19 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 88332,
-      "forks": 9957,
-      "added_stars": "495 stars this week"
+      "stars": 88396,
+      "forks": 9975,
+      "added_stars": "492 stars this week"
+    },
+    {
+      "title": "servo / servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 37669,
+      "forks": 3745,
+      "added_stars": "96 stars this week"
     },
     {
       "title": "risingwavelabs / risingwave",
@@ -100,29 +100,19 @@
       "description": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9235,
-      "forks": 811,
-      "added_stars": "34 stars this week"
+      "stars": 9244,
+      "forks": 812,
+      "added_stars": "39 stars this week"
     },
     {
-      "title": "pimalaya / himalaya",
-      "url": "https://github.com/pimalaya/himalaya",
-      "description": "CLI to manage emails",
+      "title": "cachix / devenv",
+      "url": "https://github.com/cachix/devenv",
+      "description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6984,
-      "forks": 225,
-      "added_stars": "175 stars this week"
-    },
-    {
-      "title": "1jehuang / jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 16647,
-      "forks": 1878,
-      "added_stars": "1,468 stars this week"
+      "stars": 7251,
+      "forks": 536,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -130,39 +120,29 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 685,
-      "forks": 79,
-      "added_stars": "384 stars this week"
+      "stars": 753,
+      "forks": 83,
+      "added_stars": "485 stars this week"
     },
     {
-      "title": "dani-garcia / vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "title": "pimalaya / himalaya",
+      "url": "https://github.com/pimalaya/himalaya",
+      "description": "CLI to manage emails",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 65174,
-      "forks": 3101,
-      "added_stars": "387 stars this week"
-    },
-    {
-      "title": "GCWing / BitFun",
-      "url": "https://github.com/GCWing/BitFun",
-      "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1632,
-      "forks": 179,
-      "added_stars": "230 stars this week"
-    },
-    {
-      "title": "rivet-dev / rivet",
-      "url": "https://github.com/rivet-dev/rivet",
-      "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5980,
-      "forks": 212,
+      "stars": 6998,
+      "forks": 225,
       "added_stars": "187 stars this week"
+    },
+    {
+      "title": "reacherhq / check-if-email-exists",
+      "url": "https://github.com/reacherhq/check-if-email-exists",
+      "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9434,
+      "forks": 682,
+      "added_stars": "196 stars this week"
     },
     {
       "title": "moghtech / komodo",
@@ -170,9 +150,29 @@
       "description": "🦎 a tool to build and deploy software on many servers 🦎",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11889,
+      "stars": 11896,
       "forks": 376,
-      "added_stars": "116 stars this week"
+      "added_stars": "105 stars this week"
+    },
+    {
+      "title": "cloudflare / quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11755,
+      "forks": 1057,
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 26110,
+      "forks": 3099,
+      "added_stars": "4,419 stars this week"
     },
     {
       "title": "sharkdp / bat",
@@ -180,19 +180,19 @@
       "description": "A cat(1) clone with wings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60169,
-      "forks": 1632,
-      "added_stars": "199 stars this week"
+      "stars": 60189,
+      "forks": 1636,
+      "added_stars": "132 stars this week"
     },
     {
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
+      "title": "GCWing / BitFun",
+      "url": "https://github.com/GCWing/BitFun",
+      "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 40294,
-      "forks": 2650,
-      "added_stars": "537 stars this week"
+      "stars": 1660,
+      "forks": 180,
+      "added_stars": "248 stars this week"
     }
   ]
 }

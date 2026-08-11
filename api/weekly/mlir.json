@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 10 Aug 2026 03:51:04 GMT",
+  "pubDate": "Tue, 11 Aug 2026 03:33:13 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,19 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 19912,
-      "forks": 3090,
-      "added_stars": "77 stars this week"
+      "stars": 19921,
+      "forks": 3096,
+      "added_stars": "83 stars this week"
+    },
+    {
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 137,
+      "forks": 177,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "google / heir",
@@ -25,16 +35,6 @@
       "added_stars": "9 stars this week"
     },
     {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 136,
-      "forks": 177,
-      "added_stars": "12 stars this week"
-    },
-    {
       "title": "facebookexperimental / triton",
       "url": "https://github.com/facebookexperimental/triton",
       "description": "Github mirror of trition-lang/triton repo.",
@@ -42,17 +42,7 @@
       "languageColor": "#5EC8DB",
       "stars": 185,
       "forks": 66,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "tenstorrent / tt-mlir",
-      "url": "https://github.com/tenstorrent/tt-mlir",
-      "description": "Tenstorrent MLIR compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 296,
-      "forks": 145,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "openxla / stablehlo",
@@ -63,6 +53,16 @@
       "stars": 683,
       "forks": 214,
       "added_stars": "5 stars this week"
+    },
+    {
+      "title": "tenstorrent / tt-mlir",
+      "url": "https://github.com/tenstorrent/tt-mlir",
+      "description": "Tenstorrent MLIR compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 296,
+      "forks": 145,
+      "added_stars": "1 star this week"
     }
   ]
 }

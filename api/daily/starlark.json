@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 10 Aug 2026 03:47:45 GMT",
+  "pubDate": "Tue, 11 Aug 2026 03:31:01 GMT",
   "items": [
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 379,
+      "forks": 839,
+      "added_stars": "1 star today"
+    },
     {
       "title": "openconfig / gnoi",
       "url": "https://github.com/openconfig/gnoi",
@@ -15,14 +25,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 684,
-      "forks": 708,
-      "added_stars": "0 stars today"
+      "stars": 22922,
+      "forks": 1423,
+      "added_stars": "5 stars today"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -30,18 +40,28 @@
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 830,
-      "forks": 639,
+      "stars": 832,
+      "forks": 640,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "bazelbuild / rules_swift",
+      "url": "https://github.com/bazelbuild/rules_swift",
+      "description": "Bazel rules to build Swift on Apple and Linux platforms",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 352,
+      "forks": 173,
       "added_stars": "0 stars today"
     },
     {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22918,
-      "forks": 1419,
+      "stars": 684,
+      "forks": 708,
       "added_stars": "1 star today"
     }
   ]

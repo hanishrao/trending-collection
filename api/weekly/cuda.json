@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 10 Aug 2026 03:51:04 GMT",
+  "pubDate": "Tue, 11 Aug 2026 03:33:13 GMT",
   "items": [
     {
       "title": "thu-ml / SageAttention",
@@ -10,9 +10,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3609,
-      "forks": 467,
-      "added_stars": "84 stars this week"
+      "stars": 3613,
+      "forks": 471,
+      "added_stars": "82 stars this week"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -20,9 +20,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9966,
-      "forks": 1368,
-      "added_stars": "37 stars this week"
+      "stars": 9973,
+      "forks": 1371,
+      "added_stars": "40 stars this week"
     },
     {
       "title": "HazyResearch / ThunderKittens",
@@ -30,29 +30,9 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3621,
+      "stars": 3622,
       "forks": 316,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 30767,
-      "forks": 3723,
-      "added_stars": "66 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7638,
-      "forks": 1159,
-      "added_stars": "36 stars this week"
+      "added_stars": "33 stars this week"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -62,7 +42,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1004,
       "forks": 218,
-      "added_stars": "9 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "NVIDIA / cudf-spark-jni",
@@ -85,14 +65,44 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 7645,
+      "forks": 1161,
+      "added_stars": "37 stars this week"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30774,
+      "forks": 3722,
+      "added_stars": "63 stars this week"
+    },
+    {
       "title": "NVIDIA / cuvs",
       "url": "https://github.com/NVIDIA/cuvs",
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 831,
+      "stars": 832,
       "forks": 217,
-      "added_stars": "1 star this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2417,
+      "forks": 239,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -100,19 +110,9 @@
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1298,
-      "forks": 253,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3190,
-      "forks": 290,
-      "added_stars": "15 stars this week"
+      "stars": 1299,
+      "forks": 255,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -121,8 +121,58 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 1615,
-      "forks": 397,
-      "added_stars": "4 stars this week"
+      "forks": 398,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "NVIDIA / raft",
+      "url": "https://github.com/NVIDIA/raft",
+      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1036,
+      "forks": 245,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "Dao-AILab / causal-conv1d",
+      "url": "https://github.com/Dao-AILab/causal-conv1d",
+      "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 934,
+      "forks": 202,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "BBuf / how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3193,
+      "forks": 289,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "rapidsai / cugraph",
+      "url": "https://github.com/rapidsai/cugraph",
+      "description": "cuGraph - RAPIDS Graph Analytics Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2215,
+      "forks": 364,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "NVIDIA / nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 916,
+      "forks": 117,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "NVIDIA / cuCollections",
@@ -132,37 +182,7 @@
       "languageColor": "#3A4E3A",
       "stars": 658,
       "forks": 113,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2415,
-      "forks": 239,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "NVIDIA / raft",
-      "url": "https://github.com/NVIDIA/raft",
-      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1036,
-      "forks": 244,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "NVIDIA / nvbench",
-      "url": "https://github.com/NVIDIA/nvbench",
-      "description": "CUDA Kernel Benchmarking Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 915,
-      "forks": 116,
-      "added_stars": "2 stars this week"
+      "added_stars": "0 stars this week"
     }
   ]
 }

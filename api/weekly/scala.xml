@@ -4,16 +4,16 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 03:33:13 GMT</pubDate>
   <item>
     <title>apache / spark</title>
     <link>https://github.com/apache/spark</link>
     <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
   </item>
   <item>
-    <title>twitter / the-algorithm</title>
-    <link>https://github.com/twitter/the-algorithm</link>
-    <description>Source code for the X Recommendation Algorithm</description>
+    <title>scala / scala3</title>
+    <link>https://github.com/scala/scala3</link>
+    <description>The Scala 3 compiler, also known as Dotty.</description>
   </item>
   <item>
     <title>lichess-org / lila</title>
@@ -26,16 +26,6 @@
     <description>Chisel: A Modern Hardware Design Language</description>
   </item>
   <item>
-    <title>scala / scala3</title>
-    <link>https://github.com/scala/scala3</link>
-    <description>The Scala 3 compiler, also known as Dotty.</description>
-  </item>
-  <item>
-    <title>joernio / joern</title>
-    <link>https://github.com/joernio/joern</link>
-    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
-  </item>
-  <item>
     <title>apache / gluten</title>
     <link>https://github.com/apache/gluten</link>
     <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
@@ -46,14 +36,24 @@
     <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
   </item>
   <item>
+    <title>sbt / sbt</title>
+    <link>https://github.com/sbt/sbt</link>
+    <description>sbt, the interactive build tool</description>
+  </item>
+  <item>
     <title>delta-io / delta</title>
     <link>https://github.com/delta-io/delta</link>
     <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
-    <title>sbt / sbt</title>
-    <link>https://github.com/sbt/sbt</link>
-    <description>sbt, the interactive build tool</description>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
+  </item>
+  <item>
+    <title>apache / datafusion-comet</title>
+    <link>https://github.com/apache/datafusion-comet</link>
+    <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
     <title>http4s / http4s</title>
@@ -81,6 +81,11 @@
     <description>Scala language server with rich IDE features 🚀</description>
   </item>
   <item>
+    <title>scala / scala</title>
+    <link>https://github.com/scala/scala</link>
+    <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
+  </item>
+  <item>
     <title>apache / kyuubi</title>
     <link>https://github.com/apache/kyuubi</link>
     <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
@@ -91,14 +96,9 @@
     <description>Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala</description>
   </item>
   <item>
-    <title>chipsalliance / diplomacy</title>
-    <link>https://github.com/chipsalliance/diplomacy</link>
-    <description></description>
-  </item>
-  <item>
-    <title>ucb-bar / testchipip</title>
-    <link>https://github.com/ucb-bar/testchipip</link>
-    <description></description>
+    <title>gitbucket / gitbucket</title>
+    <link>https://github.com/gitbucket/gitbucket</link>
+    <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
   </item>
   <item>
     <title>ucb-bar / chipyard</title>
@@ -106,19 +106,19 @@
     <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
   </item>
   <item>
-    <title>scala / scala</title>
-    <link>https://github.com/scala/scala</link>
-    <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
-  </item>
-  <item>
     <title>snowplow / snowplow</title>
     <link>https://github.com/snowplow/snowplow</link>
     <description>The leader in Customer Data Infrastructure</description>
   </item>
   <item>
-    <title>gitbucket / gitbucket</title>
-    <link>https://github.com/gitbucket/gitbucket</link>
-    <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
+    <title>chipsalliance / rocket-chip</title>
+    <link>https://github.com/chipsalliance/rocket-chip</link>
+    <description>Rocket Chip Generator</description>
+  </item>
+  <item>
+    <title>chipsalliance / diplomacy</title>
+    <link>https://github.com/chipsalliance/diplomacy</link>
+    <description></description>
   </item>
   <item>
     <title>gatling / gatling</title>
@@ -126,9 +126,9 @@
     <description>Modern Load Testing as Code</description>
   </item>
   <item>
-    <title>akka / akka-http</title>
-    <link>https://github.com/akka/akka-http</link>
-    <description>The Streaming-first HTTP server/module of Akka</description>
+    <title>ucb-bar / testchipip</title>
+    <link>https://github.com/ucb-bar/testchipip</link>
+    <description></description>
   </item>
 </channel>
 </rss>

@@ -4,21 +4,21 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 10 Aug 2026 03:51:04 GMT</pubDate>
+  <pubDate>Tue, 11 Aug 2026 03:33:13 GMT</pubDate>
   <item>
     <title>verilator / verilator</title>
     <link>https://github.com/verilator/verilator</link>
     <description>Verilator open-source SystemVerilog simulator and lint system</description>
   </item>
   <item>
-    <title>chipsalliance / caliptra-rtl</title>
-    <link>https://github.com/chipsalliance/caliptra-rtl</link>
-    <description>HW Design Collateral for Caliptra RoT IP</description>
-  </item>
-  <item>
     <title>chipsalliance / caliptra-ss</title>
     <link>https://github.com/chipsalliance/caliptra-ss</link>
     <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
+  </item>
+  <item>
+    <title>chipsalliance / caliptra-rtl</title>
+    <link>https://github.com/chipsalliance/caliptra-rtl</link>
+    <description>HW Design Collateral for Caliptra RoT IP</description>
   </item>
   <item>
     <title>lowRISC / opentitan</title>
@@ -46,6 +46,11 @@
     <description>Post-Quantum Cryptography IP Core (Crystals-Dilithium)</description>
   </item>
   <item>
+    <title>adam-maj / tiny-gpu</title>
+    <link>https://github.com/adam-maj/tiny-gpu</link>
+    <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
+  </item>
+  <item>
     <title>lowRISC / ethernet</title>
     <link>https://github.com/lowRISC/ethernet</link>
     <description>Open-source memory-mapped Ethernet MAC for FPGA with RGMII interface</description>
@@ -54,16 +59,6 @@
     <title>pulp-platform / riscv-dbg</title>
     <link>https://github.com/pulp-platform/riscv-dbg</link>
     <description>RISC-V Debug Support for our PULP RISC-V Cores</description>
-  </item>
-  <item>
-    <title>pulp-platform / fpu_div_sqrt_mvp</title>
-    <link>https://github.com/pulp-platform/fpu_div_sqrt_mvp</link>
-    <description>[UNRELEASED] FP div/sqrt unit for transprecision</description>
-  </item>
-  <item>
-    <title>pulp-platform / axi_riscv_atomics</title>
-    <link>https://github.com/pulp-platform/axi_riscv_atomics</link>
-    <description>AXI Adapter(s) for RISC-V Atomic Operations</description>
   </item>
 </channel>
 </rss>

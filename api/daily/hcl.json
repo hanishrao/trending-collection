@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 10 Aug 2026 03:47:45 GMT",
+  "pubDate": "Tue, 11 Aug 2026 03:31:01 GMT",
   "items": [
     {
       "title": "chainguard-images / images",
@@ -10,18 +10,48 @@
       "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 688,
+      "stars": 689,
       "forks": 175,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1223,
+      "forks": 569,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-container-vm",
-      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
-      "description": "Deploys containers on Compute Engine instances",
+      "title": "terrapkg / packages",
+      "url": "https://github.com/terrapkg/packages",
+      "description": "Monorepo for Terra Packages",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 170,
-      "forks": 77,
+      "stars": 583,
+      "forks": 131,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
+      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
+      "description": "",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 505,
+      "forks": 792,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Azure / terraform-azurerm-naming",
+      "url": "https://github.com/Azure/terraform-azurerm-naming",
+      "description": "",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 272,
+      "forks": 144,
       "added_stars": "0 stars today"
     },
     {
@@ -35,63 +65,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "iam-veeramalla / ultimate-devops-project-aws",
-      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
-      "description": "End to End DevOps project",
+      "title": "hashicorp / setup-packer",
+      "url": "https://github.com/hashicorp/setup-packer",
+      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 928,
-      "forks": 2433,
+      "stars": 165,
+      "forks": 88,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cloudposse / terraform-aws-cloudwatch-logs",
-      "url": "https://github.com/cloudposse/terraform-aws-cloudwatch-logs",
-      "description": "Terraform Module to Provide a CloudWatch Logs Endpoint",
+      "title": "terraform-google-modules / terraform-google-container-vm",
+      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
+      "description": "Deploys containers on Compute Engine instances",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 72,
-      "forks": 25,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-alb-service-task",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-alb-service-task",
-      "description": "Terraform module which implements an ECS service which exposes a web service via ALB.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 162,
-      "forks": 195,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "techiescamp / devops-projects",
-      "url": "https://github.com/techiescamp/devops-projects",
-      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2219,
-      "forks": 1481,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-rds-cluster",
-      "url": "https://github.com/cloudposse/terraform-aws-rds-cluster",
-      "description": "Terraform module to provision an RDS Aurora cluster for MySQL or Postgres",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 169,
-      "forks": 196,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "aws-ia / terraform-aws-mwaa",
-      "url": "https://github.com/aws-ia/terraform-aws-mwaa",
-      "description": "Terraform module for Amazon MWAA(Apache Airflow)",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 57,
-      "forks": 73,
+      "stars": 170,
+      "forks": 77,
       "added_stars": "0 stars today"
     },
     {
@@ -105,13 +95,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "cloudposse / terraform-aws-cloudfront-s3-cdn",
+      "url": "https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn",
+      "description": "Terraform module to easily provision CloudFront CDN backed by an S3 origin",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
+      "stars": 286,
+      "forks": 253,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-vpn",
+      "url": "https://github.com/terraform-google-modules/terraform-google-vpn",
+      "description": "Sets up a Cloud VPN gateway",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 100,
+      "forks": 106,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "hashicorp / tfc-guide-example",
+      "url": "https://github.com/hashicorp/tfc-guide-example",
+      "description": "Example Terraform configuration",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 225,
+      "forks": 4464,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2219,
+      "forks": 1481,
       "added_stars": "0 stars today"
     }
   ]
