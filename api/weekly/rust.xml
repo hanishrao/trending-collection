@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:33:13 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:02:37 GMT</pubDate>
   <item>
     <title>firecrawl / pdf-inspector</title>
     <link>https://github.com/firecrawl/pdf-inspector</link>
@@ -21,14 +21,14 @@
     <description>A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.</description>
   </item>
   <item>
+    <title>rivet-dev / actors</title>
+    <link>https://github.com/rivet-dev/actors</link>
+    <description>Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.</description>
+  </item>
+  <item>
     <title>FalkorDB / FalkorDB</title>
     <link>https://github.com/FalkorDB/FalkorDB</link>
     <description>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).</description>
-  </item>
-  <item>
-    <title>modelcontextprotocol / rust-sdk</title>
-    <link>https://github.com/modelcontextprotocol/rust-sdk</link>
-    <description>The official Rust SDK for the Model Context Protocol</description>
   </item>
   <item>
     <title>warp-tech / warpgate</title>
@@ -36,9 +36,9 @@
     <description>Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn&#x27;t need additional client-side software</description>
   </item>
   <item>
-    <title>tokio-rs / tokio</title>
-    <link>https://github.com/tokio-rs/tokio</link>
-    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
+    <title>modelcontextprotocol / rust-sdk</title>
+    <link>https://github.com/modelcontextprotocol/rust-sdk</link>
+    <description>The official Rust SDK for the Model Context Protocol</description>
   </item>
   <item>
     <title>zed-industries / zed</title>
@@ -46,24 +46,14 @@
     <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
   </item>
   <item>
-    <title>servo / servo</title>
-    <link>https://github.com/servo/servo</link>
-    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
+    <title>pola-rs / polars</title>
+    <link>https://github.com/pola-rs/polars</link>
+    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
   </item>
   <item>
-    <title>risingwavelabs / risingwave</title>
-    <link>https://github.com/risingwavelabs/risingwave</link>
-    <description>Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.</description>
-  </item>
-  <item>
-    <title>cachix / devenv</title>
-    <link>https://github.com/cachix/devenv</link>
-    <description>Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</description>
-  </item>
-  <item>
-    <title>HakanSeven12 / OpenCADStudio</title>
-    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+    <title>ai-dynamo / dynamo</title>
+    <link>https://github.com/ai-dynamo/dynamo</link>
+    <description>A Datacenter Scale Distributed Inference Serving Framework</description>
   </item>
   <item>
     <title>pimalaya / himalaya</title>
@@ -71,34 +61,49 @@
     <description>CLI to manage emails</description>
   </item>
   <item>
-    <title>reacherhq / check-if-email-exists</title>
-    <link>https://github.com/reacherhq/check-if-email-exists</link>
-    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>moghtech / komodo</title>
-    <link>https://github.com/moghtech/komodo</link>
-    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+    <title>servo / servo</title>
+    <link>https://github.com/servo/servo</link>
+    <description>Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</description>
   </item>
   <item>
-    <title>cloudflare / quiche</title>
-    <link>https://github.com/cloudflare/quiche</link>
-    <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
+    <title>cachix / devenv</title>
+    <link>https://github.com/cachix/devenv</link>
+    <description>Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</description>
   </item>
   <item>
-    <title>block / buzz</title>
-    <link>https://github.com/block/buzz</link>
-    <description>A hive mind communication platform</description>
-  </item>
-  <item>
-    <title>sharkdp / bat</title>
-    <link>https://github.com/sharkdp/bat</link>
-    <description>A cat(1) clone with wings.</description>
+    <title>louis-e / arnis</title>
+    <link>https://github.com/louis-e/arnis</link>
+    <description>Generate any location from the real world in Minecraft with a high level of detail.</description>
   </item>
   <item>
     <title>GCWing / BitFun</title>
     <link>https://github.com/GCWing/BitFun</link>
     <description>BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+  </item>
+  <item>
+    <title>reacherhq / check-if-email-exists</title>
+    <link>https://github.com/reacherhq/check-if-email-exists</link>
+    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+  </item>
+  <item>
+    <title>WeaveMindAI / weft</title>
+    <link>https://github.com/WeaveMindAI/weft</link>
+    <description>A programming language for AI orchestrations (POC)</description>
+  </item>
+  <item>
+    <title>quickwit-oss / quickwit</title>
+    <link>https://github.com/quickwit-oss/quickwit</link>
+    <description>Cloud-native OSS search engine for observability</description>
+  </item>
+  <item>
+    <title>tokio-rs / tokio</title>
+    <link>https://github.com/tokio-rs/tokio</link>
+    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
 </channel>
 </rss>

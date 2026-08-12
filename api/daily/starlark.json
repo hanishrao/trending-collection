@@ -2,17 +2,87 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 11 Aug 2026 03:31:01 GMT",
+  "pubDate": "Wed, 12 Aug 2026 04:01:30 GMT",
   "items": [
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 379,
-      "forks": 839,
+      "stars": 22931,
+      "forks": 1425,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8677,
+      "forks": 2614,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 100,
+      "forks": 70,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 398,
+      "forks": 87,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 31,
+      "forks": 49,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 241,
+      "forks": 192,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 271,
+      "forks": 84,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 832,
+      "forks": 640,
+      "added_stars": "0 stars today"
     },
     {
       "title": "openconfig / gnoi",
@@ -25,33 +95,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22922,
-      "forks": 1423,
-      "added_stars": "5 stars today"
+      "stars": 379,
+      "forks": 844,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 832,
-      "forks": 640,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_swift",
-      "url": "https://github.com/bazelbuild/rules_swift",
-      "description": "Bazel rules to build Swift on Apple and Linux platforms",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 352,
-      "forks": 173,
+      "stars": 294,
+      "forks": 115,
       "added_stars": "0 stars today"
     },
     {
@@ -62,7 +122,17 @@
       "languageColor": "#76d275",
       "stars": 684,
       "forks": 708,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "googleapis / api-common-protos",
+      "url": "https://github.com/googleapis/api-common-protos",
+      "description": "A standard library for use in specifying protocol buffer APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 265,
+      "forks": 59,
+      "added_stars": "0 stars today"
     }
   ]
 }

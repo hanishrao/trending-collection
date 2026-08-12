@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 11 Aug 2026 03:33:13 GMT",
+  "pubDate": "Wed, 12 Aug 2026 04:02:37 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -15,44 +15,44 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4997,
+      "forks": 4405,
+      "added_stars": "4 stars this week"
+    },
+    {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2078,
-      "forks": 1254,
+      "forks": 1255,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4996,
-      "forks": 4405,
-      "added_stars": "5 stars this week"
+      "stars": 868,
+      "forks": 1110,
+      "added_stars": "1 star this week"
     },
     {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 689,
-      "forks": 175,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "bridgecrewio / checkov-action",
-      "url": "https://github.com/bridgecrewio/checkov-action",
-      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 312,
-      "forks": 112,
-      "added_stars": "0 stars this week"
+      "stars": 3254,
+      "forks": 4626,
+      "added_stars": "1 star this week"
     },
     {
       "title": "cloudposse / terraform-aws-ecs-container-definition",
@@ -75,43 +75,33 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "title": "bridgecrewio / checkov-action",
+      "url": "https://github.com/bridgecrewio/checkov-action",
+      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 867,
-      "forks": 1110,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-container-vm",
-      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
-      "description": "Deploys containers on Compute Engine instances",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 170,
-      "forks": 77,
+      "stars": 312,
+      "forks": 112,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cisco-open / forge",
-      "url": "https://github.com/cisco-open/forge",
-      "description": "ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and ARC/Kubernetes runner scale sets for many tenant repositories.",
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 211,
-      "forks": 9,
-      "added_stars": "1 star this week"
+      "stars": 689,
+      "forks": 175,
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "aws-ia / terraform-aws-eks-blueprints",
-      "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
-      "description": "Configure and deploy complete EKS clusters.",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3033,
-      "forks": 1514,
+      "stars": 1047,
+      "forks": 773,
       "added_stars": "1 star this week"
     }
   ]

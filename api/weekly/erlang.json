@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 11 Aug 2026 03:33:13 GMT",
+  "pubDate": "Wed, 12 Aug 2026 04:02:37 GMT",
   "items": [
     {
       "title": "emqx / emqx",
@@ -10,7 +10,7 @@
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 16601,
+      "stars": 16609,
       "forks": 2546,
       "added_stars": "23 stars this week"
     },
@@ -20,9 +20,9 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12325,
+      "stars": 12324,
       "forks": 3269,
-      "added_stars": "6 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "WhatsApp / erlfmt",
@@ -32,56 +32,6 @@
       "languageColor": "#B83998",
       "stars": 461,
       "forks": 66,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "ninenines / cowlib",
-      "url": "https://github.com/ninenines/cowlib",
-      "description": "Support library for manipulating Web protocols.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 296,
-      "forks": 190,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "benoitc / hackney",
-      "url": "https://github.com/benoitc/hackney",
-      "description": "simple HTTP client in Erlang",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 1417,
-      "forks": 453,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "apache / couchdb",
-      "url": "https://github.com/apache/couchdb",
-      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 6934,
-      "forks": 1077,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "blt / port_compiler",
-      "url": "https://github.com/blt/port_compiler",
-      "description": "A rebar3 port compiler",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 69,
-      "forks": 40,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "erlang-lager / lager",
-      "url": "https://github.com/erlang-lager/lager",
-      "description": "A logging framework for Erlang/OTP",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 1130,
-      "forks": 446,
       "added_stars": "0 stars this week"
     },
     {
@@ -95,16 +45,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "potatosalad / erlang-jose",
-      "url": "https://github.com/potatosalad/erlang-jose",
-      "description": "JSON Object Signing and Encryption (JOSE) for Erlang and Elixir",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 336,
-      "forks": 120,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "processone / ejabberd",
       "url": "https://github.com/processone/ejabberd",
       "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
@@ -112,7 +52,67 @@
       "languageColor": "#B83998",
       "stars": 6712,
       "forks": 1546,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6935,
+      "forks": 1077,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "benoitc / hackney",
+      "url": "https://github.com/benoitc/hackney",
+      "description": "simple HTTP client in Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 1417,
+      "forks": 453,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "erlang-lager / lager",
+      "url": "https://github.com/erlang-lager/lager",
+      "description": "A logging framework for Erlang/OTP",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 1130,
+      "forks": 445,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "ninenines / gun",
+      "url": "https://github.com/ninenines/gun",
+      "description": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 947,
+      "forks": 245,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "ninenines / cowlib",
+      "url": "https://github.com/ninenines/cowlib",
+      "description": "Support library for manipulating Web protocols.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 295,
+      "forks": 190,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "ninenines / cowboy",
@@ -120,9 +120,9 @@
       "description": "Small, fast, modern HTTP server for Erlang/OTP.",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 7523,
+      "stars": 7524,
       "forks": 1169,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     }
   ]
 }

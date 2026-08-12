@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3403-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3404-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-11
-_Top 3 per language · [view full day →](./2026/2026-08-11.md)_
+## 🔥 Today's Trending — 2026-08-12
+_Top 3 per language · [view full day →](./2026/2026-08-12.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 🐍 | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 🐍 | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🐍 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🐍 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 🐍 | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🦀 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 🦀 | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes |
-| [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs) | 🦀 | Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 🦀 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | 🦀 | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
-| [techjarves/Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) | ⚡ | Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text |
-| [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | ⚡ | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. |
-| [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | 🐹 | GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use. |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | 🐹 | A new AList Fork to Anti Trust Crisis |
-| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🐹 | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. |
-| [sozercan/kaset](https://github.com/sozercan/kaset) | 🍎 | 📼 The missing YouTube and YouTube Music macOS app |
+| [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) | ⚡ | A clean, self-hosted web UI for managing your Traefik reverse proxy. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | ⚡ | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) | 🐹 | A node.js version management utility for Windows. Ironically written in Go. |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 🐹 | Find secrets with Gitleaks 🔑 |
+| [ollama/ollama](https://github.com/ollama/ollama) | 🐹 | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
-| [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) | 🍎 | Native GUI for Homebrew Casks |
+| [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) | 🍎 | macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do |
+| [kitlangton/Hex](https://github.com/kitlangton/Hex) | 🍎 | VOICE → WORDS |
+| [stablyai/orca](https://github.com/stablyai/orca) | 🔷 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔷 | The open-source app everyone uses to manage agents at work |
 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 🔷 | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
-| [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 🔷 | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-11.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-12](./2026/2026-08-12.md) | [semantica](https://github.com/semantica-agi/semantica) | [RuView](https://github.com/ruvnet/RuView) | [agent-skills](https://github.com/addyosmani/agent-skills) | [nvm-windows](https://github.com/coreybutler/nvm-windows) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [orca](https://github.com/stablyai/orca) |
 | [2026-08-11](./2026/2026-08-11.md) | [semantica](https://github.com/semantica-agi/semantica) | [RuView](https://github.com/ruvnet/RuView) | [agent-skills](https://github.com/addyosmani/agent-skills) | [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | [kaset](https://github.com/sozercan/kaset) | [paperclip](https://github.com/paperclipai/paperclip) |
 | [2026-08-10](./2026/2026-08-10.md) | [code-graph-rag](https://github.com/vitali87/code-graph-rag) | [rivet](https://github.com/rivet-dev/rivet) | [agent-skills](https://github.com/addyosmani/agent-skills) | [witr](https://github.com/pranshuparmar/witr) | [reynard-browser](https://github.com/minh-ton/reynard-browser) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
 | [2026-08-09](./2026/2026-08-09.md) | [skills](https://github.com/google/skills) | [celld](https://github.com/denoland/celld) | [agent-skills](https://github.com/addyosmani/agent-skills) | [grok2api](https://github.com/chenyme/grok2api) | [palmier-pro](https://github.com/palmier-io/palmier-pro) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
 | [2026-08-08](./2026/2026-08-08.md) | [authentik](https://github.com/goauthentik/authentik) | [mise](https://github.com/jdx/mise) | [agent-skills](https://github.com/addyosmani/agent-skills) | [grok2api](https://github.com/chenyme/grok2api) | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
 | [2026-08-07](./2026/2026-08-07.md) | [authentik](https://github.com/goauthentik/authentik) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [agent-skills](https://github.com/addyosmani/agent-skills) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [remux](https://github.com/h3nock/remux) | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
 | [2026-08-06](./2026/2026-08-06.md) | [loopx](https://github.com/huangruiteng/loopx) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [agent-skills](https://github.com/addyosmani/agent-skills) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [computer](https://github.com/cloudflare/computer) |
-| [2026-08-05](./2026/2026-08-05.md) | [ADR](https://github.com/uber/ADR) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [webpack](https://github.com/webpack/webpack) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [container](https://github.com/apple/container) | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -60,7 +60,7 @@ _Most days on trending, all time_
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1338 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1251 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1252 |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1248 |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | ⚡ | 2026-08-11 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. |
-| [BeiDouMS/BeiDou-Server](https://github.com/BeiDouMS/BeiDou-Server) | ⚡ | 2026-08-11 | Global MapleStory Server BeiDou(冒险岛GMS服务端北斗) |
-| [kdlbs/kandev](https://github.com/kdlbs/kandev) | 🐹 | 2026-08-11 | AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. |
-| [kenn-io/msgvault](https://github.com/kenn-io/msgvault) | 🐹 | 2026-08-11 | Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB |
-| [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) | 🍎 | 2026-08-11 | Native GUI for Homebrew Casks |
-| [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) | 🍎 | 2026-08-11 | Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input. |
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 🔷 | 2026-08-11 | Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it! |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 🔷 | 2026-08-11 | The open agent skills tool - npx skills |
-| [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer) | 🔷 | 2026-08-11 | Local-first desktop markdown editor |
-| [apify/crawlee](https://github.com/apify/crawlee) | 🔷 | 2026-08-11 | Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. |
+| [AWeirdDev/flights](https://github.com/AWeirdDev/flights) | 🐍 | 2026-08-12 | Fast, robust Google Flights scraper (API) for Python. (Probably) |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 🐍 | 2026-08-12 | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. |
+| [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager) | ⚡ | 2026-08-12 | A clean, self-hosted web UI for managing your Traefik reverse proxy. |
+| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | ⚡ | 2026-08-12 | Breakthrough Method for Agile Ai Driven Development |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ⚡ | 2026-08-12 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [polius/FileSync](https://github.com/polius/FileSync) | ⚡ | 2026-08-12 | Send files from one device to many in real-time. |
+| [kamillobinski/thock](https://github.com/kamillobinski/thock) | 🍎 | 2026-08-12 | THOCK your mac keyboard |
+| [stablyai/orca](https://github.com/stablyai/orca) | 🔷 | 2026-08-12 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
+| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 🔷 | 2026-08-12 |  |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔷 | 2026-08-12 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
 
 ---
 

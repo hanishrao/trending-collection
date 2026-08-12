@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:35:25 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:05:46 GMT</pubDate>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
@@ -26,9 +26,9 @@
     <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
   </item>
   <item>
-    <title>grpc / grpc-proto</title>
-    <link>https://github.com/grpc/grpc-proto</link>
-    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
   </item>
   <item>
     <title>bazelbuild / bazel-central-registry</title>
@@ -36,9 +36,9 @@
     <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
+    <title>grpc / grpc-proto</title>
+    <link>https://github.com/grpc/grpc-proto</link>
+    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
   </item>
   <item>
     <title>bazelbuild / bazel-skylib</title>
@@ -46,14 +46,14 @@
     <description>Common useful functions and rules for Bazel</description>
   </item>
   <item>
-    <title>openconfig / gnoi</title>
-    <link>https://github.com/openconfig/gnoi</link>
-    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_rust</title>
     <link>https://github.com/bazelbuild/rules_rust</link>
     <description>Rust rules for Bazel</description>
+  </item>
+  <item>
+    <title>openconfig / gnoi</title>
+    <link>https://github.com/openconfig/gnoi</link>
+    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
   <item>
     <title>tilt-dev / tilt-extensions</title>
@@ -61,9 +61,9 @@
     <description>Extensions for Tilt</description>
   </item>
   <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
+    <title>bazel-contrib / rules_distroless</title>
+    <link>https://github.com/bazel-contrib/rules_distroless</link>
+    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
   <item>
     <title>bazel-contrib / rules_perl</title>

@@ -4,16 +4,16 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:33:13 GMT</pubDate>
-  <item>
-    <title>bazelbuild / rules_rust</title>
-    <link>https://github.com/bazelbuild/rules_rust</link>
-    <description>Rust rules for Bazel</description>
-  </item>
+  <pubDate>Wed, 12 Aug 2026 04:02:37 GMT</pubDate>
   <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
     <description>🥑 Language focused docker images, minus the operating system.</description>
+  </item>
+  <item>
+    <title>bazelbuild / rules_rust</title>
+    <link>https://github.com/bazelbuild/rules_rust</link>
+    <description>Rust rules for Bazel</description>
   </item>
   <item>
     <title>cel-expr / cel-spec</title>
@@ -21,9 +21,9 @@
     <description>Common Expression Language -- specification and binary representation</description>
   </item>
   <item>
-    <title>googleapis / googleapis</title>
-    <link>https://github.com/googleapis/googleapis</link>
-    <description>Public interface definitions of Google APIs.</description>
+    <title>openconfig / gnoi</title>
+    <link>https://github.com/openconfig/gnoi</link>
+    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
   <item>
     <title>bazel-contrib / rules_python</title>
@@ -31,39 +31,19 @@
     <description>Bazel Python Rules</description>
   </item>
   <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
-  </item>
-  <item>
-    <title>bazelbuild / bazel-central-registry</title>
-    <link>https://github.com/bazelbuild/bazel-central-registry</link>
-    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
-  </item>
-  <item>
-    <title>openconfig / gnoi</title>
-    <link>https://github.com/openconfig/gnoi</link>
-    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
-  </item>
-  <item>
-    <title>aspect-build / rules_py</title>
-    <link>https://github.com/aspect-build/rules_py</link>
-    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
-  </item>
-  <item>
-    <title>ash2k / bazel-tools</title>
-    <link>https://github.com/ash2k/bazel-tools</link>
-    <description>Reusable bits for Bazel</description>
-  </item>
-  <item>
     <title>bazel-contrib / rules_distroless</title>
     <link>https://github.com/bazel-contrib/rules_distroless</link>
     <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
   <item>
-    <title>bazel-contrib / toolchains_llvm</title>
-    <link>https://github.com/bazel-contrib/toolchains_llvm</link>
-    <description>LLVM toolchain for bazel</description>
+    <title>googleapis / api-common-protos</title>
+    <link>https://github.com/googleapis/api-common-protos</link>
+    <description>A standard library for use in specifying protocol buffer APIs.</description>
+  </item>
+  <item>
+    <title>googleapis / googleapis</title>
+    <link>https://github.com/googleapis/googleapis</link>
+    <description>Public interface definitions of Google APIs.</description>
   </item>
   <item>
     <title>grpc / grpc-proto</title>
@@ -71,9 +51,19 @@
     <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
   </item>
   <item>
-    <title>bazelbuild / rules_cc</title>
-    <link>https://github.com/bazelbuild/rules_cc</link>
-    <description>C++ Rules for Bazel</description>
+    <title>bazelbuild / bazel-central-registry</title>
+    <link>https://github.com/bazelbuild/bazel-central-registry</link>
+    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+  </item>
+  <item>
+    <title>bazel-contrib / toolchains_llvm</title>
+    <link>https://github.com/bazel-contrib/toolchains_llvm</link>
+    <description>LLVM toolchain for bazel</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_perl</title>
+    <link>https://github.com/bazel-contrib/rules_perl</link>
+    <description>Perl rules for Bazel</description>
   </item>
   <item>
     <title>google / bazel-common</title>
@@ -81,9 +71,29 @@
     <description>Common functionality for some Google open-source libraries that are built with Bazel</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_foreign_cc</title>
-    <link>https://github.com/bazel-contrib/rules_foreign_cc</link>
-    <description>Build rules for interfacing with &quot;foreign&quot; (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)</description>
+    <title>aspect-build / rules_lint</title>
+    <link>https://github.com/aspect-build/rules_lint</link>
+    <description>Run static analysis tools with Bazel</description>
+  </item>
+  <item>
+    <title>ash2k / bazel-tools</title>
+    <link>https://github.com/ash2k/bazel-tools</link>
+    <description>Reusable bits for Bazel</description>
+  </item>
+  <item>
+    <title>bazelbuild / rules_cc</title>
+    <link>https://github.com/bazelbuild/rules_cc</link>
+    <description>C++ Rules for Bazel</description>
+  </item>
+  <item>
+    <title>aspect-build / rules_py</title>
+    <link>https://github.com/aspect-build/rules_py</link>
+    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
+  </item>
+  <item>
+    <title>salesforce / rules_spring</title>
+    <link>https://github.com/salesforce/rules_spring</link>
+    <description>Bazel rule for building Spring Boot apps as a deployable jar</description>
   </item>
 </channel>
 </rss>

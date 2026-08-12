@@ -4,7 +4,7 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:35:25 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:05:46 GMT</pubDate>
   <item>
     <title>koreader / koreader</title>
     <link>https://github.com/koreader/koreader</link>
@@ -21,14 +21,14 @@
     <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>apache / apisix</title>
-    <link>https://github.com/apache/apisix</link>
-    <description>The Cloud-Native API Gateway and AI Gateway</description>
-  </item>
-  <item>
     <title>Kong / kong</title>
     <link>https://github.com/Kong/kong</link>
     <description>🦍 The API and AI Gateway</description>
+  </item>
+  <item>
+    <title>apache / apisix</title>
+    <link>https://github.com/apache/apisix</link>
+    <description>The Cloud-Native API Gateway and AI Gateway</description>
   </item>
   <item>
     <title>Footagesus / WindUI</title>
@@ -43,7 +43,7 @@
   <item>
     <title>finlater / weread.koplugin</title>
     <link>https://github.com/finlater/weread.koplugin</link>
-    <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，并做到进度、阅读时长同步，阅读时间上报。</description>
+    <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。</description>
   </item>
   <item>
     <title>id577 / FS25_AdvancedDamageSystem</title>
@@ -61,6 +61,11 @@
     <description>Improved fzf.vim written in lua</description>
   </item>
   <item>
+    <title>rittermod / FS25_RealisticLivestockRM</title>
+    <link>https://github.com/rittermod/FS25_RealisticLivestockRM</link>
+    <description>FS25_RealisticLivestock - Ritter version</description>
+  </item>
+  <item>
     <title>AndyHazz / bookshelf.koplugin</title>
     <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
     <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
@@ -71,19 +76,14 @@
     <description>An interactive and powerful Git interface for Neovim, inspired by Magit</description>
   </item>
   <item>
-    <title>rittermod / FS25_RealisticLivestockRM</title>
-    <link>https://github.com/rittermod/FS25_RealisticLivestockRM</link>
-    <description>FS25_RealisticLivestock - Ritter version</description>
-  </item>
-  <item>
     <title>overextended / ox_inventory</title>
     <link>https://github.com/overextended/ox_inventory</link>
     <description>Slot-based inventory with metadata.</description>
   </item>
   <item>
-    <title>yetone / avante.nvim</title>
-    <link>https://github.com/yetone/avante.nvim</link>
-    <description>Use your Neovim like using Cursor AI IDE!</description>
+    <title>beyond-all-reason / Beyond-All-Reason</title>
+    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+    <description>Main game repository for Beyond All Reason.</description>
   </item>
   <item>
     <title>hrsh7th / nvim-cmp</title>
@@ -91,19 +91,24 @@
     <description>A completion plugin for neovim coded in Lua.</description>
   </item>
   <item>
-    <title>iDvel / rime-ice</title>
-    <link>https://github.com/iDvel/rime-ice</link>
-    <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
-  </item>
-  <item>
-    <title>miscusi-peek / cheatengine-mcp-bridge</title>
-    <link>https://github.com/miscusi-peek/cheatengine-mcp-bridge</link>
-    <description>Connect Cursor, Copilot &amp; Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.</description>
-  </item>
-  <item>
     <title>lewis6991 / gitsigns.nvim</title>
     <link>https://github.com/lewis6991/gitsigns.nvim</link>
     <description>Git integration for buffers</description>
+  </item>
+  <item>
+    <title>AnthonyGress / zen_ui.koplugin</title>
+    <link>https://github.com/AnthonyGress/zen_ui.koplugin</link>
+    <description>A clean, minimal UI for KOReader</description>
+  </item>
+  <item>
+    <title>yetone / avante.nvim</title>
+    <link>https://github.com/yetone/avante.nvim</link>
+    <description>Use your Neovim like using Cursor AI IDE!</description>
+  </item>
+  <item>
+    <title>nvim-lua / kickstart.nvim</title>
+    <link>https://github.com/nvim-lua/kickstart.nvim</link>
+    <description>A launch point for your personal nvim configuration</description>
   </item>
 </channel>
 </rss>

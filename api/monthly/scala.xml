@@ -4,7 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:35:25 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:05:46 GMT</pubDate>
   <item>
     <title>apache / spark</title>
     <link>https://github.com/apache/spark</link>
@@ -14,11 +14,6 @@
     <title>twitter / the-algorithm</title>
     <link>https://github.com/twitter/the-algorithm</link>
     <description>Source code for the X Recommendation Algorithm</description>
-  </item>
-  <item>
-    <title>joernio / joern</title>
-    <link>https://github.com/joernio/joern</link>
-    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
     <title>lichess-org / lila</title>
@@ -31,6 +26,11 @@
     <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
   </item>
   <item>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
+  </item>
+  <item>
     <title>scala / scala3</title>
     <link>https://github.com/scala/scala3</link>
     <description>The Scala 3 compiler, also known as Dotty.</description>
@@ -39,6 +39,11 @@
     <title>apache / gluten</title>
     <link>https://github.com/apache/gluten</link>
     <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
+  </item>
+  <item>
+    <title>delta-io / delta</title>
+    <link>https://github.com/delta-io/delta</link>
+    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
     <title>OpenXiangShan / XiangShan</title>
@@ -59,11 +64,6 @@
     <title>guardian / frontend</title>
     <link>https://github.com/guardian/frontend</link>
     <description>The Guardian DotCom.</description>
-  </item>
-  <item>
-    <title>delta-io / delta</title>
-    <link>https://github.com/delta-io/delta</link>
-    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
     <title>apache / kyuubi</title>
@@ -106,14 +106,14 @@
     <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
   </item>
   <item>
-    <title>apache / datafusion-comet</title>
-    <link>https://github.com/apache/datafusion-comet</link>
-    <description>Apache DataFusion Comet Spark Accelerator</description>
-  </item>
-  <item>
     <title>ValeLang / Vale</title>
     <link>https://github.com/ValeLang/Vale</link>
     <description>Compiler for the Vale programming language - http://vale.dev/</description>
+  </item>
+  <item>
+    <title>apache / datafusion-comet</title>
+    <link>https://github.com/apache/datafusion-comet</link>
+    <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
     <title>chipsalliance / chisel</title>
@@ -121,9 +121,9 @@
     <description>Chisel: A Modern Hardware Design Language</description>
   </item>
   <item>
-    <title>akka / akka-http</title>
-    <link>https://github.com/akka/akka-http</link>
-    <description>The Streaming-first HTTP server/module of Akka</description>
+    <title>com-lihaoyi / mill</title>
+    <link>https://github.com/com-lihaoyi/mill</link>
+    <description>A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools</description>
   </item>
 </channel>
 </rss>

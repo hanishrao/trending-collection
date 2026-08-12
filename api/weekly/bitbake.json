@@ -2,8 +2,18 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 11 Aug 2026 03:33:13 GMT",
+  "pubDate": "Wed, 12 Aug 2026 04:02:37 GMT",
   "items": [
+    {
+      "title": "openbmc / openbmc",
+      "url": "https://github.com/openbmc/openbmc",
+      "description": "OpenBMC Distribution",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 2534,
+      "forks": 1166,
+      "added_stars": "11 stars this week"
+    },
     {
       "title": "aws4embeddedlinux / meta-aws",
       "url": "https://github.com/aws4embeddedlinux/meta-aws",
@@ -15,14 +25,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "openbmc / openbmc",
-      "url": "https://github.com/openbmc/openbmc",
-      "description": "OpenBMC Distribution",
+      "title": "qualcomm-linux / meta-qcom",
+      "url": "https://github.com/qualcomm-linux/meta-qcom",
+      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 2533,
-      "forks": 1166,
-      "added_stars": "10 stars this week"
+      "stars": 155,
+      "forks": 336,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "openembedded / openembedded-core",
@@ -45,14 +55,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "qualcomm-linux / meta-qcom",
-      "url": "https://github.com/qualcomm-linux/meta-qcom",
-      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
+      "title": "rauc / meta-rauc",
+      "url": "https://github.com/rauc/meta-rauc",
+      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 155,
-      "forks": 334,
-      "added_stars": "2 stars this week"
+      "stars": 226,
+      "forks": 114,
+      "added_stars": "1 star this week"
     },
     {
       "title": "sbabic / meta-swupdate",
@@ -61,37 +71,7 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": 182,
-      "forks": 124,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "rauc / meta-rauc",
-      "url": "https://github.com/rauc/meta-rauc",
-      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 225,
-      "forks": 114,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "meta-flutter / meta-flutter",
-      "url": "https://github.com/meta-flutter/meta-flutter",
-      "description": "Yocto/OpenEmbedded layer for building Google Flutter applications, engine, and embedders (BitBake recipes)",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 204,
-      "forks": 91,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Xilinx / meta-xilinx",
-      "url": "https://github.com/Xilinx/meta-xilinx",
-      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 180,
-      "forks": 150,
+      "forks": 125,
       "added_stars": "0 stars this week"
     },
     {
@@ -105,14 +85,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "openembedded / meta-openembedded",
-      "url": "https://github.com/openembedded/meta-openembedded",
-      "description": "",
+      "title": "Xilinx / meta-xilinx",
+      "url": "https://github.com/Xilinx/meta-xilinx",
+      "description": "Collection of Yocto Project layers to enable AMD Xilinx products",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 495,
-      "forks": 849,
-      "added_stars": "0 stars this week"
+      "stars": 180,
+      "forks": 150,
+      "added_stars": "1 star this week"
     },
     {
       "title": "Freescale / meta-freescale",
@@ -125,14 +105,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "kraj / meta-openwrt",
-      "url": "https://github.com/kraj/meta-openwrt",
-      "description": "OE/Yocto metadata layer for OpenWRT",
+      "title": "meta-flutter / meta-flutter",
+      "url": "https://github.com/meta-flutter/meta-flutter",
+      "description": "Yocto/OpenEmbedded layer for building Google Flutter applications, engine, and embedders (BitBake recipes)",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 123,
-      "forks": 81,
-      "added_stars": "1 star this week"
+      "stars": 204,
+      "forks": 91,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "Freescale / meta-freescale-3rdparty",
+      "url": "https://github.com/Freescale/meta-freescale-3rdparty",
+      "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 119,
+      "forks": 537,
+      "added_stars": "0 stars this week"
     }
   ]
 }

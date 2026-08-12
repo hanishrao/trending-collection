@@ -4,91 +4,26 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:31:01 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:01:30 GMT</pubDate>
   <item>
     <title>junegunn / vim-plug</title>
     <link>https://github.com/junegunn/vim-plug</link>
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>dense-analysis / ale</title>
-    <link>https://github.com/dense-analysis/ale</link>
-    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
   </item>
   <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>kristijanhusak / vim-dadbod-completion</title>
-    <link>https://github.com/kristijanhusak/vim-dadbod-completion</link>
-    <description>Database autocompletion powered by https://github.com/tpope/vim-dadbod</description>
-  </item>
-  <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
-    <title>yegappan / lsp</title>
-    <link>https://github.com/yegappan/lsp</link>
-    <description>Language Server Protocol (LSP) plugin for Vim9</description>
-  </item>
-  <item>
-    <title>tpope / vim-dadbod</title>
-    <link>https://github.com/tpope/vim-dadbod</link>
-    <description>dadbod.vim: Modern database interface for Vim</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.vim</title>
-    <link>https://github.com/ggml-org/llama.vim</link>
-    <description>Vim plugin for LLM-assisted code/text completion</description>
-  </item>
-  <item>
-    <title>prabirshrestha / vim-lsp</title>
-    <link>https://github.com/prabirshrestha/vim-lsp</link>
-    <description>async language server protocol plugin for vim and neovim</description>
-  </item>
-  <item>
-    <title>VundleVim / Vundle.vim</title>
-    <link>https://github.com/VundleVim/Vundle.vim</link>
-    <description>Vundle, the plug-in manager for Vim</description>
-  </item>
-  <item>
-    <title>kristijanhusak / vim-dadbod-ui</title>
-    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
-    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
-  </item>
-  <item>
-    <title>derekhe / msfs2020-map-enhancement</title>
-    <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
-    <description>MSFS2020 Map Enhancement</description>
-  </item>
-  <item>
-    <title>godlygeek / tabular</title>
-    <link>https://github.com/godlygeek/tabular</link>
-    <description>Vim script for text filtering and alignment</description>
-  </item>
-  <item>
-    <title>tpope / vim-rails</title>
-    <link>https://github.com/tpope/vim-rails</link>
-    <description>rails.vim: Ruby on Rails power tools</description>
-  </item>
-  <item>
-    <title>vim-airline / vim-airline-themes</title>
-    <link>https://github.com/vim-airline/vim-airline-themes</link>
-    <description>A collection of themes for vim-airline</description>
-  </item>
-  <item>
-    <title>chrisbra / csv.vim</title>
-    <link>https://github.com/chrisbra/csv.vim</link>
-    <description>A Filetype plugin for csv files</description>
+    <title>preservim / tagbar</title>
+    <link>https://github.com/preservim/tagbar</link>
+    <description>Vim plugin that displays tags in a window, ordered by scope</description>
   </item>
   <item>
     <title>sainnhe / everforest</title>
@@ -96,19 +31,59 @@
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
+    <title>tpope / vim-repeat</title>
+    <link>https://github.com/tpope/vim-repeat</link>
+    <description>repeat.vim: enable repeating supported plugin maps with &quot;.&quot;</description>
+  </item>
+  <item>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-sensible</title>
+    <link>https://github.com/tpope/vim-sensible</link>
+    <description>sensible.vim: Defaults everyone can agree on</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>mbbill / undotree</title>
+    <link>https://github.com/mbbill/undotree</link>
+    <description>The undo history visualizer for VIM</description>
+  </item>
+  <item>
+    <title>kristijanhusak / vim-dadbod-completion</title>
+    <link>https://github.com/kristijanhusak/vim-dadbod-completion</link>
+    <description>Database autocompletion powered by https://github.com/tpope/vim-dadbod</description>
+  </item>
+  <item>
+    <title>editorconfig / editorconfig-vim</title>
+    <link>https://github.com/editorconfig/editorconfig-vim</link>
+    <description>EditorConfig plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
+  </item>
+  <item>
     <title>tpope / vim-rhubarb</title>
     <link>https://github.com/tpope/vim-rhubarb</link>
     <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
-  </item>
-  <item>
-    <title>vim-test / vim-test</title>
-    <link>https://github.com/vim-test/vim-test</link>
-    <description>Run your tests at the speed of thought</description>
-  </item>
-  <item>
-    <title>mg979 / vim-visual-multi</title>
-    <link>https://github.com/mg979/vim-visual-multi</link>
-    <description>Multiple cursors plugin for vim/neovim</description>
   </item>
 </channel>
 </rss>

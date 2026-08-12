@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 11 Aug 2026 03:35:25 GMT",
+  "pubDate": "Wed, 12 Aug 2026 04:05:46 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,19 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19963,
-      "forks": 1395,
-      "added_stars": "9,694 stars this month"
-    },
-    {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35025,
-      "forks": 3055,
-      "added_stars": "1,709 stars this month"
+      "stars": 20167,
+      "forks": 1415,
+      "added_stars": "9,827 stars this month"
     },
     {
       "title": "cli / cli",
@@ -30,9 +20,19 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45784,
-      "forks": 8852,
+      "stars": 45807,
+      "forks": 8856,
       "added_stars": "670 stars this month"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35069,
+      "forks": 3059,
+      "added_stars": "1,418 stars this month"
     },
     {
       "title": "pocketbase / pocketbase",
@@ -40,9 +40,9 @@
       "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60604,
-      "forks": 3634,
-      "added_stars": "1,184 stars this month"
+      "stars": 60616,
+      "forks": 3638,
+      "added_stars": "1,181 stars this month"
     },
     {
       "title": "helm / helm",
@@ -50,129 +50,9 @@
       "description": "The Kubernetes Package Manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30140,
-      "forks": 7758,
-      "added_stars": "192 stars this month"
-    },
-    {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23886,
-      "forks": 7723,
-      "added_stars": "432 stars this month"
-    },
-    {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36560,
-      "forks": 7554,
-      "added_stars": "5,377 stars this month"
-    },
-    {
-      "title": "gastownhall / beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 26221,
-      "forks": 1753,
-      "added_stars": "1,088 stars this month"
-    },
-    {
-      "title": "Project-HAMi / HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "description": "Heterogeneous GPU Sharing on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4295,
-      "forks": 754,
-      "added_stars": "588 stars this month"
-    },
-    {
-      "title": "microsoft / typescript-go",
-      "url": "https://github.com/microsoft/typescript-go",
-      "description": "Staging repo for development of native port of TypeScript",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 26176,
-      "forks": 1128,
-      "added_stars": "334 stars this month"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19633,
-      "forks": 2815,
-      "added_stars": "1,584 stars this month"
-    },
-    {
-      "title": "pocket-id / pocket-id",
-      "url": "https://github.com/pocket-id/pocket-id",
-      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8780,
-      "forks": 289,
-      "added_stars": "498 stars this month"
-    },
-    {
-      "title": "rclone / rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 59070,
-      "forks": 5302,
-      "added_stars": "850 stars this month"
-    },
-    {
-      "title": "google / gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19050,
-      "forks": 1902,
-      "added_stars": "365 stars this month"
-    },
-    {
-      "title": "chenyme / grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7262,
-      "forks": 2190,
-      "added_stars": "1,952 stars this month"
-    },
-    {
-      "title": "schollz / croc",
-      "url": "https://github.com/schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 39625,
-      "forks": 1572,
-      "added_stars": "4,263 stars this month"
-    },
-    {
-      "title": "gosom / google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5485,
-      "forks": 854,
-      "added_stars": "761 stars this month"
+      "stars": 30147,
+      "forks": 7759,
+      "added_stars": "186 stars this month"
     },
     {
       "title": "traefik / traefik",
@@ -180,39 +60,19 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 64395,
-      "forks": 6136,
-      "added_stars": "526 stars this month"
+      "stars": 64419,
+      "forks": 6143,
+      "added_stars": "532 stars this month"
     },
     {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "title": "gastownhall / beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 48382,
-      "forks": 4349,
-      "added_stars": "1,019 stars this month"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17440,
-      "forks": 5522,
-      "added_stars": "608 stars this month"
-    },
-    {
-      "title": "pranshuparmar / witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21220,
-      "forks": 739,
-      "added_stars": "3,042 stars this month"
+      "stars": 26243,
+      "forks": 1762,
+      "added_stars": "1,094 stars this month"
     },
     {
       "title": "caddyserver / caddy",
@@ -220,9 +80,149 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 74833,
-      "forks": 4885,
-      "added_stars": "1,015 stars this month"
+      "stars": 74862,
+      "forks": 4891,
+      "added_stars": "1,018 stars this month"
+    },
+    {
+      "title": "rclone / rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 59093,
+      "forks": 5304,
+      "added_stars": "864 stars this month"
+    },
+    {
+      "title": "netbirdio / netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28283,
+      "forks": 1595,
+      "added_stars": "1,224 stars this month"
+    },
+    {
+      "title": "schollz / croc",
+      "url": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 39668,
+      "forks": 1576,
+      "added_stars": "4,293 stars this month"
+    },
+    {
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23895,
+      "forks": 7722,
+      "added_stars": "412 stars this month"
+    },
+    {
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5497,
+      "forks": 855,
+      "added_stars": "763 stars this month"
+    },
+    {
+      "title": "google / gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19060,
+      "forks": 1906,
+      "added_stars": "360 stars this month"
+    },
+    {
+      "title": "chenyme / grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7280,
+      "forks": 2198,
+      "added_stars": "1,940 stars this month"
+    },
+    {
+      "title": "mudler / LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 48402,
+      "forks": 4350,
+      "added_stars": "1,020 stars this month"
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36705,
+      "forks": 7568,
+      "added_stars": "5,394 stars this month"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 178308,
+      "forks": 17361,
+      "added_stars": "2,883 stars this month"
+    },
+    {
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21294,
+      "forks": 743,
+      "added_stars": "3,122 stars this month"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19705,
+      "forks": 2828,
+      "added_stars": "1,625 stars this month"
+    },
+    {
+      "title": "pocket-id / pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8795,
+      "forks": 289,
+      "added_stars": "501 stars this month"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17444,
+      "forks": 5537,
+      "added_stars": "553 stars this month"
     },
     {
       "title": "AlexxIT / go2rtc",
@@ -230,9 +230,9 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13873,
-      "forks": 1245,
-      "added_stars": "455 stars this month"
+      "stars": 13891,
+      "forks": 1248,
+      "added_stars": "466 stars this month"
     }
   ]
 }

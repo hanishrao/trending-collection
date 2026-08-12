@@ -4,7 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:33:13 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:02:37 GMT</pubDate>
   <item>
     <title>thu-ml / SageAttention</title>
     <link>https://github.com/thu-ml/SageAttention</link>
@@ -21,14 +21,14 @@
     <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
-    <title>NVIDIA / cuopt</title>
-    <link>https://github.com/NVIDIA/cuopt</link>
-    <description>GPU accelerated decision optimization</description>
-  </item>
-  <item>
     <title>NVIDIA / cudf-spark-jni</title>
     <link>https://github.com/NVIDIA/cudf-spark-jni</link>
     <description>RAPIDS Accelerator JNI For Apache Spark</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuopt</title>
+    <link>https://github.com/NVIDIA/cuopt</link>
+    <description>GPU accelerated decision optimization</description>
   </item>
   <item>
     <title>NVIDIA / cub</title>
@@ -46,16 +46,6 @@
     <description>LLM training in simple, raw C/CUDA</description>
   </item>
   <item>
-    <title>NVIDIA / cuvs</title>
-    <link>https://github.com/NVIDIA/cuvs</link>
-    <description>cuVS - a library for vector search and clustering on the GPU</description>
-  </item>
-  <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-  </item>
-  <item>
     <title>alibaba / rtp-llm</title>
     <link>https://github.com/alibaba/rtp-llm</link>
     <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
@@ -66,14 +56,19 @@
     <description>NCCL Tests</description>
   </item>
   <item>
+    <title>NVIDIA / nvbench</title>
+    <link>https://github.com/NVIDIA/nvbench</link>
+    <description>CUDA Kernel Benchmarking Library</description>
+  </item>
+  <item>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+  </item>
+  <item>
     <title>NVIDIA / raft</title>
     <link>https://github.com/NVIDIA/raft</link>
     <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
-  </item>
-  <item>
-    <title>Dao-AILab / causal-conv1d</title>
-    <link>https://github.com/Dao-AILab/causal-conv1d</link>
-    <description>Causal depthwise conv1d in CUDA, with a PyTorch interface</description>
   </item>
   <item>
     <title>BBuf / how-to-optim-algorithm-in-cuda</title>
@@ -81,19 +76,9 @@
     <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
-    <title>rapidsai / cugraph</title>
-    <link>https://github.com/rapidsai/cugraph</link>
-    <description>cuGraph - RAPIDS Graph Analytics Library</description>
-  </item>
-  <item>
-    <title>NVIDIA / nvbench</title>
-    <link>https://github.com/NVIDIA/nvbench</link>
-    <description>CUDA Kernel Benchmarking Library</description>
-  </item>
-  <item>
-    <title>NVIDIA / cuCollections</title>
-    <link>https://github.com/NVIDIA/cuCollections</link>
-    <description></description>
+    <title>NVIDIA / cuvs</title>
+    <link>https://github.com/NVIDIA/cuvs</link>
+    <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
 </channel>
 </rss>

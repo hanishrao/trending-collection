@@ -2,28 +2,8 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 11 Aug 2026 03:31:01 GMT",
+  "pubDate": "Wed, 12 Aug 2026 04:01:30 GMT",
   "items": [
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1710,
-      "forks": 216,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3476,
-      "forks": 423,
-      "added_stars": "4 stars today"
-    },
     {
       "title": "dakra / ghostel",
       "url": "https://github.com/dakra/ghostel",
@@ -31,18 +11,38 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 866,
-      "forks": 48,
-      "added_stars": "9 stars today"
+      "forks": 49,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "abo-abo / avy",
-      "url": "https://github.com/abo-abo/avy",
-      "description": "Jump to things in Emacs tree-style",
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1955,
-      "forks": 117,
-      "added_stars": "0 stars today"
+      "stars": 1719,
+      "forks": 216,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22570,
+      "forks": 3158,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3477,
+      "forks": 423,
+      "added_stars": "3 stars today"
     },
     {
       "title": "magit / magit",
@@ -50,58 +50,48 @@
       "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7192,
+      "stars": 7195,
       "forks": 874,
       "added_stars": "1 star today"
     },
     {
-      "title": "oantolin / embark",
-      "url": "https://github.com/oantolin/embark",
-      "description": "Emacs Mini-Buffer Actions Rooted in Keymaps",
+      "title": "rainstormstudio / nerd-icons.el",
+      "url": "https://github.com/rainstormstudio/nerd-icons.el",
+      "description": "",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1218,
-      "forks": 69,
+      "stars": 322,
+      "forks": 48,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bbatsov / projectile",
-      "url": "https://github.com/bbatsov/projectile",
-      "description": "Project Interaction Library for Emacs",
+      "title": "doomemacs / modules",
+      "url": "https://github.com/doomemacs/modules",
+      "description": "Official module library for Doom Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 4229,
-      "forks": 587,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2965,
-      "forks": 2793,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5143,
-      "forks": 1394,
+      "stars": 52,
+      "forks": 28,
       "added_stars": "1 star today"
     },
     {
-      "title": "rejeep / f.el",
-      "url": "https://github.com/rejeep/f.el",
-      "description": "Modern API for working with files and directories in Emacs",
+      "title": "magit / transient",
+      "url": "https://github.com/magit/transient",
+      "description": "Transient commands",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 710,
+      "stars": 884,
       "forks": 73,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "magnars / dash.el",
+      "url": "https://github.com/magnars/dash.el",
+      "description": "A modern list library for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1745,
+      "forks": 138,
       "added_stars": "0 stars today"
     }
   ]

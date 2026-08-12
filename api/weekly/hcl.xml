@@ -4,16 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 11 Aug 2026 03:33:13 GMT</pubDate>
+  <pubDate>Wed, 12 Aug 2026 04:02:37 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
@@ -21,14 +16,19 @@
     <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
   </item>
   <item>
-    <title>chainguard-images / images</title>
-    <link>https://github.com/chainguard-images/images</link>
-    <description>Public Chainguard Images</description>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
-    <title>bridgecrewio / checkov-action</title>
-    <link>https://github.com/bridgecrewio/checkov-action</link>
-    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
+    <title>terraform-aws-modules / terraform-aws-iam</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
+    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
     <title>cloudposse / terraform-aws-ecs-container-definition</title>
@@ -41,24 +41,19 @@
     <description>Terraform Azure Verified Resource Module for Key Vault</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-iam</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
-    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+    <title>bridgecrewio / checkov-action</title>
+    <link>https://github.com/bridgecrewio/checkov-action</link>
+    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-container-vm</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-container-vm</link>
-    <description>Deploys containers on Compute Engine instances</description>
+    <title>chainguard-images / images</title>
+    <link>https://github.com/chainguard-images/images</link>
+    <description>Public Chainguard Images</description>
   </item>
   <item>
-    <title>cisco-open / forge</title>
-    <link>https://github.com/cisco-open/forge</link>
-    <description>ForgeMT is a multi-tenant platform for self-hosted GitHub Actions runners on AWS. It gives platform teams an IaC-driven way to operate ephemeral EC2 runners and ARC/Kubernetes runner scale sets for many tenant repositories.</description>
-  </item>
-  <item>
-    <title>aws-ia / terraform-aws-eks-blueprints</title>
-    <link>https://github.com/aws-ia/terraform-aws-eks-blueprints</link>
-    <description>Configure and deploy complete EKS clusters.</description>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
 </channel>
 </rss>
