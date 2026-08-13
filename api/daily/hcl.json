@@ -2,16 +2,46 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 12 Aug 2026 04:01:30 GMT",
+  "pubDate": "Thu, 13 Aug 2026 04:04:55 GMT",
   "items": [
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 805,
+      "forks": 120,
+      "added_stars": "6 stars today"
+    },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4997,
-      "forks": 4405,
+      "stars": 4996,
+      "forks": 4404,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2079,
+      "forks": 1254,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1225,
+      "forks": 571,
       "added_stars": "0 stars today"
     },
     {
@@ -32,37 +62,7 @@
       "languageColor": "#844FBA",
       "stars": 868,
       "forks": 1110,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2078,
-      "forks": 1254,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1225,
-      "forks": 570,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "DataDog / serverless-sample-app",
-      "url": "https://github.com/DataDog/serverless-sample-app",
-      "description": "Explore Datadog's serverless observability features with this sample app.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 60,
-      "forks": 20,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -85,14 +85,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 153,
-      "forks": 116,
+      "stars": 350,
+      "forks": 239,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "aws-ia / terraform-aws-control_tower_account_factory",
+      "url": "https://github.com/aws-ia/terraform-aws-control_tower_account_factory",
+      "description": "AWS Control Tower Account Factory",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 809,
+      "forks": 597,
+      "added_stars": "1 star today"
     },
     {
       "title": "terraform-google-modules / terraform-google-iam",
@@ -105,13 +115,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "aws-ia / terraform-aws-mwaa",
+      "url": "https://github.com/aws-ia/terraform-aws-mwaa",
+      "description": "Terraform module for Amazon MWAA(Apache Airflow)",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
+      "stars": 57,
+      "forks": 73,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 119,
+      "forks": 202,
       "added_stars": "0 stars today"
     }
   ]

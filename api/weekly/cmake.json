@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 12 Aug 2026 04:02:37 GMT",
+  "pubDate": "Thu, 13 Aug 2026 04:07:16 GMT",
   "items": [
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -10,9 +10,19 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1702,
+      "stars": 1703,
       "forks": 231,
       "added_stars": "29 stars this week"
+    },
+    {
+      "title": "microsoft / vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27353,
+      "forks": 7674,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "flathub / shared-modules",
@@ -30,9 +40,9 @@
       "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1478,
+      "stars": 1480,
       "forks": 149,
-      "added_stars": "3 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "vector-of-bool / cmrc",
@@ -45,23 +55,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "microsoft / vcpkg",
-      "url": "https://github.com/microsoft/vcpkg",
-      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27354,
-      "forks": 7673,
-      "added_stars": "34 stars this week"
+      "stars": 2321,
+      "forks": 224,
+      "added_stars": "11 stars this week"
     },
     {
-      "title": "jrl-umi3218 / jrl-cmakemodules",
-      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
-      "description": "CMake utility toolbox",
+      "title": "boostorg / cmake",
+      "url": "https://github.com/boostorg/cmake",
+      "description": "CMake support infrastructure Boost submodule",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 78,
-      "forks": 57,
+      "stars": 119,
+      "forks": 36,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,66 +85,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "MarkSchofield / WindowsToolchain",
-      "url": "https://github.com/MarkSchofield/WindowsToolchain",
-      "description": "A repository containing a CMake toolchain for using MSVC",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 185,
-      "forks": 30,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1613,
-      "forks": 127,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "desktop-app / cmake_helpers",
-      "url": "https://github.com/desktop-app/cmake_helpers",
-      "description": "CMake helper scripts.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 140,
-      "forks": 144,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "GEOS-ESM / GEOSgcm",
-      "url": "https://github.com/GEOS-ESM/GEOSgcm",
-      "description": "GEOS Earth System Model GEOSgcm Fixture",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 50,
-      "forks": 17,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "steinbergmedia / vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 2321,
-      "forks": 224,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "boostorg / cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 119,
-      "forks": 36,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "pingcap / kvproto",
       "url": "https://github.com/pingcap/kvproto",
       "description": "Protocol buffer files for TiKV",
@@ -145,6 +95,26 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "MarkSchofield / WindowsToolchain",
+      "url": "https://github.com/MarkSchofield/WindowsToolchain",
+      "description": "A repository containing a CMake toolchain for using MSVC",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 185,
+      "forks": 30,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "desktop-app / cmake_helpers",
+      "url": "https://github.com/desktop-app/cmake_helpers",
+      "description": "CMake helper scripts.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 140,
+      "forks": 145,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "TheLartians / PackageProject.cmake",
       "url": "https://github.com/TheLartians/PackageProject.cmake",
       "description": "🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.",
@@ -152,6 +122,36 @@
       "languageColor": "#DA3434",
       "stars": 136,
       "forks": 18,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 689,
+      "forks": 702,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "KiCad / kicad-symbols",
+      "url": "https://github.com/KiCad/kicad-symbols",
+      "description": "Official KiCad schematic symbol libraries for Kicad 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 765,
+      "forks": 725,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "ament / ament_cmake",
+      "url": "https://github.com/ament/ament_cmake",
+      "description": "Supporting CMake packages for working with ament",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 125,
+      "forks": 147,
       "added_stars": "0 stars this week"
     }
   ]

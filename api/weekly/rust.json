@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 12 Aug 2026 04:02:37 GMT",
+  "pubDate": "Thu, 13 Aug 2026 04:07:16 GMT",
   "items": [
     {
       "title": "firecrawl / pdf-inspector",
@@ -10,9 +10,9 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14761,
-      "forks": 1014,
-      "added_stars": "5,367 stars this week"
+      "stars": 15081,
+      "forks": 1040,
+      "added_stars": "4,043 stars this week"
     },
     {
       "title": "jdx / mise",
@@ -20,9 +20,9 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32296,
-      "forks": 1348,
-      "added_stars": "784 stars this week"
+      "stars": 32336,
+      "forks": 1354,
+      "added_stars": "696 stars this week"
     },
     {
       "title": "raphamorim / rio",
@@ -30,19 +30,19 @@
       "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7326,
+      "stars": 7332,
       "forks": 327,
-      "added_stars": "196 stars this week"
+      "added_stars": "183 stars this week"
     },
     {
-      "title": "rivet-dev / actors",
-      "url": "https://github.com/rivet-dev/actors",
-      "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
+      "title": "NVIDIA-NeMo / Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6001,
-      "forks": 214,
-      "added_stars": "195 stars this week"
+      "stars": 900,
+      "forks": 94,
+      "added_stars": "520 stars this week"
     },
     {
       "title": "FalkorDB / FalkorDB",
@@ -50,29 +50,9 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5509,
+      "stars": 5519,
       "forks": 428,
-      "added_stars": "262 stars this week"
-    },
-    {
-      "title": "warp-tech / warpgate",
-      "url": "https://github.com/warp-tech/warpgate",
-      "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7559,
-      "forks": 336,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "modelcontextprotocol / rust-sdk",
-      "url": "https://github.com/modelcontextprotocol/rust-sdk",
-      "description": "The official Rust SDK for the Model Context Protocol",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3790,
-      "forks": 600,
-      "added_stars": "38 stars this week"
+      "added_stars": "188 stars this week"
     },
     {
       "title": "zed-industries / zed",
@@ -80,59 +60,19 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 88447,
-      "forks": 9995,
+      "stars": 88528,
+      "forks": 10020,
       "added_stars": "482 stars this week"
     },
     {
-      "title": "pola-rs / polars",
-      "url": "https://github.com/pola-rs/polars",
-      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "title": "warp-tech / warpgate",
+      "url": "https://github.com/warp-tech/warpgate",
+      "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 39339,
-      "forks": 3008,
-      "added_stars": "107 stars this week"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7740,
-      "forks": 1433,
-      "added_stars": "63 stars this week"
-    },
-    {
-      "title": "pimalaya / himalaya",
-      "url": "https://github.com/pimalaya/himalaya",
-      "description": "CLI to manage emails",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7007,
-      "forks": 225,
-      "added_stars": "153 stars this week"
-    },
-    {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 795,
-      "forks": 87,
-      "added_stars": "528 stars this week"
-    },
-    {
-      "title": "servo / servo",
-      "url": "https://github.com/servo/servo",
-      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37681,
-      "forks": 3745,
-      "added_stars": "95 stars this week"
+      "stars": 7576,
+      "forks": 338,
+      "added_stars": "119 stars this week"
     },
     {
       "title": "cachix / devenv",
@@ -140,9 +80,39 @@
       "description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7266,
-      "forks": 537,
-      "added_stars": "54 stars this week"
+      "stars": 7277,
+      "forks": 539,
+      "added_stars": "67 stars this week"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 120260,
+      "forks": 18426,
+      "added_stars": "610 stars this week"
+    },
+    {
+      "title": "rivet-dev / actors",
+      "url": "https://github.com/rivet-dev/actors",
+      "description": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6015,
+      "forks": 214,
+      "added_stars": "198 stars this week"
+    },
+    {
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 807,
+      "forks": 91,
+      "added_stars": "548 stars this week"
     },
     {
       "title": "louis-e / arnis",
@@ -150,8 +120,18 @@
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17443,
+      "stars": 17455,
       "forks": 1453,
+      "added_stars": "209 stars this week"
+    },
+    {
+      "title": "ZSeven-W / openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4820,
+      "forks": 456,
       "added_stars": "197 stars this week"
     },
     {
@@ -160,9 +140,29 @@
       "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1675,
-      "forks": 181,
-      "added_stars": "257 stars this week"
+      "stars": 1686,
+      "forks": 182,
+      "added_stars": "224 stars this week"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7749,
+      "forks": 1436,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "claration / Impactor",
+      "url": "https://github.com/claration/Impactor",
+      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2941,
+      "forks": 178,
+      "added_stars": "101 stars this week"
     },
     {
       "title": "reacherhq / check-if-email-exists",
@@ -170,38 +170,28 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9439,
+      "stars": 9445,
       "forks": 681,
-      "added_stars": "185 stars this week"
+      "added_stars": "189 stars this week"
     },
     {
-      "title": "WeaveMindAI / weft",
-      "url": "https://github.com/WeaveMindAI/weft",
-      "description": "A programming language for AI orchestrations (POC)",
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1833,
-      "forks": 207,
-      "added_stars": "61 stars this week"
+      "stars": 30995,
+      "forks": 1379,
+      "added_stars": "327 stars this week"
     },
     {
-      "title": "quickwit-oss / quickwit",
-      "url": "https://github.com/quickwit-oss/quickwit",
-      "description": "Cloud-native OSS search engine for observability",
+      "title": "Fredolx / open-tv",
+      "url": "https://github.com/Fredolx/open-tv",
+      "description": "Ultra-fast, simple and powerful cross-platform IPTV app",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11489,
-      "forks": 578,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "tokio-rs / tokio",
-      "url": "https://github.com/tokio-rs/tokio",
-      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32912,
-      "forks": 3199,
+      "stars": 3965,
+      "forks": 237,
       "added_stars": "137 stars this week"
     }
   ]

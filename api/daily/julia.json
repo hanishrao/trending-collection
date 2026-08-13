@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 12 Aug 2026 04:01:30 GMT",
+  "pubDate": "Thu, 13 Aug 2026 04:04:55 GMT",
   "items": [
     {
       "title": "JuliaRegistries / General",
@@ -11,7 +11,7 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 727,
-      "forks": 592,
+      "forks": 593,
       "added_stars": "1 star today"
     },
     {
@@ -22,37 +22,87 @@
       "languageColor": "#a270ba",
       "stars": 49002,
       "forks": 5965,
-      "added_stars": "5 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "CliMA / ClimaCore.jl",
-      "url": "https://github.com/CliMA/ClimaCore.jl",
-      "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
+      "title": "JuliaPlots / Plots.jl",
+      "url": "https://github.com/JuliaPlots/Plots.jl",
+      "description": "Powerful convenience for Julia visualizations and data analysis",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 114,
-      "forks": 18,
+      "stars": 1948,
+      "forks": 387,
       "added_stars": "0 stars today"
     },
     {
-      "title": "CliMA / ClimaCoupler.jl",
-      "url": "https://github.com/CliMA/ClimaCoupler.jl",
-      "description": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+      "title": "jump-dev / JuMP.jl",
+      "url": "https://github.com/jump-dev/JuMP.jl",
+      "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 46,
-      "forks": 8,
+      "stars": 2463,
+      "forks": 424,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "FluxML / Zygote.jl",
+      "url": "https://github.com/FluxML/Zygote.jl",
+      "description": "21st century AD",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1568,
+      "forks": 221,
       "added_stars": "0 stars today"
     },
     {
-      "title": "EnzymeAD / Reactant.jl",
-      "url": "https://github.com/EnzymeAD/Reactant.jl",
-      "description": "Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.",
+      "title": "JuliaStats / Distributions.jl",
+      "url": "https://github.com/JuliaStats/Distributions.jl",
+      "description": "A Julia package for probability distributions and associated functions.",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 355,
-      "forks": 72,
+      "stars": 1197,
+      "forks": 444,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "JuliaGPU / CUDA.jl",
+      "url": "https://github.com/JuliaGPU/CUDA.jl",
+      "description": "CUDA programming in Julia.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1420,
+      "forks": 277,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MakieOrg / Makie.jl",
+      "url": "https://github.com/MakieOrg/Makie.jl",
+      "description": "Interactive data visualizations and plotting in Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 2798,
+      "forks": 392,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "LuxDL / Lux.jl",
+      "url": "https://github.com/LuxDL/Lux.jl",
+      "description": "Elegant and Performant Deep Learning",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 722,
+      "forks": 88,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "CliMA / Oceananigans.jl",
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1404,
+      "forks": 288,
+      "added_stars": "1 star today"
     },
     {
       "title": "CliMA / ClimaLand.jl",
@@ -65,13 +115,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "CliMA / Oceananigans.jl",
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "title": "JuliaLang / IJulia.jl",
+      "url": "https://github.com/JuliaLang/IJulia.jl",
+      "description": "Julia kernel for Jupyter",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 1398,
-      "forks": 288,
+      "stars": 2896,
+      "forks": 426,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "TuringLang / Turing.jl",
+      "url": "https://github.com/TuringLang/Turing.jl",
+      "description": "Bayesian inference with probabilistic programming.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 2247,
+      "forks": 241,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "CliMA / ClimaCoupler.jl",
+      "url": "https://github.com/CliMA/ClimaCoupler.jl",
+      "description": "ClimaCoupler: bringing atmosphere, land, and ocean together",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 46,
+      "forks": 8,
       "added_stars": "0 stars today"
     }
   ]

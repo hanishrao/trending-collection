@@ -4,21 +4,11 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 12 Aug 2026 04:02:37 GMT</pubDate>
+  <pubDate>Thu, 13 Aug 2026 04:07:16 GMT</pubDate>
   <item>
     <title>verilator / verilator</title>
     <link>https://github.com/verilator/verilator</link>
     <description>Verilator open-source SystemVerilog simulator and lint system</description>
-  </item>
-  <item>
-    <title>chipsalliance / caliptra-rtl</title>
-    <link>https://github.com/chipsalliance/caliptra-rtl</link>
-    <description>HW Design Collateral for Caliptra RoT IP</description>
-  </item>
-  <item>
-    <title>lowRISC / opentitan</title>
-    <link>https://github.com/lowRISC/opentitan</link>
-    <description>OpenTitan: Open source silicon root of trust</description>
   </item>
   <item>
     <title>chipsalliance / caliptra-ss</title>
@@ -36,6 +26,16 @@
     <description>Post-Quantum Cryptography IP Core (Crystals-Dilithium)</description>
   </item>
   <item>
+    <title>pulp-platform / riscv-dbg</title>
+    <link>https://github.com/pulp-platform/riscv-dbg</link>
+    <description>RISC-V Debug Support for our PULP RISC-V Cores</description>
+  </item>
+  <item>
+    <title>chipsalliance / caliptra-rtl</title>
+    <link>https://github.com/chipsalliance/caliptra-rtl</link>
+    <description>HW Design Collateral for Caliptra RoT IP</description>
+  </item>
+  <item>
     <title>lowRISC / ibex</title>
     <link>https://github.com/lowRISC/ibex</link>
     <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
@@ -46,9 +46,29 @@
     <description>AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</description>
   </item>
   <item>
-    <title>pulp-platform / riscv-dbg</title>
-    <link>https://github.com/pulp-platform/riscv-dbg</link>
-    <description>RISC-V Debug Support for our PULP RISC-V Cores</description>
+    <title>pulp-platform / fpu_div_sqrt_mvp</title>
+    <link>https://github.com/pulp-platform/fpu_div_sqrt_mvp</link>
+    <description>[UNRELEASED] FP div/sqrt unit for transprecision</description>
+  </item>
+  <item>
+    <title>lowRISC / opentitan</title>
+    <link>https://github.com/lowRISC/opentitan</link>
+    <description>OpenTitan: Open source silicon root of trust</description>
+  </item>
+  <item>
+    <title>openhwgroup / cvfpu</title>
+    <link>https://github.com/openhwgroup/cvfpu</link>
+    <description>Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</description>
+  </item>
+  <item>
+    <title>pulp-platform / axi_riscv_atomics</title>
+    <link>https://github.com/pulp-platform/axi_riscv_atomics</link>
+    <description>AXI Adapter(s) for RISC-V Atomic Operations</description>
+  </item>
+  <item>
+    <title>pulp-platform / common_cells</title>
+    <link>https://github.com/pulp-platform/common_cells</link>
+    <description>Common SystemVerilog components</description>
   </item>
   <item>
     <title>adam-maj / tiny-gpu</title>
