@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:09:36 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:06:43 GMT",
   "items": [
     {
       "title": "thu-ml / SageAttention",
@@ -10,9 +10,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3626,
+      "stars": 3635,
       "forks": 478,
-      "added_stars": "148 stars this month"
+      "added_stars": "155 stars this month"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -20,9 +20,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9976,
-      "forks": 1373,
-      "added_stars": "148 stars this month"
+      "stars": 9982,
+      "forks": 1374,
+      "added_stars": "153 stars this month"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -30,9 +30,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7657,
-      "forks": 1164,
-      "added_stars": "164 stars this month"
+      "stars": 7671,
+      "forks": 1168,
+      "added_stars": "172 stars this month"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -45,16 +45,6 @@
       "added_stars": "36 stars this month"
     },
     {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1618,
-      "forks": 398,
-      "added_stars": "37 stars this month"
-    },
-    {
       "title": "HazyResearch / ThunderKittens",
       "url": "https://github.com/HazyResearch/ThunderKittens",
       "description": "Tile primitives for speedy kernels",
@@ -62,7 +52,17 @@
       "languageColor": "#3A4E3A",
       "stars": 3630,
       "forks": 319,
-      "added_stars": "101 stars this month"
+      "added_stars": "100 stars this month"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1619,
+      "forks": 398,
+      "added_stars": "38 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -71,8 +71,18 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 833,
-      "forks": 218,
-      "added_stars": "23 stars this month"
+      "forks": 220,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "florianmattana / sass-king",
+      "url": "https://github.com/florianmattana/sass-king",
+      "description": "Reverse engineering NVIDIA SASS instruction dictionary, kernel audits and pattern recognition across GPU architectures.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 319,
+      "forks": 15,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "mirage-project / mirage",
@@ -80,29 +90,19 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2419,
+      "stars": 2423,
       "forks": 238,
-      "added_stars": "55 stars this month"
+      "added_stars": "57 stars this month"
     },
     {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "title": "NVIDIA / raft",
+      "url": "https://github.com/NVIDIA/raft",
+      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17518,
-      "forks": 2062,
-      "added_stars": "44 stars this month"
-    },
-    {
-      "title": "rahul-goel / fused-ssim",
-      "url": "https://github.com/rahul-goel/fused-ssim",
-      "description": "Lightning fast differentiable SSIM.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 238,
-      "forks": 90,
-      "added_stars": "7 stars this month"
+      "stars": 1037,
+      "forks": 247,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -110,9 +110,19 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1006,
+      "stars": 1007,
       "forks": 219,
-      "added_stars": "37 stars this month"
+      "added_stars": "34 stars this month"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17519,
+      "forks": 2062,
+      "added_stars": "41 stars this month"
     },
     {
       "title": "karpathy / llm.c",
@@ -120,9 +130,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30789,
-      "forks": 3729,
-      "added_stars": "281 stars this month"
+      "stars": 30791,
+      "forks": 3731,
+      "added_stars": "282 stars this month"
     },
     {
       "title": "Dao-AILab / causal-conv1d",
@@ -132,7 +142,17 @@
       "languageColor": "#3A4E3A",
       "stars": 934,
       "forks": 204,
-      "added_stars": "20 stars this month"
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "rahul-goel / fused-ssim",
+      "url": "https://github.com/rahul-goel/fused-ssim",
+      "description": "Lightning fast differentiable SSIM.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 238,
+      "forks": 90,
+      "added_stars": "6 stars this month"
     }
   ]
 }

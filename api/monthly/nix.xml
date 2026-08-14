@@ -4,21 +4,21 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 13 Aug 2026 04:09:36 GMT</pubDate>
+  <pubDate>Fri, 14 Aug 2026 04:06:43 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
   </item>
   <item>
-    <title>numtide / llm-agents.nix</title>
-    <link>https://github.com/numtide/llm-agents.nix</link>
-    <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
-  </item>
-  <item>
     <title>nix-community / home-manager</title>
     <link>https://github.com/nix-community/home-manager</link>
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
+    <title>numtide / llm-agents.nix</title>
+    <link>https://github.com/numtide/llm-agents.nix</link>
+    <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
     <title>nix-darwin / nix-darwin</title>
@@ -51,19 +51,9 @@
     <description>Streamlined, elegant $HOME management with Nix</description>
   </item>
   <item>
-    <title>sodiboo / niri-flake</title>
-    <link>https://github.com/sodiboo/niri-flake</link>
-    <description>Nix-native configuration for niri</description>
-  </item>
-  <item>
     <title>nix-community / stylix</title>
     <link>https://github.com/nix-community/stylix</link>
     <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
-  </item>
-  <item>
-    <title>numtide / system-manager</title>
-    <link>https://github.com/numtide/system-manager</link>
-    <description>Manage system config using nix on any distro</description>
   </item>
   <item>
     <title>nix-community / NixOS-WSL</title>
@@ -71,14 +61,29 @@
     <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
   <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
   </item>
   <item>
     <title>nix-community / nixvim</title>
     <link>https://github.com/nix-community/nixvim</link>
     <description>Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</description>
+  </item>
+  <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
+    <title>cloud-gouv / securix</title>
+    <link>https://github.com/cloud-gouv/securix</link>
+    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
+  </item>
+  <item>
+    <title>Misterio77 / nix-starter-configs</title>
+    <link>https://github.com/Misterio77/nix-starter-configs</link>
+    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
   </item>
 </channel>
 </rss>

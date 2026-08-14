@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:09:36 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:06:43 GMT",
   "items": [
     {
       "title": "1jehuang / jcode",
@@ -10,9 +10,19 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17362,
-      "forks": 1948,
-      "added_stars": "9,141 stars this month"
+      "stars": 17471,
+      "forks": 1965,
+      "added_stars": "9,235 stars this month"
+    },
+    {
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14388,
+      "forks": 557,
+      "added_stars": "3,382 stars this month"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -20,19 +30,19 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10681,
-      "forks": 726,
-      "added_stars": "2,777 stars this month"
+      "stars": 10692,
+      "forks": 729,
+      "added_stars": "2,786 stars this month"
     },
     {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "title": "atuinsh / atuin",
+      "url": "https://github.com/atuinsh/atuin",
+      "description": "✨ Making your shell magical",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 105593,
-      "forks": 16017,
-      "added_stars": "8,627 stars this month"
+      "stars": 31145,
+      "forks": 933,
+      "added_stars": "657 stars this month"
     },
     {
       "title": "cjpais / Handy",
@@ -40,9 +50,9 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29383,
-      "forks": 2596,
-      "added_stars": "3,097 stars this month"
+      "stars": 29447,
+      "forks": 2608,
+      "added_stars": "3,087 stars this month"
     },
     {
       "title": "dani-garcia / vaultwarden",
@@ -50,29 +60,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 65335,
-      "forks": 3108,
-      "added_stars": "1,864 stars this month"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30995,
-      "forks": 1379,
-      "added_stars": "1,342 stars this month"
-    },
-    {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14344,
-      "forks": 1470,
-      "added_stars": "4,658 stars this month"
+      "stars": 65383,
+      "forks": 3111,
+      "added_stars": "1,859 stars this month"
     },
     {
       "title": "jdx / mise",
@@ -80,9 +70,39 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32336,
-      "forks": 1354,
-      "added_stars": "1,733 stars this month"
+      "stars": 32387,
+      "forks": 1358,
+      "added_stars": "1,731 stars this month"
+    },
+    {
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31031,
+      "forks": 1382,
+      "added_stars": "1,343 stars this month"
+    },
+    {
+      "title": "DioxusLabs / dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 38674,
+      "forks": 1842,
+      "added_stars": "2,051 stars this month"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 105805,
+      "forks": 16053,
+      "added_stars": "8,495 stars this month"
     },
     {
       "title": "apache / datafusion",
@@ -90,8 +110,28 @@
       "description": "Apache DataFusion SQL Query Engine",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9135,
-      "forks": 2306,
+      "stars": 9139,
+      "forks": 2309,
+      "added_stars": "182 stars this month"
+    },
+    {
+      "title": "rivet-dev / agentos",
+      "url": "https://github.com/rivet-dev/agentos",
+      "description": "Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4379,
+      "forks": 220,
+      "added_stars": "758 stars this month"
+    },
+    {
+      "title": "modelcontextprotocol / rust-sdk",
+      "url": "https://github.com/modelcontextprotocol/rust-sdk",
+      "description": "The official Rust SDK for the Model Context Protocol",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3799,
+      "forks": 607,
       "added_stars": "175 stars this month"
     },
     {
@@ -100,9 +140,19 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26835,
-      "forks": 3273,
-      "added_stars": "26,427 stars this month"
+      "stars": 27206,
+      "forks": 3345,
+      "added_stars": "26,984 stars this month"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14552,
+      "forks": 1488,
+      "added_stars": "4,694 stars this month"
     },
     {
       "title": "astral-sh / uv",
@@ -110,29 +160,9 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 88694,
-      "forks": 3483,
-      "added_stars": "1,518 stars this month"
-    },
-    {
-      "title": "DioxusLabs / dioxus",
-      "url": "https://github.com/DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 38637,
-      "forks": 1838,
-      "added_stars": "2,021 stars this month"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 120260,
-      "forks": 18426,
-      "added_stars": "2,445 stars this month"
+      "stars": 88735,
+      "forks": 3486,
+      "added_stars": "1,499 stars this month"
     },
     {
       "title": "max-sixty / worktrunk",
@@ -140,9 +170,19 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6409,
+      "stars": 6429,
       "forks": 232,
-      "added_stars": "615 stars this month"
+      "added_stars": "634 stars this month"
+    },
+    {
+      "title": "BoundaryML / baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The programming language for agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8991,
+      "forks": 478,
+      "added_stars": "467 stars this month"
     },
     {
       "title": "tonhowtf / omniget",
@@ -150,49 +190,9 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8622,
-      "forks": 737,
-      "added_stars": "1,958 stars this month"
-    },
-    {
-      "title": "andrewrabert / jellium-desktop",
-      "url": "https://github.com/andrewrabert/jellium-desktop",
-      "description": "An unofficial desktop client for Jellyfin",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1770,
-      "forks": 135,
-      "added_stars": "704 stars this month"
-    },
-    {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14368,
-      "forks": 556,
-      "added_stars": "3,369 stars this month"
-    },
-    {
-      "title": "risingwavelabs / risingwave",
-      "url": "https://github.com/risingwavelabs/risingwave",
-      "description": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9254,
-      "forks": 814,
-      "added_stars": "104 stars this month"
-    },
-    {
-      "title": "tokio-rs / tokio",
-      "url": "https://github.com/tokio-rs/tokio",
-      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32925,
-      "forks": 3204,
-      "added_stars": "460 stars this month"
+      "stars": 8649,
+      "forks": 740,
+      "added_stars": "1,978 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:04:55 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:02:09 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,9 +10,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22945,
-      "forks": 1426,
-      "added_stars": "12 stars today"
+      "stars": 22985,
+      "forks": 1430,
+      "added_stars": "41 stars today"
     },
     {
       "title": "googleapis / googleapis",
@@ -20,9 +20,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8678,
-      "forks": 2615,
-      "added_stars": "1 star today"
+      "stars": 8680,
+      "forks": 2614,
+      "added_stars": "2 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -31,8 +31,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 379,
-      "forks": 844,
+      "forks": 845,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 685,
+      "forks": 709,
+      "added_stars": "1 star today"
     },
     {
       "title": "bazel-contrib / rules_distroless",
@@ -42,16 +52,6 @@
       "languageColor": "#76d275",
       "stars": 100,
       "forks": 70,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "uber / hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 398,
-      "forks": 87,
       "added_stars": "0 stars today"
     },
     {
@@ -75,6 +75,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3936,
+      "forks": 302,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "openconfig / gnoi",
       "url": "https://github.com/openconfig/gnoi",
       "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
@@ -85,23 +95,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "aspect-build / rules_lint",
-      "url": "https://github.com/aspect-build/rules_lint",
-      "description": "Run static analysis tools with Bazel",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 151,
-      "forks": 123,
+      "stars": 833,
+      "forks": 642,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bazel-contrib / toolchains_llvm",
+      "url": "https://github.com/bazel-contrib/toolchains_llvm",
+      "description": "LLVM toolchain for bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 370,
+      "forks": 281,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 271,
-      "forks": 84,
+      "stars": 398,
+      "forks": 87,
       "added_stars": "0 stars today"
     },
     {
@@ -115,33 +135,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 244,
-      "forks": 191,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3935,
-      "forks": 302,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 833,
-      "forks": 642,
+      "stars": 271,
+      "forks": 84,
       "added_stars": "0 stars today"
     }
   ]

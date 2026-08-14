@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:07:16 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:04:30 GMT",
   "items": [
     {
       "title": "koreader / koreader",
@@ -10,9 +10,9 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 28949,
-      "forks": 1866,
-      "added_stars": "303 stars this week"
+      "stars": 28973,
+      "forks": 1869,
+      "added_stars": "239 stars this week"
     },
     {
       "title": "amzxyz / rime-wanxiang",
@@ -20,9 +20,9 @@
       "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4365,
+      "stars": 4373,
       "forks": 162,
-      "added_stars": "62 stars this week"
+      "added_stars": "70 stars this week"
     },
     {
       "title": "neovim / nvim-lspconfig",
@@ -30,9 +30,19 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13846,
+      "stars": 13848,
       "forks": 2482,
-      "added_stars": "23 stars this week"
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "MeanderingProgrammer / render-markdown.nvim",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+      "description": "Improve viewing Markdown in Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4914,
+      "forks": 131,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "Kong / kong",
@@ -40,19 +50,9 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 43970,
-      "forks": 5200,
-      "added_stars": "56 stars this week"
-    },
-    {
-      "title": "jitsi / docker-jitsi-meet",
-      "url": "https://github.com/jitsi/docker-jitsi-meet",
-      "description": "Jitsi Meet on Docker",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3596,
-      "forks": 1570,
-      "added_stars": "3 stars this week"
+      "stars": 43981,
+      "forks": 5205,
+      "added_stars": "54 stars this week"
     },
     {
       "title": "miscusi-peek / cheatengine-mcp-bridge",
@@ -60,9 +60,59 @@
       "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 1211,
-      "forks": 186,
-      "added_stars": "53 stars this week"
+      "stars": 1222,
+      "forks": 187,
+      "added_stars": "58 stars this week"
+    },
+    {
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 27151,
+      "forks": 1811,
+      "added_stars": "65 stars this week"
+    },
+    {
+      "title": "jitsi / docker-jitsi-meet",
+      "url": "https://github.com/jitsi/docker-jitsi-meet",
+      "description": "Jitsi Meet on Docker",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3597,
+      "forks": 1572,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 478,
+      "forks": 76,
+      "added_stars": "79 stars this week"
+    },
+    {
+      "title": "AndyHazz / bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 584,
+      "forks": 17,
+      "added_stars": "56 stars this week"
+    },
+    {
+      "title": "stevearc / conform.nvim",
+      "url": "https://github.com/stevearc/conform.nvim",
+      "description": "Lightweight yet powerful formatter plugin for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5300,
+      "forks": 306,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "ibhagwan / fzf-lua",
@@ -71,68 +121,8 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": 4416,
-      "forks": 263,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 459,
-      "forks": 75,
-      "added_stars": "74 stars this week"
-    },
-    {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 27146,
-      "forks": 1813,
-      "added_stars": "71 stars this week"
-    },
-    {
-      "title": "EllesmereGaming / EllesmereUI",
-      "url": "https://github.com/EllesmereGaming/EllesmereUI",
-      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 155,
-      "forks": 171,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "rebelot / kanagawa.nvim",
-      "url": "https://github.com/rebelot/kanagawa.nvim",
-      "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6325,
-      "forks": 233,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "beyond-all-reason / Beyond-All-Reason",
-      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-      "description": "Main game repository for Beyond All Reason.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4146,
-      "forks": 651,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "nvim-flutter / flutter-tools.nvim",
-      "url": "https://github.com/nvim-flutter/flutter-tools.nvim",
-      "description": "Tools to help create flutter apps in neovim using the native lsp",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1398,
-      "forks": 116,
-      "added_stars": "0 stars this week"
+      "forks": 264,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "Footagesus / WindUI",
@@ -141,8 +131,18 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": 326,
-      "forks": 309,
+      "forks": 310,
       "added_stars": "7 stars this week"
+    },
+    {
+      "title": "AnthonyGress / zen_ui.koplugin",
+      "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
+      "description": "A clean, minimal UI for KOReader",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 481,
+      "forks": 31,
+      "added_stars": "38 stars this week"
     }
   ]
 }

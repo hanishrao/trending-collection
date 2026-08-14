@@ -4,26 +4,11 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 13 Aug 2026 04:07:16 GMT</pubDate>
+  <pubDate>Fri, 14 Aug 2026 04:04:30 GMT</pubDate>
   <item>
     <title>verilator / verilator</title>
     <link>https://github.com/verilator/verilator</link>
     <description>Verilator open-source SystemVerilog simulator and lint system</description>
-  </item>
-  <item>
-    <title>chipsalliance / caliptra-ss</title>
-    <link>https://github.com/chipsalliance/caliptra-ss</link>
-    <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
-  </item>
-  <item>
-    <title>chipsalliance / i3c-core</title>
-    <link>https://github.com/chipsalliance/i3c-core</link>
-    <description></description>
-  </item>
-  <item>
-    <title>chipsalliance / adams-bridge</title>
-    <link>https://github.com/chipsalliance/adams-bridge</link>
-    <description>Post-Quantum Cryptography IP Core (Crystals-Dilithium)</description>
   </item>
   <item>
     <title>pulp-platform / riscv-dbg</title>
@@ -31,19 +16,19 @@
     <description>RISC-V Debug Support for our PULP RISC-V Cores</description>
   </item>
   <item>
-    <title>chipsalliance / caliptra-rtl</title>
-    <link>https://github.com/chipsalliance/caliptra-rtl</link>
-    <description>HW Design Collateral for Caliptra RoT IP</description>
+    <title>chipsalliance / caliptra-ss</title>
+    <link>https://github.com/chipsalliance/caliptra-ss</link>
+    <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
   </item>
   <item>
-    <title>lowRISC / ibex</title>
-    <link>https://github.com/lowRISC/ibex</link>
-    <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
+    <title>chipsalliance / adams-bridge</title>
+    <link>https://github.com/chipsalliance/adams-bridge</link>
+    <description>Post-Quantum Cryptography IP Core (Crystals-Dilithium)</description>
   </item>
   <item>
-    <title>pulp-platform / axi</title>
-    <link>https://github.com/pulp-platform/axi</link>
-    <description>AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</description>
+    <title>chipsalliance / i3c-core</title>
+    <link>https://github.com/chipsalliance/i3c-core</link>
+    <description></description>
   </item>
   <item>
     <title>pulp-platform / fpu_div_sqrt_mvp</title>
@@ -56,24 +41,39 @@
     <description>OpenTitan: Open source silicon root of trust</description>
   </item>
   <item>
-    <title>openhwgroup / cvfpu</title>
-    <link>https://github.com/openhwgroup/cvfpu</link>
-    <description>Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</description>
-  </item>
-  <item>
     <title>pulp-platform / axi_riscv_atomics</title>
     <link>https://github.com/pulp-platform/axi_riscv_atomics</link>
     <description>AXI Adapter(s) for RISC-V Atomic Operations</description>
   </item>
   <item>
-    <title>pulp-platform / common_cells</title>
-    <link>https://github.com/pulp-platform/common_cells</link>
-    <description>Common SystemVerilog components</description>
+    <title>chipsalliance / caliptra-rtl</title>
+    <link>https://github.com/chipsalliance/caliptra-rtl</link>
+    <description>HW Design Collateral for Caliptra RoT IP</description>
+  </item>
+  <item>
+    <title>lowRISC / ibex</title>
+    <link>https://github.com/lowRISC/ibex</link>
+    <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
+  </item>
+  <item>
+    <title>openhwgroup / cvfpu</title>
+    <link>https://github.com/openhwgroup/cvfpu</link>
+    <description>Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</description>
+  </item>
+  <item>
+    <title>pulp-platform / axi</title>
+    <link>https://github.com/pulp-platform/axi</link>
+    <description>AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</description>
   </item>
   <item>
     <title>adam-maj / tiny-gpu</title>
     <link>https://github.com/adam-maj/tiny-gpu</link>
     <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
+  </item>
+  <item>
+    <title>pulp-platform / register_interface</title>
+    <link>https://github.com/pulp-platform/register_interface</link>
+    <description>Generic Register Interface (contains various adapters)</description>
   </item>
 </channel>
 </rss>

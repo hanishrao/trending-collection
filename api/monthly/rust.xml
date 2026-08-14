@@ -4,11 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 13 Aug 2026 04:09:36 GMT</pubDate>
+  <pubDate>Fri, 14 Aug 2026 04:06:43 GMT</pubDate>
   <item>
     <title>1jehuang / jcode</title>
     <link>https://github.com/1jehuang/jcode</link>
     <description>The most RAM efficient harness</description>
+  </item>
+  <item>
+    <title>Automattic / harper</title>
+    <link>https://github.com/Automattic/harper</link>
+    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
   </item>
   <item>
     <title>Pumpkin-MC / Pumpkin</title>
@@ -16,9 +21,9 @@
     <description>Empowering everyone to host fast and efficient Minecraft servers.</description>
   </item>
   <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
+    <title>atuinsh / atuin</title>
+    <link>https://github.com/atuinsh/atuin</link>
+    <description>✨ Making your shell magical</description>
   </item>
   <item>
     <title>cjpais / Handy</title>
@@ -31,34 +36,14 @@
     <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
   </item>
   <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-  </item>
-  <item>
-    <title>t8y2 / dbx</title>
-    <link>https://github.com/t8y2/dbx</link>
-    <description>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
-  </item>
-  <item>
     <title>jdx / mise</title>
     <link>https://github.com/jdx/mise</link>
     <description>dev tools, env vars, task runner</description>
   </item>
   <item>
-    <title>apache / datafusion</title>
-    <link>https://github.com/apache/datafusion</link>
-    <description>Apache DataFusion SQL Query Engine</description>
-  </item>
-  <item>
-    <title>block / buzz</title>
-    <link>https://github.com/block/buzz</link>
-    <description>A hive mind communication platform</description>
-  </item>
-  <item>
-    <title>astral-sh / uv</title>
-    <link>https://github.com/astral-sh/uv</link>
-    <description>An extremely fast Python package and project manager, written in Rust.</description>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
     <title>DioxusLabs / dioxus</title>
@@ -66,9 +51,39 @@
     <description>Fullstack app framework for web, desktop, and mobile.</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+    <title>openai / codex</title>
+    <link>https://github.com/openai/codex</link>
+    <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>apache / datafusion</title>
+    <link>https://github.com/apache/datafusion</link>
+    <description>Apache DataFusion SQL Query Engine</description>
+  </item>
+  <item>
+    <title>rivet-dev / agentos</title>
+    <link>https://github.com/rivet-dev/agentos</link>
+    <description>Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates.</description>
+  </item>
+  <item>
+    <title>modelcontextprotocol / rust-sdk</title>
+    <link>https://github.com/modelcontextprotocol/rust-sdk</link>
+    <description>The official Rust SDK for the Model Context Protocol</description>
+  </item>
+  <item>
+    <title>block / buzz</title>
+    <link>https://github.com/block/buzz</link>
+    <description>A hive mind communication platform</description>
+  </item>
+  <item>
+    <title>t8y2 / dbx</title>
+    <link>https://github.com/t8y2/dbx</link>
+    <description>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
+  </item>
+  <item>
+    <title>astral-sh / uv</title>
+    <link>https://github.com/astral-sh/uv</link>
+    <description>An extremely fast Python package and project manager, written in Rust.</description>
   </item>
   <item>
     <title>max-sixty / worktrunk</title>
@@ -76,29 +91,14 @@
     <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
+    <title>BoundaryML / baml</title>
+    <link>https://github.com/BoundaryML/baml</link>
+    <description>The programming language for agents</description>
+  </item>
+  <item>
     <title>tonhowtf / omniget</title>
     <link>https://github.com/tonhowtf/omniget</link>
     <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
-  </item>
-  <item>
-    <title>andrewrabert / jellium-desktop</title>
-    <link>https://github.com/andrewrabert/jellium-desktop</link>
-    <description>An unofficial desktop client for Jellyfin</description>
-  </item>
-  <item>
-    <title>Automattic / harper</title>
-    <link>https://github.com/Automattic/harper</link>
-    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-  </item>
-  <item>
-    <title>risingwavelabs / risingwave</title>
-    <link>https://github.com/risingwavelabs/risingwave</link>
-    <description>Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.</description>
-  </item>
-  <item>
-    <title>tokio-rs / tokio</title>
-    <link>https://github.com/tokio-rs/tokio</link>
-    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
 </channel>
 </rss>

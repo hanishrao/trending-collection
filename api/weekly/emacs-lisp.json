@@ -2,47 +2,27 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:07:16 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:04:30 GMT",
   "items": [
     {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "title": "oantolin / embark",
+      "url": "https://github.com/oantolin/embark",
+      "description": "Emacs Mini-Buffer Actions Rooted in Keymaps",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24578,
-      "forks": 4837,
-      "added_stars": "6 stars this week"
+      "stars": 1219,
+      "forks": 69,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
+      "title": "org-roam / org-roam",
+      "url": "https://github.com/org-roam/org-roam",
+      "description": "Rudimentary Roam replica with Org-mode",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22573,
-      "forks": 3159,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3478,
-      "forks": 423,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "qjcg / awesome-typst",
-      "url": "https://github.com/qjcg/awesome-typst",
-      "description": "Awesome Typst Links",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3558,
-      "forks": 166,
-      "added_stars": "10 stars this week"
+      "stars": 6010,
+      "forks": 490,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "Wilfred / elisp-refs",
@@ -55,34 +35,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "oantolin / embark",
-      "url": "https://github.com/oantolin/embark",
-      "description": "Emacs Mini-Buffer Actions Rooted in Keymaps",
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1218,
-      "forks": 69,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1722,
-      "forks": 216,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "org-roam / org-roam",
-      "url": "https://github.com/org-roam/org-roam",
-      "description": "Rudimentary Roam replica with Org-mode",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 6011,
-      "forks": 490,
-      "added_stars": "5 stars this week"
+      "stars": 22576,
+      "forks": 3159,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "rainstormstudio / nerd-icons.el",
@@ -95,6 +55,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3478,
+      "forks": 423,
+      "added_stars": "10 stars this week"
+    },
+    {
       "title": "MatthewZMD / aidermacs",
       "url": "https://github.com/MatthewZMD/aidermacs",
       "description": "AI Pair Programming in Emacs with Aider",
@@ -105,14 +75,44 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "title": "protesilaos / modus-themes",
+      "url": "https://github.com/protesilaos/modus-themes",
+      "description": "Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7195,
-      "forks": 874,
-      "added_stars": "10 stars this week"
+      "stars": 895,
+      "forks": 74,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "dgutov / diff-hl",
+      "url": "https://github.com/dgutov/diff-hl",
+      "description": "Emacs package for highlighting uncommitted changes",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1108,
+      "forks": 69,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "Fanael / rainbow-delimiters",
+      "url": "https://github.com/Fanael/rainbow-delimiters",
+      "description": "Emacs rainbow delimiters mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 754,
+      "forks": 35,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "joaotavora / yasnippet",
+      "url": "https://github.com/joaotavora/yasnippet",
+      "description": "A template system for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2956,
+      "forks": 316,
+      "added_stars": "1 star this week"
     },
     {
       "title": "dominikh / go-mode.el",
@@ -125,14 +125,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "jwiegley / emacs-async",
-      "url": "https://github.com/jwiegley/emacs-async",
-      "description": "Simple library for asynchronous processing in Emacs",
+      "title": "akermu / emacs-libvterm",
+      "url": "https://github.com/akermu/emacs-libvterm",
+      "description": "Emacs libvterm integration",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 910,
-      "forks": 72,
-      "added_stars": "0 stars this week"
+      "stars": 2001,
+      "forks": 174,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "Wilfred / helpful",
@@ -142,17 +142,57 @@
       "languageColor": "#c065db",
       "stars": 1296,
       "forks": 72,
-      "added_stars": "3 stars this week"
+      "added_stars": "1 star this week"
     },
     {
-      "title": "dgutov / diff-hl",
-      "url": "https://github.com/dgutov/diff-hl",
-      "description": "Emacs package for highlighting uncommitted changes",
+      "title": "justbur / emacs-which-key",
+      "url": "https://github.com/justbur/emacs-which-key",
+      "description": "Emacs package that displays available keybindings in popup",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1108,
-      "forks": 69,
-      "added_stars": "2 stars this week"
+      "stars": 1795,
+      "forks": 86,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1726,
+      "forks": 216,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "radian-software / apheleia",
+      "url": "https://github.com/radian-software/apheleia",
+      "description": "🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 774,
+      "forks": 100,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "dnouri / pi-coding-agent",
+      "url": "https://github.com/dnouri/pi-coding-agent",
+      "description": "Emacs frontend for the Pi coding agent",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 255,
+      "forks": 33,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2965,
+      "forks": 2794,
+      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -4,11 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 13 Aug 2026 04:09:36 GMT</pubDate>
+  <pubDate>Fri, 14 Aug 2026 04:06:43 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
     <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+  </item>
+  <item>
+    <title>chenyme / grok2api</title>
+    <link>https://github.com/chenyme/grok2api</link>
+    <description>Multi-account API gateway for Grok Build, Grok Web, and Grok Console</description>
   </item>
   <item>
     <title>cli / cli</title>
@@ -19,11 +24,6 @@
     <title>tailscale / tailscale</title>
     <link>https://github.com/tailscale/tailscale</link>
     <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-  </item>
-  <item>
-    <title>traefik / traefik</title>
-    <link>https://github.com/traefik/traefik</link>
-    <description>The Cloud Native Application Proxy</description>
   </item>
   <item>
     <title>gastownhall / beads</title>
@@ -41,24 +41,14 @@
     <description>Open Source realtime backend in 1 file</description>
   </item>
   <item>
+    <title>traefik / traefik</title>
+    <link>https://github.com/traefik/traefik</link>
+    <description>The Cloud Native Application Proxy</description>
+  </item>
+  <item>
     <title>rclone / rclone</title>
     <link>https://github.com/rclone/rclone</link>
     <description>&quot;rsync for cloud storage&quot; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</description>
-  </item>
-  <item>
-    <title>gosom / google-maps-scraper</title>
-    <link>https://github.com/gosom/google-maps-scraper</link>
-    <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
-  </item>
-  <item>
-    <title>infiniflow / ragflow</title>
-    <link>https://github.com/infiniflow/ragflow</link>
-    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
-  </item>
-  <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
   </item>
   <item>
     <title>schollz / croc</title>
@@ -71,29 +61,19 @@
     <description>Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</description>
   </item>
   <item>
-    <title>pranshuparmar / witr</title>
-    <link>https://github.com/pranshuparmar/witr</link>
-    <description>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</description>
-  </item>
-  <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-  </item>
-  <item>
-    <title>chenyme / grok2api</title>
-    <link>https://github.com/chenyme/grok2api</link>
-    <description>Multi-account API gateway for Grok Build, Grok Web, and Grok Console</description>
-  </item>
-  <item>
     <title>helm / helm</title>
     <link>https://github.com/helm/helm</link>
     <description>The Kubernetes Package Manager</description>
   </item>
   <item>
-    <title>AlexxIT / go2rtc</title>
-    <link>https://github.com/AlexxIT/go2rtc</link>
-    <description>Ultimate camera streaming application</description>
+    <title>pranshuparmar / witr</title>
+    <link>https://github.com/pranshuparmar/witr</link>
+    <description>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</description>
+  </item>
+  <item>
+    <title>infiniflow / ragflow</title>
+    <link>https://github.com/infiniflow/ragflow</link>
+    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
   </item>
   <item>
     <title>podman-container-tools / podman</title>
@@ -101,9 +81,14 @@
     <description>Podman: A tool for managing OCI containers and pods.</description>
   </item>
   <item>
-    <title>mudler / LocalAI</title>
-    <link>https://github.com/mudler/LocalAI</link>
-    <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
+    <title>ollama / ollama</title>
+    <link>https://github.com/ollama/ollama</link>
+    <description>Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+  </item>
+  <item>
+    <title>AlexxIT / go2rtc</title>
+    <link>https://github.com/AlexxIT/go2rtc</link>
+    <description>Ultimate camera streaming application</description>
   </item>
   <item>
     <title>sundowndev / phoneinfoga</title>
@@ -111,14 +96,29 @@
     <description>Information gathering framework for phone numbers</description>
   </item>
   <item>
+    <title>fatedier / frp</title>
+    <link>https://github.com/fatedier/frp</link>
+    <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
+  </item>
+  <item>
+    <title>mudler / LocalAI</title>
+    <link>https://github.com/mudler/LocalAI</link>
+    <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
+  </item>
+  <item>
+    <title>github / github-mcp-server</title>
+    <link>https://github.com/github/github-mcp-server</link>
+    <description>GitHub&#x27;s official MCP Server</description>
+  </item>
+  <item>
     <title>livekit / livekit</title>
     <link>https://github.com/livekit/livekit</link>
     <description>End-to-end realtime stack for connecting humans and AI</description>
   </item>
   <item>
-    <title>coder / coder</title>
-    <link>https://github.com/coder/coder</link>
-    <description>Secure environments for developers and their agents</description>
+    <title>Tencent / WeKnora</title>
+    <link>https://github.com/Tencent/WeKnora</link>
+    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
   </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 13 Aug 2026 04:09:36 GMT</pubDate>
+  <pubDate>Fri, 14 Aug 2026 04:06:43 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
@@ -31,11 +31,6 @@
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>tpope / vim-rhubarb</title>
-    <link>https://github.com/tpope/vim-rhubarb</link>
-    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
-  </item>
-  <item>
     <title>morhetz / gruvbox</title>
     <link>https://github.com/morhetz/gruvbox</link>
     <description>Retro groove color scheme for Vim</description>
@@ -44,6 +39,11 @@
     <title>fatih / vim-go</title>
     <link>https://github.com/fatih/vim-go</link>
     <description>Go development plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
     <title>dense-analysis / ale</title>
@@ -56,6 +56,11 @@
     <description>sensible.vim: Defaults everyone can agree on</description>
   </item>
   <item>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
+  </item>
+  <item>
     <title>derekhe / msfs2020-map-enhancement</title>
     <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
     <description>MSFS2020 Map Enhancement</description>
@@ -66,9 +71,9 @@
     <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+    <title>preservim / nerdtree</title>
+    <link>https://github.com/preservim/nerdtree</link>
+    <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
     <title>chrisbra / csv.vim</title>
@@ -76,9 +81,9 @@
     <description>A Filetype plugin for csv files</description>
   </item>
   <item>
-    <title>preservim / nerdtree</title>
-    <link>https://github.com/preservim/nerdtree</link>
-    <description>A tree explorer plugin for vim.</description>
+    <title>VundleVim / Vundle.vim</title>
+    <link>https://github.com/VundleVim/Vundle.vim</link>
+    <description>Vundle, the plug-in manager for Vim</description>
   </item>
   <item>
     <title>amix / vimrc</title>
@@ -86,29 +91,24 @@
     <description>The ultimate Vim configuration (vimrc)</description>
   </item>
   <item>
-    <title>prabirshrestha / vim-lsp</title>
-    <link>https://github.com/prabirshrestha/vim-lsp</link>
-    <description>async language server protocol plugin for vim and neovim</description>
-  </item>
-  <item>
-    <title>romainl / vim-cool</title>
-    <link>https://github.com/romainl/vim-cool</link>
-    <description>A very simple plugin that makes hlsearch more useful.</description>
-  </item>
-  <item>
-    <title>junegunn / vim-easy-align</title>
-    <link>https://github.com/junegunn/vim-easy-align</link>
-    <description>🌻 A Vim alignment plugin</description>
-  </item>
-  <item>
     <title>ggml-org / llama.vim</title>
     <link>https://github.com/ggml-org/llama.vim</link>
     <description>Vim plugin for LLM-assisted code/text completion</description>
   </item>
   <item>
+    <title>prabirshrestha / vim-lsp</title>
+    <link>https://github.com/prabirshrestha/vim-lsp</link>
+    <description>async language server protocol plugin for vim and neovim</description>
+  </item>
+  <item>
     <title>lambdalisue / vim-suda</title>
     <link>https://github.com/lambdalisue/vim-suda</link>
     <description>🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</description>
+  </item>
+  <item>
+    <title>dracula / vim</title>
+    <link>https://github.com/dracula/vim</link>
+    <description>🧛🏻‍♂️ Dark theme for Vim</description>
   </item>
 </channel>
 </rss>

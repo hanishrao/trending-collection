@@ -2,17 +2,17 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:04:55 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:02:09 GMT",
   "items": [
     {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 101771,
-      "forks": 7020,
-      "added_stars": "24 stars today"
+      "stars": 35753,
+      "forks": 1938,
+      "added_stars": "3 stars today"
     },
     {
       "title": "morhetz / gruvbox",
@@ -20,19 +20,99 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15675,
-      "forks": 1127,
+      "stars": 15678,
+      "forks": 1128,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11675,
+      "forks": 795,
       "added_stars": "3 stars today"
     },
     {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35750,
-      "forks": 1937,
-      "added_stars": "5 stars today"
+      "stars": 40738,
+      "forks": 6116,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "tpope / vim-eunuch",
+      "url": "https://github.com/tpope/vim-eunuch",
+      "description": "eunuch.vim: Helpers for UNIX",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1884,
+      "forks": 80,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lambdalisue / vim-suda",
+      "url": "https://github.com/lambdalisue/vim-suda",
+      "description": "🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 849,
+      "forks": 28,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "fatih / vim-go",
+      "url": "https://github.com/fatih/vim-go",
+      "description": "Go development plugin for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 16219,
+      "forks": 1429,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 101791,
+      "forks": 7021,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "VundleVim / Vundle.vim",
+      "url": "https://github.com/VundleVim/Vundle.vim",
+      "description": "Vundle, the plug-in manager for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 23927,
+      "forks": 2539,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4168,
+      "forks": 145,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "derekhe / msfs2020-map-enhancement",
+      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
+      "description": "MSFS2020 Map Enhancement",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 354,
+      "forks": 45,
+      "added_stars": "0 stars today"
     },
     {
       "title": "dracula / vim",
@@ -50,179 +130,9 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21761,
-      "forks": 1075,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "tpope / vim-unimpaired",
-      "url": "https://github.com/tpope/vim-unimpaired",
-      "description": "unimpaired.vim: Pairs of handy bracket mappings",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 3464,
-      "forks": 206,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4164,
-      "forks": 146,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "tpope / vim-surround",
-      "url": "https://github.com/tpope/vim-surround",
-      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14097,
-      "forks": 448,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "mg979 / vim-visual-multi",
-      "url": "https://github.com/mg979/vim-visual-multi",
-      "description": "Multiple cursors plugin for vim/neovim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4871,
-      "forks": 98,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vim-test / vim-test",
-      "url": "https://github.com/vim-test/vim-test",
-      "description": "Run your tests at the speed of thought",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 3164,
-      "forks": 409,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "fatih / vim-go",
-      "url": "https://github.com/fatih/vim-go",
-      "description": "Go development plugin for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 16219,
-      "forks": 1429,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11672,
-      "forks": 795,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "vim-airline / vim-airline-themes",
-      "url": "https://github.com/vim-airline/vim-airline-themes",
-      "description": "A collection of themes for vim-airline",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2069,
-      "forks": 347,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tpope / vim-rhubarb",
-      "url": "https://github.com/tpope/vim-rhubarb",
-      "description": "rhubarb.vim: GitHub extension for fugitive.vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1028,
-      "forks": 37,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vim / vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 40737,
-      "forks": 6112,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "tpope / vim-repeat",
-      "url": "https://github.com/tpope/vim-repeat",
-      "description": "repeat.vim: enable repeating supported plugin maps with \".\"",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2713,
-      "forks": 85,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rust-lang / rust.vim",
-      "url": "https://github.com/rust-lang/rust.vim",
-      "description": "Vim configuration for Rust.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4181,
-      "forks": 321,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "junegunn / vim-easy-align",
-      "url": "https://github.com/junegunn/vim-easy-align",
-      "description": "🌻 A Vim alignment plugin",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4241,
-      "forks": 122,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tpope / vim-commentary",
-      "url": "https://github.com/tpope/vim-commentary",
-      "description": "commentary.vim: comment stuff out",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 6161,
-      "forks": 211,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ggml-org / llama.vim",
-      "url": "https://github.com/ggml-org/llama.vim",
-      "description": "Vim plugin for LLM-assisted code/text completion",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2144,
-      "forks": 116,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "derekhe / msfs2020-map-enhancement",
-      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
-      "description": "MSFS2020 Map Enhancement",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 354,
-      "forks": 45,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vim-airline / vim-airline",
-      "url": "https://github.com/vim-airline/vim-airline",
-      "description": "lean & mean status/tabline for vim that's light as air",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 17960,
-      "forks": 1099,
-      "added_stars": "2 stars today"
+      "stars": 21762,
+      "forks": 1076,
+      "added_stars": "1 star today"
     }
   ]
 }

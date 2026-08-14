@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:04:55 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:02:09 GMT",
   "items": [
     {
       "title": "macro-inc / macro",
@@ -10,119 +10,29 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1996,
-      "forks": 234,
-      "added_stars": "227 stars today"
+      "stars": 2672,
+      "forks": 281,
+      "added_stars": "1,239 stars today"
     },
     {
       "title": "NVIDIA-NeMo / Switchyard",
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 900,
-      "forks": 94,
-      "added_stars": "421 stars today"
+      "stars": 1269,
+      "forks": 113,
+      "added_stars": "408 stars today"
     },
     {
-      "title": "AntigmaLabs / ante",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "description": "Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints.",
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1396,
-      "forks": 32,
-      "added_stars": "154 stars today"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 89825,
-      "forks": 11942,
-      "added_stars": "165 stars today"
-    },
-    {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 75935,
-      "forks": 4776,
-      "added_stars": "205 stars today"
-    },
-    {
-      "title": "BoundaryML / baml",
-      "url": "https://github.com/BoundaryML/baml",
-      "description": "The programming language for agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8950,
-      "forks": 474,
-      "added_stars": "44 stars today"
-    },
-    {
-      "title": "1jehuang / jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17362,
-      "forks": 1948,
-      "added_stars": "212 stars today"
-    },
-    {
-      "title": "astral-sh / ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 49172,
-      "forks": 2320,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "git-ai-project / git-ai",
-      "url": "https://github.com/git-ai-project/git-ai",
-      "description": "A Git extension for tracking the AI-generated code in your repos",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2448,
-      "forks": 266,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 105592,
-      "forks": 16017,
-      "added_stars": "216 stars today"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30995,
-      "forks": 1379,
-      "added_stars": "53 stars today"
-    },
-    {
-      "title": "cocoindex-io / cocoindex",
-      "url": "https://github.com/cocoindex-io/cocoindex",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11289,
-      "forks": 882,
-      "added_stars": "44 stars today"
+      "stars": 120384,
+      "forks": 18440,
+      "added_stars": "130 stars today"
     },
     {
       "title": "juspay / hyperswitch",
@@ -130,9 +40,139 @@
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 43470,
-      "forks": 5049,
+      "stars": 43485,
+      "forks": 5058,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 76069,
+      "forks": 4788,
+      "added_stars": "160 stars today"
+    },
+    {
+      "title": "waditu / czsc",
+      "url": "https://github.com/waditu/czsc",
+      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5819,
+      "forks": 1673,
+      "added_stars": "50 stars today"
+    },
+    {
+      "title": "superradcompany / microsandbox",
+      "url": "https://github.com/superradcompany/microsandbox",
+      "description": "🧱 easy fast local-first microVM runtime and library",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7452,
+      "forks": 394,
+      "added_stars": "100 stars today"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 88594,
+      "forks": 10047,
+      "added_stars": "104 stars today"
+    },
+    {
+      "title": "cocoindex-io / cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11302,
+      "forks": 883,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "kenforthewin / atomic",
+      "url": "https://github.com/kenforthewin/atomic",
+      "description": "Self-hosted, semantically-connected personal knowledge base",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1832,
+      "forks": 128,
+      "added_stars": "57 stars today"
+    },
+    {
+      "title": "git-ai-project / git-ai",
+      "url": "https://github.com/git-ai-project/git-ai",
+      "description": "A Git extension for tracking the AI-generated code in your repos",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2456,
+      "forks": 269,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "tw93 / Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 60680,
+      "forks": 12420,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "sinelaw / fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Terminal based IDE & text editor: easy, powerful and fast",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8261,
+      "forks": 305,
       "added_stars": "35 stars today"
+    },
+    {
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 89948,
+      "forks": 11955,
+      "added_stars": "149 stars today"
+    },
+    {
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25470,
+      "forks": 3333,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "windmill-labs / windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17535,
+      "forks": 1070,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "BoundaryML / baml",
+      "url": "https://github.com/BoundaryML/baml",
+      "description": "The programming language for agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8991,
+      "forks": 478,
+      "added_stars": "49 stars today"
     },
     {
       "title": "t8y2 / dbx",
@@ -140,39 +180,29 @@
       "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14344,
-      "forks": 1470,
-      "added_stars": "156 stars today"
+      "stars": 14551,
+      "forks": 1488,
+      "added_stars": "153 stars today"
     },
     {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "title": "BurntSushi / ripgrep",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8622,
-      "forks": 737,
-      "added_stars": "38 stars today"
+      "stars": 67308,
+      "forks": 2731,
+      "added_stars": "42 stars today"
     },
     {
-      "title": "longbridge / gpui-component",
-      "url": "https://github.com/longbridge/gpui-component",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "title": "EasyTier / EasyTier",
+      "url": "https://github.com/EasyTier/EasyTier",
+      "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12591,
-      "forks": 763,
-      "added_stars": "32 stars today"
-    },
-    {
-      "title": "run-llama / liteparse",
-      "url": "https://github.com/run-llama/liteparse",
-      "description": "A fast, helpful, and open-source document parser",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12077,
-      "forks": 828,
-      "added_stars": "19 stars today"
+      "stars": 13129,
+      "forks": 1322,
+      "added_stars": "44 stars today"
     }
   ]
 }

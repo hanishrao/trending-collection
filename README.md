@@ -2,32 +2,32 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3405-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3406-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-13
-_Top 3 per language · [view full day →](./2026/2026-08-13.md)_
+## 🔥 Today's Trending — 2026-08-14
+_Top 3 per language · [view full day →](./2026/2026-08-14.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 🐍 | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🐍 | Kronos: A Foundation Model for the Language of Financial Markets |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 🐍 | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [anthropics/skills](https://github.com/anthropics/skills) | 🐍 | Public repository for Agent Skills |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 🐍 | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 | [macro-inc/macro](https://github.com/macro-inc/macro) | 🦀 | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
-| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 🦀 |  |
-| [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) | 🦀 | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. |
-| [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) | ⚡ | 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 |
-| [airbnb/javascript](https://github.com/airbnb/javascript) | ⚡ | JavaScript Style Guide |
-| [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | ⚡ | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. |
+| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 🦀 | Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🦀 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | ⚡ | Breakthrough Method for Agile Ai Driven Development |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | ⚡ | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 🐹 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
-| [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) | 🐹 | #1 open-source code reviewer on Code-Review-Bench |
-| [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | 🐹 | AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
-| [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) | 🍎 | macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do |
+| [netdata/netdata](https://github.com/netdata/netdata) | 🐹 | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [compozy/compozy](https://github.com/compozy/compozy) | 🐹 | An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser. |
 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 🍎 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. |
-| [stablyai/orca](https://github.com/stablyai/orca) | 🔷 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔷 | The open-source app everyone uses to manage agents at work |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
+| [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 🍎 | Community fork of PlayCover |
+| [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 🔷 | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. |
+| [lightningpixel/modly](https://github.com/lightningpixel/modly) | 🔷 | Desktop app to generate 3D models from images using local AI — runs entirely on your GPU |
 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 🔷 | 人人都能用英语 |
 
 ---
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-13.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-14](./2026/2026-08-14.md) | [semantica](https://github.com/semantica-agi/semantica) | [macro](https://github.com/macro-inc/macro) | [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | [ragflow](https://github.com/infiniflow/ragflow) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [holaOS](https://github.com/holaboss-ai/holaOS) |
 | [2026-08-13](./2026/2026-08-13.md) | [semantica](https://github.com/semantica-agi/semantica) | [macro](https://github.com/macro-inc/macro) | [k-skill](https://github.com/NomaDamas/k-skill) | [ragflow](https://github.com/infiniflow/ragflow) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [orca](https://github.com/stablyai/orca) |
 | [2026-08-12](./2026/2026-08-12.md) | [semantica](https://github.com/semantica-agi/semantica) | [RuView](https://github.com/ruvnet/RuView) | [agent-skills](https://github.com/addyosmani/agent-skills) | [nvm-windows](https://github.com/coreybutler/nvm-windows) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [orca](https://github.com/stablyai/orca) |
 | [2026-08-11](./2026/2026-08-11.md) | [semantica](https://github.com/semantica-agi/semantica) | [RuView](https://github.com/ruvnet/RuView) | [agent-skills](https://github.com/addyosmani/agent-skills) | [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | [kaset](https://github.com/sozercan/kaset) | [paperclip](https://github.com/paperclipai/paperclip) |
 | [2026-08-10](./2026/2026-08-10.md) | [code-graph-rag](https://github.com/vitali87/code-graph-rag) | [rivet](https://github.com/rivet-dev/rivet) | [agent-skills](https://github.com/addyosmani/agent-skills) | [witr](https://github.com/pranshuparmar/witr) | [reynard-browser](https://github.com/minh-ton/reynard-browser) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
 | [2026-08-09](./2026/2026-08-09.md) | [skills](https://github.com/google/skills) | [celld](https://github.com/denoland/celld) | [agent-skills](https://github.com/addyosmani/agent-skills) | [grok2api](https://github.com/chenyme/grok2api) | [palmier-pro](https://github.com/palmier-io/palmier-pro) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
 | [2026-08-08](./2026/2026-08-08.md) | [authentik](https://github.com/goauthentik/authentik) | [mise](https://github.com/jdx/mise) | [agent-skills](https://github.com/addyosmani/agent-skills) | [grok2api](https://github.com/chenyme/grok2api) | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
-| [2026-08-07](./2026/2026-08-07.md) | [authentik](https://github.com/goauthentik/authentik) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [agent-skills](https://github.com/addyosmani/agent-skills) | [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | [remux](https://github.com/h3nock/remux) | [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -52,15 +52,15 @@ _Most days on trending, all time_
 
 | Repository | Days on Trending |
 |---|---|
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2234 |
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2235 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2013 |
-| [vapor/vapor](https://github.com/vapor/vapor) | 1724 |
+| [vapor/vapor](https://github.com/vapor/vapor) | 1725 |
 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1489 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1338 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1252 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1253 |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1248 |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) | 🐍 | 2026-08-13 | Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. |
-| [index-tts/index-tts](https://github.com/index-tts/index-tts) | 🐍 | 2026-08-13 | An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System |
-| [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) | 🐍 | 2026-08-13 | Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. |
-| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 🦀 | 2026-08-13 |  |
-| [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante) | 🦀 | 2026-08-13 | Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works like Claude Code or Codex, with none of their dependencies or model constraints. |
-| [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) | 🐹 | 2026-08-13 | #1 open-source code reviewer on Code-Review-Bench |
-| [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 🐹 | 2026-08-13 | 🧑‍🎨 A collection of Golang agentic skills that works |
-| [apple/coreai-models](https://github.com/apple/coreai-models) | 🍎 | 2026-08-13 | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 🔷 | 2026-08-13 | 人人都能用英语 |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 🔷 | 2026-08-13 | The open-source CapCut alternative |
+| [waditu/czsc](https://github.com/waditu/czsc) | 🦀 | 2026-08-14 | 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易 |
+| [compozy/compozy](https://github.com/compozy/compozy) | 🐹 | 2026-08-14 | An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser. |
+| [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 🐹 | 2026-08-14 | Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 |
+| [astaxie/TokenHub](https://github.com/astaxie/TokenHub) | 🐹 | 2026-08-14 | TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable. |
+| [Willxup/cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) | 🐹 | 2026-08-14 | Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard. |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 🔷 | 2026-08-14 | Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 🔷 | 2026-08-14 | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. |
+| [documenso/documenso](https://github.com/documenso/documenso) | 🔷 | 2026-08-14 | The Open Source DocuSign Alternative. |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | 🔷 | 2026-08-14 | Scheduling infrastructure for absolutely everyone. |
+| [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 🔷 | 2026-08-14 | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. |
 
 ---
 

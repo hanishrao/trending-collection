@@ -2,8 +2,18 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:07:16 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:04:30 GMT",
   "items": [
+    {
+      "title": "openai / symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26596,
+      "forks": 2709,
+      "added_stars": "128 stars this week"
+    },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
       "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
@@ -20,19 +30,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23113,
+      "stars": 23114,
       "forks": 3100,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "openai / symphony",
-      "url": "https://github.com/openai/symphony",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 26544,
-      "forks": 2705,
-      "added_stars": "125 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -40,29 +40,19 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8833,
-      "forks": 998,
-      "added_stars": "29 stars this week"
+      "stars": 8842,
+      "forks": 997,
+      "added_stars": "33 stars this week"
     },
     {
-      "title": "googleapis / elixir-google-api",
-      "url": "https://github.com/googleapis/elixir-google-api",
-      "description": "Elixir client libraries for accessing Google APIs.",
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1080,
-      "forks": 474,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "OffchainLabs / blockscout",
-      "url": "https://github.com/OffchainLabs/blockscout",
-      "description": "",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 58,
-      "forks": 24,
-      "added_stars": "0 stars this week"
+      "stars": 5236,
+      "forks": 158,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "DROOdotFOO / raxol",
@@ -75,66 +65,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5229,
-      "forks": 158,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "algora-io / algora",
-      "url": "https://github.com/algora-io/algora",
-      "description": "Hire the top 1% OSS engineers",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1466,
-      "forks": 145,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 7616,
-      "forks": 457,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9013,
-      "forks": 441,
-      "added_stars": "27 stars this week"
-    },
-    {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 26596,
-      "forks": 3670,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "expert-lsp / expert",
-      "url": "https://github.com/expert-lsp/expert",
-      "description": "Official Elixir Language Server Protocol implementation",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 2036,
-      "forks": 108,
-      "added_stars": "6 stars this week"
-    },
-    {
       "title": "ntrepid8 / ex_crypto",
       "url": "https://github.com/ntrepid8/ex_crypto",
       "description": "Wrapper around the Erlang crypto module for Elixir.",
@@ -145,24 +75,84 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9013,
+      "forks": 442,
+      "added_stars": "25 stars this week"
+    },
+    {
       "title": "hexpm / hex",
       "url": "https://github.com/hexpm/hex",
       "description": "Package manager for the Erlang ecosystem.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1086,
+      "stars": 1085,
       "forks": 208,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "duffelhq / paginator",
-      "url": "https://github.com/duffelhq/paginator",
-      "description": "Cursor-based pagination for Elixir Ecto",
+      "title": "algora-io / algora",
+      "url": "https://github.com/algora-io/algora",
+      "description": "Hire the top 1% OSS engineers",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 823,
-      "forks": 101,
-      "added_stars": "1 star this week"
+      "stars": 1467,
+      "forks": 145,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26595,
+      "forks": 3671,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "bartblast / hologram",
+      "url": "https://github.com/bartblast/hologram",
+      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1469,
+      "forks": 112,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "expert-lsp / expert",
+      "url": "https://github.com/expert-lsp/expert",
+      "description": "Official Elixir Language Server Protocol implementation",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2037,
+      "forks": 108,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4634,
+      "forks": 3139,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7617,
+      "forks": 458,
+      "added_stars": "5 stars this week"
     }
   ]
 }

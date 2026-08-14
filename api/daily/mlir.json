@@ -2,8 +2,18 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 13 Aug 2026 04:04:55 GMT",
+  "pubDate": "Fri, 14 Aug 2026 04:02:09 GMT",
   "items": [
+    {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 19941,
+      "forks": 3108,
+      "added_stars": "10 stars today"
+    },
     {
       "title": "triton-lang / triton-ascend",
       "url": "https://github.com/triton-lang/triton-ascend",
@@ -11,38 +21,8 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 137,
-      "forks": 179,
+      "forks": 183,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "triton-lang / triton",
-      "url": "https://github.com/triton-lang/triton",
-      "description": "Development repository for the Triton language and compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 19933,
-      "forks": 3105,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "openxla / stablehlo",
-      "url": "https://github.com/openxla/stablehlo",
-      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 683,
-      "forks": 214,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "facebookexperimental / triton",
-      "url": "https://github.com/facebookexperimental/triton",
-      "description": "Github mirror of trition-lang/triton repo.",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 187,
-      "forks": 67,
-      "added_stars": "1 star today"
     },
     {
       "title": "tenstorrent / tt-mlir",
@@ -51,8 +31,28 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 296,
-      "forks": 146,
+      "forks": 147,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 265,
+      "forks": 105,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "google / heir",
+      "url": "https://github.com/google/heir",
+      "description": "A compiler for homomorphic encryption",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 764,
+      "forks": 150,
+      "added_stars": "1 star today"
     }
   ]
 }

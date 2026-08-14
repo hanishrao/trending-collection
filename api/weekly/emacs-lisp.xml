@@ -4,41 +4,11 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 13 Aug 2026 04:07:16 GMT</pubDate>
-  <item>
-    <title>syl20bnr / spacemacs</title>
-    <link>https://github.com/syl20bnr/spacemacs</link>
-    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
-  </item>
-  <item>
-    <title>doomemacs / core</title>
-    <link>https://github.com/doomemacs/core</link>
-    <description>An Emacs framework for the stubborn martian hacker</description>
-  </item>
-  <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
-  </item>
-  <item>
-    <title>qjcg / awesome-typst</title>
-    <link>https://github.com/qjcg/awesome-typst</link>
-    <description>Awesome Typst Links</description>
-  </item>
-  <item>
-    <title>Wilfred / elisp-refs</title>
-    <link>https://github.com/Wilfred/elisp-refs</link>
-    <description>semantic code search for emacs lisp</description>
-  </item>
+  <pubDate>Fri, 14 Aug 2026 04:04:30 GMT</pubDate>
   <item>
     <title>oantolin / embark</title>
     <link>https://github.com/oantolin/embark</link>
     <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
-  </item>
-  <item>
-    <title>xenodium / agent-shell</title>
-    <link>https://github.com/xenodium/agent-shell</link>
-    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
     <title>org-roam / org-roam</title>
@@ -46,9 +16,24 @@
     <description>Rudimentary Roam replica with Org-mode</description>
   </item>
   <item>
+    <title>Wilfred / elisp-refs</title>
+    <link>https://github.com/Wilfred/elisp-refs</link>
+    <description>semantic code search for emacs lisp</description>
+  </item>
+  <item>
+    <title>doomemacs / core</title>
+    <link>https://github.com/doomemacs/core</link>
+    <description>An Emacs framework for the stubborn martian hacker</description>
+  </item>
+  <item>
     <title>rainstormstudio / nerd-icons.el</title>
     <link>https://github.com/rainstormstudio/nerd-icons.el</link>
     <description></description>
+  </item>
+  <item>
+    <title>karthink / gptel</title>
+    <link>https://github.com/karthink/gptel</link>
+    <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
     <title>MatthewZMD / aidermacs</title>
@@ -56,9 +41,24 @@
     <description>AI Pair Programming in Emacs with Aider</description>
   </item>
   <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+    <title>protesilaos / modus-themes</title>
+    <link>https://github.com/protesilaos/modus-themes</link>
+    <description>Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).</description>
+  </item>
+  <item>
+    <title>dgutov / diff-hl</title>
+    <link>https://github.com/dgutov/diff-hl</link>
+    <description>Emacs package for highlighting uncommitted changes</description>
+  </item>
+  <item>
+    <title>Fanael / rainbow-delimiters</title>
+    <link>https://github.com/Fanael/rainbow-delimiters</link>
+    <description>Emacs rainbow delimiters mode</description>
+  </item>
+  <item>
+    <title>joaotavora / yasnippet</title>
+    <link>https://github.com/joaotavora/yasnippet</link>
+    <description>A template system for Emacs</description>
   </item>
   <item>
     <title>dominikh / go-mode.el</title>
@@ -66,9 +66,9 @@
     <description>Emacs mode for the Go programming language</description>
   </item>
   <item>
-    <title>jwiegley / emacs-async</title>
-    <link>https://github.com/jwiegley/emacs-async</link>
-    <description>Simple library for asynchronous processing in Emacs</description>
+    <title>akermu / emacs-libvterm</title>
+    <link>https://github.com/akermu/emacs-libvterm</link>
+    <description>Emacs libvterm integration</description>
   </item>
   <item>
     <title>Wilfred / helpful</title>
@@ -76,9 +76,29 @@
     <description>A better Emacs *help* buffer</description>
   </item>
   <item>
-    <title>dgutov / diff-hl</title>
-    <link>https://github.com/dgutov/diff-hl</link>
-    <description>Emacs package for highlighting uncommitted changes</description>
+    <title>justbur / emacs-which-key</title>
+    <link>https://github.com/justbur/emacs-which-key</link>
+    <description>Emacs package that displays available keybindings in popup</description>
+  </item>
+  <item>
+    <title>xenodium / agent-shell</title>
+    <link>https://github.com/xenodium/agent-shell</link>
+    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
+  </item>
+  <item>
+    <title>radian-software / apheleia</title>
+    <link>https://github.com/radian-software/apheleia</link>
+    <description>🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.</description>
+  </item>
+  <item>
+    <title>dnouri / pi-coding-agent</title>
+    <link>https://github.com/dnouri/pi-coding-agent</link>
+    <description>Emacs frontend for the Pi coding agent</description>
+  </item>
+  <item>
+    <title>melpa / melpa</title>
+    <link>https://github.com/melpa/melpa</link>
+    <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
 </channel>
 </rss>
