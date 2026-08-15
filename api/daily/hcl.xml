@@ -4,21 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 14 Aug 2026 04:02:09 GMT</pubDate>
-  <item>
-    <title>hashicorp / agent-skills</title>
-    <link>https://github.com/hashicorp/agent-skills</link>
-    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
-  </item>
+  <pubDate>Sat, 15 Aug 2026 02:47:28 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
     <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
@@ -26,14 +16,34 @@
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+  </item>
+  <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-gcloud</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-gcloud</link>
+    <description>Executes Google Cloud CLI commands within Terraform</description>
   </item>
   <item>
     <title>terraform-google-modules / terraform-google-project-factory</title>
@@ -41,24 +51,39 @@
     <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-s3-bucket</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-bucket</link>
-    <description>Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems</description>
+    <title>terraform-google-modules / terraform-google-memorystore</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-memorystore</link>
+    <description>Creates a fully functional Google Memorystore (redis) instance</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-iam</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
-    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+    <title>techiescamp / devops-projects</title>
+    <link>https://github.com/techiescamp/devops-projects</link>
+    <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-s3-log-storage</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-log-storage</link>
-    <description>This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</description>
+    <title>cloudposse / terraform-aws-vpc</title>
+    <link>https://github.com/cloudposse/terraform-aws-vpc</link>
+    <description>Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways</description>
   </item>
   <item>
     <title>chainguard-images / images</title>
     <link>https://github.com/chainguard-images/images</link>
     <description>Public Chainguard Images</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-sql-db</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-sql-db</link>
+    <description>Creates a Cloud SQL database instance</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-dynamic-subnets</title>
+    <link>https://github.com/cloudposse/terraform-aws-dynamic-subnets</link>
+    <description>Terraform module for public and private subnets provisioning in existing VPC</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
+    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
   </item>
 </channel>
 </rss>

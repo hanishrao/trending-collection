@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:04:30 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,39 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 25795,
-      "forks": 19813,
-      "added_stars": "122 stars this week"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3260,
-      "forks": 960,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2851,
-      "forks": 221,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3106,
-      "forks": 230,
-      "added_stars": "26 stars this week"
+      "stars": 25806,
+      "forks": 19823,
+      "added_stars": "108 stars this week"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -50,29 +20,39 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1748,
-      "forks": 202,
-      "added_stars": "44 stars this week"
+      "stars": 1755,
+      "forks": 207,
+      "added_stars": "45 stars this week"
     },
     {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "title": "Mic92 / sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10218,
-      "forks": 2451,
-      "added_stars": "37 stars this week"
+      "stars": 3109,
+      "forks": 230,
+      "added_stars": "26 stars this week"
     },
     {
-      "title": "feel-co / hjem",
-      "url": "https://github.com/feel-co/hjem",
-      "description": "Streamlined, elegant $HOME management with Nix",
+      "title": "microvm-nix / microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 592,
-      "forks": 24,
-      "added_stars": "11 stars this week"
+      "stars": 2853,
+      "forks": 222,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3263,
+      "forks": 961,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "nix-community / disko",
@@ -80,9 +60,9 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3254,
+      "stars": 3256,
       "forks": 324,
-      "added_stars": "18 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
       "title": "Misterio77 / nix-starter-configs",
@@ -90,9 +70,29 @@
       "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3802,
+      "stars": 3801,
       "forks": 177,
-      "added_stars": "14 stars this week"
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10222,
+      "forks": 2451,
+      "added_stars": "33 stars this week"
+    },
+    {
+      "title": "cloud-gouv / securix",
+      "url": "https://github.com/cloud-gouv/securix",
+      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1021,
+      "forks": 47,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -100,29 +100,9 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5811,
+      "stars": 5819,
       "forks": 658,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "supabase / postgres",
-      "url": "https://github.com/supabase/postgres",
-      "description": "Unmodified Postgres with some useful extensions",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1771,
-      "forks": 262,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "nix-community / NixOS-WSL",
-      "url": "https://github.com/nix-community/NixOS-WSL",
-      "description": "NixOS on WSL [maintainer=@nzbr]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3048,
-      "forks": 163,
-      "added_stars": "11 stars this week"
+      "added_stars": "34 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:06:43 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:51:50 GMT",
   "items": [
     {
       "title": "thu-ml / SageAttention",
@@ -10,9 +10,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3635,
+      "stars": 3642,
       "forks": 478,
-      "added_stars": "155 stars this month"
+      "added_stars": "158 stars this month"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -20,9 +20,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9982,
-      "forks": 1374,
-      "added_stars": "153 stars this month"
+      "stars": 9989,
+      "forks": 1377,
+      "added_stars": "158 stars this month"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -30,9 +30,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7671,
-      "forks": 1168,
-      "added_stars": "172 stars this month"
+      "stars": 7680,
+      "forks": 1171,
+      "added_stars": "178 stars this month"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -40,19 +40,9 @@
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1301,
-      "forks": 257,
-      "added_stars": "36 stars this month"
-    },
-    {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3630,
-      "forks": 319,
-      "added_stars": "100 stars this month"
+      "stars": 1304,
+      "forks": 258,
+      "added_stars": "37 stars this month"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -60,9 +50,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1619,
+      "stars": 1620,
       "forks": 398,
-      "added_stars": "38 stars this month"
+      "added_stars": "36 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -75,14 +65,34 @@
       "added_stars": "19 stars this month"
     },
     {
-      "title": "florianmattana / sass-king",
-      "url": "https://github.com/florianmattana/sass-king",
-      "description": "Reverse engineering NVIDIA SASS instruction dictionary, kernel audits and pattern recognition across GPU architectures.",
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 319,
-      "forks": 15,
-      "added_stars": "12 stars this month"
+      "stars": 3631,
+      "forks": 319,
+      "added_stars": "98 stars this month"
+    },
+    {
+      "title": "NVIDIA / cudf-spark-jni",
+      "url": "https://github.com/NVIDIA/cudf-spark-jni",
+      "description": "RAPIDS Accelerator JNI For Apache Spark",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 63,
+      "forks": 89,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30803,
+      "forks": 3732,
+      "added_stars": "284 stars this month"
     },
     {
       "title": "mirage-project / mirage",
@@ -95,6 +105,16 @@
       "added_stars": "57 stars this month"
     },
     {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1008,
+      "forks": 219,
+      "added_stars": "36 stars this month"
+    },
+    {
       "title": "NVIDIA / raft",
       "url": "https://github.com/NVIDIA/raft",
       "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
@@ -102,17 +122,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1037,
       "forks": 247,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1007,
-      "forks": 219,
-      "added_stars": "34 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -120,29 +130,19 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17519,
-      "forks": 2062,
-      "added_stars": "41 stars this month"
-    },
-    {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 30791,
-      "forks": 3731,
-      "added_stars": "282 stars this month"
+      "stars": 17518,
+      "forks": 2063,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "Dao-AILab / causal-conv1d",
       "url": "https://github.com/Dao-AILab/causal-conv1d",
       "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 934,
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 936,
       "forks": 204,
-      "added_stars": "19 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "rahul-goel / fused-ssim",

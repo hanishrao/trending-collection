@@ -2,87 +2,107 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:02:09 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
   "items": [
+    {
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2634,
+      "forks": 2047,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "allenk / GeminiWatermarkTool",
+      "url": "https://github.com/allenk/GeminiWatermarkTool",
+      "description": "VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3070,
+      "forks": 271,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 38927,
+      "forks": 10840,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "microsoft / terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 104609,
+      "forks": 9520,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "autowarefoundation / vision_pilot",
+      "url": "https://github.com/autowarefoundation/vision_pilot",
+      "description": "Free and fully open-source L2 ADAS stack powered by End-to-End AI technology",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 831,
+      "forks": 185,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50373,
+      "forks": 7461,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "BruceDevices / firmware",
+      "url": "https://github.com/BruceDevices/firmware",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6442,
+      "forks": 2141,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "abseil / abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18078,
+      "forks": 3180,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "fmtlib / fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 23741,
+      "forks": 2950,
+      "added_stars": "1 star today"
+    },
     {
       "title": "ggml-org / llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 123845,
-      "forks": 21683,
-      "added_stars": "154 stars today"
-    },
-    {
-      "title": "microsoft / BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 40078,
-      "forks": 3695,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "FreeCAD / FreeCAD",
-      "url": "https://github.com/FreeCAD/FreeCAD",
-      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 32838,
-      "forks": 5883,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "openxla / xla",
-      "url": "https://github.com/openxla/xla",
-      "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4467,
-      "forks": 893,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "tnodir / fort",
-      "url": "https://github.com/tnodir/fort",
-      "description": "Fort Firewall for Windows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3494,
-      "forks": 239,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "zeux / meshoptimizer",
-      "url": "https://github.com/zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8214,
-      "forks": 739,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "ROCm / FastFlowLM",
-      "url": "https://github.com/ROCm/FastFlowLM",
-      "description": "Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1735,
-      "forks": 138,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "kvcache-ai / Mooncake",
-      "url": "https://github.com/kvcache-ai/Mooncake",
-      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6274,
-      "forks": 1080,
-      "added_stars": "18 stars today"
+      "stars": 123911,
+      "forks": 21700,
+      "added_stars": "137 stars today"
     },
     {
       "title": "microsoft / intelligent-terminal",
@@ -90,38 +110,48 @@
       "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1739,
-      "forks": 135,
-      "added_stars": "14 stars today"
+      "stars": 1750,
+      "forks": 137,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "react / react-native",
-      "url": "https://github.com/react/react-native",
-      "description": "A framework for building native applications using React",
+      "title": "ossrs / srs",
+      "url": "https://github.com/ossrs/srs",
+      "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 126342,
-      "forks": 25218,
-      "added_stars": "10 stars today"
+      "stars": 29140,
+      "forks": 5686,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "ggml-org / ggml",
-      "url": "https://github.com/ggml-org/ggml",
-      "description": "Tensor library for machine learning",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15164,
-      "forks": 1776,
-      "added_stars": "6 stars today"
+      "stars": 71730,
+      "forks": 16214,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "NVIDIA-AI-Blueprints / video-search-and-summarization",
-      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building video analytics agents with real-time verified alerts, visual Q&A, and automated reporting. The VSS Blueprint uses vision language models (VLMs) such as NVIDIA Cosmos, LLMs such as NVIDIA Nemotron, RAG, and NVIDIA NIMs.",
+      "title": "78 / xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1799,
-      "forks": 371,
+      "stars": 28901,
+      "forks": 6632,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "apache / arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 17025,
+      "forks": 4232,
       "added_stars": "3 stars today"
     },
     {
@@ -130,69 +160,29 @@
       "description": "CUDA Core Compute Libraries",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2469,
-      "forks": 461,
-      "added_stars": "4 stars today"
+      "stars": 2473,
+      "forks": 463,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "cactus-compute / cactus",
-      "url": "https://github.com/cactus-compute/cactus",
-      "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
+      "title": "safijari / openpuck",
+      "url": "https://github.com/safijari/openpuck",
+      "description": "Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5743,
-      "forks": 471,
-      "added_stars": "22 stars today"
+      "stars": 767,
+      "forks": 57,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "google-ai-edge / LiteRT",
-      "url": "https://github.com/google-ai-edge/LiteRT",
-      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+      "title": "leejet / stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3301,
-      "forks": 419,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 49237,
-      "forks": 8787,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "ApolloAuto / apollo",
-      "url": "https://github.com/ApolloAuto/apollo",
-      "description": "An open autonomous driving platform",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 26795,
-      "forks": 9957,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "mnh-jansson / open-battery-information",
-      "url": "https://github.com/mnh-jansson/open-battery-information",
-      "description": "",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1647,
-      "forks": 260,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "NVIDIA / cutlass",
-      "url": "https://github.com/NVIDIA/cutlass",
-      "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10246,
-      "forks": 2009,
-      "added_stars": "4 stars today"
+      "stars": 6753,
+      "forks": 734,
+      "added_stars": "14 stars today"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:04:30 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
   "items": [
-    {
-      "title": "microsoft / vcpkg",
-      "url": "https://github.com/microsoft/vcpkg",
-      "description": "C++ Library Manager for Windows, Linux, and MacOS",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 27356,
-      "forks": 7677,
-      "added_stars": "33 stars this week"
-    },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
       "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1704,
+      "stars": 1706,
       "forks": 231,
-      "added_stars": "27 stars this week"
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "microsoft / vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27360,
+      "forks": 7677,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "steinbergmedia / vst3sdk",
@@ -30,9 +30,9 @@
       "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2320,
+      "stars": 2325,
       "forks": 224,
-      "added_stars": "9 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
       "title": "boostorg / cmake",
@@ -42,6 +42,16 @@
       "languageColor": "#DA3434",
       "stars": 119,
       "forks": 36,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "pingcap / kvproto",
+      "url": "https://github.com/pingcap/kvproto",
+      "description": "Protocol buffer files for TiKV",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 171,
+      "forks": 242,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,6 +85,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 702,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "ament / ament_cmake",
       "url": "https://github.com/ament/ament_cmake",
       "description": "Supporting CMake packages for working with ament",
@@ -85,24 +105,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "pingcap / kvproto",
-      "url": "https://github.com/pingcap/kvproto",
-      "description": "Protocol buffer files for TiKV",
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 171,
-      "forks": 242,
+      "stars": 78,
+      "forks": 57,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "MarkSchofield / WindowsToolchain",
-      "url": "https://github.com/MarkSchofield/WindowsToolchain",
-      "description": "A repository containing a CMake toolchain for using MSVC",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 185,
-      "forks": 30,
-      "added_stars": "1 star this week"
     },
     {
       "title": "TheLartians / PackageProject.cmake",
@@ -115,16 +125,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "GEOS-ESM / GEOSgcm",
-      "url": "https://github.com/GEOS-ESM/GEOSgcm",
-      "description": "GEOS Earth System Model GEOSgcm Fixture",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 50,
-      "forks": 17,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "ecmwf / ecbuild",
       "url": "https://github.com/ecmwf/ecbuild",
       "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
@@ -135,13 +135,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "title": "GEOS-ESM / GEOSgcm",
+      "url": "https://github.com/GEOS-ESM/GEOSgcm",
+      "description": "GEOS Earth System Model GEOSgcm Fixture",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 702,
+      "stars": 50,
+      "forks": 17,
       "added_stars": "0 stars this week"
     }
   ]

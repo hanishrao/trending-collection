@@ -2,27 +2,27 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:04:30 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
   "items": [
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 45859,
-      "forks": 3949,
-      "added_stars": "129 stars this week"
-    },
     {
       "title": "PostgREST / postgrest",
       "url": "https://github.com/PostgREST/postgrest",
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27596,
+      "stars": 27600,
       "forks": 1224,
-      "added_stars": "109 stars this week"
+      "added_stars": "110 stars this week"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 45869,
+      "forks": 3947,
+      "added_stars": "124 stars this week"
     },
     {
       "title": "simonmichael / hledger",
@@ -30,9 +30,19 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4628,
-      "forks": 403,
-      "added_stars": "13 stars this week"
+      "stars": 4629,
+      "forks": 404,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "cardano-foundation / cardano-wallet",
+      "url": "https://github.com/cardano-foundation/cardano-wallet",
+      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 820,
+      "forks": 231,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "IntersectMBO / cardano-ledger",
@@ -45,26 +55,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "cardano-foundation / cardano-wallet",
-      "url": "https://github.com/cardano-foundation/cardano-wallet",
-      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 821,
-      "forks": 231,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "IntersectMBO / ouroboros-consensus",
-      "url": "https://github.com/IntersectMBO/ouroboros-consensus",
-      "description": "Implementation of a Consensus Layer for the Ouroboros family of protocols",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 66,
-      "forks": 42,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "unisonweb / unison",
       "url": "https://github.com/unisonweb/unison",
       "description": "A friendly programming language from the future",
@@ -72,17 +62,7 @@
       "languageColor": "#5e5086",
       "stars": 6700,
       "forks": 306,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2945,
-      "forks": 450,
-      "added_stars": "3 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "mtolly / onyx",
@@ -95,24 +75,34 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12351,
-      "forks": 501,
-      "added_stars": "14 stars this week"
-    },
-    {
       "title": "koalaman / shellcheck",
       "url": "https://github.com/koalaman/shellcheck",
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39868,
-      "forks": 1942,
-      "added_stars": "49 stars this week"
+      "stars": 39873,
+      "forks": 1941,
+      "added_stars": "54 stars this week"
+    },
+    {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2946,
+      "forks": 451,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "IntersectMBO / ouroboros-consensus",
+      "url": "https://github.com/IntersectMBO/ouroboros-consensus",
+      "description": "Implementation of a Consensus Layer for the Ouroboros family of protocols",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 66,
+      "forks": 42,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "digital-asset / daml",

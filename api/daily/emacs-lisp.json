@@ -2,17 +2,17 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:02:09 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
   "items": [
     {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2509,
-      "forks": 320,
-      "added_stars": "2 stars today"
+      "stars": 873,
+      "forks": 50,
+      "added_stars": "6 stars today"
     },
     {
       "title": "xenodium / agent-shell",
@@ -20,18 +20,18 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1726,
+      "stars": 1731,
       "forks": 216,
-      "added_stars": "6 stars today"
+      "added_stars": "5 stars today"
     },
     {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3478,
-      "forks": 423,
+      "stars": 2964,
+      "forks": 2794,
       "added_stars": "0 stars today"
     },
     {
@@ -40,39 +40,119 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5149,
+      "stars": 5151,
       "forks": 1395,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
-      "title": "protesilaos / modus-themes",
-      "url": "https://github.com/protesilaos/modus-themes",
-      "description": "Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).",
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 895,
-      "forks": 74,
+      "stars": 24577,
+      "forks": 4836,
       "added_stars": "0 stars today"
     },
     {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "title": "magnars / dash.el",
+      "url": "https://github.com/magnars/dash.el",
+      "description": "A modern list library for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2965,
-      "forks": 2794,
+      "stars": 1745,
+      "forks": 138,
       "added_stars": "0 stars today"
     },
     {
-      "title": "dominikh / go-mode.el",
-      "url": "https://github.com/dominikh/go-mode.el",
-      "description": "Emacs mode for the Go programming language",
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1455,
-      "forks": 212,
+      "stars": 7199,
+      "forks": 874,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "radian-software / straight.el",
+      "url": "https://github.com/radian-software/straight.el",
+      "description": "🍀 Next-generation, purely functional package manager for the Emacs hacker.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3022,
+      "forks": 168,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "rejeep / f.el",
+      "url": "https://github.com/rejeep/f.el",
+      "description": "Modern API for working with files and directories in Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 709,
+      "forks": 73,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3479,
+      "forks": 422,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "magit / transient",
+      "url": "https://github.com/magit/transient",
+      "description": "Transient commands",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 884,
+      "forks": 73,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "jrblevin / markdown-mode",
+      "url": "https://github.com/jrblevin/markdown-mode",
+      "description": "Emacs Markdown Mode",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1040,
+      "forks": 183,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2509,
+      "forks": 320,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "rainstormstudio / nerd-icons.el",
+      "url": "https://github.com/rainstormstudio/nerd-icons.el",
+      "description": "",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 323,
+      "forks": 48,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22580,
+      "forks": 3158,
+      "added_stars": "5 stars today"
     }
   ]
 }

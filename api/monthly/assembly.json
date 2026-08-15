@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 14 Aug 2026 04:06:43 GMT",
+  "pubDate": "Sat, 15 Aug 2026 02:51:50 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 72062,
-      "forks": 7975,
-      "added_stars": "3,889 stars this month"
+      "stars": 72072,
+      "forks": 7979,
+      "added_stars": "3,890 stars this month"
     },
     {
       "title": "pret / pokered",
@@ -20,19 +20,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4877,
+      "stars": 4878,
       "forks": 1281,
-      "added_stars": "80 stars this month"
-    },
-    {
-      "title": "ROCm / rocm-libraries",
-      "url": "https://github.com/ROCm/rocm-libraries",
-      "description": "super repo for rocm libraries",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 400,
-      "forks": 367,
-      "added_stars": "22 stars this month"
+      "added_stars": "79 stars this month"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -40,9 +30,29 @@
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1615,
-      "forks": 333,
-      "added_stars": "52 stars this month"
+      "stars": 1616,
+      "forks": 334,
+      "added_stars": "51 stars this month"
+    },
+    {
+      "title": "ROCm / rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 401,
+      "forks": 370,
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "JSsixtyfour / smashremix",
+      "url": "https://github.com/JSsixtyfour/smashremix",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 944,
+      "forks": 78,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "openhwgroup / cva6",
@@ -51,28 +61,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 3065,
-      "forks": 998,
-      "added_stars": "60 stars this month"
-    },
-    {
-      "title": "JSsixtyfour / smashremix",
-      "url": "https://github.com/JSsixtyfour/smashremix",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 943,
-      "forks": 78,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 768,
-      "forks": 348,
-      "added_stars": "24 stars this month"
+      "forks": 999,
+      "added_stars": "57 stars this month"
     },
     {
       "title": "apple / swift-crypto",
@@ -90,9 +80,9 @@
       "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 816,
+      "stars": 817,
       "forks": 200,
-      "added_stars": "19 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
       "title": "apple / swift-nio-ssl",
@@ -100,7 +90,7 @@
       "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 434,
+      "stars": 433,
       "forks": 173,
       "added_stars": "4 stars this month"
     },
@@ -110,18 +100,28 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18640,
+      "stars": 18645,
       "forks": 2090,
-      "added_stars": "141 stars this month"
+      "added_stars": "142 stars this month"
     },
     {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
+      "title": "PRoX2011 / x16-PRos",
+      "url": "https://github.com/PRoX2011/x16-PRos",
+      "description": "Simple 16 bit (real mode) operating system writen in NASM from scratch",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2490,
-      "forks": 964,
+      "stars": 604,
+      "forks": 51,
+      "added_stars": "107 stars this month"
+    },
+    {
+      "title": "cirosantilli / x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 5334,
+      "forks": 428,
       "added_stars": "24 stars this month"
     },
     {
@@ -135,14 +135,14 @@
       "added_stars": "12 stars this month"
     },
     {
-      "title": "cirosantilli / x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 5334,
-      "forks": 428,
-      "added_stars": "27 stars this month"
+      "stars": 2491,
+      "forks": 965,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "SheerSt / pokewilds",
@@ -155,24 +155,24 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1106,
-      "forks": 219,
-      "added_stars": "27 stars this month"
-    },
-    {
       "title": "leachim6 / hello-world",
       "url": "https://github.com/leachim6/hello-world",
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11920,
-      "forks": 2113,
-      "added_stars": "39 stars this month"
+      "stars": 11924,
+      "forks": 2114,
+      "added_stars": "42 stars this month"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1108,
+      "forks": 220,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "cemu-project / cemu_graphic_packs",
@@ -180,9 +180,9 @@
       "description": "Community Graphic Packs for Cemu",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1467,
+      "stars": 1468,
       "forks": 598,
-      "added_stars": "12 stars this month"
+      "added_stars": "14 stars this month"
     }
   ]
 }
