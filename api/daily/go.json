@@ -2,107 +2,67 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:54:45 GMT",
   "items": [
+    {
+      "title": "kenn-io / agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5029,
+      "forks": 593,
+      "added_stars": "129 stars today"
+    },
     {
       "title": "infiniflow / ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 88405,
-      "forks": 10377,
-      "added_stars": "473 stars today"
+      "stars": 88557,
+      "forks": 10390,
+      "added_stars": "246 stars today"
     },
     {
-      "title": "jesseduffield / lazygit",
-      "url": "https://github.com/jesseduffield/lazygit",
-      "description": "simple terminal UI for git commands",
+      "title": "spf13 / cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 81338,
-      "forks": 2984,
-      "added_stars": "54 stars today"
+      "stars": 44438,
+      "forks": 3210,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "netdata / netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 80183,
-      "forks": 6578,
-      "added_stars": "26 stars today"
+      "stars": 135779,
+      "forks": 19275,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "title": "hashicorp / terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 178512,
-      "forks": 17404,
-      "added_stars": "116 stars today"
+      "stars": 49466,
+      "forks": 10599,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "astaxie / TokenHub",
-      "url": "https://github.com/astaxie/TokenHub",
-      "description": "TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.",
+      "title": "labstack / echo",
+      "url": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1069,
-      "forks": 129,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46031,
-      "forks": 5861,
-      "added_stars": "178 stars today"
-    },
-    {
-      "title": "m1k1o / neko",
-      "url": "https://github.com/m1k1o/neko",
-      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22097,
-      "forks": 1596,
-      "added_stars": "69 stars today"
-    },
-    {
-      "title": "palemoky / chinese-poetry-api",
-      "url": "https://github.com/palemoky/chinese-poetry-api",
-      "description": "📜 诗泉：高性能中国古诗词 API 服务",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2524,
-      "forks": 307,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "trufflesecurity / trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 27468,
-      "forks": 2536,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "oseghalep / cloud-cost-optimization-hub",
-      "url": "https://github.com/oseghalep/cloud-cost-optimization-hub",
-      "description": "Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 283,
-      "forks": 533,
-      "added_stars": "20 stars today"
+      "stars": 32631,
+      "forks": 2354,
+      "added_stars": "6 stars today"
     },
     {
       "title": "harness / harness",
@@ -110,78 +70,68 @@
       "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37934,
-      "forks": 3332,
-      "added_stars": "104 stars today"
+      "stars": 37961,
+      "forks": 3334,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "juicedata / juicefs",
-      "url": "https://github.com/juicedata/juicefs",
-      "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+      "title": "NoFxAiOS / nofx",
+      "url": "https://github.com/NoFxAiOS/nofx",
+      "description": "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14319,
-      "forks": 1277,
-      "added_stars": "4 stars today"
+      "stars": 12686,
+      "forks": 3031,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "futrx-com / remote.futrx",
-      "url": "https://github.com/futrx-com/remote.futrx",
-      "description": "",
+      "title": "compozy / compozy",
+      "url": "https://github.com/compozy/compozy",
+      "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 229,
-      "forks": 42,
-      "added_stars": "16 stars today"
+      "stars": 2579,
+      "forks": 150,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "kedacore / keda",
-      "url": "https://github.com/kedacore/keda",
-      "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10435,
-      "forks": 1486,
-      "added_stars": "5 stars today"
+      "stars": 178618,
+      "forks": 17420,
+      "added_stars": "117 stars today"
     },
     {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "title": "opencode-ai / opencode",
+      "url": "https://github.com/opencode-ai/opencode",
+      "description": "A powerful AI coding agent. Built for the terminal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19892,
-      "forks": 2858,
-      "added_stars": "62 stars today"
+      "stars": 13659,
+      "forks": 1779,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "leookun / cursor-byok",
-      "url": "https://github.com/leookun/cursor-byok",
-      "description": "cursor-byok is a local implementation of Cursor's backend. https://github.com/leookun/cursor-byok/releases",
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2318,
-      "forks": 356,
-      "added_stars": "20 stars today"
+      "stars": 65711,
+      "forks": 10764,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "kubernetes-sigs / agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3522,
-      "forks": 448,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "getarcaneapp / arcane",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6996,
-      "forks": 278,
+      "stars": 124504,
+      "forks": 43858,
       "added_stars": "19 stars today"
     },
     {
@@ -190,39 +140,69 @@
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22842,
-      "forks": 2517,
-      "added_stars": "44 stars today"
+      "stars": 22878,
+      "forks": 2523,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "casdoor / casdoor",
-      "url": "https://github.com/casdoor/casdoor",
-      "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+      "title": "opentofu / opentofu",
+      "url": "https://github.com/opentofu/opentofu",
+      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14191,
-      "forks": 1775,
-      "added_stars": "11 stars today"
+      "stars": 29800,
+      "forks": 1334,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "syncthing / syncthing",
-      "url": "https://github.com/syncthing/syncthing",
-      "description": "Open Source Continuous File Synchronization",
+      "title": "jesseduffield / lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 87656,
-      "forks": 5410,
-      "added_stars": "37 stars today"
+      "stars": 81360,
+      "forks": 2986,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
+      "title": "m1k1o / neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 135753,
-      "forks": 19275,
-      "added_stars": "38 stars today"
+      "stars": 22111,
+      "forks": 1600,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "coreybutler / nvm-windows",
+      "url": "https://github.com/coreybutler/nvm-windows",
+      "description": "A node.js version management utility for Windows. Ironically written in Go.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47358,
+      "forks": 3859,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "semaphoreui / semaphore",
+      "url": "https://github.com/semaphoreui/semaphore",
+      "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14018,
+      "forks": 1289,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "moby / moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 71989,
+      "forks": 19191,
+      "added_stars": "5 stars today"
     }
   ]
 }

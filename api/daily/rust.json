@@ -2,17 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:54:45 GMT",
   "items": [
+    {
+      "title": "longbridge / gpui-component",
+      "url": "https://github.com/longbridge/gpui-component",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 12843,
+      "forks": 777,
+      "added_stars": "34 stars today"
+    },
     {
       "title": "macro-inc / macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3048,
-      "forks": 307,
-      "added_stars": "436 stars today"
+      "stars": 3278,
+      "forks": 327,
+      "added_stars": "325 stars today"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -20,9 +30,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 120663,
-      "forks": 18459,
-      "added_stars": "143 stars today"
+      "stars": 120897,
+      "forks": 18484,
+      "added_stars": "395 stars today"
     },
     {
       "title": "NVIDIA-NeMo / Switchyard",
@@ -30,9 +40,39 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1476,
-      "forks": 131,
-      "added_stars": "345 stars today"
+      "stars": 1588,
+      "forks": 144,
+      "added_stars": "128 stars today"
+    },
+    {
+      "title": "mayocream / koharu",
+      "url": "https://github.com/mayocream/koharu",
+      "description": "ML-powered manga translator, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5252,
+      "forks": 342,
+      "added_stars": "98 stars today"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30384,
+      "forks": 3288,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14994,
+      "forks": 1509,
+      "added_stars": "187 stars today"
     },
     {
       "title": "superradcompany / microsandbox",
@@ -40,59 +80,9 @@
       "description": "🧱 easy fast local-first microVM runtime and library",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7505,
-      "forks": 398,
-      "added_stars": "100 stars today"
-    },
-    {
-      "title": "zed-industries / zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 88619,
-      "forks": 10047,
-      "added_stars": "71 stars today"
-    },
-    {
-      "title": "jlcodes99 / cockpit-tools",
-      "url": "https://github.com/jlcodes99/cockpit-tools",
-      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15764,
-      "forks": 1393,
-      "added_stars": "76 stars today"
-    },
-    {
-      "title": "longbridge / gpui-component",
-      "url": "https://github.com/longbridge/gpui-component",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12814,
-      "forks": 773,
-      "added_stars": "123 stars today"
-    },
-    {
-      "title": "sharkdp / bat",
-      "url": "https://github.com/sharkdp/bat",
-      "description": "A cat(1) clone with wings.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 60182,
-      "forks": 1630,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "BoundaryML / baml",
-      "url": "https://github.com/BoundaryML/baml",
-      "description": "The programming language for agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9005,
-      "forks": 479,
-      "added_stars": "26 stars today"
+      "stars": 7532,
+      "forks": 400,
+      "added_stars": "32 stars today"
     },
     {
       "title": "oven-sh / bun",
@@ -100,29 +90,19 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 95400,
-      "forks": 4961,
+      "stars": 95416,
+      "forks": 4963,
       "added_stars": "26 stars today"
     },
     {
-      "title": "waditu / czsc",
-      "url": "https://github.com/waditu/czsc",
-      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+      "title": "EFForg / rayhunter",
+      "url": "https://github.com/EFForg/rayhunter",
+      "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5834,
-      "forks": 1674,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "ilya-zlobintsev / LACT",
-      "url": "https://github.com/ilya-zlobintsev/LACT",
-      "description": "Linux GPU Configuration And Monitoring Tool",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5391,
-      "forks": 140,
-      "added_stars": "54 stars today"
+      "stars": 5531,
+      "forks": 465,
+      "added_stars": "22 stars today"
     },
     {
       "title": "kenforthewin / atomic",
@@ -130,29 +110,59 @@
       "description": "Self-hosted, semantically-connected personal knowledge base",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1869,
-      "forks": 130,
-      "added_stars": "72 stars today"
+      "stars": 1892,
+      "forks": 131,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "edwardkim / rhwp",
-      "url": "https://github.com/edwardkim/rhwp",
-      "description": "아래한글 hwp viewer and editor by rust and wasm",
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3703,
-      "forks": 672,
-      "added_stars": "10 stars today"
+      "stars": 14473,
+      "forks": 563,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "tw93 / Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "title": "Hmbown / CodeWhale",
+      "url": "https://github.com/Hmbown/CodeWhale",
+      "description": "Open-source, community-driven agent harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60719,
-      "forks": 12434,
-      "added_stars": "58 stars today"
+      "stars": 40808,
+      "forks": 3528,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "unionlabs / union",
+      "url": "https://github.com/unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 73861,
+      "forks": 3888,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "base / base",
+      "url": "https://github.com/base/base",
+      "description": "All components used to run Base",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 847,
+      "forks": 577,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "pnpm / pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36101,
+      "forks": 1648,
+      "added_stars": "20 stars today"
     }
   ]
 }

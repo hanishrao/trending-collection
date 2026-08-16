@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:51:50 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:59:18 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,9 +10,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8686,
+      "stars": 8689,
       "forks": 2615,
-      "added_stars": "53 stars this month"
+      "added_stars": "54 stars this month"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -20,9 +20,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22999,
+      "stars": 23004,
       "forks": 1431,
-      "added_stars": "185 stars this month"
+      "added_stars": "186 stars this month"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -32,7 +32,7 @@
       "languageColor": "#76d275",
       "stars": 3938,
       "forks": 302,
-      "added_stars": "56 stars this month"
+      "added_stars": "53 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -41,7 +41,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 685,
-      "forks": 709,
+      "forks": 710,
       "added_stars": "8 stars this month"
     },
     {
@@ -65,14 +65,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 294,
-      "forks": 115,
-      "added_stars": "1 star this month"
+      "stars": 379,
+      "forks": 847,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -81,38 +81,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 833,
-      "forks": 643,
+      "forks": 642,
       "added_stars": "14 stars this month"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 379,
-      "forks": 846,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 192,
-      "forks": 86,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "bazelbuild / bazel-skylib",
-      "url": "https://github.com/bazelbuild/bazel-skylib",
-      "description": "Common useful functions and rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 444,
-      "forks": 201,
-      "added_stars": "3 stars this month"
+      "stars": 294,
+      "forks": 115,
+      "added_stars": "1 star this month"
     },
     {
       "title": "bazel-contrib / rules_perl",
@@ -132,6 +112,26 @@
       "languageColor": "#76d275",
       "stars": 265,
       "forks": 59,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "bazelbuild / bazel-skylib",
+      "url": "https://github.com/bazelbuild/bazel-skylib",
+      "description": "Common useful functions and rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 444,
+      "forks": 201,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 192,
+      "forks": 86,
       "added_stars": "0 stars this month"
     }
   ]

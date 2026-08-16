@@ -2,17 +2,37 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:54:45 GMT",
   "items": [
     {
-      "title": "dakra / ghostel",
-      "url": "https://github.com/dakra/ghostel",
-      "description": "Terminal emulator powered by libghostty",
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 873,
-      "forks": 50,
-      "added_stars": "6 stars today"
+      "stars": 22584,
+      "forks": 3158,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 7200,
+      "forks": 874,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5152,
+      "forks": 1395,
+      "added_stars": "1 star today"
     },
     {
       "title": "xenodium / agent-shell",
@@ -20,9 +40,29 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1731,
-      "forks": 216,
-      "added_stars": "5 stars today"
+      "stars": 1733,
+      "forks": 218,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3480,
+      "forks": 423,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 874,
+      "forks": 50,
+      "added_stars": "2 stars today"
     },
     {
       "title": "melpa / melpa",
@@ -31,128 +71,8 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2964,
-      "forks": 2794,
+      "forks": 2793,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5151,
-      "forks": 1395,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 24577,
-      "forks": 4836,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "magnars / dash.el",
-      "url": "https://github.com/magnars/dash.el",
-      "description": "A modern list library for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1745,
-      "forks": 138,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 7199,
-      "forks": 874,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "radian-software / straight.el",
-      "url": "https://github.com/radian-software/straight.el",
-      "description": "🍀 Next-generation, purely functional package manager for the Emacs hacker.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3022,
-      "forks": 168,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rejeep / f.el",
-      "url": "https://github.com/rejeep/f.el",
-      "description": "Modern API for working with files and directories in Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 709,
-      "forks": 73,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3479,
-      "forks": 422,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "magit / transient",
-      "url": "https://github.com/magit/transient",
-      "description": "Transient commands",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 884,
-      "forks": 73,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jrblevin / markdown-mode",
-      "url": "https://github.com/jrblevin/markdown-mode",
-      "description": "Emacs Markdown Mode",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1040,
-      "forks": 183,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2509,
-      "forks": 320,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rainstormstudio / nerd-icons.el",
-      "url": "https://github.com/rainstormstudio/nerd-icons.el",
-      "description": "",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 323,
-      "forks": 48,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22580,
-      "forks": 3158,
-      "added_stars": "5 stars today"
     }
   ]
 }

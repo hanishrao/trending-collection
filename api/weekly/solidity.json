@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:57:01 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27217,
-      "forks": 12403,
-      "added_stars": "24 stars this week"
+      "stars": 27218,
+      "forks": 12402,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -22,27 +22,17 @@
       "languageColor": "#AA6746",
       "stars": 222,
       "forks": 43,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 199,
-      "forks": 113,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "matter-labs / era-contracts",
-      "url": "https://github.com/matter-labs/era-contracts",
-      "description": "Smart Contract Submodule For zkSync Era",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 537,
-      "forks": 417,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1054,
+      "forks": 514,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "dapphub / ds-test",
@@ -55,14 +45,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "title": "matter-labs / era-contracts",
+      "url": "https://github.com/matter-labs/era-contracts",
+      "description": "Smart Contract Submodule For zkSync Era",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1054,
-      "forks": 514,
-      "added_stars": "3 stars this week"
+      "stars": 537,
+      "forks": 417,
+      "added_stars": "1 star this week"
     },
     {
       "title": "OffchainLabs / nitro-contracts",
@@ -75,16 +65,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "GNSPS / solidity-bytes-utils",
-      "url": "https://github.com/GNSPS/solidity-bytes-utils",
-      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 563,
-      "forks": 113,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "PaulRBerg / prb-math",
       "url": "https://github.com/PaulRBerg/prb-math",
       "description": "Solidity library for advanced fixed-point math",
@@ -93,16 +73,6 @@
       "stars": 1006,
       "forks": 145,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho Vault V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 95,
-      "forks": 71,
-      "added_stars": "1 star this week"
     },
     {
       "title": "Arachnid / solidity-stringutils",
@@ -115,6 +85,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 199,
+      "forks": 113,
+      "added_stars": "2 stars this week"
+    },
+    {
       "title": "dmfxyz / murky",
       "url": "https://github.com/dmfxyz/murky",
       "description": "Merkle Proof Generator and Validator in Solidity",
@@ -123,6 +103,36 @@
       "stars": 516,
       "forks": 57,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 563,
+      "forks": 113,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 3360,
+      "forks": 485,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho Vault V2",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 95,
+      "forks": 71,
+      "added_stars": "1 star this week"
     },
     {
       "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
@@ -135,16 +145,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 3355,
-      "forks": 485,
-      "added_stars": "9 stars this week"
-    },
-    {
       "title": "transmissions11 / solmate",
       "url": "https://github.com/transmissions11/solmate",
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
@@ -152,17 +152,17 @@
       "languageColor": "#AA6746",
       "stars": 4288,
       "forks": 707,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "foundry-rs / book",
-      "url": "https://github.com/foundry-rs/book",
-      "description": "A book on all things Foundry, available at https://getfoundry.sh.",
+      "title": "celo-org / celo-monorepo",
+      "url": "https://github.com/celo-org/celo-monorepo",
+      "description": "Official repository for core projects comprising the Celo platform",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 958,
-      "forks": 1001,
-      "added_stars": "1 star this week"
+      "stars": 801,
+      "forks": 478,
+      "added_stars": "0 stars this week"
     }
   ]
 }

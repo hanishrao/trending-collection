@@ -2,8 +2,18 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:57:01 GMT",
   "items": [
+    {
+      "title": "Azure / bicep-registry-modules",
+      "url": "https://github.com/Azure/bicep-registry-modules",
+      "description": "Bicep registry modules",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 735,
+      "forks": 560,
+      "added_stars": "1 star this week"
+    },
     {
       "title": "microsoft / azure-container-apps",
       "url": "https://github.com/microsoft/azure-container-apps",
@@ -15,24 +25,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Azure / bicep-registry-modules",
-      "url": "https://github.com/Azure/bicep-registry-modules",
-      "description": "Bicep registry modules",
+      "title": "Azure / bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 734,
-      "forks": 561,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "microsoft-foundry / foundry-samples",
-      "url": "https://github.com/microsoft-foundry/foundry-samples",
-      "description": "Embedded samples in Azure AI Foundry docs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 422,
-      "forks": 458,
-      "added_stars": "7 stars this week"
+      "stars": 3630,
+      "forks": 823,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "Azure / azure-quickstart-templates",
@@ -40,9 +40,19 @@
       "description": "Azure Quickstart Templates",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 14859,
-      "forks": 16210,
-      "added_stars": "10 stars this week"
+      "stars": 14861,
+      "forks": 16208,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "microsoft-foundry / foundry-samples",
+      "url": "https://github.com/microsoft-foundry/foundry-samples",
+      "description": "Embedded samples in Azure AI Foundry docs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 424,
+      "forks": 458,
+      "added_stars": "6 stars this week"
     }
   ]
 }

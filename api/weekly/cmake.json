@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:57:01 GMT",
   "items": [
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -10,9 +10,9 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1706,
+      "stars": 1707,
       "forks": 231,
-      "added_stars": "28 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
       "title": "microsoft / vcpkg",
@@ -20,9 +20,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27360,
-      "forks": 7677,
-      "added_stars": "32 stars this week"
+      "stars": 27364,
+      "forks": 7678,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "steinbergmedia / vst3sdk",
@@ -30,7 +30,7 @@
       "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2325,
+      "stars": 2328,
       "forks": 224,
       "added_stars": "14 stars this week"
     },
@@ -45,6 +45,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 702,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "pingcap / kvproto",
       "url": "https://github.com/pingcap/kvproto",
       "description": "Protocol buffer files for TiKV",
@@ -55,24 +65,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "corrosion-rs / corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "title": "arsenm / sanitizers-cmake",
+      "url": "https://github.com/arsenm/sanitizers-cmake",
+      "description": "CMake modules to help use sanitizers",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1481,
-      "forks": 149,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "vector-of-bool / cmrc",
-      "url": "https://github.com/vector-of-bool/cmrc",
-      "description": "A Resource Compiler in a Single CMake Script",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 776,
-      "forks": 83,
-      "added_stars": "0 stars this week"
+      "stars": 412,
+      "forks": 74,
+      "added_stars": "1 star this week"
     },
     {
       "title": "flathub / shared-modules",
@@ -85,23 +85,33 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 702,
+      "stars": 1617,
+      "forks": 127,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "vector-of-bool / cmrc",
+      "url": "https://github.com/vector-of-bool/cmrc",
+      "description": "A Resource Compiler in a Single CMake Script",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 776,
+      "forks": 83,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "ament / ament_cmake",
-      "url": "https://github.com/ament/ament_cmake",
-      "description": "Supporting CMake packages for working with ament",
+      "title": "KiCad / kicad-symbols",
+      "url": "https://github.com/KiCad/kicad-symbols",
+      "description": "Official KiCad schematic symbol libraries for Kicad 5",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 125,
-      "forks": 147,
+      "stars": 764,
+      "forks": 725,
       "added_stars": "0 stars this week"
     },
     {
@@ -115,34 +125,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "TheLartians / PackageProject.cmake",
-      "url": "https://github.com/TheLartians/PackageProject.cmake",
-      "description": "🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.",
+      "title": "cpm-cmake / CPM.cmake",
+      "url": "https://github.com/cpm-cmake/CPM.cmake",
+      "description": "📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 137,
-      "forks": 18,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "ecmwf / ecbuild",
-      "url": "https://github.com/ecmwf/ecbuild",
-      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 39,
-      "forks": 41,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "GEOS-ESM / GEOSgcm",
-      "url": "https://github.com/GEOS-ESM/GEOSgcm",
-      "description": "GEOS Earth System Model GEOSgcm Fixture",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 50,
-      "forks": 17,
-      "added_stars": "0 stars this week"
+      "stars": 4093,
+      "forks": 226,
+      "added_stars": "10 stars this week"
     }
   ]
 }

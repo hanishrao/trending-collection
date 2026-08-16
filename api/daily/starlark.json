@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:54:45 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,9 +10,19 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22999,
+      "stars": 23004,
       "forks": 1431,
-      "added_stars": "39 stars today"
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3938,
+      "forks": 302,
+      "added_stars": "1 star today"
     },
     {
       "title": "googleapis / googleapis",
@@ -20,18 +30,18 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8686,
+      "stars": 8689,
       "forks": 2615,
-      "added_stars": "5 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 241,
-      "forks": 192,
+      "stars": 685,
+      "forks": 710,
       "added_stars": "0 stars today"
     },
     {
@@ -45,13 +55,43 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 192,
+      "forks": 86,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 379,
-      "forks": 846,
+      "forks": 847,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 271,
+      "forks": 84,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 241,
+      "forks": 192,
       "added_stars": "0 stars today"
     },
     {
@@ -65,53 +105,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 192,
-      "forks": 86,
+      "stars": 398,
+      "forks": 87,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 685,
-      "forks": 709,
+      "stars": 833,
+      "forks": 642,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3938,
-      "forks": 302,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ash2k / bazel-tools",
-      "url": "https://github.com/ash2k/bazel-tools",
-      "description": "Reusable bits for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 59,
-      "forks": 25,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "aspect-build / rules_lint",
-      "url": "https://github.com/aspect-build/rules_lint",
-      "description": "Run static analysis tools with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 151,
-      "forks": 124,
+      "stars": 31,
+      "forks": 49,
       "added_stars": "0 stars today"
     }
   ]

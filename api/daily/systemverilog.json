@@ -2,27 +2,27 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:47:28 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:54:45 GMT",
   "items": [
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3845,
-      "forks": 878,
-      "added_stars": "4 stars today"
-    },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3592,
-      "forks": 1086,
-      "added_stars": "2 stars today"
+      "stars": 3598,
+      "forks": 1087,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2014,
+      "forks": 786,
+      "added_stars": "4 stars today"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -32,37 +32,17 @@
       "languageColor": "#DAE1C2",
       "stars": 150,
       "forks": 102,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 2011,
-      "forks": 785,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "pulp-platform / axi_riscv_atomics",
-      "url": "https://github.com/pulp-platform/axi_riscv_atomics",
-      "description": "AXI Adapter(s) for RISC-V Atomic Operations",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 66,
-      "forks": 24,
       "added_stars": "0 stars today"
     },
     {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12843,
-      "forks": 1234,
-      "added_stars": "1 star today"
+      "stars": 3847,
+      "forks": 878,
+      "added_stars": "2 stars today"
     }
   ]
 }

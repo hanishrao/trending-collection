@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:51:50 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:59:18 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,19 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27217,
-      "forks": 12403,
+      "stars": 27218,
+      "forks": 12402,
       "added_stars": "73 stars this month"
+    },
+    {
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 199,
+      "forks": 113,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "ethereum / ERCs",
@@ -22,7 +32,7 @@
       "languageColor": "#AA6746",
       "stars": 745,
       "forks": 1029,
-      "added_stars": "15 stars this month"
+      "added_stars": "14 stars this month"
     },
     {
       "title": "dapphub / ds-test",
@@ -35,16 +45,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1054,
-      "forks": 514,
-      "added_stars": "5 stars this month"
-    },
-    {
       "title": "a16z / erc4626-tests",
       "url": "https://github.com/a16z/erc4626-tests",
       "description": "ERC4626 Property Tests",
@@ -53,6 +53,16 @@
       "stars": 222,
       "forks": 43,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1054,
+      "forks": 514,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "transmissions11 / solmate",
@@ -75,14 +85,24 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 948,
-      "forks": 294,
-      "added_stars": "7 stars this month"
+      "stars": 2528,
+      "forks": 1308,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "tempoxyz / tempo-std",
+      "url": "https://github.com/tempoxyz/tempo-std",
+      "description": "A collection of helpful contracts and libraries for use with Tempo for Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 63,
+      "forks": 29,
+      "added_stars": "1 star this month"
     },
     {
       "title": "Arachnid / solidity-stringutils",
@@ -95,14 +115,34 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2528,
-      "forks": 1308,
-      "added_stars": "10 stars this month"
+      "stars": 948,
+      "forks": 294,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "PaulRBerg / prb-math",
+      "url": "https://github.com/PaulRBerg/prb-math",
+      "description": "Solidity library for advanced fixed-point math",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1006,
+      "forks": 145,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "aave-dao / aave-v3-origin",
+      "url": "https://github.com/aave-dao/aave-v3-origin",
+      "description": "Aave V3 Protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 289,
+      "forks": 222,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "Vectorized / solady",
@@ -110,49 +150,9 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3355,
+      "stars": 3360,
       "forks": 485,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho Vault V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 95,
-      "forks": 71,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "Uniswap / v2-periphery",
-      "url": "https://github.com/Uniswap/v2-periphery",
-      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1265,
-      "forks": 1764,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 199,
-      "forks": 113,
-      "added_stars": "12 stars this month"
-    },
-    {
-      "title": "foundry-rs / book",
-      "url": "https://github.com/foundry-rs/book",
-      "description": "A book on all things Foundry, available at https://getfoundry.sh.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 958,
-      "forks": 1001,
-      "added_stars": "7 stars this month"
+      "added_stars": "20 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 15 Aug 2026 02:48:37 GMT",
+  "pubDate": "Sun, 16 Aug 2026 02:57:01 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,9 +10,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 22999,
+      "stars": 23004,
       "forks": 1431,
-      "added_stars": "85 stars this week"
+      "added_stars": "92 stars this week"
     },
     {
       "title": "googleapis / googleapis",
@@ -20,9 +20,39 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8686,
+      "stars": 8689,
       "forks": 2615,
-      "added_stars": "17 stars this week"
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3938,
+      "forks": 302,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 379,
+      "forks": 847,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 833,
+      "forks": 642,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "bazel-contrib / rules_distroless",
@@ -41,18 +71,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 685,
-      "forks": 709,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 833,
-      "forks": 643,
-      "added_stars": "6 stars this week"
+      "forks": 710,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "openconfig / gnoi",
@@ -62,6 +82,16 @@
       "languageColor": "#76d275",
       "stars": 192,
       "forks": 86,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "aspect-build / rules_py",
+      "url": "https://github.com/aspect-build/rules_py",
+      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 143,
+      "forks": 97,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,26 +105,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 379,
-      "forks": 846,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 143,
-      "forks": 97,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "bazelbuild / examples",
       "url": "https://github.com/bazelbuild/examples",
       "description": "Examples for Bazel",
@@ -105,13 +115,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazel-contrib / toolchains_llvm",
-      "url": "https://github.com/bazel-contrib/toolchains_llvm",
-      "description": "LLVM toolchain for bazel",
+      "title": "aspect-build / rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 370,
-      "forks": 281,
+      "stars": 151,
+      "forks": 124,
       "added_stars": "0 stars this week"
     },
     {
@@ -123,16 +133,6 @@
       "stars": 31,
       "forks": 49,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3938,
-      "forks": 302,
-      "added_stars": "9 stars this week"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -152,26 +152,6 @@
       "languageColor": "#76d275",
       "stars": 257,
       "forks": 57,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 294,
-      "forks": 115,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "aspect-build / rules_lint",
-      "url": "https://github.com/aspect-build/rules_lint",
-      "description": "Run static analysis tools with Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 151,
-      "forks": 124,
       "added_stars": "0 stars this week"
     }
   ]
