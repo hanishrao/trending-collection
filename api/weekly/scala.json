@@ -2,27 +2,27 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 16 Aug 2026 02:57:01 GMT",
+  "pubDate": "Mon, 17 Aug 2026 02:56:43 GMT",
   "items": [
-    {
-      "title": "lichess-org / lila",
-      "url": "https://github.com/lichess-org/lila",
-      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 18630,
-      "forks": 2763,
-      "added_stars": "71 stars this week"
-    },
     {
       "title": "twitter / the-algorithm",
       "url": "https://github.com/twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 73774,
-      "forks": 13271,
-      "added_stars": "129 stars this week"
+      "stars": 73791,
+      "forks": 13270,
+      "added_stars": "137 stars this week"
+    },
+    {
+      "title": "lichess-org / lila",
+      "url": "https://github.com/lichess-org/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 18634,
+      "forks": 2763,
+      "added_stars": "67 stars this week"
     },
     {
       "title": "apache / spark",
@@ -30,19 +30,9 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 43819,
-      "forks": 29319,
+      "stars": 43825,
+      "forks": 29318,
       "added_stars": "67 stars this week"
-    },
-    {
-      "title": "delta-io / delta",
-      "url": "https://github.com/delta-io/delta",
-      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 8939,
-      "forks": 2153,
-      "added_stars": "10 stars this week"
     },
     {
       "title": "scala / scala3",
@@ -65,23 +55,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "akka / akka-core",
-      "url": "https://github.com/akka/akka-core",
-      "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+      "title": "delta-io / delta",
+      "url": "https://github.com/delta-io/delta",
+      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 13275,
-      "forks": 3539,
-      "added_stars": "1 star this week"
+      "stars": 8940,
+      "forks": 2153,
+      "added_stars": "9 stars this week"
     },
     {
-      "title": "sbt / sbt",
-      "url": "https://github.com/sbt/sbt",
-      "description": "sbt, the interactive build tool",
+      "title": "apache / datafusion-comet",
+      "url": "https://github.com/apache/datafusion-comet",
+      "description": "Apache DataFusion Comet Spark Accelerator",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 4934,
-      "forks": 1043,
+      "stars": 1249,
+      "forks": 352,
       "added_stars": "2 stars this week"
     },
     {
@@ -90,29 +80,19 @@
       "description": "Open-source high-performance RISC-V processor",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 7193,
+      "stars": 7194,
       "forks": 934,
       "added_stars": "13 stars this week"
     },
     {
-      "title": "scalapb / ScalaPB",
-      "url": "https://github.com/scalapb/ScalaPB",
-      "description": "Protocol buffer compiler for Scala.",
+      "title": "akka / akka-core",
+      "url": "https://github.com/akka/akka-core",
+      "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1338,
-      "forks": 292,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "gitbucket / gitbucket",
-      "url": "https://github.com/gitbucket/gitbucket",
-      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 9388,
-      "forks": 1267,
-      "added_stars": "3 stars this week"
+      "stars": 13276,
+      "forks": 3539,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "ucb-bar / berkeley-hardfloat",
@@ -125,14 +105,34 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "scalapb / ScalaPB",
+      "url": "https://github.com/scalapb/ScalaPB",
+      "description": "Protocol buffer compiler for Scala.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1338,
+      "forks": 292,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "chipsalliance / chisel",
       "url": "https://github.com/chipsalliance/chisel",
       "description": "Chisel: A Modern Hardware Design Language",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 4759,
+      "stars": 4760,
       "forks": 658,
       "added_stars": "6 stars this week"
+    },
+    {
+      "title": "gitbucket / gitbucket",
+      "url": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 9389,
+      "forks": 1267,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "ucb-bar / chipyard",
@@ -143,6 +143,16 @@
       "stars": 2355,
       "forks": 904,
       "added_stars": "5 stars this week"
+    },
+    {
+      "title": "gatling / gatling",
+      "url": "https://github.com/gatling/gatling",
+      "description": "Modern Load Testing as Code",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 6945,
+      "forks": 1204,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "canton-network / splice",
@@ -160,29 +170,9 @@
       "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 3423,
-      "forks": 440,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "gatling / gatling",
-      "url": "https://github.com/gatling/gatling",
-      "description": "Modern Load Testing as Code",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 6944,
-      "forks": 1204,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "digital-asset / canton",
-      "url": "https://github.com/digital-asset/canton",
-      "description": "Global Workflow Composition that is Scalable, Secure, and GDPR-compliant",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 136,
-      "forks": 53,
-      "added_stars": "1 star this week"
+      "stars": 3425,
+      "forks": 441,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "ucb-bar / testchipip",
@@ -195,14 +185,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MightyPirates / OpenComputers",
-      "url": "https://github.com/MightyPirates/OpenComputers",
-      "description": "Home of the OpenComputers mod for Minecraft.",
+      "title": "digital-asset / canton",
+      "url": "https://github.com/digital-asset/canton",
+      "description": "Global Workflow Composition that is Scalable, Secure, and GDPR-compliant",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1735,
-      "forks": 497,
-      "added_stars": "3 stars this week"
+      "stars": 136,
+      "forks": 53,
+      "added_stars": "1 star this week"
     },
     {
       "title": "apache / gluten",
@@ -210,29 +200,39 @@
       "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1585,
-      "forks": 639,
-      "added_stars": "4 stars this week"
+      "stars": 1586,
+      "forks": 640,
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "zio / zio",
-      "url": "https://github.com/zio/zio",
-      "description": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+      "title": "sbt / sbt",
+      "url": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 4405,
-      "forks": 1588,
-      "added_stars": "3 stars this week"
+      "stars": 4934,
+      "forks": 1043,
+      "added_stars": "1 star this week"
     },
     {
-      "title": "TheHive-Project / TheHive",
-      "url": "https://github.com/TheHive-Project/TheHive",
-      "description": "TheHive is a Collaborative Case Management Platform, now distributed as a commercial version",
+      "title": "chipsalliance / diplomacy",
+      "url": "https://github.com/chipsalliance/diplomacy",
+      "description": "",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 3946,
-      "forks": 695,
+      "stars": 28,
+      "forks": 25,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "ucb-bar / riscv-torture",
+      "url": "https://github.com/ucb-bar/riscv-torture",
+      "description": "RISC-V Torture Test",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 221,
+      "forks": 51,
+      "added_stars": "1 star this week"
     }
   ]
 }

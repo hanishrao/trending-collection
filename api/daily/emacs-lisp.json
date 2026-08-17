@@ -2,56 +2,26 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 16 Aug 2026 02:54:45 GMT",
+  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
   "items": [
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22584,
-      "forks": 3158,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 7200,
-      "forks": 874,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5152,
-      "forks": 1395,
-      "added_stars": "1 star today"
-    },
     {
       "title": "xenodium / agent-shell",
       "url": "https://github.com/xenodium/agent-shell",
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1733,
-      "forks": 218,
-      "added_stars": "1 star today"
+      "stars": 1735,
+      "forks": 219,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
+      "title": "magit / transient",
+      "url": "https://github.com/magit/transient",
+      "description": "Transient commands",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3480,
-      "forks": 423,
+      "stars": 886,
+      "forks": 73,
       "added_stars": "1 star today"
     },
     {
@@ -60,8 +30,48 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 874,
-      "forks": 50,
+      "stars": 875,
+      "forks": 51,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "magnars / dash.el",
+      "url": "https://github.com/magnars/dash.el",
+      "description": "A modern list library for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1745,
+      "forks": 138,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 7204,
+      "forks": 874,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22583,
+      "forks": 3158,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3482,
+      "forks": 423,
       "added_stars": "2 stars today"
     },
     {
@@ -71,7 +81,17 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2964,
-      "forks": 2793,
+      "forks": 2796,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "dnouri / pi-coding-agent",
+      "url": "https://github.com/dnouri/pi-coding-agent",
+      "description": "Emacs frontend for the Pi coding agent",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 257,
+      "forks": 33,
       "added_stars": "0 stars today"
     }
   ]

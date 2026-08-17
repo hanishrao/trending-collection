@@ -2,18 +2,8 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 16 Aug 2026 02:57:01 GMT",
+  "pubDate": "Mon, 17 Aug 2026 02:56:43 GMT",
   "items": [
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3847,
-      "forks": 878,
-      "added_stars": "26 stars this week"
-    },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
@@ -22,7 +12,17 @@
       "languageColor": "#DAE1C2",
       "stars": 3598,
       "forks": 1087,
-      "added_stars": "19 stars this week"
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3850,
+      "forks": 880,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -31,8 +31,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 2014,
-      "forks": 786,
-      "added_stars": "12 stars this week"
+      "forks": 787,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "pulp-platform / axi_riscv_atomics",
@@ -42,26 +42,6 @@
       "languageColor": "#DAE1C2",
       "stars": 66,
       "forks": 24,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 12845,
-      "forks": 1236,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "chipsalliance / caliptra-ss",
-      "url": "https://github.com/chipsalliance/caliptra-ss",
-      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 47,
-      "forks": 55,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,6 +55,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12845,
+      "forks": 1235,
+      "added_stars": "19 stars this week"
+    },
+    {
       "title": "chipsalliance / adams-bridge",
       "url": "https://github.com/chipsalliance/adams-bridge",
       "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
@@ -82,17 +72,27 @@
       "languageColor": "#DAE1C2",
       "stars": 61,
       "forks": 17,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
-      "title": "pulp-platform / register_interface",
-      "url": "https://github.com/pulp-platform/register_interface",
-      "description": "Generic Register Interface (contains various adapters)",
+      "title": "chipsalliance / caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 141,
-      "forks": 40,
+      "stars": 47,
+      "forks": 55,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1659,
+      "forks": 365,
+      "added_stars": "9 stars this week"
     }
   ]
 }

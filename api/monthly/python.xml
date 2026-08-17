@@ -4,11 +4,11 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 16 Aug 2026 02:59:18 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 02:59:55 GMT</pubDate>
   <item>
-    <title>HKUDS / DeepTutor</title>
-    <link>https://github.com/HKUDS/DeepTutor</link>
-    <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
+    <title>bojieli / ai-agent-book</title>
+    <link>https://github.com/bojieli/ai-agent-book</link>
+    <description>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</description>
   </item>
   <item>
     <title>virgiliojr94 / book-to-skill</title>
@@ -16,9 +16,19 @@
     <description>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</description>
   </item>
   <item>
+    <title>HKUDS / DeepTutor</title>
+    <link>https://github.com/HKUDS/DeepTutor</link>
+    <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
+  </item>
+  <item>
     <title>tirth8205 / code-review-graph</title>
     <link>https://github.com/tirth8205/code-review-graph</link>
     <description>Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</description>
+  </item>
+  <item>
+    <title>megadose / holehe</title>
+    <link>https://github.com/megadose/holehe</link>
+    <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
   </item>
   <item>
     <title>kangarooking / cangjie-skill</title>
@@ -31,19 +41,19 @@
     <description>Build local voice agents with open-source models</description>
   </item>
   <item>
-    <title>bradautomates / claude-video</title>
-    <link>https://github.com/bradautomates/claude-video</link>
-    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
-  </item>
-  <item>
     <title>earthtojake / text-to-cad</title>
     <link>https://github.com/earthtojake/text-to-cad</link>
     <description>A library of agent skills for CAD, CAE and CAM</description>
   </item>
   <item>
-    <title>megadose / holehe</title>
-    <link>https://github.com/megadose/holehe</link>
-    <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
+    <title>bradautomates / claude-video</title>
+    <link>https://github.com/bradautomates/claude-video</link>
+    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
+  </item>
+  <item>
+    <title>cactus-compute / needle</title>
+    <link>https://github.com/cactus-compute/needle</link>
+    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
   </item>
   <item>
     <title>usestrix / strix</title>
@@ -61,6 +71,11 @@
     <description>The authentication glue you need.</description>
   </item>
   <item>
+    <title>google / skills</title>
+    <link>https://github.com/google/skills</link>
+    <description>Agent Skills for Google products and technologies</description>
+  </item>
+  <item>
     <title>Comfy-Org / ComfyUI</title>
     <link>https://github.com/Comfy-Org/ComfyUI</link>
     <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
@@ -71,34 +86,9 @@
     <description>A framework for building realtime voice AI agents 🤖🎙️📹</description>
   </item>
   <item>
-    <title>cactus-compute / needle</title>
-    <link>https://github.com/cactus-compute/needle</link>
-    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
-  </item>
-  <item>
-    <title>google / skills</title>
-    <link>https://github.com/google/skills</link>
-    <description>Agent Skills for Google products and technologies</description>
-  </item>
-  <item>
     <title>donnemartin / system-design-primer</title>
     <link>https://github.com/donnemartin/system-design-primer</link>
     <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-  </item>
-  <item>
-    <title>MoonshotAI / kimi-cli</title>
-    <link>https://github.com/MoonshotAI/kimi-cli</link>
-    <description>Kimi Code CLI is your next CLI agent.</description>
-  </item>
-  <item>
-    <title>apache / ossie</title>
-    <link>https://github.com/apache/ossie</link>
-    <description>Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data</description>
-  </item>
-  <item>
-    <title>PostHog / posthog</title>
-    <link>https://github.com/PostHog/posthog</link>
-    <description>🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.</description>
   </item>
   <item>
     <title>microsoft / VibeVoice</title>
@@ -109,6 +99,11 @@
     <title>3b1b / manim</title>
     <link>https://github.com/3b1b/manim</link>
     <description>Animation engine for explanatory math videos</description>
+  </item>
+  <item>
+    <title>MoonshotAI / kimi-cli</title>
+    <link>https://github.com/MoonshotAI/kimi-cli</link>
+    <description>Kimi Code CLI is your next CLI agent.</description>
   </item>
 </channel>
 </rss>

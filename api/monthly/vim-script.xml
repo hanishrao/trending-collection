@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 16 Aug 2026 02:59:18 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 02:59:55 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
@@ -31,6 +31,11 @@
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
+  </item>
+  <item>
     <title>morhetz / gruvbox</title>
     <link>https://github.com/morhetz/gruvbox</link>
     <description>Retro groove color scheme for Vim</description>
@@ -46,9 +51,19 @@
     <description>Go development plugin for Vim</description>
   </item>
   <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+  </item>
+  <item>
     <title>tpope / vim-rails</title>
     <link>https://github.com/tpope/vim-rails</link>
     <description>rails.vim: Ruby on Rails power tools</description>
+  </item>
+  <item>
+    <title>VundleVim / Vundle.vim</title>
+    <link>https://github.com/VundleVim/Vundle.vim</link>
+    <description>Vundle, the plug-in manager for Vim</description>
   </item>
   <item>
     <title>preservim / nerdtree</title>
@@ -56,9 +71,9 @@
     <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+    <title>tpope / vim-rhubarb</title>
+    <link>https://github.com/tpope/vim-rhubarb</link>
+    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
   </item>
   <item>
     <title>derekhe / msfs2020-map-enhancement</title>
@@ -71,39 +86,9 @@
     <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
   <item>
-    <title>tpope / vim-rhubarb</title>
-    <link>https://github.com/tpope/vim-rhubarb</link>
-    <description>rhubarb.vim: GitHub extension for fugitive.vim</description>
-  </item>
-  <item>
-    <title>jbranchaud / til</title>
-    <link>https://github.com/jbranchaud/til</link>
-    <description>📝 Today I Learned</description>
-  </item>
-  <item>
-    <title>junegunn / vim-easy-align</title>
-    <link>https://github.com/junegunn/vim-easy-align</link>
-    <description>🌻 A Vim alignment plugin</description>
-  </item>
-  <item>
     <title>amix / vimrc</title>
     <link>https://github.com/amix/vimrc</link>
     <description>The ultimate Vim configuration (vimrc)</description>
-  </item>
-  <item>
-    <title>VundleVim / Vundle.vim</title>
-    <link>https://github.com/VundleVim/Vundle.vim</link>
-    <description>Vundle, the plug-in manager for Vim</description>
-  </item>
-  <item>
-    <title>tpope / vim-sensible</title>
-    <link>https://github.com/tpope/vim-sensible</link>
-    <description>sensible.vim: Defaults everyone can agree on</description>
-  </item>
-  <item>
-    <title>tpope / vim-abolish</title>
-    <link>https://github.com/tpope/vim-abolish</link>
-    <description>abolish.vim: Work with several variants of a word at once</description>
   </item>
   <item>
     <title>ggml-org / llama.vim</title>
@@ -111,9 +96,24 @@
     <description>Vim plugin for LLM-assisted code/text completion</description>
   </item>
   <item>
+    <title>chrisbra / csv.vim</title>
+    <link>https://github.com/chrisbra/csv.vim</link>
+    <description>A Filetype plugin for csv files</description>
+  </item>
+  <item>
+    <title>junegunn / vim-easy-align</title>
+    <link>https://github.com/junegunn/vim-easy-align</link>
+    <description>🌻 A Vim alignment plugin</description>
+  </item>
+  <item>
     <title>dracula / vim</title>
     <link>https://github.com/dracula/vim</link>
     <description>🧛🏻‍♂️ Dark theme for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-abolish</title>
+    <link>https://github.com/tpope/vim-abolish</link>
+    <description>abolish.vim: Work with several variants of a word at once</description>
   </item>
 </channel>
 </rss>

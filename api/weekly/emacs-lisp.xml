@@ -4,16 +4,21 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 16 Aug 2026 02:57:01 GMT</pubDate>
+  <pubDate>Mon, 17 Aug 2026 02:56:43 GMT</pubDate>
+  <item>
+    <title>xenodium / agent-shell</title>
+    <link>https://github.com/xenodium/agent-shell</link>
+    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
+  </item>
+  <item>
+    <title>karthink / gptel</title>
+    <link>https://github.com/karthink/gptel</link>
+    <description>A simple, extensible LLM client for Emacs</description>
+  </item>
   <item>
     <title>dominikh / go-mode.el</title>
     <link>https://github.com/dominikh/go-mode.el</link>
     <description>Emacs mode for the Go programming language</description>
-  </item>
-  <item>
-    <title>akermu / emacs-libvterm</title>
-    <link>https://github.com/akermu/emacs-libvterm</link>
-    <description>Emacs libvterm integration</description>
   </item>
   <item>
     <title>joaotavora / yasnippet</title>
@@ -21,54 +26,14 @@
     <description>A template system for Emacs</description>
   </item>
   <item>
-    <title>syl20bnr / spacemacs</title>
-    <link>https://github.com/syl20bnr/spacemacs</link>
-    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
+    <title>yoshiki / yaml-mode</title>
+    <link>https://github.com/yoshiki/yaml-mode</link>
+    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
   </item>
   <item>
-    <title>org-roam / org-roam</title>
-    <link>https://github.com/org-roam/org-roam</link>
-    <description>Rudimentary Roam replica with Org-mode</description>
-  </item>
-  <item>
-    <title>Fanael / rainbow-delimiters</title>
-    <link>https://github.com/Fanael/rainbow-delimiters</link>
-    <description>Emacs rainbow delimiters mode</description>
-  </item>
-  <item>
-    <title>zkry / yaml.el</title>
-    <link>https://github.com/zkry/yaml.el</link>
-    <description>YAML parser in Elisp</description>
-  </item>
-  <item>
-    <title>Wilfred / elisp-refs</title>
-    <link>https://github.com/Wilfred/elisp-refs</link>
-    <description>semantic code search for emacs lisp</description>
-  </item>
-  <item>
-    <title>doomemacs / core</title>
-    <link>https://github.com/doomemacs/core</link>
-    <description>An Emacs framework for the stubborn martian hacker</description>
-  </item>
-  <item>
-    <title>melpa / melpa</title>
-    <link>https://github.com/melpa/melpa</link>
-    <description>Recipes and build machinery for the biggest Emacs package repo</description>
-  </item>
-  <item>
-    <title>xenodium / agent-shell</title>
-    <link>https://github.com/xenodium/agent-shell</link>
-    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
-  </item>
-  <item>
-    <title>magnars / dash.el</title>
-    <link>https://github.com/magnars/dash.el</link>
-    <description>A modern list library for Emacs</description>
-  </item>
-  <item>
-    <title>oantolin / embark</title>
-    <link>https://github.com/oantolin/embark</link>
-    <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
+    <title>akermu / emacs-libvterm</title>
+    <link>https://github.com/akermu/emacs-libvterm</link>
+    <description>Emacs libvterm integration</description>
   </item>
   <item>
     <title>seagle0128 / doom-modeline</title>
@@ -76,14 +41,59 @@
     <description>A fancy and fast mode-line inspired by minimalism design.</description>
   </item>
   <item>
-    <title>yoshiki / yaml-mode</title>
-    <link>https://github.com/yoshiki/yaml-mode</link>
-    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+    <title>magnars / dash.el</title>
+    <link>https://github.com/magnars/dash.el</link>
+    <description>A modern list library for Emacs</description>
   </item>
   <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
+    <title>org-roam / org-roam</title>
+    <link>https://github.com/org-roam/org-roam</link>
+    <description>Rudimentary Roam replica with Org-mode</description>
+  </item>
+  <item>
+    <title>oantolin / embark</title>
+    <link>https://github.com/oantolin/embark</link>
+    <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
+  </item>
+  <item>
+    <title>Fanael / rainbow-delimiters</title>
+    <link>https://github.com/Fanael/rainbow-delimiters</link>
+    <description>Emacs rainbow delimiters mode</description>
+  </item>
+  <item>
+    <title>manzaltu / claude-code-ide.el</title>
+    <link>https://github.com/manzaltu/claude-code-ide.el</link>
+    <description>Claude Code IDE integration for Emacs</description>
+  </item>
+  <item>
+    <title>Wilfred / elisp-refs</title>
+    <link>https://github.com/Wilfred/elisp-refs</link>
+    <description>semantic code search for emacs lisp</description>
+  </item>
+  <item>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+  </item>
+  <item>
+    <title>syl20bnr / spacemacs</title>
+    <link>https://github.com/syl20bnr/spacemacs</link>
+    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
+  </item>
+  <item>
+    <title>magit / transient</title>
+    <link>https://github.com/magit/transient</link>
+    <description>Transient commands</description>
+  </item>
+  <item>
+    <title>dimitri / el-get</title>
+    <link>https://github.com/dimitri/el-get</link>
+    <description>Manage the external elisp bits and pieces upon which you depend!</description>
+  </item>
+  <item>
+    <title>tumashu / posframe</title>
+    <link>https://github.com/tumashu/posframe</link>
+    <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
   </item>
 </channel>
 </rss>
