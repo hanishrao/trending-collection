@@ -2,17 +2,37 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
   "items": [
+    {
+      "title": "dlang / phobos",
+      "url": "https://github.com/dlang/phobos",
+      "description": "The standard library of the D programming language",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 1255,
+      "forks": 773,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "dlang / dmd",
       "url": "https://github.com/dlang/dmd",
       "description": "dmd D Programming Language compiler",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 3300,
+      "stars": 3301,
       "forks": 714,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Dadoum / Sideloader",
+      "url": "https://github.com/Dadoum/Sideloader",
+      "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 992,
+      "forks": 146,
+      "added_stars": "1 star today"
     },
     {
       "title": "Dadoum / anisette-v3-server",
@@ -20,8 +40,8 @@
       "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 537,
-      "forks": 2320,
+      "stars": 539,
+      "forks": 2321,
       "added_stars": "2 stars today"
     }
   ]

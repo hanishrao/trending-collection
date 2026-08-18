@@ -2,17 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:56:43 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:54:02 GMT",
   "items": [
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 8827,
+      "forks": 937,
+      "added_stars": "94 stars this week"
+    },
     {
       "title": "leanprover-community / mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3874,
-      "forks": 1595,
-      "added_stars": "80 stars this week"
+      "stars": 3883,
+      "forks": 1599,
+      "added_stars": "75 stars this week"
     },
     {
       "title": "leanprover-community / physlib",
@@ -20,88 +30,18 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 689,
-      "forks": 160,
-      "added_stars": "13 stars this week"
+      "stars": 694,
+      "forks": 162,
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
+      "title": "leanprover / lean-eval",
+      "url": "https://github.com/leanprover/lean-eval",
+      "description": "Comparator-based Lean formal mathematics eval",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 8814,
-      "forks": 935,
-      "added_stars": "94 stars this week"
-    },
-    {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 114,
-      "forks": 28,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "leanprover-community / aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 396,
-      "forks": 59,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 35,
-      "forks": 10,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leanprover-community / quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 111,
-      "forks": 26,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 220,
-      "forks": 47,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 650,
-      "forks": 180,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 118,
-      "forks": 28,
+      "stars": 38,
+      "forks": 39,
       "added_stars": "2 stars this week"
     }
   ]

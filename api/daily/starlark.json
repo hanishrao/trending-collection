@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
   "items": [
     {
       "title": "bazel-contrib / rules_python",
@@ -11,37 +11,17 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 685,
-      "forks": 710,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8688,
-      "forks": 2616,
+      "forks": 713,
       "added_stars": "1 star today"
     },
     {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 143,
-      "forks": 97,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "erenon / bazel_clang_tidy",
-      "url": "https://github.com/erenon/bazel_clang_tidy",
-      "description": "Run clang-tidy on Bazel C++ targets directly, efficiently, with caching enabled",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 131,
-      "forks": 67,
+      "stars": 192,
+      "forks": 86,
       "added_stars": "0 stars today"
     },
     {
@@ -55,14 +35,44 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8691,
+      "forks": 2616,
+      "added_stars": "2 stars today"
+    },
+    {
       "title": "GoogleContainerTools / distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23009,
+      "stars": 23011,
       "forks": 1431,
-      "added_stars": "5 stars today"
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 294,
+      "forks": 115,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / bazel-skylib",
+      "url": "https://github.com/bazelbuild/bazel-skylib",
+      "description": "Common useful functions and rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 444,
+      "forks": 201,
+      "added_stars": "0 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -70,19 +80,9 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 379,
+      "stars": 380,
       "forks": 848,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 192,
-      "forks": 86,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

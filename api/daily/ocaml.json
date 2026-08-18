@@ -2,18 +2,8 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
   "items": [
-    {
-      "title": "janestreet / bonsai",
-      "url": "https://github.com/janestreet/bonsai",
-      "description": "A library for building dynamic webapps, using Js_of_ocaml",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1381,
-      "forks": 54,
-      "added_stars": "1 star today"
-    },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
       "url": "https://github.com/semgrep/ocaml-tree-sitter-core",
@@ -30,19 +20,59 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6522,
-      "forks": 1411,
+      "stars": 6524,
+      "forks": 1410,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "AeneasVerif / aeneas",
+      "url": "https://github.com/AeneasVerif/aeneas",
+      "description": "A verification toolchain for Rust programs",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 915,
+      "forks": 98,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ocaml / opam",
+      "url": "https://github.com/ocaml/opam",
+      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1374,
+      "forks": 405,
       "added_stars": "0 stars today"
     },
     {
-      "title": "MinaProtocol / mina",
-      "url": "https://github.com/MinaProtocol/mina",
-      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "title": "semgrep / semgrep",
+      "url": "https://github.com/semgrep/semgrep",
+      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2116,
-      "forks": 584,
+      "stars": 16270,
+      "forks": 1024,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "facebook / infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 15673,
+      "forks": 2096,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "opengrep / opengrep",
+      "url": "https://github.com/opengrep/opengrep",
+      "description": "🔎 Static code analysis engine to find security issues in code.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2961,
+      "forks": 246,
+      "added_stars": "4 stars today"
     }
   ]
 }

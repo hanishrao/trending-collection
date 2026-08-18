@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
   "items": [
     {
       "title": "moabukar / tech-vault",
@@ -10,9 +10,9 @@
       "description": "A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3531,
-      "forks": 776,
-      "added_stars": "30 stars today"
+      "stars": 3547,
+      "forks": 777,
+      "added_stars": "18 stars today"
     },
     {
       "title": "semgrep / semgrep-rules",
@@ -21,17 +21,67 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1228,
-      "forks": 573,
-      "added_stars": "1 star today"
+      "forks": 574,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "zealvora / terraform-beginner-to-advanced-resource",
-      "url": "https://github.com/zealvora/terraform-beginner-to-advanced-resource",
-      "description": "HashiCorp Certified Terraform Associate 2026",
+      "title": "tree-sitter-grammars / tree-sitter-hcl",
+      "url": "https://github.com/tree-sitter-grammars/tree-sitter-hcl",
+      "description": "HCL grammar for tree-sitter",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2489,
-      "forks": 6342,
+      "stars": 145,
+      "forks": 32,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "RaJiska / terraform-aws-fck-nat",
+      "url": "https://github.com/RaJiska/terraform-aws-fck-nat",
+      "description": "Terraform module for fck-nat",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 166,
+      "forks": 79,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "hashicorp / setup-packer",
+      "url": "https://github.com/hashicorp/setup-packer",
+      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 165,
+      "forks": 88,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-elasticache-redis",
+      "url": "https://github.com/cloudposse/terraform-aws-elasticache-redis",
+      "description": "Terraform module to provision an ElastiCache Redis Cluster",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 145,
+      "forks": 255,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-org-policy",
+      "url": "https://github.com/terraform-google-modules/terraform-google-org-policy",
+      "description": "Manages Google Cloud organization policies",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 102,
+      "forks": 84,
       "added_stars": "0 stars today"
     },
     {
@@ -40,38 +90,18 @@
       "description": "Creates log exports at the project, folder, or organization level",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 106,
+      "stars": 107,
       "forks": 91,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2085,
-      "forks": 1256,
       "added_stars": "1 star today"
     },
     {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "title": "terraform-google-modules / terraform-google-github-actions-runners",
+      "url": "https://github.com/terraform-google-modules/terraform-google-github-actions-runners",
+      "description": "Creates self-hosted GitHub Actions Runners on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 816,
-      "forks": 120,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-container-vm",
-      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
-      "description": "Deploys containers on Compute Engine instances",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 170,
-      "forks": 77,
+      "stars": 253,
+      "forks": 129,
       "added_stars": "0 stars today"
     }
   ]

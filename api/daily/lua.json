@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
   "items": [
     {
       "title": "koreader / koreader",
@@ -10,9 +10,9 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 29067,
-      "forks": 1873,
-      "added_stars": "38 stars today"
+      "stars": 29085,
+      "forks": 1875,
+      "added_stars": "20 stars today"
     },
     {
       "title": "EllesmereGaming / EllesmereUI",
@@ -20,49 +20,19 @@
       "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 167,
-      "forks": 193,
+      "stars": 172,
+      "forks": 192,
       "added_stars": "5 stars today"
     },
     {
-      "title": "AnthonyGress / zen_ui.koplugin",
-      "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
-      "description": "A clean, minimal UI for KOReader",
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 505,
-      "forks": 31,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "AndyHazz / bookshelf.koplugin",
-      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
-      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 629,
-      "forks": 19,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 529,
-      "forks": 74,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "AndyHazz / bookends.koplugin",
-      "url": "https://github.com/AndyHazz/bookends.koplugin",
-      "description": "KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 384,
-      "forks": 16,
-      "added_stars": "3 stars today"
+      "stars": 27190,
+      "forks": 1815,
+      "added_stars": "16 stars today"
     },
     {
       "title": "LandSandBoat / server",
@@ -70,39 +40,89 @@
       "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 500,
-      "forks": 904,
+      "stars": 501,
+      "forks": 902,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "AndyHazz / bookends.koplugin",
+      "url": "https://github.com/AndyHazz/bookends.koplugin",
+      "description": "KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 388,
+      "forks": 16,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 540,
+      "forks": 74,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "folke / lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 21425,
+      "forks": 588,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "mason-org / mason.nvim",
+      "url": "https://github.com/mason-org/mason.nvim",
+      "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 10439,
+      "forks": 335,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "koreader / contrib",
+      "url": "https://github.com/koreader/contrib",
+      "description": "Collection of non-official plugins designed for KOReader",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 391,
+      "forks": 69,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "AndyHazz / bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 634,
+      "forks": 20,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "opentibiabr / canary",
+      "url": "https://github.com/opentibiabr/canary",
+      "description": "Canary Server 15.25 for OpenTibia community.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 631,
+      "forks": 874,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Footagesus / WindUI",
-      "url": "https://github.com/Footagesus/WindUI",
-      "description": "WindUI is a open source UI library for Roblox Script Hubs",
+      "title": "folke / snacks.nvim",
+      "url": "https://github.com/folke/snacks.nvim",
+      "description": "🍿 A collection of QoL plugins for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 329,
-      "forks": 315,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "esx-framework / esx_core",
-      "url": "https://github.com/esx-framework/esx_core",
-      "description": "Official Repo For core resources for esx-legacy",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 451,
-      "forks": 799,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "patelneeraj / filebrowserplus.koplugin",
-      "url": "https://github.com/patelneeraj/filebrowserplus.koplugin",
-      "description": "This KOReader plugins enables the user to run Filebrowser from koreader. Inspired by filebrowser.koplugin, expanded to add more conviniences.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 275,
-      "forks": 9,
-      "added_stars": "2 stars today"
+      "stars": 7977,
+      "forks": 489,
+      "added_stars": "3 stars today"
     },
     {
       "title": "MunifTanjim / nui.nvim",
@@ -112,17 +132,17 @@
       "languageColor": "#000080",
       "stars": 2106,
       "forks": 80,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "miscusi-peek / cheatengine-mcp-bridge",
-      "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
-      "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
+      "title": "mason-org / mason-lspconfig.nvim",
+      "url": "https://github.com/mason-org/mason-lspconfig.nvim",
+      "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 1252,
-      "forks": 190,
-      "added_stars": "8 stars today"
+      "stars": 3936,
+      "forks": 221,
+      "added_stars": "2 stars today"
     }
   ]
 }

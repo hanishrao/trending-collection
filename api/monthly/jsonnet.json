@@ -2,8 +2,28 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:59:55 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:56:20 GMT",
   "items": [
+    {
+      "title": "kubernetes-monitoring / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2437,
+      "forks": 642,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "prometheus-operator / kube-prometheus",
+      "url": "https://github.com/prometheus-operator/kube-prometheus",
+      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7717,
+      "forks": 2046,
+      "added_stars": "27 stars this month"
+    },
     {
       "title": "google / jsonnet",
       "url": "https://github.com/google/jsonnet",
@@ -15,33 +35,13 @@
       "added_stars": "18 stars this month"
     },
     {
-      "title": "kubernetes-monitoring / kubernetes-mixin",
-      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
-      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 2435,
-      "forks": 642,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "prometheus-operator / kube-prometheus",
-      "url": "https://github.com/prometheus-operator/kube-prometheus",
-      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
-      "language": "Jsonnet",
-      "languageColor": "#0064bd",
-      "stars": 7718,
-      "forks": 2045,
-      "added_stars": "27 stars this month"
-    },
-    {
       "title": "argoproj / argocd-example-apps",
       "url": "https://github.com/argoproj/argocd-example-apps",
       "description": "Example Apps to Demonstrate Argo CD",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": 2156,
-      "forks": 10216,
+      "stars": 2155,
+      "forks": 10215,
       "added_stars": "18 stars this month"
     }
   ]

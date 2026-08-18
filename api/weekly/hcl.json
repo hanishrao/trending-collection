@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:56:43 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:54:02 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,8 +10,8 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4998,
-      "forks": 4407,
+      "stars": 4997,
+      "forks": 4408,
       "added_stars": "6 stars this week"
     },
     {
@@ -20,9 +20,19 @@
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 582,
+      "stars": 581,
       "forks": 3805,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "terrapkg / packages",
+      "url": "https://github.com/terrapkg/packages",
+      "description": "Monorepo for Terra Packages",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 591,
+      "forks": 134,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "hashicorp / agent-skills",
@@ -30,9 +40,9 @@
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 816,
+      "stars": 819,
       "forks": 120,
-      "added_stars": "26 stars this week"
+      "added_stars": "29 stars this week"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -40,9 +50,19 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2085,
-      "forks": 1256,
-      "added_stars": "8 stars this week"
+      "stars": 2087,
+      "forks": 1255,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1228,
+      "forks": 574,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -50,7 +70,7 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3256,
+      "stars": 3255,
       "forks": 4626,
       "added_stars": "2 stars this week"
     },
@@ -62,7 +82,7 @@
       "languageColor": "#844FBA",
       "stars": 868,
       "forks": 1109,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -75,16 +95,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bridgecrewio / checkov-action",
-      "url": "https://github.com/bridgecrewio/checkov-action",
-      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 312,
-      "forks": 112,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "cloudposse / terraform-aws-ecs-container-definition",
       "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
       "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
@@ -92,16 +102,6 @@
       "languageColor": "#844FBA",
       "stars": 350,
       "forks": 239,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "DataDog / serverless-sample-app",
-      "url": "https://github.com/DataDog/serverless-sample-app",
-      "description": "Explore Datadog's serverless observability features with this sample app.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 60,
-      "forks": 20,
       "added_stars": "0 stars this week"
     }
   ]

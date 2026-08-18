@@ -4,41 +4,11 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 17 Aug 2026 02:56:43 GMT</pubDate>
+  <pubDate>Tue, 18 Aug 2026 02:54:02 GMT</pubDate>
   <item>
     <title>xenodium / agent-shell</title>
     <link>https://github.com/xenodium/agent-shell</link>
     <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
-  </item>
-  <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
-  </item>
-  <item>
-    <title>dominikh / go-mode.el</title>
-    <link>https://github.com/dominikh/go-mode.el</link>
-    <description>Emacs mode for the Go programming language</description>
-  </item>
-  <item>
-    <title>joaotavora / yasnippet</title>
-    <link>https://github.com/joaotavora/yasnippet</link>
-    <description>A template system for Emacs</description>
-  </item>
-  <item>
-    <title>yoshiki / yaml-mode</title>
-    <link>https://github.com/yoshiki/yaml-mode</link>
-    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
-  </item>
-  <item>
-    <title>akermu / emacs-libvterm</title>
-    <link>https://github.com/akermu/emacs-libvterm</link>
-    <description>Emacs libvterm integration</description>
-  </item>
-  <item>
-    <title>seagle0128 / doom-modeline</title>
-    <link>https://github.com/seagle0128/doom-modeline</link>
-    <description>A fancy and fast mode-line inspired by minimalism design.</description>
   </item>
   <item>
     <title>magnars / dash.el</title>
@@ -46,19 +16,9 @@
     <description>A modern list library for Emacs</description>
   </item>
   <item>
-    <title>org-roam / org-roam</title>
-    <link>https://github.com/org-roam/org-roam</link>
-    <description>Rudimentary Roam replica with Org-mode</description>
-  </item>
-  <item>
-    <title>oantolin / embark</title>
-    <link>https://github.com/oantolin/embark</link>
-    <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
-  </item>
-  <item>
-    <title>Fanael / rainbow-delimiters</title>
-    <link>https://github.com/Fanael/rainbow-delimiters</link>
-    <description>Emacs rainbow delimiters mode</description>
+    <title>seagle0128 / doom-modeline</title>
+    <link>https://github.com/seagle0128/doom-modeline</link>
+    <description>A fancy and fast mode-line inspired by minimalism design.</description>
   </item>
   <item>
     <title>manzaltu / claude-code-ide.el</title>
@@ -71,14 +31,24 @@
     <description>semantic code search for emacs lisp</description>
   </item>
   <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+    <title>dominikh / go-mode.el</title>
+    <link>https://github.com/dominikh/go-mode.el</link>
+    <description>Emacs mode for the Go programming language</description>
   </item>
   <item>
-    <title>syl20bnr / spacemacs</title>
-    <link>https://github.com/syl20bnr/spacemacs</link>
-    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
+    <title>karthink / gptel</title>
+    <link>https://github.com/karthink/gptel</link>
+    <description>A simple, extensible LLM client for Emacs</description>
+  </item>
+  <item>
+    <title>oantolin / embark</title>
+    <link>https://github.com/oantolin/embark</link>
+    <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
+  </item>
+  <item>
+    <title>rainstormstudio / nerd-icons.el</title>
+    <link>https://github.com/rainstormstudio/nerd-icons.el</link>
+    <description></description>
   </item>
   <item>
     <title>magit / transient</title>
@@ -86,9 +56,54 @@
     <description>Transient commands</description>
   </item>
   <item>
+    <title>yoshiki / yaml-mode</title>
+    <link>https://github.com/yoshiki/yaml-mode</link>
+    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+  </item>
+  <item>
+    <title>emacs-lsp / lsp-mode</title>
+    <link>https://github.com/emacs-lsp/lsp-mode</link>
+    <description>Emacs client/library for the Language Server Protocol</description>
+  </item>
+  <item>
+    <title>emacs-evil / evil</title>
+    <link>https://github.com/emacs-evil/evil</link>
+    <description>The extensible vi layer for Emacs.</description>
+  </item>
+  <item>
+    <title>akermu / emacs-libvterm</title>
+    <link>https://github.com/akermu/emacs-libvterm</link>
+    <description>Emacs libvterm integration</description>
+  </item>
+  <item>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+  </item>
+  <item>
+    <title>melpa / melpa</title>
+    <link>https://github.com/melpa/melpa</link>
+    <description>Recipes and build machinery for the biggest Emacs package repo</description>
+  </item>
+  <item>
+    <title>Fanael / rainbow-delimiters</title>
+    <link>https://github.com/Fanael/rainbow-delimiters</link>
+    <description>Emacs rainbow delimiters mode</description>
+  </item>
+  <item>
     <title>dimitri / el-get</title>
     <link>https://github.com/dimitri/el-get</link>
     <description>Manage the external elisp bits and pieces upon which you depend!</description>
+  </item>
+  <item>
+    <title>dgutov / diff-hl</title>
+    <link>https://github.com/dgutov/diff-hl</link>
+    <description>Emacs package for highlighting uncommitted changes</description>
+  </item>
+  <item>
+    <title>syl20bnr / spacemacs</title>
+    <link>https://github.com/syl20bnr/spacemacs</link>
+    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
     <title>tumashu / posframe</title>

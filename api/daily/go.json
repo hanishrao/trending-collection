@@ -2,137 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 17 Aug 2026 02:54:32 GMT",
+  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
   "items": [
     {
-      "title": "aldinokemal / go-whatsapp-web-multidevice",
-      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
-      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4612,
-      "forks": 1094,
-      "added_stars": "23 stars today"
+      "stars": 37462,
+      "forks": 604,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "title": "bjarneo / cliamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 178725,
-      "forks": 17437,
-      "added_stars": "127 stars today"
-    },
-    {
-      "title": "putyy / res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19257,
-      "forks": 2400,
-      "added_stars": "74 stars today"
-    },
-    {
-      "title": "mostlygeek / llama-swap",
-      "url": "https://github.com/mostlygeek/llama-swap",
-      "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5386,
-      "forks": 424,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "kenn-io / agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5060,
-      "forks": 597,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "harness / harness",
-      "url": "https://github.com/harness/harness",
-      "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37972,
-      "forks": 3338,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "knadh / listmonk",
-      "url": "https://github.com/knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22916,
-      "forks": 2526,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "ViRb3 / wgcf",
-      "url": "https://github.com/ViRb3/wgcf",
-      "description": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8614,
-      "forks": 867,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "XTLS / Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 41071,
-      "forks": 5774,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 48515,
-      "forks": 4362,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "velero-io / velero",
-      "url": "https://github.com/velero-io/velero",
-      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10225,
-      "forks": 1597,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "The open source control plane for agentic engineering.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5335,
-      "forks": 573,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "seakee / CPA-Manager-Plus",
-      "url": "https://github.com/seakee/CPA-Manager-Plus",
-      "description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2605,
-      "forks": 273,
-      "added_stars": "14 stars today"
+      "stars": 3160,
+      "forks": 170,
+      "added_stars": "191 stars today"
     },
     {
       "title": "Gitlawb / zero",
@@ -140,19 +30,199 @@
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1503,
-      "forks": 161,
-      "added_stars": "89 stars today"
+      "stars": 1548,
+      "forks": 167,
+      "added_stars": "72 stars today"
     },
     {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5161,
-      "forks": 817,
-      "added_stars": "1 star today"
+      "stars": 178817,
+      "forks": 17446,
+      "added_stars": "135 stars today"
+    },
+    {
+      "title": "XTLS / Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 41088,
+      "forks": 5775,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "strelov1 / freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 399,
+      "forks": 78,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "krillinai / KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11137,
+      "forks": 1058,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "putyy / res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19296,
+      "forks": 2402,
+      "added_stars": "40 stars today"
+    },
+    {
+      "title": "zzet / gortex",
+      "url": "https://github.com/zzet/gortex",
+      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1184,
+      "forks": 114,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 44832,
+      "forks": 8543,
+      "added_stars": "69 stars today"
+    },
+    {
+      "title": "mickael-kerjean / filestash",
+      "url": "https://github.com/mickael-kerjean/filestash",
+      "description": "📁 Universal File Storage Client",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14504,
+      "forks": 1002,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "mvanhorn / cli-printing-press",
+      "url": "https://github.com/mvanhorn/cli-printing-press",
+      "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4470,
+      "forks": 476,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "asheshgoplani / agent-deck",
+      "url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 739,
+      "forks": 122,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "velero-io / velero",
+      "url": "https://github.com/velero-io/velero",
+      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10234,
+      "forks": 1599,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "zitadel / zitadel",
+      "url": "https://github.com/zitadel/zitadel",
+      "description": "ZITADEL - Identity infrastructure, simplified for you.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14760,
+      "forks": 1229,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "mostlygeek / llama-swap",
+      "url": "https://github.com/mostlygeek/llama-swap",
+      "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5399,
+      "forks": 425,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "siderolabs / talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10955,
+      "forks": 874,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "netdata / netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 80215,
+      "forks": 6586,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28602,
+      "forks": 1462,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "SagerNet / sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37085,
+      "forks": 4447,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "go-gitea / gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 57457,
+      "forks": 7011,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "github / gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4946,
+      "forks": 498,
+      "added_stars": "8 stars today"
     }
   ]
 }
