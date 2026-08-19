@@ -2,17 +2,27 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 18 Aug 2026 02:54:02 GMT",
+  "pubDate": "Wed, 19 Aug 2026 02:55:05 GMT",
   "items": [
+    {
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 40767,
+      "forks": 6115,
+      "added_stars": "60 stars this week"
+    },
     {
       "title": "neovim / neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 101820,
-      "forks": 7026,
-      "added_stars": "214 stars this week"
+      "stars": 101855,
+      "forks": 7029,
+      "added_stars": "212 stars this week"
     },
     {
       "title": "junegunn / vim-plug",
@@ -20,9 +30,9 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35749,
-      "forks": 1938,
-      "added_stars": "15 stars this week"
+      "stars": 35751,
+      "forks": 1937,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "github / copilot.vim",
@@ -30,9 +40,9 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11679,
-      "forks": 798,
-      "added_stars": "13 stars this week"
+      "stars": 11681,
+      "forks": 799,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "tpope / vim-eunuch",
@@ -40,19 +50,9 @@
       "description": "eunuch.vim: Helpers for UNIX",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1886,
+      "stars": 1887,
       "forks": 80,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4172,
-      "forks": 144,
-      "added_stars": "16 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "morhetz / gruvbox",
@@ -60,29 +60,9 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15687,
+      "stars": 15690,
       "forks": 1127,
-      "added_stars": "25 stars this week"
-    },
-    {
-      "title": "vim / vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 40755,
-      "forks": 6116,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "tpope / vim-unimpaired",
-      "url": "https://github.com/tpope/vim-unimpaired",
-      "description": "unimpaired.vim: Pairs of handy bracket mappings",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 3464,
-      "forks": 206,
-      "added_stars": "0 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
       "title": "VundleVim / Vundle.vim",
@@ -95,16 +75,6 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "tpope / vim-repeat",
-      "url": "https://github.com/tpope/vim-repeat",
-      "description": "repeat.vim: enable repeating supported plugin maps with \".\"",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2714,
-      "forks": 85,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "derekhe / msfs2020-map-enhancement",
       "url": "https://github.com/derekhe/msfs2020-map-enhancement",
       "description": "MSFS2020 Map Enhancement",
@@ -115,26 +85,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "dracula / vim",
-      "url": "https://github.com/dracula/vim",
-      "description": "🧛🏻‍♂️ Dark theme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1390,
-      "forks": 449,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "vim-airline / vim-airline-themes",
-      "url": "https://github.com/vim-airline/vim-airline-themes",
-      "description": "A collection of themes for vim-airline",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2070,
-      "forks": 348,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "preservim / nerdtree",
       "url": "https://github.com/preservim/nerdtree",
       "description": "A tree explorer plugin for vim.",
@@ -142,27 +92,57 @@
       "languageColor": "#199f4b",
       "stars": 20089,
       "forks": 1437,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "tpope / vim-abolish",
-      "url": "https://github.com/tpope/vim-abolish",
-      "description": "abolish.vim: Work with several variants of a word at once",
+      "title": "dracula / vim",
+      "url": "https://github.com/dracula/vim",
+      "description": "🧛🏻‍♂️ Dark theme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 2958,
-      "forks": 96,
+      "stars": 1391,
+      "forks": 449,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21755,
+      "forks": 1076,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4173,
+      "forks": 144,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "tpope / vim-repeat",
+      "url": "https://github.com/tpope/vim-repeat",
+      "description": "repeat.vim: enable repeating supported plugin maps with \".\"",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 2714,
+      "forks": 85,
       "added_stars": "1 star this week"
     },
     {
-      "title": "tpope / vim-endwise",
-      "url": "https://github.com/tpope/vim-endwise",
-      "description": "endwise.vim: Wisely add",
+      "title": "ggml-org / llama.vim",
+      "url": "https://github.com/ggml-org/llama.vim",
+      "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1167,
-      "forks": 103,
-      "added_stars": "0 stars this week"
+      "stars": 2147,
+      "forks": 118,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "tpope / vim-rails",
@@ -175,24 +155,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "title": "vim-airline / vim-airline-themes",
+      "url": "https://github.com/vim-airline/vim-airline-themes",
+      "description": "A collection of themes for vim-airline",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21755,
-      "forks": 1076,
-      "added_stars": "14 stars this week"
+      "stars": 2071,
+      "forks": 348,
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "ryanoasis / vim-devicons",
-      "url": "https://github.com/ryanoasis/vim-devicons",
-      "description": "Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more",
+      "title": "hashivim / vim-terraform",
+      "url": "https://github.com/hashivim/vim-terraform",
+      "description": "basic vim/terraform integration",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 5808,
-      "forks": 273,
-      "added_stars": "3 stars this week"
+      "stars": 1109,
+      "forks": 110,
+      "added_stars": "0 stars this week"
     }
   ]
 }

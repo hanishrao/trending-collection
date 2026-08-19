@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 18 Aug 2026 02:54:02 GMT",
+  "pubDate": "Wed, 19 Aug 2026 02:55:05 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -11,18 +11,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 4997,
-      "forks": 4408,
+      "forks": 4409,
       "added_stars": "6 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 581,
-      "forks": 3805,
-      "added_stars": "1 star this week"
     },
     {
       "title": "terrapkg / packages",
@@ -41,8 +31,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 819,
-      "forks": 120,
-      "added_stars": "29 stars this week"
+      "forks": 121,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -51,8 +41,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2087,
-      "forks": 1255,
+      "forks": 1256,
       "added_stars": "9 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 581,
+      "forks": 3806,
+      "added_stars": "1 star this week"
     },
     {
       "title": "semgrep / semgrep-rules",
@@ -61,18 +61,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1228,
-      "forks": 574,
-      "added_stars": "5 stars this week"
+      "forks": 576,
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3255,
-      "forks": 4626,
-      "added_stars": "2 stars this week"
+      "stars": 2240,
+      "forks": 1486,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -82,6 +82,16 @@
       "languageColor": "#844FBA",
       "stars": 868,
       "forks": 1109,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3255,
+      "forks": 4625,
       "added_stars": "2 stars this week"
     },
     {
@@ -102,6 +112,36 @@
       "languageColor": "#844FBA",
       "stars": 350,
       "forks": 239,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bridgecrewio / checkov-action",
+      "url": "https://github.com/bridgecrewio/checkov-action",
+      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 313,
+      "forks": 113,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "hashicorp / terraform-cidr-subnets",
+      "url": "https://github.com/hashicorp/terraform-cidr-subnets",
+      "description": "A Terraform module for calculating subnet IP address prefixes",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 80,
+      "forks": 40,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "hashicorp / setup-packer",
+      "url": "https://github.com/hashicorp/setup-packer",
+      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 165,
+      "forks": 88,
       "added_stars": "0 stars this week"
     }
   ]

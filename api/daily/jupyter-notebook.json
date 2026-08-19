@@ -2,17 +2,27 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
+  "pubDate": "Wed, 19 Aug 2026 02:52:55 GMT",
   "items": [
+    {
+      "title": "anthropics / claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 51816,
+      "forks": 6152,
+      "added_stars": "101 stars today"
+    },
     {
       "title": "alirezadir / AIMLInterviews",
       "url": "https://github.com/alirezadir/AIMLInterviews",
       "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 9186,
-      "forks": 1604,
-      "added_stars": "334 stars today"
+      "stars": 9345,
+      "forks": 1643,
+      "added_stars": "239 stars today"
     },
     {
       "title": "ageron / handson-mlp",
@@ -20,19 +30,9 @@
       "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 1862,
-      "forks": 599,
+      "stars": 1869,
+      "forks": 600,
       "added_stars": "11 stars today"
-    },
-    {
-      "title": "google-gemini / cookbook",
-      "url": "https://github.com/google-gemini/cookbook",
-      "description": "Examples and guides for using the Gemini API",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17669,
-      "forks": 2738,
-      "added_stars": "23 stars today"
     },
     {
       "title": "Pierian-Data / Complete-Python-3-Bootcamp",
@@ -41,98 +41,18 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": 29716,
-      "forks": 87265,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "unslothai / notebooks",
-      "url": "https://github.com/unslothai/notebooks",
-      "description": "250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 5590,
-      "forks": 923,
+      "forks": 87264,
       "added_stars": "4 stars today"
     },
     {
-      "title": "ed-donner / llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "description": "Repo to accompany my mastering LLM engineering course",
+      "title": "openai / openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 7077,
-      "forks": 6905,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "langchain-ai / langchain-academy",
-      "url": "https://github.com/langchain-ai/langchain-academy",
-      "description": "",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 2811,
-      "forks": 1834,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "datawhalechina / llm-algo-leetcode",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode",
-      "description": "LLM algorithm practice lab with theory, solutions, and test cases.《大模型算法与系统教程》面向大模型入门到进阶的算法实战教程，覆盖原理讲解、答案解析、测试用例与 CUDA/Triton 实战。",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 476,
-      "forks": 77,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "rahulnyk / knowledge_graph",
-      "url": "https://github.com/rahulnyk/knowledge_graph",
-      "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 3699,
-      "forks": 590,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "mrdbourke / zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
-      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6789,
-      "forks": 4190,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "karpathy / micrograd",
-      "url": "https://github.com/karpathy/micrograd",
-      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17166,
-      "forks": 2734,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "mrdbourke / pytorch-deep-learning",
-      "url": "https://github.com/mrdbourke/pytorch-deep-learning",
-      "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 18727,
-      "forks": 5122,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "fastai / fastbook",
-      "url": "https://github.com/fastai/fastbook",
-      "description": "The fastai book, published as Jupyter Notebooks",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 25214,
-      "forks": 9482,
-      "added_stars": "5 stars today"
+      "stars": 75333,
+      "forks": 12738,
+      "added_stars": "28 stars today"
     },
     {
       "title": "microsoft / ai-agents-for-beginners",
@@ -140,29 +60,89 @@
       "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 72474,
-      "forks": 23989,
-      "added_stars": "145 stars today"
+      "stars": 72581,
+      "forks": 24025,
+      "added_stars": "125 stars today"
     },
     {
-      "title": "datawhalechina / llm-universe",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+      "title": "lit26 / finvizfinance",
+      "url": "https://github.com/lit26/finvizfinance",
+      "description": "Finviz analysis python library.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 13803,
-      "forks": 1399,
+      "stars": 1611,
+      "forks": 271,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "google-gemini / cookbook",
+      "url": "https://github.com/google-gemini/cookbook",
+      "description": "Examples and guides for using the Gemini API",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 17674,
+      "forks": 2740,
       "added_stars": "11 stars today"
     },
     {
-      "title": "GokuMohandas / Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+      "title": "facebookresearch / segment-anything",
+      "url": "https://github.com/facebookresearch/segment-anything",
+      "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 49114,
-      "forks": 7713,
+      "stars": 54702,
+      "forks": 6351,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "jakevdp / PythonDataScienceHandbook",
+      "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+      "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 49635,
+      "forks": 19089,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "anthropics / prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 37706,
+      "forks": 4145,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "ageron / handson-ml3",
+      "url": "https://github.com/ageron/handson-ml3",
+      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 13949,
+      "forks": 5251,
       "added_stars": "11 stars today"
+    },
+    {
+      "title": "decodingai-magazine / second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
+      "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 3047,
+      "forks": 522,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "facebookresearch / dinov3",
+      "url": "https://github.com/facebookresearch/dinov3",
+      "description": "Reference PyTorch implementation and models for DINOv3",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 11202,
+      "forks": 932,
+      "added_stars": "7 stars today"
     },
     {
       "title": "jackfrued / Python-100-Days",
@@ -170,9 +150,49 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 185301,
-      "forks": 55683,
-      "added_stars": "73 stars today"
+      "stars": 185342,
+      "forks": 55682,
+      "added_stars": "62 stars today"
+    },
+    {
+      "title": "ed-donner / llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "description": "Repo to accompany my mastering LLM engineering course",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 7095,
+      "forks": 6915,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "anthropics / courses",
+      "url": "https://github.com/anthropics/courses",
+      "description": "Anthropic's educational courses",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 22653,
+      "forks": 2441,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "gepa-ai / gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "description": "Optimize prompts, code, and more with AI-powered Reflective Optimization",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 6154,
+      "forks": 513,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "mrdbourke / pytorch-deep-learning",
+      "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+      "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 18736,
+      "forks": 5121,
+      "added_stars": "7 stars today"
     }
   ]
 }

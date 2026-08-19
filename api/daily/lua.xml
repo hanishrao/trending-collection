@@ -4,16 +4,11 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 18 Aug 2026 02:50:45 GMT</pubDate>
+  <pubDate>Wed, 19 Aug 2026 02:52:55 GMT</pubDate>
   <item>
-    <title>koreader / koreader</title>
-    <link>https://github.com/koreader/koreader</link>
-    <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
-  </item>
-  <item>
-    <title>EllesmereGaming / EllesmereUI</title>
-    <link>https://github.com/EllesmereGaming/EllesmereUI</link>
-    <description>EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.</description>
+    <title>yetone / avante.nvim</title>
+    <link>https://github.com/yetone/avante.nvim</link>
+    <description>Use your Neovim like using Cursor AI IDE!</description>
   </item>
   <item>
     <title>LazyVim / LazyVim</title>
@@ -21,9 +16,9 @@
     <description>Neovim config for the lazy</description>
   </item>
   <item>
-    <title>LandSandBoat / server</title>
-    <link>https://github.com/LandSandBoat/server</link>
-    <description>⛵ LandSandBoat - a server emulator for Final Fantasy XI</description>
+    <title>mason-org / mason.nvim</title>
+    <link>https://github.com/mason-org/mason.nvim</link>
+    <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
   </item>
   <item>
     <title>AndyHazz / bookends.koplugin</title>
@@ -31,29 +26,14 @@
     <description>KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets</description>
   </item>
   <item>
-    <title>finlater / weread.koplugin</title>
-    <link>https://github.com/finlater/weread.koplugin</link>
-    <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。</description>
+    <title>patelneeraj / filebrowserplus.koplugin</title>
+    <link>https://github.com/patelneeraj/filebrowserplus.koplugin</link>
+    <description>This KOReader plugins enables the user to run Filebrowser from koreader. Inspired by filebrowser.koplugin, expanded to add more conviniences.</description>
   </item>
   <item>
-    <title>folke / lazy.nvim</title>
-    <link>https://github.com/folke/lazy.nvim</link>
-    <description>💤 A modern plugin manager for Neovim</description>
-  </item>
-  <item>
-    <title>mason-org / mason.nvim</title>
-    <link>https://github.com/mason-org/mason.nvim</link>
-    <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
-  </item>
-  <item>
-    <title>koreader / contrib</title>
-    <link>https://github.com/koreader/contrib</link>
-    <description>Collection of non-official plugins designed for KOReader</description>
-  </item>
-  <item>
-    <title>AndyHazz / bookshelf.koplugin</title>
-    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
+    <title>olimorris / codecompanion.nvim</title>
+    <link>https://github.com/olimorris/codecompanion.nvim</link>
+    <description>✨ AI Coding, Vim Style</description>
   </item>
   <item>
     <title>opentibiabr / canary</title>
@@ -61,9 +41,34 @@
     <description>Canary Server 15.25 for OpenTibia community.</description>
   </item>
   <item>
-    <title>folke / snacks.nvim</title>
-    <link>https://github.com/folke/snacks.nvim</link>
-    <description>🍿 A collection of QoL plugins for Neovim</description>
+    <title>Kong / kong</title>
+    <link>https://github.com/Kong/kong</link>
+    <description>🦍 The API and AI Gateway</description>
+  </item>
+  <item>
+    <title>Footagesus / WindUI</title>
+    <link>https://github.com/Footagesus/WindUI</link>
+    <description>WindUI is a open source UI library for Roblox Script Hubs</description>
+  </item>
+  <item>
+    <title>neovim / nvim-lspconfig</title>
+    <link>https://github.com/neovim/nvim-lspconfig</link>
+    <description>Quickstart configs for Nvim LSP</description>
+  </item>
+  <item>
+    <title>nvim-telescope / telescope.nvim</title>
+    <link>https://github.com/nvim-telescope/telescope.nvim</link>
+    <description>Find, Filter, Preview, Pick. All lua, all the time.</description>
+  </item>
+  <item>
+    <title>EllesmereGaming / EllesmereUI</title>
+    <link>https://github.com/EllesmereGaming/EllesmereUI</link>
+    <description>EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.</description>
+  </item>
+  <item>
+    <title>opentibiabr / otclient</title>
+    <link>https://github.com/opentibiabr/otclient</link>
+    <description>An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize</description>
   </item>
   <item>
     <title>MunifTanjim / nui.nvim</title>
@@ -71,9 +76,29 @@
     <description>UI Component Library for Neovim.</description>
   </item>
   <item>
+    <title>nvim-neotest / neotest</title>
+    <link>https://github.com/nvim-neotest/neotest</link>
+    <description>An extensible framework for interacting with tests within NeoVim.</description>
+  </item>
+  <item>
     <title>mason-org / mason-lspconfig.nvim</title>
     <link>https://github.com/mason-org/mason-lspconfig.nvim</link>
     <description>Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</description>
+  </item>
+  <item>
+    <title>lewis6991 / async.nvim</title>
+    <link>https://github.com/lewis6991/async.nvim</link>
+    <description>Async library for Neovim plugins</description>
+  </item>
+  <item>
+    <title>bol-van / zapret-win-bundle</title>
+    <link>https://github.com/bol-van/zapret-win-bundle</link>
+    <description>zapret and blockcheck binary bundle for windows</description>
+  </item>
+  <item>
+    <title>Mateuzkl / forgottenserver-downgrade-1.8-8.60</title>
+    <link>https://github.com/Mateuzkl/forgottenserver-downgrade-1.8-8.60</link>
+    <description>TFS Downgrade 1.8+ is an engine based on nekiro downgrade but highly updated with current tfs code, it also has the lua modules divided and uses lua5.5</description>
   </item>
 </channel>
 </rss>

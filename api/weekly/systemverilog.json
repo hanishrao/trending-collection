@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 18 Aug 2026 02:54:02 GMT",
+  "pubDate": "Wed, 19 Aug 2026 02:55:05 GMT",
   "items": [
     {
       "title": "lowRISC / opentitan",
@@ -11,8 +11,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 3598,
-      "forks": 1087,
-      "added_stars": "15 stars this week"
+      "forks": 1088,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "verilator / verilator",
@@ -20,9 +20,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3853,
-      "forks": 882,
-      "added_stars": "20 stars this week"
+      "stars": 3855,
+      "forks": 883,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -30,9 +30,19 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2014,
-      "forks": 787,
-      "added_stars": "10 stars this week"
+      "stars": 2017,
+      "forks": 788,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 12852,
+      "forks": 1236,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "pulp-platform / axi_riscv_atomics",
@@ -43,26 +53,6 @@
       "stars": 66,
       "forks": 24,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 12848,
-      "forks": 1235,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "openhwgroup / cvfpu",
-      "url": "https://github.com/openhwgroup/cvfpu",
-      "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 631,
-      "forks": 170,
-      "added_stars": "1 star this week"
     },
     {
       "title": "chipsalliance / adams-bridge",
@@ -85,14 +75,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "pulp-platform / axi",
-      "url": "https://github.com/pulp-platform/axi",
-      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "title": "openhwgroup / cvfpu",
+      "url": "https://github.com/openhwgroup/cvfpu",
+      "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 1659,
-      "forks": 366,
-      "added_stars": "8 stars this week"
+      "stars": 632,
+      "forks": 170,
+      "added_stars": "1 star this week"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -103,6 +93,16 @@
       "stars": 48,
       "forks": 56,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 1659,
+      "forks": 367,
+      "added_stars": "7 stars this week"
     }
   ]
 }

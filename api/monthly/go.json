@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 18 Aug 2026 02:56:20 GMT",
+  "pubDate": "Wed, 19 Aug 2026 02:57:17 GMT",
   "items": [
-    {
-      "title": "schollz / croc",
-      "url": "https://github.com/schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 39862,
-      "forks": 1586,
-      "added_stars": "4,359 stars this month"
-    },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 20677,
-      "forks": 1470,
-      "added_stars": "10,134 stars this month"
+      "stars": 20747,
+      "forks": 1477,
+      "added_stars": "10,183 stars this month"
     },
     {
       "title": "cli / cli",
@@ -30,9 +20,19 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45865,
-      "forks": 8875,
-      "added_stars": "703 stars this month"
+      "stars": 45882,
+      "forks": 8882,
+      "added_stars": "708 stars this month"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "The open source control plane for agentic engineering.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5372,
+      "forks": 581,
+      "added_stars": "1,444 stars this month"
     },
     {
       "title": "gastownhall / beads",
@@ -40,59 +40,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26401,
-      "forks": 1776,
-      "added_stars": "1,111 stars this month"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17534,
-      "forks": 5612,
-      "added_stars": "531 stars this month"
-    },
-    {
-      "title": "chenyme / grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7434,
-      "forks": 2248,
-      "added_stars": "1,303 stars this month"
-    },
-    {
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22591,
-      "forks": 821,
-      "added_stars": "4,034 stars this month"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64471,
-      "forks": 6140,
-      "added_stars": "562 stars this month"
-    },
-    {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35294,
-      "forks": 3080,
-      "added_stars": "1,383 stars this month"
+      "stars": 26435,
+      "forks": 1778,
+      "added_stars": "1,117 stars this month"
     },
     {
       "title": "multica-ai / multica",
@@ -100,19 +50,59 @@
       "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 46532,
-      "forks": 5934,
-      "added_stars": "5,808 stars this month"
+      "stars": 46718,
+      "forks": 5964,
+      "added_stars": "5,961 stars this month"
     },
     {
-      "title": "Project-HAMi / HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4373,
-      "forks": 783,
-      "added_stars": "472 stars this month"
+      "stars": 64486,
+      "forks": 6141,
+      "added_stars": "569 stars this month"
+    },
+    {
+      "title": "chenyme / grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7455,
+      "forks": 2251,
+      "added_stars": "1,273 stars this month"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17542,
+      "forks": 5622,
+      "added_stars": "535 stars this month"
+    },
+    {
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7830,
+      "forks": 413,
+      "added_stars": "397 stars this month"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35339,
+      "forks": 3083,
+      "added_stars": "1,390 stars this month"
     },
     {
       "title": "caddyserver / caddy",
@@ -120,9 +110,19 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 74986,
-      "forks": 4891,
-      "added_stars": "971 stars this month"
+      "stars": 75005,
+      "forks": 4895,
+      "added_stars": "975 stars this month"
+    },
+    {
+      "title": "Project-HAMi / HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4385,
+      "forks": 786,
+      "added_stars": "468 stars this month"
     },
     {
       "title": "pranshuparmar / witr",
@@ -130,19 +130,9 @@
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21518,
-      "forks": 752,
-      "added_stars": "3,318 stars this month"
-    },
-    {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28461,
-      "forks": 1609,
-      "added_stars": "1,153 stars this month"
+      "stars": 21550,
+      "forks": 753,
+      "added_stars": "3,336 stars this month"
     },
     {
       "title": "AlexxIT / go2rtc",
@@ -150,19 +140,19 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13971,
-      "forks": 1265,
-      "added_stars": "504 stars this month"
+      "stars": 13987,
+      "forks": 1266,
+      "added_stars": "518 stars this month"
     },
     {
-      "title": "m1k1o / neko",
-      "url": "https://github.com/m1k1o/neko",
-      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "title": "netbirdio / netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22133,
-      "forks": 1601,
-      "added_stars": "769 stars this month"
+      "stars": 28494,
+      "forks": 1613,
+      "added_stars": "1,158 stars this month"
     },
     {
       "title": "rclone / rclone",
@@ -170,49 +160,19 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 59216,
-      "forks": 5320,
-      "added_stars": "906 stars this month"
+      "stars": 59251,
+      "forks": 5324,
+      "added_stars": "923 stars this month"
     },
     {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 88693,
-      "forks": 10406,
-      "added_stars": "3,621 stars this month"
-    },
-    {
-      "title": "podman-container-tools / podman",
-      "url": "https://github.com/podman-container-tools/podman",
-      "description": "Podman: A tool for managing OCI containers and pods.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32607,
-      "forks": 3333,
-      "added_stars": "369 stars this month"
-    },
-    {
-      "title": "fatedier / frp",
-      "url": "https://github.com/fatedier/frp",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 108841,
-      "forks": 15183,
-      "added_stars": "903 stars this month"
-    },
-    {
-      "title": "OpenListTeam / OpenList",
-      "url": "https://github.com/OpenListTeam/OpenList",
-      "description": "A new AList Fork to Anti Trust Crisis",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24173,
-      "forks": 2210,
-      "added_stars": "675 stars this month"
+      "stars": 22626,
+      "forks": 822,
+      "added_stars": "4,052 stars this month"
     },
     {
       "title": "helm / helm",
@@ -220,9 +180,39 @@
       "description": "The Kubernetes Package Manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30149,
-      "forks": 7756,
-      "added_stars": "201 stars this month"
+      "stars": 30154,
+      "forks": 7758,
+      "added_stars": "205 stars this month"
+    },
+    {
+      "title": "cloudflare / cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15287,
+      "forks": 1404,
+      "added_stars": "439 stars this month"
+    },
+    {
+      "title": "podman-container-tools / podman",
+      "url": "https://github.com/podman-container-tools/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32622,
+      "forks": 3335,
+      "added_stars": "377 stars this month"
+    },
+    {
+      "title": "OpenListTeam / OpenList",
+      "url": "https://github.com/OpenListTeam/OpenList",
+      "description": "A new AList Fork to Anti Trust Crisis",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24187,
+      "forks": 2210,
+      "added_stars": "683 stars this month"
     }
   ]
 }

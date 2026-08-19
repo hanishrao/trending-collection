@@ -2,17 +2,47 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 18 Aug 2026 02:50:45 GMT",
+  "pubDate": "Wed, 19 Aug 2026 02:52:55 GMT",
   "items": [
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37462,
-      "forks": 604,
-      "added_stars": "21 stars today"
+      "stars": 46716,
+      "forks": 5963,
+      "added_stars": "282 stars today"
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37554,
+      "forks": 7756,
+      "added_stars": "147 stars today"
+    },
+    {
+      "title": "argoproj / argo-workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "description": "Workflow Engine for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16912,
+      "forks": 3620,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Gaurav-Gosain / tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "Terminal UI OS (Terminal Multiplexer)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3456,
+      "forks": 132,
+      "added_stars": "105 stars today"
     },
     {
       "title": "bjarneo / cliamp",
@@ -20,69 +50,29 @@
       "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3160,
-      "forks": 170,
-      "added_stars": "191 stars today"
+      "stars": 3223,
+      "forks": 179,
+      "added_stars": "76 stars today"
     },
     {
-      "title": "Gitlawb / zero",
-      "url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1548,
-      "forks": 167,
-      "added_stars": "72 stars today"
+      "stars": 135891,
+      "forks": 19287,
+      "added_stars": "77 stars today"
     },
     {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "title": "shadow1ng / fscan",
+      "url": "https://github.com/shadow1ng/fscan",
+      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 178817,
-      "forks": 17446,
-      "added_stars": "135 stars today"
-    },
-    {
-      "title": "XTLS / Xray-core",
-      "url": "https://github.com/XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 41088,
-      "forks": 5775,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "strelov1 / freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 399,
-      "forks": 78,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "krillinai / KrillinAI",
-      "url": "https://github.com/krillinai/KrillinAI",
-      "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11137,
-      "forks": 1058,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "putyy / res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19296,
-      "forks": 2402,
-      "added_stars": "40 stars today"
+      "stars": 14354,
+      "forks": 1928,
+      "added_stars": "27 stars today"
     },
     {
       "title": "zzet / gortex",
@@ -90,108 +80,8 @@
       "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1184,
-      "forks": 114,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "MHSanaei / 3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44832,
-      "forks": 8543,
-      "added_stars": "69 stars today"
-    },
-    {
-      "title": "mickael-kerjean / filestash",
-      "url": "https://github.com/mickael-kerjean/filestash",
-      "description": "📁 Universal File Storage Client",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14504,
-      "forks": 1002,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "mvanhorn / cli-printing-press",
-      "url": "https://github.com/mvanhorn/cli-printing-press",
-      "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4470,
-      "forks": 476,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "asheshgoplani / agent-deck",
-      "url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 739,
-      "forks": 122,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "velero-io / velero",
-      "url": "https://github.com/velero-io/velero",
-      "description": "Backup and migrate Kubernetes applications and their persistent volumes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10234,
-      "forks": 1599,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "zitadel / zitadel",
-      "url": "https://github.com/zitadel/zitadel",
-      "description": "ZITADEL - Identity infrastructure, simplified for you.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14760,
-      "forks": 1229,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "mostlygeek / llama-swap",
-      "url": "https://github.com/mostlygeek/llama-swap",
-      "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5399,
-      "forks": 425,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "siderolabs / talos",
-      "url": "https://github.com/siderolabs/talos",
-      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10955,
-      "forks": 874,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "netdata / netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 80215,
-      "forks": 6586,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "authelia / authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28602,
-      "forks": 1462,
+      "stars": 1198,
+      "forks": 116,
       "added_stars": "16 stars today"
     },
     {
@@ -200,29 +90,139 @@
       "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37085,
-      "forks": 4447,
-      "added_stars": "45 stars today"
+      "stars": 37108,
+      "forks": 4449,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "go-gitea / gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "title": "anchore / syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 57457,
-      "forks": 7011,
+      "stars": 9426,
+      "forks": 931,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "MatinSenPai / SenPaiScanner",
+      "url": "https://github.com/MatinSenPai/SenPaiScanner",
+      "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2302,
+      "forks": 112,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45518,
+      "forks": 10778,
+      "added_stars": "115 stars today"
+    },
+    {
+      "title": "fluxcd / flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8350,
+      "forks": 781,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37486,
+      "forks": 609,
       "added_stars": "28 stars today"
     },
     {
-      "title": "github / gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
+      "title": "ethereum / go-ethereum",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "Go implementation of the Ethereum protocol",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4946,
-      "forks": 498,
+      "stars": 51294,
+      "forks": 22094,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "getlago / lago",
+      "url": "https://github.com/getlago/lago",
+      "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10355,
+      "forks": 721,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "mikefarah / yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15852,
+      "forks": 822,
       "added_stars": "8 stars today"
+    },
+    {
+      "title": "maximhq / bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7410,
+      "forks": 1065,
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "gotenberg / gotenberg",
+      "url": "https://github.com/gotenberg/gotenberg",
+      "description": "A developer-friendly API for converting many document formats into PDF files, and more!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 12875,
+      "forks": 840,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 65743,
+      "forks": 10770,
+      "added_stars": "56 stars today"
+    },
+    {
+      "title": "google / osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10868,
+      "forks": 764,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "golangci / golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19269,
+      "forks": 1612,
+      "added_stars": "7 stars today"
     }
   ]
 }
