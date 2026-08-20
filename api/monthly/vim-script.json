@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 19 Aug 2026 02:57:17 GMT",
+  "pubDate": "Thu, 20 Aug 2026 02:57:10 GMT",
   "items": [
     {
       "title": "neovim / neovim",
@@ -10,9 +10,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 101855,
-      "forks": 7029,
-      "added_stars": "974 stars this month"
+      "stars": 101874,
+      "forks": 7032,
+      "added_stars": "975 stars this month"
     },
     {
       "title": "vim / vim",
@@ -20,9 +20,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40767,
-      "forks": 6115,
-      "added_stars": "226 stars this month"
+      "stars": 40774,
+      "forks": 6114,
+      "added_stars": "230 stars this month"
     },
     {
       "title": "github / copilot.vim",
@@ -32,7 +32,17 @@
       "languageColor": "#199f4b",
       "stars": 11681,
       "forks": 799,
-      "added_stars": "55 stars this month"
+      "added_stars": "53 stars this month"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35750,
+      "forks": 1935,
+      "added_stars": "75 stars this month"
     },
     {
       "title": "tpope / vim-eunuch",
@@ -45,34 +55,24 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4173,
-      "forks": 144,
-      "added_stars": "63 stars this month"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35751,
-      "forks": 1937,
-      "added_stars": "74 stars this month"
-    },
-    {
       "title": "morhetz / gruvbox",
       "url": "https://github.com/morhetz/gruvbox",
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15690,
+      "stars": 15692,
       "forks": 1127,
       "added_stars": "84 stars this month"
+    },
+    {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4172,
+      "forks": 144,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "tpope / vim-fugitive",
@@ -80,9 +80,9 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21755,
+      "stars": 21757,
       "forks": 1076,
-      "added_stars": "64 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "dense-analysis / ale",
@@ -90,38 +90,18 @@
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14015,
-      "forks": 1485,
+      "stars": 14014,
+      "forks": 1484,
       "added_stars": "12 stars this month"
     },
     {
-      "title": "VundleVim / Vundle.vim",
-      "url": "https://github.com/VundleVim/Vundle.vim",
-      "description": "Vundle, the plug-in manager for Vim",
+      "title": "dracula / vim",
+      "url": "https://github.com/dracula/vim",
+      "description": "🧛🏻‍♂️ Dark theme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 23925,
-      "forks": 2539,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "amix / vimrc",
-      "url": "https://github.com/amix/vimrc",
-      "description": "The ultimate Vim configuration (vimrc)",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 31793,
-      "forks": 7237,
-      "added_stars": "39 stars this month"
-    },
-    {
-      "title": "derekhe / msfs2020-map-enhancement",
-      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
-      "description": "MSFS2020 Map Enhancement",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 354,
-      "forks": 45,
+      "stars": 1391,
+      "forks": 449,
       "added_stars": "2 stars this month"
     },
     {
@@ -132,26 +112,36 @@
       "languageColor": "#199f4b",
       "stars": 2147,
       "forks": 118,
-      "added_stars": "49 stars this month"
+      "added_stars": "48 stars this month"
     },
     {
-      "title": "fatih / vim-go",
-      "url": "https://github.com/fatih/vim-go",
-      "description": "Go development plugin for Vim",
+      "title": "derekhe / msfs2020-map-enhancement",
+      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
+      "description": "MSFS2020 Map Enhancement",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 16220,
-      "forks": 1428,
-      "added_stars": "11 stars this month"
+      "stars": 354,
+      "forks": 45,
+      "added_stars": "1 star this month"
     },
     {
-      "title": "dracula / vim",
-      "url": "https://github.com/dracula/vim",
-      "description": "🧛🏻‍♂️ Dark theme for Vim",
+      "title": "amix / vimrc",
+      "url": "https://github.com/amix/vimrc",
+      "description": "The ultimate Vim configuration (vimrc)",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1391,
-      "forks": 449,
+      "stars": 31793,
+      "forks": 7235,
+      "added_stars": "38 stars this month"
+    },
+    {
+      "title": "chrisbra / csv.vim",
+      "url": "https://github.com/chrisbra/csv.vim",
+      "description": "A Filetype plugin for csv files",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1326,
+      "forks": 66,
       "added_stars": "1 star this month"
     },
     {
@@ -160,29 +150,19 @@
       "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 17946,
+      "stars": 17947,
       "forks": 627,
       "added_stars": "51 stars this month"
     },
     {
-      "title": "tpope / vim-rails",
-      "url": "https://github.com/tpope/vim-rails",
-      "description": "rails.vim: Ruby on Rails power tools",
+      "title": "VundleVim / Vundle.vim",
+      "url": "https://github.com/VundleVim/Vundle.vim",
+      "description": "Vundle, the plug-in manager for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4151,
-      "forks": 375,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "junegunn / vim-easy-align",
-      "url": "https://github.com/junegunn/vim-easy-align",
-      "description": "🌻 A Vim alignment plugin",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4242,
-      "forks": 122,
-      "added_stars": "3 stars this month"
+      "stars": 23926,
+      "forks": 2539,
+      "added_stars": "11 stars this month"
     }
   ]
 }

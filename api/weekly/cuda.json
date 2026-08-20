@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 19 Aug 2026 02:55:05 GMT",
+  "pubDate": "Thu, 20 Aug 2026 02:54:54 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepEP",
@@ -10,9 +10,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10024,
-      "forks": 1393,
-      "added_stars": "57 stars this week"
+      "stars": 10033,
+      "forks": 1395,
+      "added_stars": "63 stars this week"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -20,9 +20,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7701,
-      "forks": 1183,
-      "added_stars": "57 stars this week"
+      "stars": 7704,
+      "forks": 1185,
+      "added_stars": "52 stars this week"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -30,9 +30,19 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3652,
+      "stars": 3656,
       "forks": 484,
-      "added_stars": "35 stars this week"
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1013,
+      "forks": 220,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "NVIDIA / cub",
@@ -50,19 +60,19 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30825,
-      "forks": 3734,
-      "added_stars": "56 stars this week"
+      "stars": 30833,
+      "forks": 3737,
+      "added_stars": "57 stars this week"
     },
     {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1309,
-      "forks": 259,
-      "added_stars": "9 stars this week"
+      "stars": 1625,
+      "forks": 398,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "mirage-project / mirage",
@@ -72,27 +82,17 @@
       "languageColor": "#3A4E3A",
       "stars": 2434,
       "forks": 239,
-      "added_stars": "16 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "NVIDIA / cuCollections",
-      "url": "https://github.com/NVIDIA/cuCollections",
-      "description": "",
+      "title": "NVIDIA / nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 660,
-      "forks": 116,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1623,
-      "forks": 398,
-      "added_stars": "6 stars this week"
+      "stars": 919,
+      "forks": 120,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -100,9 +100,19 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17523,
+      "stars": 17524,
       "forks": 2067,
       "added_stars": "8 stars this week"
+    },
+    {
+      "title": "alibaba / rtp-llm",
+      "url": "https://github.com/alibaba/rtp-llm",
+      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1310,
+      "forks": 259,
+      "added_stars": "9 stars this week"
     }
   ]
 }

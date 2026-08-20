@@ -2,37 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 19 Aug 2026 02:55:05 GMT",
+  "pubDate": "Thu, 20 Aug 2026 02:54:54 GMT",
   "items": [
     {
-      "title": "rorkai / App-Store-Connect-CLI",
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
-      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts",
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5959,
-      "forks": 525,
-      "added_stars": "235 stars this week"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 88776,
-      "forks": 10414,
-      "added_stars": "1,587 stars this week"
-    },
-    {
-      "title": "krillinai / KrillinAI",
-      "url": "https://github.com/krillinai/KrillinAI",
-      "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11181,
-      "forks": 1065,
-      "added_stars": "261 stars this week"
+      "stars": 28841,
+      "forks": 2201,
+      "added_stars": "197 stars this week"
     },
     {
       "title": "Gitlawb / zero",
@@ -40,9 +20,19 @@
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1582,
-      "forks": 167,
-      "added_stars": "346 stars this week"
+      "stars": 1590,
+      "forks": 168,
+      "added_stars": "349 stars this week"
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 88855,
+      "forks": 10429,
+      "added_stars": "1,515 stars this week"
     },
     {
       "title": "ollama / ollama",
@@ -50,19 +40,19 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 178905,
-      "forks": 17459,
-      "added_stars": "831 stars this week"
+      "stars": 178991,
+      "forks": 17479,
+      "added_stars": "849 stars this week"
     },
     {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "title": "krillinai / KrillinAI",
+      "url": "https://github.com/krillinai/KrillinAI",
+      "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28811,
-      "forks": 2199,
-      "added_stars": "214 stars this week"
+      "stars": 11211,
+      "forks": 1068,
+      "added_stars": "229 stars this week"
     },
     {
       "title": "putyy / res-downloader",
@@ -70,29 +60,19 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19316,
-      "forks": 2402,
-      "added_stars": "237 stars this week"
+      "stars": 19339,
+      "forks": 2405,
+      "added_stars": "247 stars this week"
     },
     {
-      "title": "kubernetes-sigs / kueue",
-      "url": "https://github.com/kubernetes-sigs/kueue",
-      "description": "Kubernetes-native Job Queueing",
+      "title": "rorkai / App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2878,
-      "forks": 752,
-      "added_stars": "78 stars this week"
-    },
-    {
-      "title": "knadh / listmonk",
-      "url": "https://github.com/knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22982,
-      "forks": 2537,
-      "added_stars": "280 stars this week"
+      "stars": 6003,
+      "forks": 527,
+      "added_stars": "233 stars this week"
     },
     {
       "title": "multica-ai / multica",
@@ -100,9 +80,19 @@
       "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 46717,
-      "forks": 5964,
-      "added_stars": "1,355 stars this week"
+      "stars": 46904,
+      "forks": 5993,
+      "added_stars": "1,317 stars this week"
+    },
+    {
+      "title": "knadh / listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23005,
+      "forks": 2540,
+      "added_stars": "262 stars this week"
     },
     {
       "title": "aldinokemal / go-whatsapp-web-multidevice",
@@ -110,9 +100,9 @@
       "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4642,
-      "forks": 1104,
-      "added_stars": "126 stars this week"
+      "stars": 4653,
+      "forks": 1106,
+      "added_stars": "129 stars this week"
     },
     {
       "title": "aquasecurity / trivy",
@@ -120,29 +110,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37486,
-      "forks": 609,
-      "added_stars": "141 stars this week"
-    },
-    {
-      "title": "jesseduffield / lazygit",
-      "url": "https://github.com/jesseduffield/lazygit",
-      "description": "simple terminal UI for git commands",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 81444,
-      "forks": 2992,
-      "added_stars": "270 stars this week"
-    },
-    {
-      "title": "fatedier / frp",
-      "url": "https://github.com/fatedier/frp",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 108859,
-      "forks": 15185,
-      "added_stars": "229 stars this week"
+      "stars": 37513,
+      "forks": 614,
+      "added_stars": "147 stars this week"
     },
     {
       "title": "semaphoreui / semaphore",
@@ -150,29 +120,59 @@
       "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14032,
-      "forks": 1291,
-      "added_stars": "51 stars this week"
+      "stars": 14036,
+      "forks": 1292,
+      "added_stars": "48 stars this week"
     },
     {
-      "title": "nats-io / nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "title": "jesseduffield / lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 20541,
-      "forks": 1912,
-      "added_stars": "98 stars this week"
+      "stars": 81476,
+      "forks": 2996,
+      "added_stars": "262 stars this week"
     },
     {
-      "title": "avelino / awesome-go",
-      "url": "https://github.com/avelino/awesome-go",
-      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "title": "kubernetes-sigs / kueue",
+      "url": "https://github.com/kubernetes-sigs/kueue",
+      "description": "Kubernetes-native Job Queueing",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 181444,
-      "forks": 13489,
-      "added_stars": "708 stars this week"
+      "stars": 2890,
+      "forks": 754,
+      "added_stars": "93 stars this week"
+    },
+    {
+      "title": "fatedier / frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 108884,
+      "forks": 15188,
+      "added_stars": "209 stars this week"
+    },
+    {
+      "title": "ongridio / ongrid",
+      "url": "https://github.com/ongridio/ongrid",
+      "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 744,
+      "forks": 169,
+      "added_stars": "101 stars this week"
+    },
+    {
+      "title": "oseghalep / cloud-cost-optimization-hub",
+      "url": "https://github.com/oseghalep/cloud-cost-optimization-hub",
+      "description": "Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 317,
+      "forks": 622,
+      "added_stars": "139 stars this week"
     },
     {
       "title": "harness / harness",
@@ -180,19 +180,59 @@
       "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38011,
-      "forks": 3347,
-      "added_stars": "280 stars this week"
+      "stars": 38035,
+      "forks": 3348,
+      "added_stars": "281 stars this week"
     },
     {
-      "title": "kdlbs / kandev",
-      "url": "https://github.com/kdlbs/kandev",
-      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "title": "fish2018 / pansou",
+      "url": "https://github.com/fish2018/pansou",
+      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 660,
-      "forks": 95,
-      "added_stars": "81 stars this week"
+      "stars": 14274,
+      "forks": 3441,
+      "added_stars": "112 stars this week"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45894,
+      "forks": 8887,
+      "added_stars": "136 stars this week"
+    },
+    {
+      "title": "compozy / compozy",
+      "url": "https://github.com/compozy/compozy",
+      "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2628,
+      "forks": 162,
+      "added_stars": "107 stars this week"
+    },
+    {
+      "title": "nektos / act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 71565,
+      "forks": 2005,
+      "added_stars": "100 stars this week"
+    },
+    {
+      "title": "avelino / awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 181602,
+      "forks": 13500,
+      "added_stars": "740 stars this week"
     },
     {
       "title": "henrygd / beszel",
@@ -200,9 +240,19 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24375,
-      "forks": 960,
-      "added_stars": "188 stars this week"
+      "stars": 24393,
+      "forks": 962,
+      "added_stars": "193 stars this week"
+    },
+    {
+      "title": "kdlbs / kandev",
+      "url": "https://github.com/kdlbs/kandev",
+      "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 667,
+      "forks": 95,
+      "added_stars": "74 stars this week"
     }
   ]
 }

@@ -4,21 +4,11 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 19 Aug 2026 02:55:05 GMT</pubDate>
+  <pubDate>Thu, 20 Aug 2026 02:54:54 GMT</pubDate>
   <item>
     <title>erlang / otp</title>
     <link>https://github.com/erlang/otp</link>
     <description>Erlang/OTP</description>
-  </item>
-  <item>
-    <title>blt / port_compiler</title>
-    <link>https://github.com/blt/port_compiler</link>
-    <description>A rebar3 port compiler</description>
-  </item>
-  <item>
-    <title>WhatsApp / erlfmt</title>
-    <link>https://github.com/WhatsApp/erlfmt</link>
-    <description>An automated code formatter for Erlang</description>
   </item>
   <item>
     <title>emqx / emqx</title>
@@ -26,14 +16,24 @@
     <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
   </item>
   <item>
-    <title>benoitc / hackney</title>
-    <link>https://github.com/benoitc/hackney</link>
-    <description>simple HTTP client in Erlang</description>
+    <title>WhatsApp / erlfmt</title>
+    <link>https://github.com/WhatsApp/erlfmt</link>
+    <description>An automated code formatter for Erlang</description>
   </item>
   <item>
-    <title>processone / ejabberd</title>
-    <link>https://github.com/processone/ejabberd</link>
-    <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
+    <title>blt / port_compiler</title>
+    <link>https://github.com/blt/port_compiler</link>
+    <description>A rebar3 port compiler</description>
+  </item>
+  <item>
+    <title>ninenines / cowboy</title>
+    <link>https://github.com/ninenines/cowboy</link>
+    <description>Small, fast, modern HTTP server for Erlang/OTP.</description>
+  </item>
+  <item>
+    <title>ninenines / cowlib</title>
+    <link>https://github.com/ninenines/cowlib</link>
+    <description>Support library for manipulating Web protocols.</description>
   </item>
   <item>
     <title>erlang / rebar3</title>
@@ -44,6 +44,16 @@
     <title>eproxus / meck</title>
     <link>https://github.com/eproxus/meck</link>
     <description>A mocking library for Erlang</description>
+  </item>
+  <item>
+    <title>benoitc / hackney</title>
+    <link>https://github.com/benoitc/hackney</link>
+    <description>simple HTTP client in Erlang</description>
+  </item>
+  <item>
+    <title>apache / couchdb</title>
+    <link>https://github.com/apache/couchdb</link>
+    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
   </item>
   <item>
     <title>proper-testing / proper</title>

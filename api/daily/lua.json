@@ -2,8 +2,38 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 19 Aug 2026 02:52:55 GMT",
+  "pubDate": "Thu, 20 Aug 2026 02:51:41 GMT",
   "items": [
+    {
+      "title": "nvim-telescope / telescope.nvim",
+      "url": "https://github.com/nvim-telescope/telescope.nvim",
+      "description": "Find, Filter, Preview, Pick. All lua, all the time.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 19715,
+      "forks": 960,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 13890,
+      "forks": 2486,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "olimorris / codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI Coding, Vim Style",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 6813,
+      "forks": 448,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "yetone / avante.nvim",
       "url": "https://github.com/yetone/avante.nvim",
@@ -15,154 +45,14 @@
       "added_stars": "4 stars today"
     },
     {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
+      "title": "folke / snacks.nvim",
+      "url": "https://github.com/folke/snacks.nvim",
+      "description": "🍿 A collection of QoL plugins for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27198,
-      "forks": 1815,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "mason-org / mason.nvim",
-      "url": "https://github.com/mason-org/mason.nvim",
-      "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 10443,
-      "forks": 336,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "AndyHazz / bookends.koplugin",
-      "url": "https://github.com/AndyHazz/bookends.koplugin",
-      "description": "KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 391,
-      "forks": 16,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "patelneeraj / filebrowserplus.koplugin",
-      "url": "https://github.com/patelneeraj/filebrowserplus.koplugin",
-      "description": "This KOReader plugins enables the user to run Filebrowser from koreader. Inspired by filebrowser.koplugin, expanded to add more conviniences.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 279,
-      "forks": 10,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6811,
-      "forks": 448,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "opentibiabr / canary",
-      "url": "https://github.com/opentibiabr/canary",
-      "description": "Canary Server 15.25 for OpenTibia community.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 631,
-      "forks": 874,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Kong / kong",
-      "url": "https://github.com/Kong/kong",
-      "description": "🦍 The API and AI Gateway",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 44000,
-      "forks": 5204,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Footagesus / WindUI",
-      "url": "https://github.com/Footagesus/WindUI",
-      "description": "WindUI is a open source UI library for Roblox Script Hubs",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 329,
-      "forks": 316,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 13889,
-      "forks": 2486,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "nvim-telescope / telescope.nvim",
-      "url": "https://github.com/nvim-telescope/telescope.nvim",
-      "description": "Find, Filter, Preview, Pick. All lua, all the time.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 19711,
-      "forks": 960,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "EllesmereGaming / EllesmereUI",
-      "url": "https://github.com/EllesmereGaming/EllesmereUI",
-      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 177,
-      "forks": 194,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 520,
-      "forks": 497,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "MunifTanjim / nui.nvim",
-      "url": "https://github.com/MunifTanjim/nui.nvim",
-      "description": "UI Component Library for Neovim.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 2107,
-      "forks": 80,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nvim-neotest / neotest",
-      "url": "https://github.com/nvim-neotest/neotest",
-      "description": "An extensible framework for interacting with tests within NeoVim.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3111,
-      "forks": 186,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "mason-org / mason-lspconfig.nvim",
-      "url": "https://github.com/mason-org/mason-lspconfig.nvim",
-      "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3938,
-      "forks": 221,
-      "added_stars": "2 stars today"
+      "stars": 7988,
+      "forks": 489,
+      "added_stars": "7 stars today"
     },
     {
       "title": "lewis6991 / async.nvim",
@@ -175,23 +65,143 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "mfussenegger / nvim-lint",
+      "url": "https://github.com/mfussenegger/nvim-lint",
+      "description": "Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 2774,
+      "forks": 311,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "koreader / koreader",
+      "url": "https://github.com/koreader/koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 29123,
+      "forks": 1879,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "b0o / SchemaStore.nvim",
+      "url": "https://github.com/b0o/SchemaStore.nvim",
+      "description": "🛍 JSON schemas for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1023,
+      "forks": 21,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "forest0xia / dota2bot-OpenHyperAI",
+      "url": "https://github.com/forest0xia/dota2bot-OpenHyperAI",
+      "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 280,
+      "forks": 62,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "nvim-lua / kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "description": "A launch point for your personal nvim configuration",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 31289,
+      "forks": 46731,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "MunifTanjim / nui.nvim",
+      "url": "https://github.com/MunifTanjim/nui.nvim",
+      "description": "UI Component Library for Neovim.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 2107,
+      "forks": 80,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "esx-framework / esx_core",
+      "url": "https://github.com/esx-framework/esx_core",
+      "description": "Official Repo For core resources for esx-legacy",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 449,
+      "forks": 799,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 27211,
+      "forks": 1816,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "zimbadev / crystalserver",
+      "url": "https://github.com/zimbadev/crystalserver",
+      "description": "Crystal Server for 15.25 protocol with Vocation Balancing.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 114,
+      "forks": 164,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "folke / lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 21439,
+      "forks": 589,
+      "added_stars": "7 stars today"
+    },
+    {
       "title": "bol-van / zapret-win-bundle",
       "url": "https://github.com/bol-van/zapret-win-bundle",
       "description": "zapret and blockcheck binary bundle for windows",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 1821,
+      "stars": 1825,
       "forks": 258,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "Mateuzkl / forgottenserver-downgrade-1.8-8.60",
-      "url": "https://github.com/Mateuzkl/forgottenserver-downgrade-1.8-8.60",
-      "description": "TFS Downgrade 1.8+ is an engine based on nekiro downgrade but highly updated with current tfs code, it also has the lua modules divided and uses lua5.5",
+      "title": "nvim-neotest / neotest",
+      "url": "https://github.com/nvim-neotest/neotest",
+      "description": "An extensible framework for interacting with tests within NeoVim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 42,
-      "forks": 47,
+      "stars": 3112,
+      "forks": 187,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "gaboolic / rime-frost",
+      "url": "https://github.com/gaboolic/rime-frost",
+      "description": "白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3564,
+      "forks": 177,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "mason-org / mason-lspconfig.nvim",
+      "url": "https://github.com/mason-org/mason-lspconfig.nvim",
+      "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3938,
+      "forks": 221,
       "added_stars": "0 stars today"
     }
   ]

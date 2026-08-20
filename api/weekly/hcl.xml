@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 19 Aug 2026 02:55:05 GMT</pubDate>
+  <pubDate>Thu, 20 Aug 2026 02:54:54 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -14,11 +14,6 @@
     <title>terrapkg / packages</title>
     <link>https://github.com/terrapkg/packages</link>
     <description>Monorepo for Terra Packages</description>
-  </item>
-  <item>
-    <title>hashicorp / agent-skills</title>
-    <link>https://github.com/hashicorp/agent-skills</link>
-    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
   </item>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
@@ -31,11 +26,6 @@
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
     <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
@@ -46,24 +36,14 @@
     <description>Terraform module to create AWS IAM resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-  </item>
-  <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-ecs-container-definition</title>
-    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
-  </item>
-  <item>
-    <title>bridgecrewio / checkov-action</title>
-    <link>https://github.com/bridgecrewio/checkov-action</link>
-    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
     <title>hashicorp / terraform-cidr-subnets</title>
@@ -71,9 +51,19 @@
     <description>A Terraform module for calculating subnet IP address prefixes</description>
   </item>
   <item>
-    <title>hashicorp / setup-packer</title>
-    <link>https://github.com/hashicorp/setup-packer</link>
-    <description>Run HashiCorp Packer as part of your GitHub Actions Workflow</description>
+    <title>bridgecrewio / checkov-action</title>
+    <link>https://github.com/bridgecrewio/checkov-action</link>
+    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-project-factory</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-ecs-container-definition</title>
+    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
 </channel>
 </rss>

@@ -4,11 +4,16 @@
   <title>GitHub Javascript Languages Daily Trending</title>
   <description>Daily Trending of Javascript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 19 Aug 2026 02:55:05 GMT</pubDate>
+  <pubDate>Thu, 20 Aug 2026 02:54:54 GMT</pubDate>
   <item>
     <title>addyosmani / agent-skills</title>
     <link>https://github.com/addyosmani/agent-skills</link>
     <description>Production-grade engineering skills for AI coding agents.</description>
+  </item>
+  <item>
+    <title>santifer / career-ops</title>
+    <link>https://github.com/santifer/career-ops</link>
+    <description>Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)</description>
   </item>
   <item>
     <title>ToolJet / ToolJet</title>
@@ -18,7 +23,12 @@
   <item>
     <title>darkzOGx / youtube-automation-agent</title>
     <link>https://github.com/darkzOGx/youtube-automation-agent</link>
-    <description>🎬 Lumen is the fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!</description>
+    <description>🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes &amp; publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!</description>
+  </item>
+  <item>
+    <title>citrolabs / ego-lite</title>
+    <link>https://github.com/citrolabs/ego-lite</link>
+    <description>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</description>
   </item>
   <item>
     <title>liyupi / ai-guide</title>
@@ -26,24 +36,9 @@
     <description>程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站</description>
   </item>
   <item>
-    <title>plankanban / planka</title>
-    <link>https://github.com/plankanban/planka</link>
-    <description>PLANKA is the Kanban-style project mastering tool for everyone</description>
-  </item>
-  <item>
-    <title>amElnagdy / delegate-skills</title>
-    <link>https://github.com/amElnagdy/delegate-skills</link>
-    <description>Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.</description>
-  </item>
-  <item>
-    <title>DietrichGebert / ponytail</title>
-    <link>https://github.com/DietrichGebert/ponytail</link>
-    <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
-  </item>
-  <item>
-    <title>airbnb / javascript</title>
-    <link>https://github.com/airbnb/javascript</link>
-    <description>JavaScript Style Guide</description>
+    <title>electerm / electerm</title>
+    <link>https://github.com/electerm/electerm</link>
+    <description>📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)</description>
   </item>
   <item>
     <title>mnfst / awesome-free-llm-apis</title>
@@ -51,9 +46,14 @@
     <description>List of Permanent Free LLM API (API Keys)</description>
   </item>
   <item>
-    <title>mui / material-ui</title>
-    <link>https://github.com/mui/material-ui</link>
-    <description>Material UI: Comprehensive React component library that implements Google&#x27;s Material Design. Free forever.</description>
+    <title>amElnagdy / delegate-skills</title>
+    <link>https://github.com/amElnagdy/delegate-skills</link>
+    <description>Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.</description>
+  </item>
+  <item>
+    <title>freestylefly / awesome-gpt-image-2</title>
+    <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+    <description>Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</description>
   </item>
   <item>
     <title>trekhleb / javascript-algorithms</title>
@@ -61,14 +61,14 @@
     <description>📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</description>
   </item>
   <item>
-    <title>Snailclimb / JavaGuide</title>
-    <link>https://github.com/Snailclimb/JavaGuide</link>
-    <description>Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</description>
+    <title>airbnb / javascript</title>
+    <link>https://github.com/airbnb/javascript</link>
+    <description>JavaScript Style Guide</description>
   </item>
   <item>
-    <title>electerm / electerm</title>
-    <link>https://github.com/electerm/electerm</link>
-    <description>📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)</description>
+    <title>mui / material-ui</title>
+    <link>https://github.com/mui/material-ui</link>
+    <description>Material UI: Comprehensive React component library that implements Google&#x27;s Material Design. Free forever.</description>
   </item>
   <item>
     <title>byoungd / up</title>
@@ -76,14 +76,19 @@
     <description>An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语</description>
   </item>
   <item>
+    <title>Snailclimb / JavaGuide</title>
+    <link>https://github.com/Snailclimb/JavaGuide</link>
+    <description>Java 面试 &amp; 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发</description>
+  </item>
+  <item>
     <title>MagicMirrorOrg / MagicMirror</title>
     <link>https://github.com/MagicMirrorOrg/MagicMirror</link>
     <description>MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.</description>
   </item>
   <item>
-    <title>citrolabs / ego-lite</title>
-    <link>https://github.com/citrolabs/ego-lite</link>
-    <description>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</description>
+    <title>DietrichGebert / ponytail</title>
+    <link>https://github.com/DietrichGebert/ponytail</link>
+    <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
   </item>
 </channel>
 </rss>

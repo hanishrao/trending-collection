@@ -2,17 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 19 Aug 2026 02:57:17 GMT",
+  "pubDate": "Thu, 20 Aug 2026 02:57:10 GMT",
   "items": [
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 8858,
+      "forks": 942,
+      "added_stars": "363 stars this month"
+    },
     {
       "title": "leanprover-community / mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3888,
-      "forks": 1601,
-      "added_stars": "269 stars this month"
+      "stars": 3904,
+      "forks": 1608,
+      "added_stars": "279 stars this month"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -20,19 +30,9 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1187,
-      "forks": 415,
+      "stars": 1189,
+      "forks": 416,
       "added_stars": "139 stars this month"
-    },
-    {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 8839,
-      "forks": 940,
-      "added_stars": "353 stars this month"
     },
     {
       "title": "leanprover-community / batteries",
@@ -40,9 +40,9 @@
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 415,
-      "forks": 158,
-      "added_stars": "9 stars this month"
+      "stars": 417,
+      "forks": 159,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "leanprover-community / plausible",
@@ -60,9 +60,9 @@
       "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 35,
-      "forks": 10,
-      "added_stars": "0 stars this month"
+      "stars": 36,
+      "forks": 11,
+      "added_stars": "1 star this month"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -72,7 +72,7 @@
       "languageColor": "#ccc",
       "stars": 118,
       "forks": 28,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "leanprover-community / quote4",
@@ -90,9 +90,9 @@
       "description": "White-box automation for Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 397,
-      "forks": 59,
-      "added_stars": "14 stars this month"
+      "stars": 398,
+      "forks": 60,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "leanprover-community / ProofWidgets4",
@@ -102,37 +102,7 @@
       "languageColor": "#ccc",
       "stars": 221,
       "forks": 47,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "teorth / analysis",
-      "url": "https://github.com/teorth/analysis",
-      "description": "A Lean companion to Analysis I",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1864,
-      "forks": 260,
-      "added_stars": "47 stars this month"
-    },
-    {
-      "title": "leanprover / verso",
-      "url": "https://github.com/leanprover/verso",
-      "description": "Lean documentation authoring tool",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 374,
-      "forks": 120,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 697,
-      "forks": 165,
-      "added_stars": "49 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "lfglabs-dev / verity",
@@ -142,6 +112,36 @@
       "languageColor": "#ccc",
       "stars": 144,
       "forks": 18,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 701,
+      "forks": 166,
+      "added_stars": "53 stars this month"
+    },
+    {
+      "title": "teorth / analysis",
+      "url": "https://github.com/teorth/analysis",
+      "description": "A Lean companion to Analysis I",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1866,
+      "forks": 260,
+      "added_stars": "48 stars this month"
+    },
+    {
+      "title": "leanprover / verso",
+      "url": "https://github.com/leanprover/verso",
+      "description": "Lean documentation authoring tool",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 374,
+      "forks": 120,
       "added_stars": "9 stars this month"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 19 Aug 2026 02:55:05 GMT",
+  "pubDate": "Thu, 20 Aug 2026 02:54:54 GMT",
   "items": [
     {
       "title": "neovim / nvim-lspconfig",
@@ -10,7 +10,7 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13889,
+      "stars": 13890,
       "forks": 2486,
       "added_stars": "49 stars this week"
     },
@@ -20,9 +20,9 @@
       "description": "A clean, minimal E-Reader experience",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 514,
+      "stars": 518,
       "forks": 32,
-      "added_stars": "56 stars this week"
+      "added_stars": "49 stars this week"
     },
     {
       "title": "MeanderingProgrammer / render-markdown.nvim",
@@ -30,9 +30,29 @@
       "description": "Improve viewing Markdown in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4928,
-      "forks": 134,
-      "added_stars": "33 stars this week"
+      "stars": 4931,
+      "forks": 136,
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "miscusi-peek / cheatengine-mcp-bridge",
+      "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
+      "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1268,
+      "forks": 195,
+      "added_stars": "60 stars this week"
+    },
+    {
+      "title": "EllesmereGaming / EllesmereUI",
+      "url": "https://github.com/EllesmereGaming/EllesmereUI",
+      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 178,
+      "forks": 196,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "AndyHazz / bookshelf.koplugin",
@@ -40,7 +60,7 @@
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 643,
+      "stars": 656,
       "forks": 20,
       "added_stars": "85 stars this week"
     },
@@ -50,59 +70,9 @@
       "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 553,
+      "stars": 559,
       "forks": 74,
-      "added_stars": "113 stars this week"
-    },
-    {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 520,
-      "forks": 497,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 27198,
-      "forks": 1815,
-      "added_stars": "73 stars this week"
-    },
-    {
-      "title": "EllesmereGaming / EllesmereUI",
-      "url": "https://github.com/EllesmereGaming/EllesmereUI",
-      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 177,
-      "forks": 194,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "iDvel / rime-ice",
-      "url": "https://github.com/iDvel/rime-ice",
-      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 18889,
-      "forks": 1164,
-      "added_stars": "126 stars this week"
-    },
-    {
-      "title": "miscusi-peek / cheatengine-mcp-bridge",
-      "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
-      "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1260,
-      "forks": 194,
-      "added_stars": "58 stars this week"
+      "added_stars": "104 stars this week"
     },
     {
       "title": "stevearc / conform.nvim",
@@ -112,7 +82,37 @@
       "languageColor": "#000080",
       "stars": 5311,
       "forks": 307,
-      "added_stars": "12 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 27211,
+      "forks": 1816,
+      "added_stars": "78 stars this week"
+    },
+    {
+      "title": "amzxyz / rime-wanxiang",
+      "url": "https://github.com/amzxyz/rime-wanxiang",
+      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4410,
+      "forks": 166,
+      "added_stars": "57 stars this week"
+    },
+    {
+      "title": "opentibiabr / otclient",
+      "url": "https://github.com/opentibiabr/otclient",
+      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 519,
+      "forks": 496,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "koreader / koreader",
@@ -120,9 +120,29 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 29098,
-      "forks": 1878,
-      "added_stars": "193 stars this week"
+      "stars": 29123,
+      "forks": 1879,
+      "added_stars": "189 stars this week"
+    },
+    {
+      "title": "PortsMaster / PortMaster-New",
+      "url": "https://github.com/PortsMaster/PortMaster-New",
+      "description": "New PortMaster repo",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 344,
+      "forks": 227,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "iDvel / rime-ice",
+      "url": "https://github.com/iDvel/rime-ice",
+      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 18908,
+      "forks": 1163,
+      "added_stars": "124 stars this week"
     }
   ]
 }
