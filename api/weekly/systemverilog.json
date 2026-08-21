@@ -2,27 +2,47 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 20 Aug 2026 02:54:54 GMT",
+  "pubDate": "Fri, 21 Aug 2026 03:00:24 GMT",
   "items": [
-    {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3600,
-      "forks": 1089,
-      "added_stars": "11 stars this week"
-    },
     {
       "title": "lowRISC / ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2017,
-      "forks": 788,
-      "added_stars": "10 stars this week"
+      "stars": 2018,
+      "forks": 789,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3861,
+      "forks": 883,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "chipsalliance / caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 48,
+      "forks": 57,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3602,
+      "forks": 1089,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -30,9 +50,9 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12857,
+      "stars": 12858,
       "forks": 1238,
-      "added_stars": "23 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
       "title": "chipsalliance / adams-bridge",
@@ -45,36 +65,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3857,
-      "forks": 883,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "pulp-platform / axi_riscv_atomics",
-      "url": "https://github.com/pulp-platform/axi_riscv_atomics",
-      "description": "AXI Adapter(s) for RISC-V Atomic Operations",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 66,
-      "forks": 24,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "chipsalliance / i3c-core",
-      "url": "https://github.com/chipsalliance/i3c-core",
-      "description": "",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 54,
-      "forks": 35,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "openhwgroup / cvfpu",
       "url": "https://github.com/openhwgroup/cvfpu",
       "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
@@ -85,14 +75,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "pulp-platform / axi",
-      "url": "https://github.com/pulp-platform/axi",
-      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
+      "title": "chipsalliance / i3c-core",
+      "url": "https://github.com/chipsalliance/i3c-core",
+      "description": "",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 1662,
-      "forks": 367,
-      "added_stars": "9 stars this week"
+      "stars": 54,
+      "forks": 35,
+      "added_stars": "0 stars this week"
     }
   ]
 }

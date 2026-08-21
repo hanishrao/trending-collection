@@ -4,21 +4,26 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 20 Aug 2026 02:51:41 GMT</pubDate>
+  <pubDate>Fri, 21 Aug 2026 02:58:17 GMT</pubDate>
   <item>
-    <title>darlinghq / darling</title>
-    <link>https://github.com/darlinghq/darling</link>
-    <description>Darwin/macOS emulation layer for Linux</description>
+    <title>realm / realm-swift</title>
+    <link>https://github.com/realm/realm-swift</link>
+    <description>Realm is a mobile database: a replacement for Core Data &amp; SQLite</description>
   </item>
   <item>
-    <title>sparkle-project / Sparkle</title>
-    <link>https://github.com/sparkle-project/Sparkle</link>
-    <description>A software update framework for macOS</description>
+    <title>SDWebImage / SDWebImage</title>
+    <link>https://github.com/SDWebImage/SDWebImage</link>
+    <description>Asynchronous image downloader with cache support as a UIImageView category</description>
   </item>
   <item>
     <title>Sequel-Ace / Sequel-Ace</title>
     <link>https://github.com/Sequel-Ace/Sequel-Ace</link>
     <description>MySQL/MariaDB database management for macOS</description>
+  </item>
+  <item>
+    <title>google / promises</title>
+    <link>https://github.com/google/promises</link>
+    <description>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</description>
   </item>
   <item>
     <title>google / GoogleUtilities</title>
@@ -31,14 +36,14 @@
     <description></description>
   </item>
   <item>
-    <title>google / promises</title>
-    <link>https://github.com/google/promises</link>
-    <description>Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.</description>
-  </item>
-  <item>
     <title>google / gtm-session-fetcher</title>
     <link>https://github.com/google/gtm-session-fetcher</link>
     <description>Google Toolbox for Mac - Session Fetcher</description>
+  </item>
+  <item>
+    <title>google / app-check</title>
+    <link>https://github.com/google/app-check</link>
+    <description>Google-internal core components of Firebase App Check.</description>
   </item>
   <item>
     <title>openid / AppAuth-iOS</title>
@@ -46,34 +51,9 @@
     <description>iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.</description>
   </item>
   <item>
-    <title>SDWebImage / SDWebImage</title>
-    <link>https://github.com/SDWebImage/SDWebImage</link>
-    <description>Asynchronous image downloader with cache support as a UIImageView category</description>
-  </item>
-  <item>
     <title>AliSoftware / OHHTTPStubs</title>
     <link>https://github.com/AliSoftware/OHHTTPStubs</link>
     <description>Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!</description>
-  </item>
-  <item>
-    <title>noah-nuebling / mac-mouse-fix</title>
-    <link>https://github.com/noah-nuebling/mac-mouse-fix</link>
-    <description>Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</description>
-  </item>
-  <item>
-    <title>facebookincubator / SocketRocket</title>
-    <link>https://github.com/facebookincubator/SocketRocket</link>
-    <description>A conforming Objective-C WebSocket client library.</description>
-  </item>
-  <item>
-    <title>google / GoogleSignIn-iOS</title>
-    <link>https://github.com/google/GoogleSignIn-iOS</link>
-    <description>Enables iOS and macOS apps to sign in with Google.</description>
-  </item>
-  <item>
-    <title>kstenerud / KSCrash</title>
-    <link>https://github.com/kstenerud/KSCrash</link>
-    <description>The Ultimate iOS Crash Reporter</description>
   </item>
   <item>
     <title>datatheorem / TrustKit</title>
@@ -81,14 +61,54 @@
     <description>Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.</description>
   </item>
   <item>
-    <title>BranchMetrics / ios-branch-deep-linking-attribution</title>
-    <link>https://github.com/BranchMetrics/ios-branch-deep-linking-attribution</link>
-    <description>The Branch iOS SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more.</description>
-  </item>
-  <item>
     <title>adjust / ios_sdk</title>
     <link>https://github.com/adjust/ios_sdk</link>
     <description>This is the iOS SDK of</description>
+  </item>
+  <item>
+    <title>kstenerud / KSCrash</title>
+    <link>https://github.com/kstenerud/KSCrash</link>
+    <description>The Ultimate iOS Crash Reporter</description>
+  </item>
+  <item>
+    <title>AzureAD / microsoft-authentication-library-common-for-objc</title>
+    <link>https://github.com/AzureAD/microsoft-authentication-library-common-for-objc</link>
+    <description>Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)</description>
+  </item>
+  <item>
+    <title>facebookincubator / SocketRocket</title>
+    <link>https://github.com/facebookincubator/SocketRocket</link>
+    <description>A conforming Objective-C WebSocket client library.</description>
+  </item>
+  <item>
+    <title>SDWebImage / SDWebImageWebPCoder</title>
+    <link>https://github.com/SDWebImage/SDWebImageWebPCoder</link>
+    <description>A WebP coder plugin for SDWebImage, use libwebp</description>
+  </item>
+  <item>
+    <title>SDWebImage / SDWebImageSVGCoder</title>
+    <link>https://github.com/SDWebImage/SDWebImageSVGCoder</link>
+    <description>A SVG coder plugin for SDWebImage, using Apple&#x27;s built-in framework</description>
+  </item>
+  <item>
+    <title>bugsnag / bugsnag-cocoa</title>
+    <link>https://github.com/bugsnag/bugsnag-cocoa</link>
+    <description>BugSnag error monitoring &amp; exception reporter for iOS, macOS, tvOS and watchOS</description>
+  </item>
+  <item>
+    <title>google / GoogleSignIn-iOS</title>
+    <link>https://github.com/google/GoogleSignIn-iOS</link>
+    <description>Enables iOS and macOS apps to sign in with Google.</description>
+  </item>
+  <item>
+    <title>jdg / MBProgressHUD</title>
+    <link>https://github.com/jdg/MBProgressHUD</link>
+    <description>MBProgressHUD + Customizations</description>
+  </item>
+  <item>
+    <title>SDWebImage / SDWebImageAVIFCoder</title>
+    <link>https://github.com/SDWebImage/SDWebImageAVIFCoder</link>
+    <description>A SDWebImage coder plugin to support AVIF(AV1 Image File Format) image</description>
   </item>
 </channel>
 </rss>

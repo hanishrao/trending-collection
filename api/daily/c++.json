@@ -2,77 +2,107 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 20 Aug 2026 02:51:41 GMT",
+  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
   "items": [
+    {
+      "title": "google / flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 26364,
+      "forks": 3624,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 38941,
+      "forks": 10849,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "grpc / grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 45232,
+      "forks": 11362,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "duckdb / duckdb",
       "url": "https://github.com/duckdb/duckdb",
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40445,
-      "forks": 3586,
-      "added_stars": "58 stars today"
+      "stars": 40481,
+      "forks": 3589,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "NVIDIA / cuda-samples",
-      "url": "https://github.com/NVIDIA/cuda-samples",
-      "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+      "title": "facebookresearch / faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9524,
-      "forks": 2405,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "alibaba / MNN",
-      "url": "https://github.com/alibaba/MNN",
-      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15928,
-      "forks": 2408,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "vllm-project / vllm-ascend",
-      "url": "https://github.com/vllm-project/vllm-ascend",
-      "description": "Community maintained hardware plugin for vLLM on Ascend",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2666,
-      "forks": 2076,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 124751,
-      "forks": 21918,
-      "added_stars": "207 stars today"
-    },
-    {
-      "title": "aristocratos / btop",
-      "url": "https://github.com/aristocratos/btop",
-      "description": "A monitor of resources",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 34104,
-      "forks": 1128,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "wolfpld / tracy",
-      "url": "https://github.com/wolfpld/tracy",
-      "description": "Frame profiler",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16626,
-      "forks": 1221,
+      "stars": 40779,
+      "forks": 4499,
       "added_stars": "8 stars today"
+    },
+    {
+      "title": "opencv / opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 90527,
+      "forks": 56971,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50413,
+      "forks": 7468,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "flyinghead / flycast",
+      "url": "https://github.com/flyinghead/flycast",
+      "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2470,
+      "forks": 312,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "jrouwe / JoltPhysics",
+      "url": "https://github.com/jrouwe/JoltPhysics",
+      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11395,
+      "forks": 966,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "ai-dynamo / nixl",
+      "url": "https://github.com/ai-dynamo/nixl",
+      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1203,
+      "forks": 411,
+      "added_stars": "4 stars today"
     },
     {
       "title": "ROCm / rocm-systems",
@@ -80,49 +110,69 @@
       "description": "super repo for rocm systems projects",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 464,
-      "forks": 352,
-      "added_stars": "0 stars today"
+      "stars": 465,
+      "forks": 356,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "SpacehuhnTech / WiFiDuck",
-      "url": "https://github.com/SpacehuhnTech/WiFiDuck",
-      "description": "Wireless keystroke injection attack platform",
+      "title": "gabime / spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3259,
-      "forks": 477,
-      "added_stars": "21 stars today"
+      "stars": 29508,
+      "forks": 5389,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "microsoft / winget-cli",
-      "url": "https://github.com/microsoft/winget-cli",
-      "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 26326,
-      "forks": 1784,
-      "added_stars": "7 stars today"
+      "stars": 71749,
+      "forks": 16234,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
+      "title": "simdjson / simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 197068,
-      "forks": 76069,
-      "added_stars": "37 stars today"
+      "stars": 24164,
+      "forks": 1274,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "wazuh / wazuh",
-      "url": "https://github.com/wazuh/wazuh",
-      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "title": "gcc-mirror / gcc",
+      "url": "https://github.com/gcc-mirror/gcc",
+      "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16605,
-      "forks": 2447,
+      "stars": 11175,
+      "forks": 4812,
       "added_stars": "8 stars today"
+    },
+    {
+      "title": "wesnoth / wesnoth",
+      "url": "https://github.com/wesnoth/wesnoth",
+      "description": "An open source, turn-based strategy game with a high fantasy theme.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6839,
+      "forks": 1228,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "shadps4-emu / shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 32587,
+      "forks": 2449,
+      "added_stars": "20 stars today"
     },
     {
       "title": "ocornut / imgui",
@@ -130,99 +180,29 @@
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 75744,
-      "forks": 12018,
-      "added_stars": "32 stars today"
+      "stars": 75760,
+      "forks": 12019,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "mrxenginner / reVC",
-      "url": "https://github.com/mrxenginner/reVC",
-      "description": "Reverse engineering the classic GTA Vice City game",
+      "title": "microsoft / WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 277,
-      "forks": 86,
-      "added_stars": "3 stars today"
+      "stars": 33463,
+      "forks": 1807,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "intel / llm-scaler",
-      "url": "https://github.com/intel/llm-scaler",
-      "description": "",
+      "title": "apache / brpc",
+      "url": "https://github.com/apache/brpc",
+      "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 490,
-      "forks": 70,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "OHF-Voice / piper1-gpl",
-      "url": "https://github.com/OHF-Voice/piper1-gpl",
-      "description": "Fast and local neural text-to-speech engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5189,
-      "forks": 496,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "ggml-org / ggml",
-      "url": "https://github.com/ggml-org/ggml",
-      "description": "Tensor library for machine learning",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15201,
-      "forks": 1783,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "abseil / abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18086,
-      "forks": 3181,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 115892,
-      "forks": 26404,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "ml-explore / mlx",
-      "url": "https://github.com/ml-explore/mlx",
-      "description": "MLX: An array framework for Apple silicon",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 28063,
-      "forks": 2153,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "facebook / rocksdb",
-      "url": "https://github.com/facebook/rocksdb",
-      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31984,
-      "forks": 6903,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "NixOS / nix",
-      "url": "https://github.com/NixOS/nix",
-      "description": "Nix, the purely functional package manager",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17532,
-      "forks": 1984,
-      "added_stars": "11 stars today"
+      "stars": 17586,
+      "forks": 4135,
+      "added_stars": "1 star today"
     }
   ]
 }

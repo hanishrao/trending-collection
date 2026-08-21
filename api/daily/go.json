@@ -2,157 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 20 Aug 2026 02:51:41 GMT",
+  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
   "items": [
-    {
-      "title": "QuantumNous / new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45644,
-      "forks": 10821,
-      "added_stars": "132 stars today"
-    },
-    {
-      "title": "seaweedfs / seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 34153,
-      "forks": 2957,
-      "added_stars": "21 stars today"
-    },
     {
       "title": "agent-substrate / substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1272,
-      "forks": 246,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11257,
-      "forks": 1052,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "google / sam",
-      "url": "https://github.com/google/sam",
-      "description": "SAM Sovereign Agent Mesh",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 317,
-      "forks": 31,
-      "added_stars": "62 stars today"
-    },
-    {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24976,
-      "forks": 3973,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "ongridio / ongrid",
-      "url": "https://github.com/ongridio/ongrid",
-      "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 743,
-      "forks": 169,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "Gentleman-Programming / engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6079,
-      "forks": 644,
+      "stars": 1426,
+      "forks": 253,
       "added_stars": "22 stars today"
-    },
-    {
-      "title": "stretchr / testify",
-      "url": "https://github.com/stretchr/testify",
-      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 26167,
-      "forks": 1913,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "milvus-io / milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45703,
-      "forks": 4187,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "TecharoHQ / anubis",
-      "url": "https://github.com/TecharoHQ/anubis",
-      "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21552,
-      "forks": 682,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "grafana / loki",
-      "url": "https://github.com/grafana/loki",
-      "description": "Like Prometheus, but for logs.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28766,
-      "forks": 4092,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "envoyproxy / gateway",
-      "url": "https://github.com/envoyproxy/gateway",
-      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2965,
-      "forks": 842,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "asheshgoplani / agent-deck",
-      "url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 754,
-      "forks": 127,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "shadow1ng / fscan",
-      "url": "https://github.com/shadow1ng/fscan",
-      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14393,
-      "forks": 1932,
-      "added_stars": "43 stars today"
     },
     {
       "title": "JuliusBrussee / caveman",
@@ -160,49 +20,209 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 99256,
-      "forks": 5761,
-      "added_stars": "286 stars today"
+      "stars": 99690,
+      "forks": 5771,
+      "added_stars": "258 stars today"
     },
     {
-      "title": "googleapis / mcp-toolbox",
-      "url": "https://github.com/googleapis/mcp-toolbox",
-      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "title": "coredns / coredns",
+      "url": "https://github.com/coredns/coredns",
+      "description": "CoreDNS is a DNS server that chains plugins",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16208,
-      "forks": 1687,
+      "stars": 14259,
+      "forks": 2515,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "golangci / golangci-lint",
+      "url": "https://github.com/golangci/golangci-lint",
+      "description": "Fast linters runner for Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19287,
+      "forks": 1617,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5840,
+      "forks": 682,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "avelino / awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 181736,
+      "forks": 13504,
+      "added_stars": "155 stars today"
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37846,
+      "forks": 7822,
+      "added_stars": "153 stars today"
+    },
+    {
+      "title": "hashicorp / terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 49499,
+      "forks": 10611,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "pulumi / pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "description": "Pulumi - Infrastructure as Code in any programming language 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25595,
+      "forks": 1418,
       "added_stars": "6 stars today"
     },
     {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "title": "zzet / gortex",
+      "url": "https://github.com/zzet/gortex",
+      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28841,
-      "forks": 2201,
-      "added_stars": "32 stars today"
+      "stars": 1391,
+      "forks": 127,
+      "added_stars": "144 stars today"
     },
     {
-      "title": "bjarneo / cliamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "description": "cliamp - Terminal music player inspired by winamp",
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3262,
-      "forks": 183,
-      "added_stars": "42 stars today"
+      "stars": 20981,
+      "forks": 1512,
+      "added_stars": "124 stars today"
     },
     {
-      "title": "hatchet-dev / hatchet",
-      "url": "https://github.com/hatchet-dev/hatchet",
-      "description": "🪓 An orchestration engine for background tasks, AI agents, and durable workflows",
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7756,
-      "forks": 469,
-      "added_stars": "14 stars today"
+      "stars": 45765,
+      "forks": 10852,
+      "added_stars": "132 stars today"
+    },
+    {
+      "title": "mikefarah / yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15870,
+      "forks": 823,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "autonomous-ai / autonomous-os",
+      "url": "https://github.com/autonomous-ai/autonomous-os",
+      "description": "The open-source operating system for robots — install it and your robot comes alive",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 143,
+      "forks": 17,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "google / sam",
+      "url": "https://github.com/google/sam",
+      "description": "SAM Sovereign Agent Mesh",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 350,
+      "forks": 39,
+      "added_stars": "61 stars today"
+    },
+    {
+      "title": "entireio / cli",
+      "url": "https://github.com/entireio/cli",
+      "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4979,
+      "forks": 390,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "shadow1ng / fscan",
+      "url": "https://github.com/shadow1ng/fscan",
+      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14412,
+      "forks": 1937,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "google / osv-scanner",
+      "url": "https://github.com/google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10890,
+      "forks": 768,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "stretchr / testify",
+      "url": "https://github.com/stretchr/testify",
+      "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 26171,
+      "forks": 1914,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "rhysd / actionlint",
+      "url": "https://github.com/rhysd/actionlint",
+      "description": "Static checker for GitHub Actions workflow files",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4155,
+      "forks": 259,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "kagent-dev / kagent",
+      "url": "https://github.com/kagent-dev/kagent",
+      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3550,
+      "forks": 715,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "kubernetes-sigs / karpenter",
+      "url": "https://github.com/kubernetes-sigs/karpenter",
+      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2107,
+      "forks": 552,
+      "added_stars": "2 stars today"
     }
   ]
 }

@@ -2,107 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 20 Aug 2026 02:51:41 GMT",
+  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
   "items": [
-    {
-      "title": "nautechsystems / nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 26475,
-      "forks": 3422,
-      "added_stars": "80 stars today"
-    },
-    {
-      "title": "amadeusprotocol / node",
-      "url": "https://github.com/amadeusprotocol/node",
-      "description": "",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4609,
-      "forks": 85,
-      "added_stars": "1,397 stars today"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 90992,
-      "forks": 12092,
-      "added_stars": "264 stars today"
-    },
     {
       "title": "AprilNEA / OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10585,
-      "forks": 290,
-      "added_stars": "1,225 stars today"
+      "stars": 11994,
+      "forks": 325,
+      "added_stars": "1,545 stars today"
     },
     {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15936,
-      "forks": 1570,
-      "added_stars": "303 stars today"
-    },
-    {
-      "title": "longbridge / gpui-component",
-      "url": "https://github.com/longbridge/gpui-component",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13253,
-      "forks": 793,
-      "added_stars": "90 stars today"
-    },
-    {
-      "title": "block / buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28698,
-      "forks": 3600,
-      "added_stars": "301 stars today"
-    },
-    {
-      "title": "quickwit-oss / tantivy",
-      "url": "https://github.com/quickwit-oss/tantivy",
-      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15886,
-      "forks": 974,
-      "added_stars": "68 stars today"
-    },
-    {
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 40962,
-      "forks": 2724,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "Zackriya-Solutions / meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 29544,
-      "forks": 3156,
-      "added_stars": "159 stars today"
+      "stars": 3672,
+      "forks": 280,
+      "added_stars": "332 stars today"
     },
     {
       "title": "RyanCodrai / turbovec",
@@ -110,19 +30,109 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15661,
-      "forks": 1372,
-      "added_stars": "736 stars today"
+      "stars": 15979,
+      "forks": 1388,
+      "added_stars": "230 stars today"
     },
     {
-      "title": "aaif-goose / goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 53019,
-      "forks": 6042,
-      "added_stars": "47 stars today"
+      "stars": 31251,
+      "forks": 1395,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "warpdotdev / warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 64411,
+      "forks": 5447,
+      "added_stars": "56 stars today"
+    },
+    {
+      "title": "amadeusprotocol / node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "description": "",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5124,
+      "forks": 93,
+      "added_stars": "817 stars today"
+    },
+    {
+      "title": "WecomTeam / wecom-cli",
+      "url": "https://github.com/WecomTeam/wecom-cli",
+      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2907,
+      "forks": 196,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36175,
+      "forks": 2573,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 76841,
+      "forks": 4829,
+      "added_stars": "140 stars today"
+    },
+    {
+      "title": "rolldown / rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 13897,
+      "forks": 1023,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 29656,
+      "forks": 3167,
+      "added_stars": "101 stars today"
+    },
+    {
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 26723,
+      "forks": 3451,
+      "added_stars": "357 stars today"
+    },
+    {
+      "title": "oxc-project / oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of high-performance JavaScript tools.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22392,
+      "forks": 1218,
+      "added_stars": "16 stars today"
     },
     {
       "title": "AlexsJones / llmfit",
@@ -130,59 +140,79 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 33081,
-      "forks": 2049,
-      "added_stars": "276 stars today"
+      "stars": 33295,
+      "forks": 2063,
+      "added_stars": "310 stars today"
     },
     {
-      "title": "zizmorcore / zizmor",
-      "url": "https://github.com/zizmorcore/zizmor",
-      "description": "Static analysis for GitHub Actions",
+      "title": "warp-tech / warpgate",
+      "url": "https://github.com/warp-tech/warpgate",
+      "description": "Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6347,
-      "forks": 238,
-      "added_stars": "26 stars today"
+      "stars": 7672,
+      "forks": 351,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "tokio-rs / topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "title": "clockworklabs / SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4604,
-      "forks": 166,
-      "added_stars": "29 stars today"
+      "stars": 25028,
+      "forks": 1042,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "dmtrKovalenko / fff",
-      "url": "https://github.com/dmtrKovalenko/fff",
-      "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
+      "title": "Pumpkin-MC / Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10101,
-      "forks": 420,
-      "added_stars": "16 stars today"
+      "stars": 10817,
+      "forks": 743,
+      "added_stars": "34 stars today"
     },
     {
-      "title": "moghtech / komodo",
-      "url": "https://github.com/moghtech/komodo",
-      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "title": "quickwit-oss / tantivy",
+      "url": "https://github.com/quickwit-oss/tantivy",
+      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12003,
-      "forks": 389,
-      "added_stars": "19 stars today"
+      "stars": 15942,
+      "forks": 976,
+      "added_stars": "59 stars today"
     },
     {
-      "title": "jlcodes99 / cockpit-tools",
-      "url": "https://github.com/jlcodes99/cockpit-tools",
-      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+      "title": "pola-rs / polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16174,
-      "forks": 1429,
-      "added_stars": "91 stars today"
+      "stars": 39418,
+      "forks": 3032,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "aaif-goose / goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 53078,
+      "forks": 6052,
+      "added_stars": "60 stars today"
+    },
+    {
+      "title": "yvgude / lean-ctx",
+      "url": "https://github.com/yvgude/lean-ctx",
+      "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3614,
+      "forks": 330,
+      "added_stars": "9 stars today"
     }
   ]
 }

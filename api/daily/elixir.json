@@ -2,37 +2,47 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 20 Aug 2026 02:51:41 GMT",
+  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
   "items": [
     {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26601,
-      "forks": 3672,
-      "added_stars": "3 stars today"
+      "stars": 23127,
+      "forks": 3105,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5270,
-      "forks": 159,
-      "added_stars": "4 stars today"
+      "stars": 9040,
+      "forks": 443,
+      "added_stars": "1 star today"
     },
     {
-      "title": "open-api-spex / open_api_spex",
-      "url": "https://github.com/open-api-spex/open_api_spex",
-      "description": "Open API Specifications for Elixir Plug applications",
+      "title": "phoenixframework / phoenix_live_view",
+      "url": "https://github.com/phoenixframework/phoenix_live_view",
+      "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 835,
-      "forks": 216,
-      "added_stars": "0 stars today"
+      "stars": 6826,
+      "forks": 1050,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bartblast / hologram",
+      "url": "https://github.com/bartblast/hologram",
+      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1480,
+      "forks": 112,
+      "added_stars": "2 stars today"
     },
     {
       "title": "elixir-lsp / elixir-ls",
@@ -42,26 +52,6 @@
       "languageColor": "#6e4a7e",
       "stars": 1773,
       "forks": 226,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8857,
-      "forks": 999,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-erlang-contrib",
-      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
-      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 216,
-      "forks": 169,
       "added_stars": "0 stars today"
     },
     {
@@ -70,9 +60,49 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4641,
-      "forks": 3143,
+      "stars": 4640,
+      "forks": 3142,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26601,
+      "forks": 3672,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8863,
+      "forks": 999,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5270,
+      "forks": 160,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-erlang-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
+      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 217,
+      "forks": 169,
+      "added_stars": "1 star today"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -83,26 +113,6 @@
       "stars": 340,
       "forks": 43,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 28668,
-      "forks": 1805,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 23128,
-      "forks": 3105,
-      "added_stars": "3 stars today"
     }
   ]
 }

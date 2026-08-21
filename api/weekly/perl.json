@@ -2,8 +2,18 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 20 Aug 2026 02:54:54 GMT",
+  "pubDate": "Fri, 21 Aug 2026 03:00:24 GMT",
   "items": [
+    {
+      "title": "szTheory / exifcleaner",
+      "url": "https://github.com/szTheory/exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2611,
+      "forks": 166,
+      "added_stars": "27 stars this week"
+    },
     {
       "title": "znuny / Znuny",
       "url": "https://github.com/znuny/Znuny",
@@ -12,6 +22,16 @@
       "languageColor": "#0298c3",
       "stars": 588,
       "forks": 120,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "fusioninventory / fusioninventory-agent",
+      "url": "https://github.com/fusioninventory/fusioninventory-agent",
+      "description": "FusionInventory Agent",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 268,
+      "forks": 124,
       "added_stars": "0 stars this week"
     },
     {
@@ -25,14 +45,14 @@
       "added_stars": "5 stars this week"
     },
     {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2610,
-      "forks": 166,
-      "added_stars": "31 stars this week"
+      "stars": 19685,
+      "forks": 2104,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "holzschu / a-shell",
@@ -40,28 +60,28 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3876,
+      "stars": 3878,
       "forks": 206,
-      "added_stars": "16 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
+      "title": "Zimbra / zm-build",
+      "url": "https://github.com/Zimbra/zm-build",
+      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19682,
-      "forks": 2104,
-      "added_stars": "22 stars this week"
+      "stars": 243,
+      "forks": 103,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "fusioninventory / fusioninventory-agent",
-      "url": "https://github.com/fusioninventory/fusioninventory-agent",
-      "description": "FusionInventory Agent",
+      "title": "manwar / perlweeklychallenge-club",
+      "url": "https://github.com/manwar/perlweeklychallenge-club",
+      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 268,
-      "forks": 124,
+      "stars": 219,
+      "forks": 353,
       "added_stars": "0 stars this week"
     },
     {
@@ -70,9 +90,9 @@
       "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1507,
-      "forks": 1213,
-      "added_stars": "5 stars this week"
+      "stars": 1509,
+      "forks": 1214,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "yaml / yaml-test-suite",
@@ -85,24 +105,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 4963,
-      "forks": 471,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "manwar / perlweeklychallenge-club",
-      "url": "https://github.com/manwar/perlweeklychallenge-club",
-      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 219,
-      "forks": 353,
-      "added_stars": "0 stars this week"
+      "stars": 1669,
+      "forks": 322,
+      "added_stars": "4 stars this week"
     }
   ]
 }

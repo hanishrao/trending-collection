@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3412-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3413-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-20
-_Top 3 per language · [view full day →](./2026/2026-08-20.md)_
+## 🔥 Today's Trending — 2026-08-21
+_Top 3 per language · [view full day →](./2026/2026-08-21.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 🐍 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 🐍 | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 🐍 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🐍 | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 🦀 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
-| [amadeusprotocol/node](https://github.com/amadeusprotocol/node) | 🦀 |  |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🦀 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🦀 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 🦀 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 🦀 | A vector index built on TurboQuant, written in Rust with Python bindings |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | ⚡ | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
-| [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) | ⚡ | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🐹 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 |
-| [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 🐹 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. |
+| [byoungd/up](https://github.com/byoungd/up) | ⚡ | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | ⚡ | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🐹 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [coredns/coredns](https://github.com/coredns/coredns) | 🐹 | CoreDNS is a DNS server that chains plugins |
 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 🍎 |  |
-| [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) | 🍎 | Use your tokens to raise, evolve, and collect Pokémon! 🥚 |
 | [apple/coreai-models](https://github.com/apple/coreai-models) | 🍎 | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
+| [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) | 🍎 | Use your tokens to raise, evolve, and collect Pokémon! 🥚 |
+| [cursor/plugins](https://github.com/cursor/plugins) | 🔷 | Cursor plugin specification and official plugins |
 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 🔷 | local multi-agent harness |
-| [immich-app/immich](https://github.com/immich-app/immich) | 🔷 | High performance self-hosted photo and video management solution. |
-| [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) | 🔷 |  |
+| [makeplane/plane](https://github.com/makeplane/plane) | 🔷 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-20.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-21](./2026/2026-08-21.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | [career-ops](https://github.com/santifer/career-ops) | [substrate](https://github.com/agent-substrate/substrate) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [plugins](https://github.com/cursor/plugins) |
 | [2026-08-20](./2026/2026-08-20.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | [career-ops](https://github.com/santifer/career-ops) | [new-api](https://github.com/QuantumNous/new-api) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [munder-difflin](https://github.com/chaitanyagiri/munder-difflin) |
 | [2026-08-19](./2026/2026-08-19.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [ai-memory](https://github.com/akitaonrails/ai-memory) | [career-ops](https://github.com/santifer/career-ops) | [multica](https://github.com/multica-ai/multica) | [openhaystack](https://github.com/seemoo-lab/openhaystack) | [munder-difflin](https://github.com/chaitanyagiri/munder-difflin) |
 | [2026-08-18](./2026/2026-08-18.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | [career-ops](https://github.com/santifer/career-ops) | [trivy](https://github.com/aquasecurity/trivy) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [immich](https://github.com/immich-app/immich) |
 | [2026-08-17](./2026/2026-08-17.md) | [unsloth](https://github.com/unslothai/unsloth) | [koharu](https://github.com/mayocream/koharu) | [ToolJet](https://github.com/ToolJet/ToolJet) | [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [cordis](https://github.com/cordiverse/cordis) |
 | [2026-08-16](./2026/2026-08-16.md) | [needle](https://github.com/cactus-compute/needle) | [gpui-component](https://github.com/longbridge/gpui-component) | [ToolJet](https://github.com/ToolJet/ToolJet) | [agentsview](https://github.com/kenn-io/agentsview) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [cordis](https://github.com/cordiverse/cordis) |
 | [2026-08-15](./2026/2026-08-15.md) | [needle](https://github.com/cactus-compute/needle) | [macro](https://github.com/macro-inc/macro) | [ego-lite](https://github.com/citrolabs/ego-lite) | [ragflow](https://github.com/infiniflow/ragflow) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [holaOS](https://github.com/holaboss-ai/holaOS) |
-| [2026-08-14](./2026/2026-08-14.md) | [semantica](https://github.com/semantica-agi/semantica) | [macro](https://github.com/macro-inc/macro) | [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | [ragflow](https://github.com/infiniflow/ragflow) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [holaOS](https://github.com/holaboss-ai/holaOS) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -58,9 +58,9 @@ _Most days on trending, all time_
 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1490 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
-| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1338 |
+| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1339 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1254 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1255 |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1248 |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) | 🐍 | 2026-08-20 | Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely |
-| [youssofal/MTPLX](https://github.com/youssofal/MTPLX) | 🐍 | 2026-08-20 | 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter. |
-| [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 🐍 | 2026-08-20 | Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes. |
-| [amadeusprotocol/node](https://github.com/amadeusprotocol/node) | 🦀 | 2026-08-20 |  |
-| [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) | ⚡ | 2026-08-20 | LTX Director and a variety of other custom ComfyUI nodes and workflows |
-| [google/sam](https://github.com/google/sam) | 🐹 | 2026-08-20 | SAM Sovereign Agent Mesh |
-| [ongridio/ongrid](https://github.com/ongridio/ongrid) | 🐹 | 2026-08-20 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. |
-| [dedene/zentty](https://github.com/dedene/zentty) | 🍎 | 2026-08-20 | A native macOS terminal for agent-driven development, built on Ghostty. |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 🍎 | 2026-08-20 | AI that sees your screen, listens to your conversations and tells you what to do |
-| [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) | 🔷 | 2026-08-20 | A free and open source instant messaging and VoIP chat app built for friends, groups, and communities. |
+| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 🐍 | 2026-08-21 | Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. |
+| [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) | 🦀 | 2026-08-21 | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 |
+| [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | ⚡ | 2026-08-21 | An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. |
+| [autonomous-ai/autonomous-os](https://github.com/autonomous-ai/autonomous-os) | 🐹 | 2026-08-21 | The open-source operating system for robots — install it and your robot comes alive |
+| [adidshaft/atria](https://github.com/adidshaft/atria) | 🍎 | 2026-08-21 | Free local WHOOP strap companion: iOS app and BLE toolkit for local-only strap usage. |
+| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 🔷 | 2026-08-21 | Open source agent with local models built in. Fully private and offline. Works out of the box on any hardware. |
+| [apache/maka](https://github.com/apache/maka) | 🔷 | 2026-08-21 | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
+| [cline/cline](https://github.com/cline/cline) | 🔷 | 2026-08-21 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. |
+| [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | 🔷 | 2026-08-21 | BookOrbit: Your Reading Space |
+| [foru17/neko-master](https://github.com/foru17/neko-master) | 🔷 | 2026-08-21 | A modern and elegant dashboard for network traffic visualization and analysis. |
 
 ---
 
