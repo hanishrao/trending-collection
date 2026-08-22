@@ -4,41 +4,56 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 21 Aug 2026 02:58:17 GMT</pubDate>
+  <pubDate>Sat, 22 Aug 2026 02:50:15 GMT</pubDate>
+  <item>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+  </item>
+  <item>
+    <title>microsoft / onnxruntime</title>
+    <link>https://github.com/microsoft/onnxruntime</link>
+    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
+  </item>
   <item>
     <title>google / flatbuffers</title>
     <link>https://github.com/google/flatbuffers</link>
     <description>FlatBuffers: Memory Efficient Serialization Library</description>
   </item>
   <item>
-    <title>google / googletest</title>
-    <link>https://github.com/google/googletest</link>
-    <description>GoogleTest - Google Testing and Mocking Framework</description>
+    <title>esphome / esphome</title>
+    <link>https://github.com/esphome/esphome</link>
+    <description>ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.</description>
   </item>
   <item>
-    <title>grpc / grpc</title>
-    <link>https://github.com/grpc/grpc</link>
-    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
+    <title>tesseract-ocr / tesseract</title>
+    <link>https://github.com/tesseract-ocr/tesseract</link>
+    <description>Tesseract Open Source OCR Engine (main repository)</description>
   </item>
   <item>
-    <title>duckdb / duckdb</title>
-    <link>https://github.com/duckdb/duckdb</link>
-    <description>DuckDB is an analytical in-process SQL database management system</description>
+    <title>envoyproxy / envoy</title>
+    <link>https://github.com/envoyproxy/envoy</link>
+    <description>Cloud-native high-performance edge/middle/service proxy</description>
   </item>
   <item>
-    <title>facebookresearch / faiss</title>
-    <link>https://github.com/facebookresearch/faiss</link>
-    <description>A library for efficient similarity search and clustering of dense vectors.</description>
+    <title>78 / xiaozhi-esp32</title>
+    <link>https://github.com/78/xiaozhi-esp32</link>
+    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
   </item>
   <item>
-    <title>opencv / opencv</title>
-    <link>https://github.com/opencv/opencv</link>
-    <description>Open Source Computer Vision Library</description>
+    <title>ggml-org / llama.cpp</title>
+    <link>https://github.com/ggml-org/llama.cpp</link>
+    <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
+    <title>openvinotoolkit / openvino</title>
+    <link>https://github.com/openvinotoolkit/openvino</link>
+    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
+  </item>
+  <item>
+    <title>OpenHD / OpenHD</title>
+    <link>https://github.com/OpenHD/OpenHD</link>
+    <description>OpenHD</description>
   </item>
   <item>
     <title>flyinghead / flycast</title>
@@ -46,14 +61,9 @@
     <description>Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator</description>
   </item>
   <item>
-    <title>jrouwe / JoltPhysics</title>
-    <link>https://github.com/jrouwe/JoltPhysics</link>
-    <description>A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.</description>
-  </item>
-  <item>
-    <title>ai-dynamo / nixl</title>
-    <link>https://github.com/ai-dynamo/nixl</link>
-    <description>NVIDIA Inference Xfer Library (NIXL)</description>
+    <title>k2-fsa / sherpa-onnx</title>
+    <link>https://github.com/k2-fsa/sherpa-onnx</link>
+    <description>Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages</description>
   </item>
   <item>
     <title>ROCm / rocm-systems</title>
@@ -61,49 +71,59 @@
     <description>super repo for rocm systems projects</description>
   </item>
   <item>
-    <title>gabime / spdlog</title>
-    <link>https://github.com/gabime/spdlog</link>
-    <description>Fast C++ logging library.</description>
+    <title>grpc / grpc</title>
+    <link>https://github.com/grpc/grpc</link>
+    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
   </item>
   <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+    <title>Fincept-Corporation / FinceptTerminal</title>
+    <link>https://github.com/Fincept-Corporation/FinceptTerminal</link>
+    <description>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.</description>
   </item>
   <item>
-    <title>simdjson / simdjson</title>
-    <link>https://github.com/simdjson/simdjson</link>
-    <description>Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks</description>
+    <title>ROCm / FastFlowLM</title>
+    <link>https://github.com/ROCm/FastFlowLM</link>
+    <description>Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.</description>
   </item>
   <item>
-    <title>gcc-mirror / gcc</title>
-    <link>https://github.com/gcc-mirror/gcc</link>
-    <description></description>
+    <title>meshtastic / firmware</title>
+    <link>https://github.com/meshtastic/firmware</link>
+    <description>The official firmware for Meshtastic, an open-source, off-grid mesh communication system.</description>
   </item>
   <item>
-    <title>wesnoth / wesnoth</title>
-    <link>https://github.com/wesnoth/wesnoth</link>
-    <description>An open source, turn-based strategy game with a high fantasy theme.</description>
+    <title>project-chip / connectedhomeip</title>
+    <link>https://github.com/project-chip/connectedhomeip</link>
+    <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
   </item>
   <item>
-    <title>shadps4-emu / shadPS4</title>
-    <link>https://github.com/shadps4-emu/shadPS4</link>
-    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
+    <title>amnezia-vpn / amnezia-client</title>
+    <link>https://github.com/amnezia-vpn/amnezia-client</link>
+    <description>Amnezia VPN Client (Desktop+Mobile)</description>
   </item>
   <item>
-    <title>ocornut / imgui</title>
-    <link>https://github.com/ocornut/imgui</link>
-    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>microsoft / WSL</title>
-    <link>https://github.com/microsoft/WSL</link>
-    <description>Windows Subsystem for Linux</description>
+    <title>YimMenu / YimMenuV2</title>
+    <link>https://github.com/YimMenu/YimMenuV2</link>
+    <description>Experimental menu for GTA 5: Enhanced</description>
   </item>
   <item>
-    <title>apache / brpc</title>
-    <link>https://github.com/apache/brpc</link>
-    <description>brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. &quot;brpc&quot; means &quot;better RPC&quot;.</description>
+    <title>dmlc / xgboost</title>
+    <link>https://github.com/dmlc/xgboost</link>
+    <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</description>
+  </item>
+  <item>
+    <title>MrNeRF / LichtFeld-Studio</title>
+    <link>https://github.com/MrNeRF/LichtFeld-Studio</link>
+    <description>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</description>
+  </item>
+  <item>
+    <title>charlie12345 / ROCmFPX</title>
+    <link>https://github.com/charlie12345/ROCmFPX</link>
+    <description>ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants</description>
   </item>
 </channel>
 </rss>

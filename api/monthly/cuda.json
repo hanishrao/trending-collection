@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 03:01:33 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:54:35 GMT",
   "items": [
     {
       "title": "thu-ml / SageAttention",
@@ -10,9 +10,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3660,
-      "forks": 484,
-      "added_stars": "173 stars this month"
+      "stars": 3662,
+      "forks": 485,
+      "added_stars": "172 stars this month"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -20,9 +20,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10043,
-      "forks": 1395,
-      "added_stars": "194 stars this month"
+      "stars": 10048,
+      "forks": 1396,
+      "added_stars": "196 stars this month"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -30,9 +30,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7713,
-      "forks": 1188,
-      "added_stars": "183 stars this month"
+      "stars": 7718,
+      "forks": 1193,
+      "added_stars": "187 stars this month"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -40,9 +40,9 @@
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1312,
+      "stars": 1313,
       "forks": 260,
-      "added_stars": "31 stars this month"
+      "added_stars": "32 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -51,8 +51,38 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 838,
-      "forks": 222,
+      "forks": 223,
       "added_stars": "22 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1021,
+      "forks": 221,
+      "added_stars": "47 stars this month"
+    },
+    {
+      "title": "BBuf / how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3209,
+      "forks": 290,
+      "added_stars": "71 stars this month"
+    },
+    {
+      "title": "rapidsai / cugraph",
+      "url": "https://github.com/rapidsai/cugraph",
+      "description": "cuGraph - RAPIDS Graph Analytics Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2222,
+      "forks": 364,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -62,37 +92,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1628,
       "forks": 398,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1020,
-      "forks": 220,
-      "added_stars": "45 stars this month"
-    },
-    {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3207,
-      "forks": 290,
-      "added_stars": "70 stars this month"
-    },
-    {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 17523,
-      "forks": 2066,
-      "added_stars": "40 stars this month"
+      "added_stars": "32 stars this month"
     },
     {
       "title": "karpathy / llm.c",
@@ -100,9 +100,19 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30841,
+      "stars": 30844,
       "forks": 3738,
-      "added_stars": "280 stars this month"
+      "added_stars": "275 stars this month"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17527,
+      "forks": 2066,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "HazyResearch / ThunderKittens",
@@ -112,7 +122,7 @@
       "languageColor": "#3A4E3A",
       "stars": 3640,
       "forks": 318,
-      "added_stars": "90 stars this month"
+      "added_stars": "86 stars this month"
     },
     {
       "title": "mirage-project / mirage",
@@ -120,9 +130,19 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2436,
+      "stars": 2441,
       "forks": 239,
-      "added_stars": "61 stars this month"
+      "added_stars": "65 stars this month"
+    },
+    {
+      "title": "NVIDIA / cudf-spark-jni",
+      "url": "https://github.com/NVIDIA/cudf-spark-jni",
+      "description": "NVIDIA cuDF plugin JNI For Apache Spark",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 63,
+      "forks": 91,
+      "added_stars": "2 stars this month"
     }
   ]
 }

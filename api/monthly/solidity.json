@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 03:01:33 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:54:35 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -11,8 +11,18 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 27223,
-      "forks": 12398,
-      "added_stars": "71 stars this month"
+      "forks": 12399,
+      "added_stars": "70 stars this month"
+    },
+    {
+      "title": "1inch / swap-vm",
+      "url": "https://github.com/1inch/swap-vm",
+      "description": "",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 34,
+      "forks": 32,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "dapphub / ds-test",
@@ -31,18 +41,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 902,
-      "forks": 658,
+      "forks": 657,
       "added_stars": "7 stars this month"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 745,
-      "forks": 1031,
-      "added_stars": "13 stars this month"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -55,14 +55,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2527,
-      "forks": 1310,
-      "added_stars": "9 stars this month"
+      "stars": 746,
+      "forks": 1033,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "PaulRBerg / prb-math",
@@ -70,7 +70,7 @@
       "description": "Solidity library for advanced fixed-point math",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1006,
+      "stars": 1005,
       "forks": 145,
       "added_stars": "3 stars this month"
     },
@@ -80,9 +80,49 @@
       "description": "0x settlement contracts using Permit2",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 108,
+      "stars": 107,
       "forks": 72,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2526,
+      "forks": 1310,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "coinbase / build-onchain-apps",
+      "url": "https://github.com/coinbase/build-onchain-apps",
+      "description": "Accelerate your onchain creativity with the Build Onchain Apps Template. ⛵️",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 751,
+      "forks": 150,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "coinbase / smart-wallet",
+      "url": "https://github.com/coinbase/smart-wallet",
+      "description": "",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 485,
+      "forks": 175,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "Arachnid / solidity-stringutils",
+      "url": "https://github.com/Arachnid/solidity-stringutils",
+      "description": "Basic string utilities for Solidity",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1154,
+      "forks": 371,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "Uniswap / v2-periphery",
@@ -101,27 +141,17 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 199,
-      "forks": 118,
-      "added_stars": "11 stars this month"
+      "forks": 120,
+      "added_stars": "10 stars this month"
     },
     {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 947,
-      "forks": 294,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "Arachnid / solidity-stringutils",
-      "url": "https://github.com/Arachnid/solidity-stringutils",
-      "description": "Basic string utilities for Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1154,
-      "forks": 371,
+      "stars": 562,
+      "forks": 113,
       "added_stars": "2 stars this month"
     },
     {
@@ -130,29 +160,9 @@
       "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1054,
+      "stars": 1053,
       "forks": 516,
       "added_stars": "6 stars this month"
-    },
-    {
-      "title": "tempoxyz / tempo-std",
-      "url": "https://github.com/tempoxyz/tempo-std",
-      "description": "A collection of helpful contracts and libraries for use with Tempo for Foundry",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 63,
-      "forks": 29,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4287,
-      "forks": 706,
-      "added_stars": "7 stars this month"
     }
   ]
 }

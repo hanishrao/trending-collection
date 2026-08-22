@@ -2,17 +2,17 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 03:00:24 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:52:24 GMT",
   "items": [
     {
-      "title": "prometheus-operator / kube-prometheus",
-      "url": "https://github.com/prometheus-operator/kube-prometheus",
-      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "title": "kubernetes-monitoring / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": 7719,
-      "forks": 2046,
-      "added_stars": "4 stars this week"
+      "stars": 2438,
+      "forks": 644,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "argoproj / argocd-example-apps",
@@ -21,8 +21,18 @@
       "language": "Jsonnet",
       "languageColor": "#0064bd",
       "stars": 2160,
-      "forks": 10223,
-      "added_stars": "4 stars this week"
+      "forks": 10224,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "prometheus-operator / kube-prometheus",
+      "url": "https://github.com/prometheus-operator/kube-prometheus",
+      "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 7718,
+      "forks": 2046,
+      "added_stars": "3 stars this week"
     }
   ]
 }

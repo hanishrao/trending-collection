@@ -2,37 +2,37 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 03:00:24 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:52:24 GMT",
   "items": [
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7713,
-      "forks": 1188,
-      "added_stars": "47 stars this week"
-    },
     {
       "title": "deepseek-ai / DeepEP",
       "url": "https://github.com/deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10043,
-      "forks": 1395,
-      "added_stars": "65 stars this week"
+      "stars": 10048,
+      "forks": 1396,
+      "added_stars": "67 stars this week"
     },
     {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3660,
-      "forks": 484,
-      "added_stars": "29 stars this week"
+      "stars": 7718,
+      "forks": 1193,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1628,
+      "forks": 398,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -40,9 +40,19 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1020,
-      "forks": 220,
+      "stars": 1021,
+      "forks": 221,
       "added_stars": "16 stars this week"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30844,
+      "forks": 3738,
+      "added_stars": "51 stars this week"
     },
     {
       "title": "NVIDIA / cub",
@@ -55,44 +65,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1628,
-      "forks": 398,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2436,
-      "forks": 239,
-      "added_stars": "12 stars this week"
-    },
-    {
       "title": "NVlabs / instant-ngp",
       "url": "https://github.com/NVlabs/instant-ngp",
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17523,
+      "stars": 17527,
       "forks": 2066,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1312,
-      "forks": 260,
-      "added_stars": "10 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "NVIDIA / nvbench",
@@ -105,14 +85,14 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30841,
-      "forks": 3738,
-      "added_stars": "59 stars this week"
+      "stars": 3662,
+      "forks": 485,
+      "added_stars": "26 stars this week"
     }
   ]
 }

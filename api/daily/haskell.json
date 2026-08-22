@@ -2,37 +2,47 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
   "items": [
-    {
-      "title": "therepanic / openleetcode",
-      "url": "https://github.com/therepanic/openleetcode",
-      "description": "we have democratized the LeetCode tests",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 162,
-      "forks": 5,
-      "added_stars": "6 stars today"
-    },
     {
       "title": "jgm / pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 45959,
+      "stars": 45966,
       "forks": 3950,
-      "added_stars": "20 stars today"
+      "added_stars": "11 stars today"
     },
     {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1588,
-      "forks": 66,
-      "added_stars": "4 stars today"
+      "stars": 27617,
+      "forks": 1227,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19290,
+      "forks": 1350,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "simonmichael / hledger",
+      "url": "https://github.com/simonmichael/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4659,
+      "forks": 407,
+      "added_stars": "5 stars today"
     },
     {
       "title": "hadolint / hadolint",
@@ -40,9 +50,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12366,
+      "stars": 12368,
       "forks": 503,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "koalaman / shellcheck",
@@ -51,38 +61,58 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 39905,
-      "forks": 1942,
+      "forks": 1941,
       "added_stars": "6 stars today"
     },
     {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19287,
-      "forks": 1351,
-      "added_stars": "13 stars today"
+      "stars": 1591,
+      "forks": 66,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27615,
-      "forks": 1227,
-      "added_stars": "7 stars today"
+      "stars": 1745,
+      "forks": 747,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "simonmichael / hledger",
-      "url": "https://github.com/simonmichael/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4655,
-      "forks": 407,
-      "added_stars": "15 stars today"
+      "stars": 2916,
+      "forks": 424,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2951,
+      "forks": 451,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3176,
+      "forks": 755,
+      "added_stars": "0 stars today"
     }
   ]
 }

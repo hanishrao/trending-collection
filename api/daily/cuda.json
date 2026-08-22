@@ -2,26 +2,36 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
   "items": [
     {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30841,
-      "forks": 3738,
-      "added_stars": "10 stars today"
+      "stars": 10048,
+      "forks": 1396,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "MoonshotAI / FlashKDA",
-      "url": "https://github.com/MoonshotAI/FlashKDA",
-      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1223,
-      "forks": 118,
+      "stars": 1021,
+      "forks": 221,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3662,
+      "forks": 485,
       "added_stars": "2 stars today"
     },
     {
@@ -32,47 +42,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1628,
       "forks": 398,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1312,
-      "forks": 260,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1020,
-      "forks": 220,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3640,
-      "forks": 318,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10043,
-      "forks": 1395,
-      "added_stars": "9 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "NVIDIA / cub",
@@ -82,7 +52,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1842,
       "forks": 464,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -90,9 +60,29 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17523,
+      "stars": 17527,
       "forks": 2066,
-      "added_stars": "2 stars today"
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30844,
+      "forks": 3738,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "CannyLab / tsne-cuda",
+      "url": "https://github.com/CannyLab/tsne-cuda",
+      "description": "GPU Accelerated t-SNE for CUDA with Python bindings",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1956,
+      "forks": 138,
+      "added_stars": "1 star today"
     }
   ]
 }

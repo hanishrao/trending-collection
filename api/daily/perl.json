@@ -2,16 +2,36 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
   "items": [
     {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2611,
-      "forks": 166,
+      "stars": 23456,
+      "forks": 1121,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19686,
+      "forks": 2106,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2317,
+      "forks": 641,
       "added_stars": "1 star today"
     },
     {
@@ -20,28 +40,18 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 475,
+      "stars": 476,
       "forks": 118,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23450,
-      "forks": 1121,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19685,
-      "forks": 2104,
+      "stars": 4969,
+      "forks": 472,
       "added_stars": "3 stars today"
     },
     {
@@ -55,6 +65,46 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1670,
+      "forks": 322,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1510,
+      "forks": 1213,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "digint / btrbk",
+      "url": "https://github.com/digint/btrbk",
+      "description": "Tool for creating snapshots and remote backups of btrfs subvolumes",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2140,
+      "forks": 137,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "htrgouvea / nipe",
+      "url": "https://github.com/htrgouvea/nipe",
+      "description": "An engine to make Tor network your default gateway",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2386,
+      "forks": 340,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "fusioninventory / fusioninventory-agent",
       "url": "https://github.com/fusioninventory/fusioninventory-agent",
       "description": "FusionInventory Agent",
@@ -65,24 +115,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "inverse-inc / packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1669,
-      "forks": 322,
+      "stars": 3392,
+      "forks": 378,
       "added_stars": "1 star today"
     },
     {
-      "title": "manwar / perlweeklychallenge-club",
-      "url": "https://github.com/manwar/perlweeklychallenge-club",
-      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
+      "title": "szTheory / exifcleaner",
+      "url": "https://github.com/szTheory/exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 219,
-      "forks": 353,
-      "added_stars": "0 stars today"
+      "stars": 2620,
+      "forks": 166,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "mrash / fwknop",
+      "url": "https://github.com/mrash/fwknop",
+      "description": "Single Packet Authorization > Port Knocking",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1430,
+      "forks": 254,
+      "added_stars": "12 stars today"
     }
   ]
 }

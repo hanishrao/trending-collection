@@ -2,77 +2,107 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
   "items": [
+    {
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 71775,
+      "forks": 16236,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "microsoft / onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21472,
+      "forks": 4151,
+      "added_stars": "5 stars today"
+    },
     {
       "title": "google / flatbuffers",
       "url": "https://github.com/google/flatbuffers",
       "description": "FlatBuffers: Memory Efficient Serialization Library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 26364,
-      "forks": 3624,
-      "added_stars": "17 stars today"
+      "stars": 26386,
+      "forks": 3625,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "title": "esphome / esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 38941,
-      "forks": 10849,
-      "added_stars": "9 stars today"
+      "stars": 11574,
+      "forks": 5564,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "grpc / grpc",
-      "url": "https://github.com/grpc/grpc",
-      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "title": "tesseract-ocr / tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 45232,
-      "forks": 11362,
+      "stars": 76096,
+      "forks": 10767,
+      "added_stars": "48 stars today"
+    },
+    {
+      "title": "envoyproxy / envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28808,
+      "forks": 5568,
       "added_stars": "3 stars today"
     },
     {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
+      "title": "78 / xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40481,
-      "forks": 3589,
-      "added_stars": "33 stars today"
+      "stars": 29071,
+      "forks": 6708,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "facebookresearch / faiss",
-      "url": "https://github.com/facebookresearch/faiss",
-      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40779,
-      "forks": 4499,
-      "added_stars": "8 stars today"
+      "stars": 125063,
+      "forks": 22004,
+      "added_stars": "169 stars today"
     },
     {
-      "title": "opencv / opencv",
-      "url": "https://github.com/opencv/opencv",
-      "description": "Open Source Computer Vision Library",
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 90527,
-      "forks": 56971,
-      "added_stars": "19 stars today"
+      "stars": 10691,
+      "forks": 3328,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
+      "title": "OpenHD / OpenHD",
+      "url": "https://github.com/OpenHD/OpenHD",
+      "description": "OpenHD",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50413,
-      "forks": 7468,
-      "added_stars": "10 stars today"
+      "stars": 2633,
+      "forks": 425,
+      "added_stars": "70 stars today"
     },
     {
       "title": "flyinghead / flycast",
@@ -80,29 +110,19 @@
       "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2470,
-      "forks": 312,
+      "stars": 2476,
+      "forks": 315,
       "added_stars": "10 stars today"
     },
     {
-      "title": "jrouwe / JoltPhysics",
-      "url": "https://github.com/jrouwe/JoltPhysics",
-      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "title": "k2-fsa / sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11395,
-      "forks": 966,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "ai-dynamo / nixl",
-      "url": "https://github.com/ai-dynamo/nixl",
-      "description": "NVIDIA Inference Xfer Library (NIXL)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1203,
-      "forks": 411,
-      "added_stars": "4 stars today"
+      "stars": 14311,
+      "forks": 1644,
+      "added_stars": "37 stars today"
     },
     {
       "title": "ROCm / rocm-systems",
@@ -110,99 +130,119 @@
       "description": "super repo for rocm systems projects",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 465,
-      "forks": 356,
-      "added_stars": "2 stars today"
+      "stars": 467,
+      "forks": 359,
+      "added_stars": "1 star today"
     },
     {
-      "title": "gabime / spdlog",
-      "url": "https://github.com/gabime/spdlog",
-      "description": "Fast C++ logging library.",
+      "title": "grpc / grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29508,
-      "forks": 5389,
-      "added_stars": "10 stars today"
+      "stars": 45239,
+      "forks": 11363,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
+      "title": "Fincept-Corporation / FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 71749,
-      "forks": 16234,
-      "added_stars": "9 stars today"
+      "stars": 30464,
+      "forks": 4307,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "simdjson / simdjson",
-      "url": "https://github.com/simdjson/simdjson",
-      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "title": "ROCm / FastFlowLM",
+      "url": "https://github.com/ROCm/FastFlowLM",
+      "description": "Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 24164,
-      "forks": 1274,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "gcc-mirror / gcc",
-      "url": "https://github.com/gcc-mirror/gcc",
-      "description": "",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11175,
-      "forks": 4812,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "wesnoth / wesnoth",
-      "url": "https://github.com/wesnoth/wesnoth",
-      "description": "An open source, turn-based strategy game with a high fantasy theme.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6839,
-      "forks": 1228,
+      "stars": 1784,
+      "forks": 142,
       "added_stars": "4 stars today"
     },
     {
-      "title": "shadps4-emu / shadPS4",
-      "url": "https://github.com/shadps4-emu/shadPS4",
-      "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+      "title": "meshtastic / firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32587,
-      "forks": 2449,
-      "added_stars": "20 stars today"
+      "stars": 8172,
+      "forks": 2663,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "ocornut / imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "title": "project-chip / connectedhomeip",
+      "url": "https://github.com/project-chip/connectedhomeip",
+      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 75760,
-      "forks": 12019,
-      "added_stars": "23 stars today"
+      "stars": 8881,
+      "forks": 2456,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "microsoft / WSL",
-      "url": "https://github.com/microsoft/WSL",
-      "description": "Windows Subsystem for Linux",
+      "title": "amnezia-vpn / amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33463,
-      "forks": 1807,
+      "stars": 14569,
+      "forks": 1090,
       "added_stars": "14 stars today"
     },
     {
-      "title": "apache / brpc",
-      "url": "https://github.com/apache/brpc",
-      "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "title": "godotengine / godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17586,
-      "forks": 4135,
-      "added_stars": "1 star today"
+      "stars": 115965,
+      "forks": 26432,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "YimMenu / YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1664,
+      "forks": 380,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "dmlc / xgboost",
+      "url": "https://github.com/dmlc/xgboost",
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28686,
+      "forks": 8887,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "MrNeRF / LichtFeld-Studio",
+      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
+      "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3562,
+      "forks": 429,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "charlie12345 / ROCmFPX",
+      "url": "https://github.com/charlie12345/ROCmFPX",
+      "description": "ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 309,
+      "forks": 46,
+      "added_stars": "7 stars today"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 21 Aug 2026 02:58:17 GMT",
+  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
   "items": [
+    {
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 12327,
+      "forks": 3277,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "emqx / emqx",
       "url": "https://github.com/emqx/emqx",
@@ -12,7 +22,27 @@
       "languageColor": "#B83998",
       "stars": 16646,
       "forks": 2545,
-      "added_stars": "5 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7525,
+      "forks": 1169,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6939,
+      "forks": 1076,
+      "added_stars": "1 star today"
     },
     {
       "title": "blt / port_compiler",
@@ -45,24 +75,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ninenines / cowboy",
-      "url": "https://github.com/ninenines/cowboy",
-      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 7525,
-      "forks": 1169,
-      "added_stars": "2 stars today"
-    },
-    {
       "title": "processone / ejabberd",
       "url": "https://github.com/processone/ejabberd",
       "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 6717,
+      "stars": 6719,
       "forks": 1547,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     }
   ]
 }
