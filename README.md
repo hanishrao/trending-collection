@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3414-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3415-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-08-22
-_Top 3 per language · [view full day →](./2026/2026-08-22.md)_
+## 🔥 Today's Trending — 2026-08-23
+_Top 3 per language · [view full day →](./2026/2026-08-23.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 🐍 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🐍 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🐍 | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
-| [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | 🐍 | OBLITERATE THE CHAINS THAT BIND YOU |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | 🐍 | A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. |
+| [openai/codex](https://github.com/openai/codex) | 🦀 | Lightweight coding agent that runs in your terminal |
 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 🦀 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 🦀 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 🦀 | Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | ⚡ | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 🦀 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | ⚡ | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | ⚡ | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🐹 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 🐹 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🐹 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
 | [apple/container](https://github.com/apple/container) | 🍎 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🍎 | Free and open-source macOS menu bar toolkit. |
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 🍎 | Elegant HTTP Networking in Swift |
+| [swiftlang/swift](https://github.com/swiftlang/swift) | 🍎 | The Swift Programming Language |
+| [makeplane/plane](https://github.com/makeplane/plane) | 🔷 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 🔷 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 | [cursor/plugins](https://github.com/cursor/plugins) | 🔷 | Cursor plugin specification and official plugins |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🔷 | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
-| [apache/maka](https://github.com/apache/maka) | 🔷 | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-08-22.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-08-23](./2026/2026-08-23.md) | [claude-code](https://github.com/anthropics/claude-code) | [codex](https://github.com/openai/codex) | [ECC](https://github.com/affaan-m/ECC) | [sub2api](https://github.com/Wei-Shaw/sub2api) | [container](https://github.com/apple/container) | [plane](https://github.com/makeplane/plane) |
 | [2026-08-22](./2026/2026-08-22.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | [career-ops](https://github.com/santifer/career-ops) | [TypeScript](https://github.com/microsoft/TypeScript) | [container](https://github.com/apple/container) | [plugins](https://github.com/cursor/plugins) |
 | [2026-08-21](./2026/2026-08-21.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | [career-ops](https://github.com/santifer/career-ops) | [substrate](https://github.com/agent-substrate/substrate) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [plugins](https://github.com/cursor/plugins) |
 | [2026-08-20](./2026/2026-08-20.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | [career-ops](https://github.com/santifer/career-ops) | [new-api](https://github.com/QuantumNous/new-api) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [munder-difflin](https://github.com/chaitanyagiri/munder-difflin) |
 | [2026-08-19](./2026/2026-08-19.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [ai-memory](https://github.com/akitaonrails/ai-memory) | [career-ops](https://github.com/santifer/career-ops) | [multica](https://github.com/multica-ai/multica) | [openhaystack](https://github.com/seemoo-lab/openhaystack) | [munder-difflin](https://github.com/chaitanyagiri/munder-difflin) |
 | [2026-08-18](./2026/2026-08-18.md) | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | [career-ops](https://github.com/santifer/career-ops) | [trivy](https://github.com/aquasecurity/trivy) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [immich](https://github.com/immich-app/immich) |
 | [2026-08-17](./2026/2026-08-17.md) | [unsloth](https://github.com/unslothai/unsloth) | [koharu](https://github.com/mayocream/koharu) | [ToolJet](https://github.com/ToolJet/ToolJet) | [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [cordis](https://github.com/cordiverse/cordis) |
-| [2026-08-16](./2026/2026-08-16.md) | [needle](https://github.com/cactus-compute/needle) | [gpui-component](https://github.com/longbridge/gpui-component) | [ToolJet](https://github.com/ToolJet/ToolJet) | [agentsview](https://github.com/kenn-io/agentsview) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [cordis](https://github.com/cordiverse/cordis) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -52,7 +52,7 @@ _Most days on trending, all time_
 
 | Repository | Days on Trending |
 |---|---|
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2239 |
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2240 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2014 |
 | [vapor/vapor](https://github.com/vapor/vapor) | 1729 |
 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1490 |
@@ -60,7 +60,7 @@ _Most days on trending, all time_
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1339 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1256 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1257 |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1248 |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [forcedotcom/sf-skills](https://github.com/forcedotcom/sf-skills) | 🐍 | 2026-08-22 | Salesforce's curated collection of agent skills for building applications. Optimized for Agentforce Vibes, compatible with all AI tools. |
-| [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) | 🦀 | 2026-08-22 | Developer Control Plane for your AI Agents |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⚡ | 2026-08-22 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| [verback2308/Opaline](https://github.com/verback2308/Opaline) | 🍎 | 2026-08-22 | A lightweight, privacy-focused YouTube client for iOS built entirely with UIKit. No ads, no tracking, no dependencies. |
-| [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis) | 🔷 | 2026-08-22 | 📚 Lista de libros sobre programación en Español y gratis |
-| [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) | 🔷 | 2026-08-22 | It's like Hermes Agent & OpenClaw but designed to work nicely with teams. |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 🔷 | 2026-08-22 | 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
-| [vitejs/vite](https://github.com/vitejs/vite) | 🔷 | 2026-08-22 | Next generation frontend tooling. It's fast! |
-| [Osmantic/ODS](https://github.com/Osmantic/ODS) | 🐍 | 2026-08-21 | Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. |
-| [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) | 🦀 | 2026-08-21 | 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 |
+| [shy3130/tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) | 🐍 | 2026-08-23 | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目 |
+| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 🐍 | 2026-08-23 | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🐍 | 2026-08-23 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | 🐍 | 2026-08-23 | Browser Harness | Self-healing harness that enables LLMs to complete any task. |
+| [us/crw](https://github.com/us/crw) | 🦀 | 2026-08-23 | Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than Tavily, 1.5x faster than Firecrawl in 1K-URL benchmarks. 6 MB RAM, single binary. Self-host or use managed cloud. |
+| [dbgate/dbgate](https://github.com/dbgate/dbgate) | ⚡ | 2026-08-23 | Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application |
+| [Augani/dory](https://github.com/Augani/dory) | 🍎 | 2026-08-23 | A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. |
+| [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | 🔷 | 2026-08-23 | Vane is an AI-powered answering engine. |
+| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 🔷 | 2026-08-23 | NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability. |
+| [TanStack/query](https://github.com/TanStack/query) | 🔷 | 2026-08-23 | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query. |
 
 ---
 

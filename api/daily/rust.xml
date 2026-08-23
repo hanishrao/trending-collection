@@ -4,21 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 22 Aug 2026 02:50:15 GMT</pubDate>
+  <pubDate>Sun, 23 Aug 2026 02:56:47 GMT</pubDate>
+  <item>
+    <title>openai / codex</title>
+    <link>https://github.com/openai/codex</link>
+    <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
   <item>
     <title>AprilNEA / OpenLogi</title>
     <link>https://github.com/AprilNEA/OpenLogi</link>
     <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</description>
-  </item>
-  <item>
-    <title>aaif-goose / goose</title>
-    <link>https://github.com/aaif-goose/goose</link>
-    <description>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</description>
-  </item>
-  <item>
-    <title>juspay / hyperswitch</title>
-    <link>https://github.com/juspay/hyperswitch</link>
-    <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
   </item>
   <item>
     <title>nautechsystems / nautilus_trader</title>
@@ -26,49 +21,54 @@
     <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
   </item>
   <item>
-    <title>oven-sh / bun</title>
-    <link>https://github.com/oven-sh/bun</link>
-    <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
-  </item>
-  <item>
-    <title>jj-vcs / jj</title>
-    <link>https://github.com/jj-vcs/jj</link>
-    <description>A Git-compatible VCS that is both simple and powerful</description>
-  </item>
-  <item>
-    <title>zed-industries / zed</title>
-    <link>https://github.com/zed-industries/zed</link>
-    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
-  </item>
-  <item>
-    <title>akitaonrails / ai-memory</title>
-    <link>https://github.com/akitaonrails/ai-memory</link>
-    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-  </item>
-  <item>
-    <title>Nasiko-Labs / nasiko</title>
-    <link>https://github.com/Nasiko-Labs/nasiko</link>
-    <description>Developer Control Plane for your AI Agents</description>
-  </item>
-  <item>
-    <title>ai-dynamo / dynamo</title>
-    <link>https://github.com/ai-dynamo/dynamo</link>
-    <description>A Datacenter Scale Distributed Inference Serving Framework</description>
-  </item>
-  <item>
     <title>tinyhumansai / openhuman</title>
     <link>https://github.com/tinyhumansai/openhuman</link>
     <description>Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.</description>
   </item>
   <item>
-    <title>RyanCodrai / turbovec</title>
-    <link>https://github.com/RyanCodrai/turbovec</link>
-    <description>A vector index built on TurboQuant, written in Rust with Python bindings</description>
+    <title>oven-sh / bun</title>
+    <link>https://github.com/oven-sh/bun</link>
+    <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
   </item>
   <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+  </item>
+  <item>
+    <title>aaif-goose / goose</title>
+    <link>https://github.com/aaif-goose/goose</link>
+    <description>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</description>
+  </item>
+  <item>
+    <title>rust-lang / cargo</title>
+    <link>https://github.com/rust-lang/cargo</link>
+    <description>The Rust package manager</description>
+  </item>
+  <item>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+  </item>
+  <item>
+    <title>block / buzz</title>
+    <link>https://github.com/block/buzz</link>
+    <description>A hive mind communication platform</description>
+  </item>
+  <item>
+    <title>pola-rs / polars</title>
+    <link>https://github.com/pola-rs/polars</link>
+    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
+  </item>
+  <item>
+    <title>sinelaw / fresh</title>
+    <link>https://github.com/sinelaw/fresh</link>
+    <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
+  </item>
+  <item>
+    <title>lancedb / lancedb</title>
+    <link>https://github.com/lancedb/lancedb</link>
+    <description>Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.</description>
   </item>
   <item>
     <title>zellij-org / zellij</title>
@@ -76,24 +76,29 @@
     <description>A terminal workspace with batteries included</description>
   </item>
   <item>
-    <title>vercel-labs / agent-browser</title>
-    <link>https://github.com/vercel-labs/agent-browser</link>
-    <description>Browser automation CLI for AI agents</description>
+    <title>windmill-labs / windmill</title>
+    <link>https://github.com/windmill-labs/windmill</link>
+    <description>Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</description>
   </item>
   <item>
-    <title>astral-sh / ruff</title>
-    <link>https://github.com/astral-sh/ruff</link>
-    <description>An extremely fast Python linter and code formatter, written in Rust.</description>
+    <title>starship / starship</title>
+    <link>https://github.com/starship/starship</link>
+    <description>☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</description>
   </item>
   <item>
-    <title>oxc-project / oxc</title>
-    <link>https://github.com/oxc-project/oxc</link>
-    <description>⚓ A collection of high-performance JavaScript tools.</description>
+    <title>clockworklabs / SpacetimeDB</title>
+    <link>https://github.com/clockworklabs/SpacetimeDB</link>
+    <description>Development at the speed of light</description>
   </item>
   <item>
-    <title>quickwit-oss / tantivy</title>
-    <link>https://github.com/quickwit-oss/tantivy</link>
-    <description>Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</description>
+    <title>spacedriveapp / spacedrive</title>
+    <link>https://github.com/spacedriveapp/spacedrive</link>
+    <description>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</description>
+  </item>
+  <item>
+    <title>us / crw</title>
+    <link>https://github.com/us/crw</link>
+    <description>Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler &amp; search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than Tavily, 1.5x faster than Firecrawl in 1K-URL benchmarks. 6 MB RAM, single binary. Self-host or use managed cloud.</description>
   </item>
 </channel>
 </rss>

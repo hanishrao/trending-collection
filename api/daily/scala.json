@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
+  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
   "items": [
     {
       "title": "apache / spark",
@@ -10,89 +10,19 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 43852,
+      "stars": 43860,
       "forks": 29341,
-      "added_stars": "5 stars today"
+      "added_stars": "10 stars today"
     },
     {
-      "title": "apache / kyuubi",
-      "url": "https://github.com/apache/kyuubi",
-      "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+      "title": "delta-io / delta",
+      "url": "https://github.com/delta-io/delta",
+      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 2359,
-      "forks": 1015,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "apache / gluten",
-      "url": "https://github.com/apache/gluten",
-      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 1588,
-      "forks": 644,
+      "stars": 8947,
+      "forks": 2158,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "canton-network / splice",
-      "url": "https://github.com/canton-network/splice",
-      "description": "Splice repository",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 112,
-      "forks": 113,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "playframework / playframework",
-      "url": "https://github.com/playframework/playframework",
-      "description": "The Community Maintained High Velocity Web Framework For Java and Scala.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 12619,
-      "forks": 4024,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "akka / akka-core",
-      "url": "https://github.com/akka/akka-core",
-      "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 13277,
-      "forks": 3538,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "lichess-org / lila",
-      "url": "https://github.com/lichess-org/lila",
-      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 18651,
-      "forks": 2766,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "scala / scala3",
-      "url": "https://github.com/scala/scala3",
-      "description": "The Scala 3 compiler, also known as Dotty.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 6292,
-      "forks": 1174,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "NVIDIA / cudf-spark",
-      "url": "https://github.com/NVIDIA/cudf-spark",
-      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 995,
-      "forks": 301,
-      "added_stars": "0 stars today"
     },
     {
       "title": "OpenXiangShan / XiangShan",
@@ -102,107 +32,17 @@
       "languageColor": "#c22d40",
       "stars": 7204,
       "forks": 934,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "TheHive-Project / TheHive",
-      "url": "https://github.com/TheHive-Project/TheHive",
-      "description": "TheHive is a Collaborative Case Management Platform, now distributed as a commercial version",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 3946,
-      "forks": 694,
       "added_stars": "1 star today"
     },
     {
-      "title": "apache / datafusion-comet",
-      "url": "https://github.com/apache/datafusion-comet",
-      "description": "Apache DataFusion Comet Spark Accelerator",
+      "title": "sbt / sbt",
+      "url": "https://github.com/sbt/sbt",
+      "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1253,
-      "forks": 353,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "gitbucket / gitbucket",
-      "url": "https://github.com/gitbucket/gitbucket",
-      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 9391,
-      "forks": 1267,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "gatling / gatling",
-      "url": "https://github.com/gatling/gatling",
-      "description": "Modern Load Testing as Code",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 6949,
-      "forks": 1205,
+      "stars": 4936,
+      "forks": 1043,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "delta-io / delta",
-      "url": "https://github.com/delta-io/delta",
-      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 8945,
-      "forks": 2157,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ucb-bar / berkeley-hardfloat",
-      "url": "https://github.com/ucb-bar/berkeley-hardfloat",
-      "description": "",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 389,
-      "forks": 111,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bitcoin-s / bitcoin-s",
-      "url": "https://github.com/bitcoin-s/bitcoin-s",
-      "description": "Bitcoin Implementation in Scala",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 381,
-      "forks": 104,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "chipsalliance / rocket-chip",
-      "url": "https://github.com/chipsalliance/rocket-chip",
-      "description": "Rocket Chip Generator",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 3848,
-      "forks": 1288,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "zio / zio",
-      "url": "https://github.com/zio/zio",
-      "description": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 4407,
-      "forks": 1586,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "twitter / the-algorithm",
-      "url": "https://github.com/twitter/the-algorithm",
-      "description": "Source code for the X Recommendation Algorithm",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 73860,
-      "forks": 13282,
-      "added_stars": "13 stars today"
     },
     {
       "title": "joernio / joern",
@@ -210,9 +50,109 @@
       "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 3437,
+      "stars": 3440,
       "forks": 442,
-      "added_stars": "3 stars today"
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "apache / gluten",
+      "url": "https://github.com/apache/gluten",
+      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1589,
+      "forks": 644,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "apache / kyuubi",
+      "url": "https://github.com/apache/kyuubi",
+      "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 2360,
+      "forks": 1015,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "canton-network / splice",
+      "url": "https://github.com/canton-network/splice",
+      "description": "Splice repository",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 113,
+      "forks": 113,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "gitbucket / gitbucket",
+      "url": "https://github.com/gitbucket/gitbucket",
+      "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 9392,
+      "forks": 1267,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "NVIDIA / cudf-spark",
+      "url": "https://github.com/NVIDIA/cudf-spark",
+      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 996,
+      "forks": 301,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bitcoin-s / bitcoin-s",
+      "url": "https://github.com/bitcoin-s/bitcoin-s",
+      "description": "Bitcoin Implementation in Scala",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 382,
+      "forks": 104,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "lichess-org / lila",
+      "url": "https://github.com/lichess-org/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 18655,
+      "forks": 2765,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "ucb-bar / berkeley-hardfloat",
+      "url": "https://github.com/ucb-bar/berkeley-hardfloat",
+      "description": "",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 390,
+      "forks": 111,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "gatling / gatling",
+      "url": "https://github.com/gatling/gatling",
+      "description": "Modern Load Testing as Code",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 6950,
+      "forks": 1205,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "apache / texera",
+      "url": "https://github.com/apache/texera",
+      "description": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 274,
+      "forks": 176,
+      "added_stars": "1 star today"
     }
   ]
 }

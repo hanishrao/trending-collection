@@ -2,37 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
+  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
   "items": [
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 113608,
+      "forks": 17383,
+      "added_stars": "1,544 stars today"
+    },
     {
       "title": "AprilNEA / OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13013,
-      "forks": 352,
-      "added_stars": "1,380 stars today"
-    },
-    {
-      "title": "aaif-goose / goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 53196,
-      "forks": 6066,
-      "added_stars": "113 stars today"
-    },
-    {
-      "title": "juspay / hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 43523,
-      "forks": 5100,
-      "added_stars": "9 stars today"
+      "stars": 14016,
+      "forks": 375,
+      "added_stars": "959 stars today"
     },
     {
       "title": "nautechsystems / nautilus_trader",
@@ -40,69 +30,9 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 27127,
-      "forks": 3506,
-      "added_stars": "300 stars today"
-    },
-    {
-      "title": "oven-sh / bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 95557,
-      "forks": 4987,
-      "added_stars": "89 stars today"
-    },
-    {
-      "title": "jj-vcs / jj",
-      "url": "https://github.com/jj-vcs/jj",
-      "description": "A Git-compatible VCS that is both simple and powerful",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31119,
-      "forks": 1180,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "zed-industries / zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 89023,
-      "forks": 10184,
-      "added_stars": "58 stars today"
-    },
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3955,
-      "forks": 298,
-      "added_stars": "467 stars today"
-    },
-    {
-      "title": "Nasiko-Labs / nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "Developer Control Plane for your AI Agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5333,
-      "forks": 1241,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7820,
-      "forks": 1472,
-      "added_stars": "7 stars today"
+      "stars": 27327,
+      "forks": 3531,
+      "added_stars": "324 stars today"
     },
     {
       "title": "tinyhumansai / openhuman",
@@ -110,29 +40,99 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36471,
-      "forks": 3647,
+      "stars": 36503,
+      "forks": 3656,
       "added_stars": "51 stars today"
     },
     {
-      "title": "RyanCodrai / turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "title": "oven-sh / bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16207,
-      "forks": 1402,
-      "added_stars": "350 stars today"
+      "stars": 95586,
+      "forks": 4986,
+      "added_stars": "50 stars today"
     },
     {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 111469,
-      "forks": 17119,
-      "added_stars": "4,159 stars today"
+      "stars": 65844,
+      "forks": 3123,
+      "added_stars": "68 stars today"
+    },
+    {
+      "title": "aaif-goose / goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 53266,
+      "forks": 6068,
+      "added_stars": "81 stars today"
+    },
+    {
+      "title": "rust-lang / cargo",
+      "url": "https://github.com/rust-lang/cargo",
+      "description": "The Rust package manager",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15414,
+      "forks": 3027,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31310,
+      "forks": 1399,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 29795,
+      "forks": 3789,
+      "added_stars": "564 stars today"
+    },
+    {
+      "title": "pola-rs / polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39446,
+      "forks": 3039,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "sinelaw / fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Terminal based IDE & text editor: easy, powerful and fast",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8447,
+      "forks": 313,
+      "added_stars": "47 stars today"
+    },
+    {
+      "title": "lancedb / lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11239,
+      "forks": 1022,
+      "added_stars": "11 stars today"
     },
     {
       "title": "zellij-org / zellij",
@@ -140,49 +140,59 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 35037,
-      "forks": 1398,
-      "added_stars": "28 stars today"
+      "stars": 35055,
+      "forks": 1402,
+      "added_stars": "19 stars today"
     },
     {
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
+      "title": "windmill-labs / windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 41103,
-      "forks": 2737,
-      "added_stars": "74 stars today"
+      "stars": 17623,
+      "forks": 1075,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "astral-sh / ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "title": "starship / starship",
+      "url": "https://github.com/starship/starship",
+      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 49266,
-      "forks": 2348,
+      "stars": 59547,
+      "forks": 2640,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "clockworklabs / SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25047,
+      "forks": 1045,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "spacedriveapp / spacedrive",
+      "url": "https://github.com/spacedriveapp/spacedrive",
+      "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 38822,
+      "forks": 1337,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "us / crw",
+      "url": "https://github.com/us/crw",
+      "description": "Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than Tavily, 1.5x faster than Firecrawl in 1K-URL benchmarks. 6 MB RAM, single binary. Self-host or use managed cloud.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 667,
+      "forks": 47,
       "added_stars": "20 stars today"
-    },
-    {
-      "title": "oxc-project / oxc",
-      "url": "https://github.com/oxc-project/oxc",
-      "description": "⚓ A collection of high-performance JavaScript tools.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22418,
-      "forks": 1221,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "quickwit-oss / tantivy",
-      "url": "https://github.com/quickwit-oss/tantivy",
-      "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15954,
-      "forks": 976,
-      "added_stars": "29 stars today"
     }
   ]
 }

@@ -2,177 +2,17 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
+  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
   "items": [
     {
-      "title": "quickjs-ng / quickjs",
-      "url": "https://github.com/quickjs-ng/quickjs",
-      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "title": "espressif / esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3627,
-      "forks": 353,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 67612,
-      "forks": 4288,
-      "added_stars": "260 stars today"
-    },
-    {
-      "title": "FreeRTOS / FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4429,
-      "forks": 1599,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16284,
-      "forks": 9803,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30672,
-      "forks": 11400,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "ImageMagick / ImageMagick",
-      "url": "https://github.com/ImageMagick/ImageMagick",
-      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17199,
-      "forks": 1639,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "Mbed-TLS / mbedtls",
-      "url": "https://github.com/Mbed-TLS/mbedtls",
-      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6894,
-      "forks": 2956,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14785,
-      "forks": 2495,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 24442,
-      "forks": 4309,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27593,
-      "forks": 2561,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "dorianborian / sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4024,
-      "forks": 550,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "eclipse-mosquitto / mosquitto",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "description": "Eclipse Mosquitto - An open source MQTT broker",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11146,
-      "forks": 2629,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "microsoft / mimalloc",
-      "url": "https://github.com/microsoft/mimalloc",
-      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13318,
-      "forks": 1161,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "fluent / fluent-bit",
-      "url": "https://github.com/fluent/fluent-bit",
-      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8055,
-      "forks": 1983,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "DaveGamble / cJSON",
-      "url": "https://github.com/DaveGamble/cJSON",
-      "description": "Ultralightweight JSON parser in ANSI C",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12934,
-      "forks": 3516,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "signalwire / freeswitch",
-      "url": "https://github.com/signalwire/freeswitch",
-      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5106,
-      "forks": 1836,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 62719,
-      "forks": 28270,
-      "added_stars": "31 stars today"
+      "stars": 18840,
+      "forks": 8442,
+      "added_stars": "10 stars today"
     },
     {
       "title": "php / php-src",
@@ -180,39 +20,219 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40307,
-      "forks": 8132,
-      "added_stars": "10 stars today"
+      "stars": 40312,
+      "forks": 8133,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "nrfconnect / sdk-nrf",
-      "url": "https://github.com/nrfconnect/sdk-nrf",
-      "description": "nRF Connect SDK main repository",
+      "title": "Mbed-TLS / mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1412,
-      "forks": 1571,
+      "stars": 6898,
+      "forks": 2957,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "madler / zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7041,
+      "forks": 2837,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16291,
+      "forks": 9805,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 137970,
+      "forks": 8497,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "tianocore / edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6205,
+      "forks": 3245,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 67706,
+      "forks": 4304,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "stackia / rtp2httpd",
+      "url": "https://github.com/stackia/rtp2httpd",
+      "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2009,
+      "forks": 309,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 30674,
+      "forks": 11401,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "DaveGamble / cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12937,
+      "forks": 3516,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "aws / s2n-tls",
+      "url": "https://github.com/aws/s2n-tls",
+      "description": "An implementation of the TLS/SSL protocols",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4753,
+      "forks": 798,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ventoy / Ventoy",
-      "url": "https://github.com/ventoy/Ventoy",
-      "description": "A new bootable USB solution.",
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 78873,
-      "forks": 4898,
-      "added_stars": "27 stars today"
+      "stars": 27600,
+      "forks": 2564,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
+      "title": "jqlang / jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12018,
-      "forks": 1581,
+      "stars": 35470,
+      "forks": 1823,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "pret / pokefirered",
+      "url": "https://github.com/pret/pokefirered",
+      "description": "Decompilation of Pokémon FireRed/LeafGreen",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1570,
+      "forks": 982,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4430,
+      "forks": 1600,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "micropython / micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22007,
+      "forks": 8940,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "lcdyk0517 / arkos4clone",
+      "url": "https://github.com/lcdyk0517/arkos4clone",
+      "description": "Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 646,
+      "forks": 385,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "sumatrapdfreader / sumatrapdf",
+      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17372,
+      "forks": 2020,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "quickjs-ng / quickjs",
+      "url": "https://github.com/quickjs-ng/quickjs",
+      "description": "QuickJS, the Next Generation: a mighty JavaScript engine",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3631,
+      "forks": 354,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "asterisk / asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3471,
+      "forks": 1296,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "fluent / fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8058,
+      "forks": 1983,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "libuv / libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27125,
+      "forks": 3918,
+      "added_stars": "0 stars today"
     }
   ]
 }

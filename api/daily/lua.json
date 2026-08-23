@@ -2,47 +2,57 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
+  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
   "items": [
+    {
+      "title": "koreader / koreader",
+      "url": "https://github.com/koreader/koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 29197,
+      "forks": 1881,
+      "added_stars": "28 stars today"
+    },
     {
       "title": "LazyVim / LazyVim",
       "url": "https://github.com/LazyVim/LazyVim",
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27237,
-      "forks": 1816,
-      "added_stars": "15 stars today"
+      "stars": 27249,
+      "forks": 1815,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "apache / apisix",
-      "url": "https://github.com/apache/apisix",
-      "description": "The Cloud-Native API Gateway and AI Gateway",
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 17016,
-      "forks": 2924,
-      "added_stars": "6 stars today"
+      "stars": 13889,
+      "forks": 2487,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "sindrets / diffview.nvim",
-      "url": "https://github.com/sindrets/diffview.nvim",
-      "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+      "title": "AndyHazz / bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5775,
-      "forks": 217,
-      "added_stars": "5 stars today"
+      "stars": 681,
+      "forks": 21,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "folke / snacks.nvim",
-      "url": "https://github.com/folke/snacks.nvim",
-      "description": "🍿 A collection of QoL plugins for Neovim",
+      "title": "id577 / FS25_AdvancedDamageSystem",
+      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
+      "description": "Advanced Damage System mod for Farming Simulator 25",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 7999,
-      "forks": 488,
-      "added_stars": "5 stars today"
+      "stars": 261,
+      "forks": 18,
+      "added_stars": "0 stars today"
     },
     {
       "title": "MeanderingProgrammer / render-markdown.nvim",
@@ -50,19 +60,79 @@
       "description": "Improve viewing Markdown in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4943,
+      "stars": 4947,
       "forks": 136,
-      "added_stars": "8 stars today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "nvim-lua / kickstart.nvim",
-      "url": "https://github.com/nvim-lua/kickstart.nvim",
-      "description": "A launch point for your personal nvim configuration",
+      "title": "LandSandBoat / server",
+      "url": "https://github.com/LandSandBoat/server",
+      "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 31297,
-      "forks": 46719,
-      "added_stars": "5 stars today"
+      "stars": 502,
+      "forks": 903,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "AnthonyGress / zen_ui.koplugin",
+      "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
+      "description": "A clean, minimal E-Reader experience",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 558,
+      "forks": 34,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "stevearc / conform.nvim",
+      "url": "https://github.com/stevearc/conform.nvim",
+      "description": "Lightweight yet powerful formatter plugin for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5313,
+      "forks": 306,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "xmake-io / xmake",
+      "url": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 12158,
+      "forks": 949,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bol-van / zapret-win-bundle",
+      "url": "https://github.com/bol-van/zapret-win-bundle",
+      "description": "zapret and blockcheck binary bundle for windows",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1827,
+      "forks": 257,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NeogitOrg / neogit",
+      "url": "https://github.com/NeogitOrg/neogit",
+      "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5593,
+      "forks": 356,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nickjvandyke / opencode.nvim",
+      "url": "https://github.com/nickjvandyke/opencode.nvim",
+      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3780,
+      "forks": 150,
+      "added_stars": "1 star today"
     },
     {
       "title": "Kong / kong",
@@ -70,39 +140,9 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 44019,
-      "forks": 5206,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "folke / lazy.nvim",
-      "url": "https://github.com/folke/lazy.nvim",
-      "description": "💤 A modern plugin manager for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 21448,
-      "forks": 589,
+      "stars": 44023,
+      "forks": 5207,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "3rd / image.nvim",
-      "url": "https://github.com/3rd/image.nvim",
-      "description": "🖼️ Bringing images to Neovim.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 2062,
-      "forks": 110,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "miscusi-peek / cheatengine-mcp-bridge",
-      "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
-      "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1281,
-      "forks": 199,
-      "added_stars": "5 stars today"
     },
     {
       "title": "FrSkyRC / ETHOS-Feedback-Community",
@@ -115,44 +155,14 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "Willbobber / FS25_SlurryPipeSystem",
-      "url": "https://github.com/Willbobber/FS25_SlurryPipeSystem",
-      "description": "A mod to allow the slurry pipe to attach to the tanker, nurse tank, fertiliser spreaders or any other vehicle that would be loaded or emptied via a pipe or hose.",
+      "title": "BigWigsMods / BigWigs",
+      "url": "https://github.com/BigWigsMods/BigWigs",
+      "description": "Modular and lightweight approach to providing you with the tools you need to beat any boss encounter.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 40,
-      "forks": 2,
+      "stars": 272,
+      "forks": 220,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "koreader / koreader",
-      "url": "https://github.com/koreader/koreader",
-      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 29171,
-      "forks": 1881,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "mogenson / PaperWM.spoon",
-      "url": "https://github.com/mogenson/PaperWM.spoon",
-      "description": "Tiled scrollable window manager for MacOS",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1741,
-      "forks": 83,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "amzxyz / rime-wanxiang",
-      "url": "https://github.com/amzxyz/rime-wanxiang",
-      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4423,
-      "forks": 167,
-      "added_stars": "6 stars today"
     },
     {
       "title": "forest0xia / dota2bot-OpenHyperAI",
@@ -161,28 +171,28 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": 281,
-      "forks": 62,
+      "forks": 63,
       "added_stars": "0 stars today"
     },
     {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
+      "title": "sindrets / diffview.nvim",
+      "url": "https://github.com/sindrets/diffview.nvim",
+      "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13892,
-      "forks": 2487,
-      "added_stars": "3 stars today"
+      "stars": 5774,
+      "forks": 217,
+      "added_stars": "1 star today"
     },
     {
-      "title": "overextended / ox_lib",
-      "url": "https://github.com/overextended/ox_lib",
-      "description": "A FiveM resource and script library for Lua and JS.",
+      "title": "beyond-all-reason / Beyond-All-Reason",
+      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+      "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 410,
-      "forks": 739,
-      "added_stars": "1 star today"
+      "stars": 4164,
+      "forks": 660,
+      "added_stars": "8 stars today"
     }
   ]
 }

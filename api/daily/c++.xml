@@ -4,11 +4,16 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 22 Aug 2026 02:50:15 GMT</pubDate>
+  <pubDate>Sun, 23 Aug 2026 02:56:47 GMT</pubDate>
   <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+    <title>hyprwm / Hyprland</title>
+    <link>https://github.com/hyprwm/Hyprland</link>
+    <description>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#x27;t sacrifice on its looks.</description>
+  </item>
+  <item>
+    <title>vllm-project / vllm-ascend</title>
+    <link>https://github.com/vllm-project/vllm-ascend</link>
+    <description>Community maintained hardware plugin for vLLM on Ascend</description>
   </item>
   <item>
     <title>microsoft / onnxruntime</title>
@@ -16,39 +21,14 @@
     <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
   </item>
   <item>
-    <title>google / flatbuffers</title>
-    <link>https://github.com/google/flatbuffers</link>
-    <description>FlatBuffers: Memory Efficient Serialization Library</description>
+    <title>nlohmann / json</title>
+    <link>https://github.com/nlohmann/json</link>
+    <description>JSON for Modern C++</description>
   </item>
   <item>
-    <title>esphome / esphome</title>
-    <link>https://github.com/esphome/esphome</link>
-    <description>ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.</description>
-  </item>
-  <item>
-    <title>tesseract-ocr / tesseract</title>
-    <link>https://github.com/tesseract-ocr/tesseract</link>
-    <description>Tesseract Open Source OCR Engine (main repository)</description>
-  </item>
-  <item>
-    <title>envoyproxy / envoy</title>
-    <link>https://github.com/envoyproxy/envoy</link>
-    <description>Cloud-native high-performance edge/middle/service proxy</description>
-  </item>
-  <item>
-    <title>78 / xiaozhi-esp32</title>
-    <link>https://github.com/78/xiaozhi-esp32</link>
-    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.cpp</title>
-    <link>https://github.com/ggml-org/llama.cpp</link>
-    <description>LLM inference in C/C++</description>
-  </item>
-  <item>
-    <title>openvinotoolkit / openvino</title>
-    <link>https://github.com/openvinotoolkit/openvino</link>
-    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
     <title>OpenHD / OpenHD</title>
@@ -56,14 +36,64 @@
     <description>OpenHD</description>
   </item>
   <item>
-    <title>flyinghead / flycast</title>
-    <link>https://github.com/flyinghead/flycast</link>
-    <description>Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator</description>
+    <title>tesseract-ocr / tesseract</title>
+    <link>https://github.com/tesseract-ocr/tesseract</link>
+    <description>Tesseract Open Source OCR Engine (main repository)</description>
   </item>
   <item>
-    <title>k2-fsa / sherpa-onnx</title>
-    <link>https://github.com/k2-fsa/sherpa-onnx</link>
-    <description>Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages</description>
+    <title>google / googletest</title>
+    <link>https://github.com/google/googletest</link>
+    <description>GoogleTest - Google Testing and Mocking Framework</description>
+  </item>
+  <item>
+    <title>facebook / folly</title>
+    <link>https://github.com/facebook/folly</link>
+    <description>An open-source C++ library developed and used at Facebook.</description>
+  </item>
+  <item>
+    <title>google / flatbuffers</title>
+    <link>https://github.com/google/flatbuffers</link>
+    <description>FlatBuffers: Memory Efficient Serialization Library</description>
+  </item>
+  <item>
+    <title>orailnoor / cross-platform-llm-client</title>
+    <link>https://github.com/orailnoor/cross-platform-llm-client</link>
+    <description>A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.</description>
+  </item>
+  <item>
+    <title>abseil / abseil-cpp</title>
+    <link>https://github.com/abseil/abseil-cpp</link>
+    <description>Abseil Common Libraries (C++)</description>
+  </item>
+  <item>
+    <title>UE4SS-RE / RE-UE4SS</title>
+    <link>https://github.com/UE4SS-RE/RE-UE4SS</link>
+    <description>Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games</description>
+  </item>
+  <item>
+    <title>gabime / spdlog</title>
+    <link>https://github.com/gabime/spdlog</link>
+    <description>Fast C++ logging library.</description>
+  </item>
+  <item>
+    <title>ocornut / imgui</title>
+    <link>https://github.com/ocornut/imgui</link>
+    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
+  </item>
+  <item>
+    <title>ValveSoftware / Proton</title>
+    <link>https://github.com/ValveSoftware/Proton</link>
+    <description>Compatibility tool for Steam Play based on Wine and additional components</description>
+  </item>
+  <item>
+    <title>ggml-org / llama.cpp</title>
+    <link>https://github.com/ggml-org/llama.cpp</link>
+    <description>LLM inference in C/C++</description>
+  </item>
+  <item>
+    <title>EsotericSoftware / spine-runtimes</title>
+    <link>https://github.com/EsotericSoftware/spine-runtimes</link>
+    <description>2D skeletal animation runtimes for Spine.</description>
   </item>
   <item>
     <title>ROCm / rocm-systems</title>
@@ -71,59 +101,24 @@
     <description>super repo for rocm systems projects</description>
   </item>
   <item>
-    <title>grpc / grpc</title>
-    <link>https://github.com/grpc/grpc</link>
-    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
+    <title>vicinaehq / vicinae</title>
+    <link>https://github.com/vicinaehq/vicinae</link>
+    <description>A focused launcher for your desktop - native, fast, extensible</description>
   </item>
   <item>
-    <title>Fincept-Corporation / FinceptTerminal</title>
-    <link>https://github.com/Fincept-Corporation/FinceptTerminal</link>
-    <description>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.</description>
+    <title>fmtlib / fmt</title>
+    <link>https://github.com/fmtlib/fmt</link>
+    <description>A modern formatting library</description>
   </item>
   <item>
-    <title>ROCm / FastFlowLM</title>
-    <link>https://github.com/ROCm/FastFlowLM</link>
-    <description>Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.</description>
+    <title>ZLMediaKit / ZLMediaKit</title>
+    <link>https://github.com/ZLMediaKit/ZLMediaKit</link>
+    <description>WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11</description>
   </item>
   <item>
-    <title>meshtastic / firmware</title>
-    <link>https://github.com/meshtastic/firmware</link>
-    <description>The official firmware for Meshtastic, an open-source, off-grid mesh communication system.</description>
-  </item>
-  <item>
-    <title>project-chip / connectedhomeip</title>
-    <link>https://github.com/project-chip/connectedhomeip</link>
-    <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
-  </item>
-  <item>
-    <title>amnezia-vpn / amnezia-client</title>
-    <link>https://github.com/amnezia-vpn/amnezia-client</link>
-    <description>Amnezia VPN Client (Desktop+Mobile)</description>
-  </item>
-  <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>YimMenu / YimMenuV2</title>
-    <link>https://github.com/YimMenu/YimMenuV2</link>
-    <description>Experimental menu for GTA 5: Enhanced</description>
-  </item>
-  <item>
-    <title>dmlc / xgboost</title>
-    <link>https://github.com/dmlc/xgboost</link>
-    <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</description>
-  </item>
-  <item>
-    <title>MrNeRF / LichtFeld-Studio</title>
-    <link>https://github.com/MrNeRF/LichtFeld-Studio</link>
-    <description>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</description>
-  </item>
-  <item>
-    <title>charlie12345 / ROCmFPX</title>
-    <link>https://github.com/charlie12345/ROCmFPX</link>
-    <description>ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants</description>
+    <title>microsoft / WSL</title>
+    <link>https://github.com/microsoft/WSL</link>
+    <description>Windows Subsystem for Linux</description>
   </item>
 </channel>
 </rss>

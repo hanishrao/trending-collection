@@ -2,8 +2,18 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:54:35 GMT",
+  "pubDate": "Sun, 23 Aug 2026 03:02:09 GMT",
   "items": [
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6984,
+      "forks": 2128,
+      "added_stars": "25 stars this month"
+    },
     {
       "title": "tidyverse / dplyr",
       "url": "https://github.com/tidyverse/dplyr",
@@ -11,7 +21,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5060,
-      "forks": 2117,
+      "forks": 2116,
       "added_stars": "19 stars this month"
     },
     {
@@ -20,29 +30,9 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2789,
+      "stars": 2788,
       "forks": 995,
       "added_stars": "18 stars this month"
-    },
-    {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 6985,
-      "forks": 2128,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4585,
-      "forks": 7199,
-      "added_stars": "14 stars this month"
     },
     {
       "title": "rstudio / shiny",
@@ -50,9 +40,19 @@
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5679,
-      "forks": 1890,
+      "stars": 5680,
+      "forks": 1889,
       "added_stars": "13 stars this month"
+    },
+    {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4586,
+      "forks": 7199,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
@@ -71,7 +71,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 653,
-      "forks": 111,
+      "forks": 112,
       "added_stars": "18 stars this month"
     },
     {
@@ -92,7 +92,7 @@
       "languageColor": "#198CE7",
       "stars": 5141,
       "forks": 4435,
-      "added_stars": "33 stars this month"
+      "added_stars": "32 stars this month"
     }
   ]
 }

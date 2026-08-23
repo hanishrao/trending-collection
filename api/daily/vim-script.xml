@@ -4,11 +4,11 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 22 Aug 2026 02:50:15 GMT</pubDate>
+  <pubDate>Sun, 23 Aug 2026 02:56:47 GMT</pubDate>
   <item>
-    <title>neovim / neovim</title>
-    <link>https://github.com/neovim/neovim</link>
-    <description>Vim-fork focused on extensibility and usability</description>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
   </item>
   <item>
     <title>junegunn / vim-plug</title>
@@ -16,9 +16,14 @@
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
+  </item>
+  <item>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
     <title>derekhe / msfs2020-map-enhancement</title>
@@ -26,44 +31,14 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
-  </item>
-  <item>
     <title>dense-analysis / ale</title>
     <link>https://github.com/dense-analysis/ale</link>
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>godlygeek / tabular</title>
-    <link>https://github.com/godlygeek/tabular</link>
-    <description>Vim script for text filtering and alignment</description>
-  </item>
-  <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
-    <title>tpope / vim-surround</title>
-    <link>https://github.com/tpope/vim-surround</link>
-    <description>surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</description>
-  </item>
-  <item>
-    <title>tpope / vim-commentary</title>
-    <link>https://github.com/tpope/vim-commentary</link>
-    <description>commentary.vim: comment stuff out</description>
-  </item>
-  <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
+    <title>vim-airline / vim-airline</title>
+    <link>https://github.com/vim-airline/vim-airline</link>
+    <description>lean &amp; mean status/tabline for vim that&#x27;s light as air</description>
   </item>
   <item>
     <title>vim-airline / vim-airline-themes</title>
@@ -71,14 +46,19 @@
     <description>A collection of themes for vim-airline</description>
   </item>
   <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>junegunn / fzf.vim</title>
+    <link>https://github.com/junegunn/fzf.vim</link>
+    <description>fzf ❤️ vim</description>
+  </item>
+  <item>
     <title>preservim / nerdtree</title>
     <link>https://github.com/preservim/nerdtree</link>
     <description>A tree explorer plugin for vim.</description>
-  </item>
-  <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
   </item>
 </channel>
 </rss>

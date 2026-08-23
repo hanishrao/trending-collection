@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:54:35 GMT",
+  "pubDate": "Sun, 23 Aug 2026 03:02:09 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,69 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21082,
-      "forks": 1529,
-      "added_stars": "10,405 stars this month"
-    },
-    {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "The open source control plane for agentic engineering.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5419,
-      "forks": 588,
-      "added_stars": "1,289 stars this month"
-    },
-    {
-      "title": "cli / cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45928,
-      "forks": 8898,
-      "added_stars": "710 stars this month"
-    },
-    {
-      "title": "gastownhall / beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 26511,
-      "forks": 1784,
-      "added_stars": "1,134 stars this month"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64534,
-      "forks": 6150,
-      "added_stars": "597 stars this month"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17586,
-      "forks": 5637,
-      "added_stars": "532 stars this month"
-    },
-    {
-      "title": "benbjohnson / litestream",
-      "url": "https://github.com/benbjohnson/litestream",
-      "description": "Streaming replication for SQLite.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14285,
-      "forks": 399,
-      "added_stars": "350 stars this month"
+      "stars": 21147,
+      "forks": 1542,
+      "added_stars": "10,312 stars this month"
     },
     {
       "title": "agent-substrate / substrate",
@@ -80,9 +20,69 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1586,
-      "forks": 263,
-      "added_stars": "716 stars this month"
+      "stars": 1596,
+      "forks": 264,
+      "added_stars": "748 stars this month"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "The open source control plane for agentic engineering.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5427,
+      "forks": 589,
+      "added_stars": "1,225 stars this month"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45941,
+      "forks": 8900,
+      "added_stars": "718 stars this month"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17597,
+      "forks": 5643,
+      "added_stars": "539 stars this month"
+    },
+    {
+      "title": "gastownhall / beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 26530,
+      "forks": 1785,
+      "added_stars": "1,131 stars this month"
+    },
+    {
+      "title": "kubescape / kubescape",
+      "url": "https://github.com/kubescape/kubescape",
+      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11679,
+      "forks": 1016,
+      "added_stars": "140 stars this month"
+    },
+    {
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 64538,
+      "forks": 6150,
+      "added_stars": "588 stars this month"
     },
     {
       "title": "caddyserver / caddy",
@@ -90,119 +90,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 75091,
-      "forks": 4900,
-      "added_stars": "978 stars this month"
-    },
-    {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28893,
-      "forks": 2205,
-      "added_stars": "698 stars this month"
-    },
-    {
-      "title": "pranshuparmar / witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21626,
-      "forks": 755,
-      "added_stars": "3,416 stars this month"
-    },
-    {
-      "title": "argoproj / argo-workflows",
-      "url": "https://github.com/argoproj/argo-workflows",
-      "description": "Workflow Engine for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16924,
-      "forks": 3624,
-      "added_stars": "101 stars this month"
-    },
-    {
-      "title": "AlexxIT / go2rtc",
-      "url": "https://github.com/AlexxIT/go2rtc",
-      "description": "Ultimate camera streaming application",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14013,
-      "forks": 1274,
-      "added_stars": "518 stars this month"
-    },
-    {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35421,
-      "forks": 3099,
-      "added_stars": "1,368 stars this month"
-    },
-    {
-      "title": "chenyme / grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7504,
-      "forks": 2260,
-      "added_stars": "1,130 stars this month"
-    },
-    {
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22713,
-      "forks": 826,
-      "added_stars": "4,102 stars this month"
-    },
-    {
-      "title": "helm / helm",
-      "url": "https://github.com/helm/helm",
-      "description": "The Kubernetes Package Manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30163,
-      "forks": 7758,
-      "added_stars": "205 stars this month"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 47232,
-      "forks": 6044,
-      "added_stars": "6,073 stars this month"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 88999,
-      "forks": 10455,
-      "added_stars": "3,654 stars this month"
-    },
-    {
-      "title": "podman-container-tools / podman",
-      "url": "https://github.com/podman-container-tools/podman",
-      "description": "Podman: A tool for managing OCI containers and pods.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32660,
-      "forks": 3343,
-      "added_stars": "404 stars this month"
+      "stars": 75121,
+      "forks": 4901,
+      "added_stars": "980 stars this month"
     },
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -210,9 +100,59 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35015,
-      "forks": 2325,
-      "added_stars": "8,057 stars this month"
+      "stars": 35052,
+      "forks": 2331,
+      "added_stars": "8,020 stars this month"
+    },
+    {
+      "title": "AlexxIT / go2rtc",
+      "url": "https://github.com/AlexxIT/go2rtc",
+      "description": "Ultimate camera streaming application",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14018,
+      "forks": 1276,
+      "added_stars": "517 stars this month"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35443,
+      "forks": 3102,
+      "added_stars": "1,330 stars this month"
+    },
+    {
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22739,
+      "forks": 826,
+      "added_stars": "4,108 stars this month"
+    },
+    {
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28907,
+      "forks": 2207,
+      "added_stars": "700 stars this month"
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89050,
+      "forks": 10463,
+      "added_stars": "3,596 stars this month"
     },
     {
       "title": "ollama / ollama",
@@ -220,9 +160,59 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 179133,
-      "forks": 17515,
-      "added_stars": "3,166 stars this month"
+      "stars": 179216,
+      "forks": 17522,
+      "added_stars": "3,168 stars this month"
+    },
+    {
+      "title": "openai / tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 292,
+      "forks": 58,
+      "added_stars": "103 stars this month"
+    },
+    {
+      "title": "henrygd / beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24552,
+      "forks": 964,
+      "added_stars": "939 stars this month"
+    },
+    {
+      "title": "podman-container-tools / podman",
+      "url": "https://github.com/podman-container-tools/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32668,
+      "forks": 3344,
+      "added_stars": "401 stars this month"
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47309,
+      "forks": 6053,
+      "added_stars": "5,977 stars this month"
+    },
+    {
+      "title": "flyteorg / flyte",
+      "url": "https://github.com/flyteorg/flyte",
+      "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7226,
+      "forks": 876,
+      "added_stars": "96 stars this month"
     }
   ]
 }

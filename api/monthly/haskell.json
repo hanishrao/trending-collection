@@ -2,27 +2,27 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:54:35 GMT",
+  "pubDate": "Sun, 23 Aug 2026 03:02:09 GMT",
   "items": [
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 45966,
-      "forks": 3950,
-      "added_stars": "546 stars this month"
-    },
     {
       "title": "simonmichael / hledger",
       "url": "https://github.com/simonmichael/hledger",
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4659,
+      "stars": 4662,
       "forks": 407,
-      "added_stars": "77 stars this month"
+      "added_stars": "76 stars this month"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 45982,
+      "forks": 3951,
+      "added_stars": "547 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -30,9 +30,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39905,
+      "stars": 39913,
       "forks": 1941,
-      "added_stars": "204 stars this month"
+      "added_stars": "206 stars this month"
     },
     {
       "title": "PostgREST / postgrest",
@@ -40,9 +40,9 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27617,
-      "forks": 1227,
-      "added_stars": "179 stars this month"
+      "stars": 27618,
+      "forks": 1228,
+      "added_stars": "178 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -52,7 +52,7 @@
       "languageColor": "#5e5086",
       "stars": 12368,
       "forks": 503,
-      "added_stars": "63 stars this month"
+      "added_stars": "64 stars this month"
     },
     {
       "title": "digital-asset / daml",
@@ -75,24 +75,24 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2951,
+      "forks": 451,
+      "added_stars": "15 stars this month"
+    },
+    {
       "title": "agda / agda",
       "url": "https://github.com/agda/agda",
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 2916,
-      "forks": 424,
+      "forks": 425,
       "added_stars": "22 stars this month"
-    },
-    {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 3176,
-      "forks": 755,
-      "added_stars": "4 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -100,9 +100,19 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1591,
+      "stars": 1594,
       "forks": 66,
-      "added_stars": "176 stars this month"
+      "added_stars": "169 stars this month"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3175,
+      "forks": 755,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "commercialhaskell / stack",
@@ -115,14 +125,14 @@
       "added_stars": "8 stars this month"
     },
     {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "title": "IntersectMBO / cardano-ledger",
+      "url": "https://github.com/IntersectMBO/cardano-ledger",
+      "description": "The ledger implementation and specifications of the Cardano blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2951,
-      "forks": 451,
-      "added_stars": "15 stars this month"
+      "stars": 292,
+      "forks": 179,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -135,24 +145,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "IntersectMBO / cardano-ledger",
-      "url": "https://github.com/IntersectMBO/cardano-ledger",
-      "description": "The ledger implementation and specifications of the Cardano blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 291,
-      "forks": 178,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "elm / compiler",
       "url": "https://github.com/elm/compiler",
       "description": "Compiler for Elm, a functional language for reliable webapps.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 7882,
+      "stars": 7883,
       "forks": 688,
-      "added_stars": "51 stars this month"
+      "added_stars": "52 stars this month"
     },
     {
       "title": "nammayatri / nammayatri",
@@ -160,19 +160,9 @@
       "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2532,
-      "forks": 393,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "wireapp / wire-server",
-      "url": "https://github.com/wireapp/wire-server",
-      "description": "🇪🇺 Wire back-end services",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2782,
-      "forks": 332,
-      "added_stars": "5 stars this month"
+      "stars": 2533,
+      "forks": 394,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "haskell / core-libraries-committee",

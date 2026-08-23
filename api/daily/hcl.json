@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 22 Aug 2026 02:50:15 GMT",
+  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -12,7 +12,7 @@
       "languageColor": "#844FBA",
       "stars": 3256,
       "forks": 4626,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -22,16 +22,6 @@
       "languageColor": "#844FBA",
       "stars": 2088,
       "forks": 1257,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 4998,
-      "forks": 4407,
       "added_stars": "0 stars today"
     },
     {
@@ -42,17 +32,17 @@
       "languageColor": "#844FBA",
       "stars": 1232,
       "forks": 580,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1276,
-      "forks": 1279,
-      "added_stars": "0 stars today"
+      "stars": 4998,
+      "forks": 4406,
+      "added_stars": "2 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -60,18 +50,18 @@
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1046,
+      "stars": 1045,
       "forks": 774,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 868,
-      "forks": 1110,
+      "stars": 207,
+      "forks": 604,
       "added_stars": "0 stars today"
     },
     {
@@ -85,24 +75,64 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "terraform-google-modules / terraform-google-vm",
+      "url": "https://github.com/terraform-google-modules/terraform-google-vm",
+      "description": "Provisions VMs in Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
+      "stars": 270,
+      "forks": 403,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 207,
-      "forks": 604,
+      "stars": 119,
+      "forks": 202,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 243,
+      "forks": 192,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 691,
+      "forks": 176,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 153,
+      "forks": 115,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 869,
+      "forks": 1110,
+      "added_stars": "1 star today"
     }
   ]
 }
