@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 23 Aug 2026 03:02:09 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 03:03:17 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
@@ -21,14 +21,14 @@
     <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
-    <title>tpope / vim-eunuch</title>
-    <link>https://github.com/tpope/vim-eunuch</link>
-    <description>eunuch.vim: Helpers for UNIX</description>
-  </item>
-  <item>
     <title>junegunn / vim-plug</title>
     <link>https://github.com/junegunn/vim-plug</link>
     <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
   </item>
   <item>
     <title>morhetz / gruvbox</title>
@@ -56,24 +56,14 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>dracula / vim</title>
-    <link>https://github.com/dracula/vim</link>
-    <description>🧛🏻‍♂️ Dark theme for Vim</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
   </item>
   <item>
     <title>amix / vimrc</title>
     <link>https://github.com/amix/vimrc</link>
     <description>The ultimate Vim configuration (vimrc)</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.vim</title>
-    <link>https://github.com/ggml-org/llama.vim</link>
-    <description>Vim plugin for LLM-assisted code/text completion</description>
-  </item>
-  <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
   </item>
   <item>
     <title>prabirshrestha / asyncomplete.vim</title>
@@ -84,6 +74,21 @@
     <title>tpope / vim-rails</title>
     <link>https://github.com/tpope/vim-rails</link>
     <description>rails.vim: Ruby on Rails power tools</description>
+  </item>
+  <item>
+    <title>dracula / vim</title>
+    <link>https://github.com/dracula/vim</link>
+    <description>🧛🏻‍♂️ Dark theme for Vim</description>
+  </item>
+  <item>
+    <title>ggml-org / llama.vim</title>
+    <link>https://github.com/ggml-org/llama.vim</link>
+    <description>Vim plugin for LLM-assisted code/text completion</description>
+  </item>
+  <item>
+    <title>prabirshrestha / vim-lsp</title>
+    <link>https://github.com/prabirshrestha/vim-lsp</link>
+    <description>async language server protocol plugin for vim and neovim</description>
   </item>
 </channel>
 </rss>

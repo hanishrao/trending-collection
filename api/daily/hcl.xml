@@ -4,56 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 23 Aug 2026 02:56:47 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 02:57:46 GMT</pubDate>
   <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
-  </item>
-  <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-lambda</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
-    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-cloud-storage</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-cloud-storage</link>
-    <description>Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-vm</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-vm</link>
-    <description>Provisions VMs in Google Cloud</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
-    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-iam</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
-    <description>Manages multiple IAM roles for resources on Google Cloud</description>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
   </item>
   <item>
     <title>chainguard-images / images</title>
@@ -61,14 +16,54 @@
     <description>Public Chainguard Images</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-service-accounts</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
-    <description>Creates one or more service accounts and grants them basic roles</description>
+    <title>antonputra / tutorials</title>
+    <link>https://github.com/antonputra/tutorials</link>
+    <description>DevOps Tutorials</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-iam</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
-    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+    <title>terraform-google-modules / terraform-google-kms</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
+    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
+  </item>
+  <item>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-ecs-container-definition</title>
+    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-dynamic-subnets</title>
+    <link>https://github.com/cloudposse/terraform-aws-dynamic-subnets</link>
+    <description>Terraform module for public and private subnets provisioning in existing VPC</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-org-policy</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-org-policy</link>
+    <description>Manages Google Cloud organization policies</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-container-vm</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-container-vm</link>
+    <description>Deploys containers on Compute Engine instances</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-log-export</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-log-export</link>
+    <description>Creates log exports at the project, folder, or organization level</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-vm</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-vm</link>
+    <description>Provisions VMs in Google Cloud</description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-naming</title>
+    <link>https://github.com/Azure/terraform-azurerm-naming</link>
+    <description></description>
   </item>
 </channel>
 </rss>

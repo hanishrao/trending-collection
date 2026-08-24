@@ -2,27 +2,27 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 03:02:09 GMT",
+  "pubDate": "Mon, 24 Aug 2026 03:03:17 GMT",
   "items": [
-    {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3667,
-      "forks": 485,
-      "added_stars": "171 stars this month"
-    },
     {
       "title": "deepseek-ai / DeepEP",
       "url": "https://github.com/deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10049,
-      "forks": 1398,
-      "added_stars": "189 stars this month"
+      "stars": 10055,
+      "forks": 1401,
+      "added_stars": "184 stars this month"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3669,
+      "forks": 484,
+      "added_stars": "174 stars this month"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -30,9 +30,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7719,
+      "stars": 7726,
       "forks": 1193,
-      "added_stars": "184 stars this month"
+      "added_stars": "183 stars this month"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -40,9 +40,9 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1023,
+      "stars": 1024,
       "forks": 221,
-      "added_stars": "47 stars this month"
+      "added_stars": "46 stars this month"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -50,9 +50,9 @@
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1313,
-      "forks": 260,
-      "added_stars": "32 stars this month"
+      "stars": 1315,
+      "forks": 262,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -60,9 +60,9 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 838,
+      "stars": 839,
       "forks": 223,
-      "added_stars": "20 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
@@ -70,9 +70,9 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3211,
+      "stars": 3212,
       "forks": 290,
-      "added_stars": "72 stars this month"
+      "added_stars": "71 stars this month"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -80,9 +80,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1630,
-      "forks": 398,
-      "added_stars": "32 stars this month"
+      "stars": 1633,
+      "forks": 399,
+      "added_stars": "33 stars this month"
     },
     {
       "title": "karpathy / llm.c",
@@ -90,19 +90,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30848,
-      "forks": 3738,
-      "added_stars": "274 stars this month"
-    },
-    {
-      "title": "rapidsai / cugraph",
-      "url": "https://github.com/rapidsai/cugraph",
-      "description": "cuGraph - RAPIDS Graph Analytics Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2223,
-      "forks": 364,
-      "added_stars": "14 stars this month"
+      "stars": 30852,
+      "forks": 3739,
+      "added_stars": "268 stars this month"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -110,19 +100,19 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17529,
+      "stars": 17530,
       "forks": 2066,
-      "added_stars": "44 stars this month"
+      "added_stars": "45 stars this month"
     },
     {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
+      "title": "rapidsai / cugraph",
+      "url": "https://github.com/rapidsai/cugraph",
+      "description": "cuGraph - RAPIDS Graph Analytics Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3640,
-      "forks": 318,
-      "added_stars": "84 stars this month"
+      "stars": 2224,
+      "forks": 365,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "mirage-project / mirage",
@@ -130,9 +120,19 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2444,
+      "stars": 2447,
       "forks": 239,
-      "added_stars": "63 stars this month"
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3649,
+      "forks": 318,
+      "added_stars": "88 stars this month"
     },
     {
       "title": "NVIDIA / cudf-spark-jni",
@@ -140,9 +140,9 @@
       "description": "NVIDIA cuDF plugin JNI For Apache Spark",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 63,
+      "stars": 64,
       "forks": 91,
-      "added_stars": "1 star this month"
+      "added_stars": "2 stars this month"
     }
   ]
 }

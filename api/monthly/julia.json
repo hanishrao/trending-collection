@@ -2,18 +2,8 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 03:02:09 GMT",
+  "pubDate": "Mon, 24 Aug 2026 03:03:17 GMT",
   "items": [
-    {
-      "title": "JuliaLang / julia",
-      "url": "https://github.com/JuliaLang/julia",
-      "description": "The Julia Programming Language",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 49026,
-      "forks": 5972,
-      "added_stars": "193 stars this month"
-    },
     {
       "title": "JuliaRegistries / General",
       "url": "https://github.com/JuliaRegistries/General",
@@ -23,6 +13,16 @@
       "stars": 728,
       "forks": 597,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "JuliaLang / julia",
+      "url": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Programming Language",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 49025,
+      "forks": 5973,
+      "added_stars": "192 stars this month"
     },
     {
       "title": "CliMA / ClimaCore.jl",
@@ -62,7 +62,7 @@
       "languageColor": "#a270ba",
       "stars": 2800,
       "forks": 392,
-      "added_stars": "14 stars this month"
+      "added_stars": "13 stars this month"
     },
     {
       "title": "CliMA / Oceananigans.jl",
@@ -72,7 +72,27 @@
       "languageColor": "#a270ba",
       "stars": 1412,
       "forks": 289,
-      "added_stars": "40 stars this month"
+      "added_stars": "39 stars this month"
+    },
+    {
+      "title": "JuliaGPU / CUDA.jl",
+      "url": "https://github.com/JuliaGPU/CUDA.jl",
+      "description": "CUDA programming in Julia.",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1423,
+      "forks": 278,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "SciML / OrdinaryDiffEq.jl",
+      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
+      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 675,
+      "forks": 274,
+      "added_stars": "12 stars this month"
     }
   ]
 }

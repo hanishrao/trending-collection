@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 23 Aug 2026 03:02:09 GMT</pubDate>
+  <pubDate>Mon, 24 Aug 2026 03:03:17 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -24,11 +24,6 @@
     <title>nix-darwin / nix-darwin</title>
     <link>https://github.com/nix-darwin/nix-darwin</link>
     <description>Manage your macOS using Nix</description>
-  </item>
-  <item>
-    <title>cloud-gouv / securix</title>
-    <link>https://github.com/cloud-gouv/securix</link>
-    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
   <item>
     <title>supabase / postgres</title>
@@ -56,6 +51,11 @@
     <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
+    <title>Misterio77 / nix-starter-configs</title>
+    <link>https://github.com/Misterio77/nix-starter-configs</link>
+    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
+  </item>
+  <item>
     <title>nix-community / disko</title>
     <link>https://github.com/nix-community/disko</link>
     <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
@@ -66,19 +66,19 @@
     <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
   <item>
-    <title>Misterio77 / nix-starter-configs</title>
-    <link>https://github.com/Misterio77/nix-starter-configs</link>
-    <description>Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!</description>
-  </item>
-  <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>sodiboo / niri-flake</title>
+    <link>https://github.com/sodiboo/niri-flake</link>
+    <description>Nix-native configuration for niri</description>
   </item>
   <item>
     <title>xddxdd / nix-cachyos-kernel</title>
     <link>https://github.com/xddxdd/nix-cachyos-kernel</link>
     <description>CachyOS kernel for NixOS</description>
+  </item>
+  <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
   </item>
 </channel>
 </rss>

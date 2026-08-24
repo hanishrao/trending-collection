@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 02:59:56 GMT",
+  "pubDate": "Mon, 24 Aug 2026 03:00:59 GMT",
   "items": [
     {
       "title": "moabukar / tech-vault",
@@ -10,9 +10,9 @@
       "description": "A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3565,
+      "stars": 3567,
       "forks": 779,
-      "added_stars": "68 stars this week"
+      "added_stars": "40 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -21,8 +21,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3256,
-      "forks": 4626,
-      "added_stars": "3 stars this week"
+      "forks": 4625,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "techiescamp / devops-projects",
@@ -31,18 +31,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2249,
-      "forks": 1491,
-      "added_stars": "25 stars this week"
+      "forks": 1492,
+      "added_stars": "22 stars this week"
     },
     {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "title": "sidpalas / devops-directive-terraform-course",
+      "url": "https://github.com/sidpalas/devops-directive-terraform-course",
+      "description": "Companion repo for complete Terraform course",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1232,
-      "forks": 580,
-      "added_stars": "5 stars this week"
+      "stars": 1465,
+      "forks": 2417,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "terrapkg / packages",
@@ -50,18 +50,38 @@
       "description": "Monorepo for Terra Packages",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 594,
+      "stars": 593,
       "forks": 135,
-      "added_stars": "6 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "LinkedInLearning / learning-terraform-3087701",
-      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
-      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 146,
-      "forks": 7305,
+      "stars": 1233,
+      "forks": 580,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 869,
+      "forks": 1110,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1045,
+      "forks": 774,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,44 +95,34 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1045,
-      "forks": 774,
+      "stars": 692,
+      "forks": 176,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "hashicorp / setup-packer",
+      "url": "https://github.com/hashicorp/setup-packer",
+      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 165,
+      "forks": 88,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "title": "LinkedInLearning / learning-terraform-3087701",
+      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
+      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 869,
-      "forks": 1110,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "chef / bento",
-      "url": "https://github.com/chef/bento",
-      "description": "Packer templates for building minimal Vagrant baseboxes for multiple platforms",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 4442,
-      "forks": 1117,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2088,
-      "forks": 1257,
-      "added_stars": "4 stars this week"
+      "stars": 146,
+      "forks": 7307,
+      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
+  "pubDate": "Mon, 24 Aug 2026 02:57:46 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,88 +10,18 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8709,
+      "stars": 8711,
       "forks": 2620,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23020,
-      "forks": 1434,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 425,
-      "forks": 808,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tronbyt / apps",
-      "url": "https://github.com/tronbyt/apps",
-      "description": "Hard Fork of Tidbyt Community Repo",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 49,
-      "forks": 119,
       "added_stars": "1 star today"
     },
     {
-      "title": "uber / hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 398,
-      "forks": 87,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3952,
-      "forks": 303,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 381,
-      "forks": 854,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 100,
-      "forks": 71,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 270,
-      "forks": 84,
+      "stars": 685,
+      "forks": 715,
       "added_stars": "0 stars today"
     },
     {
@@ -105,23 +35,53 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 241,
-      "forks": 192,
+      "stars": 192,
+      "forks": 87,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "tronbyt / apps",
+      "url": "https://github.com/tronbyt/apps",
+      "description": "Hard Fork of Tidbyt Community Repo",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 685,
-      "forks": 714,
+      "stars": 49,
+      "forks": 121,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 381,
+      "forks": 855,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23022,
+      "forks": 1434,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 293,
+      "forks": 115,
       "added_stars": "0 stars today"
     },
     {
@@ -132,16 +92,6 @@
       "languageColor": "#76d275",
       "stars": 31,
       "forks": 49,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 192,
-      "forks": 87,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,27 +2,37 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 02:59:56 GMT",
+  "pubDate": "Mon, 24 Aug 2026 03:00:59 GMT",
   "items": [
-    {
-      "title": "EllesmereGaming / EllesmereUI",
-      "url": "https://github.com/EllesmereGaming/EllesmereUI",
-      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 185,
-      "forks": 203,
-      "added_stars": "22 stars this week"
-    },
     {
       "title": "AnthonyGress / zen_ui.koplugin",
       "url": "https://github.com/AnthonyGress/zen_ui.koplugin",
       "description": "A clean, minimal E-Reader experience",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 558,
+      "stars": 569,
       "forks": 34,
-      "added_stars": "54 stars this week"
+      "added_stars": "64 stars this week"
+    },
+    {
+      "title": "EllesmereGaming / EllesmereUI",
+      "url": "https://github.com/EllesmereGaming/EllesmereUI",
+      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 186,
+      "forks": 206,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "MeanderingProgrammer / render-markdown.nvim",
+      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+      "description": "Improve viewing Markdown in Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4950,
+      "forks": 136,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "AndyHazz / bookshelf.koplugin",
@@ -30,19 +40,9 @@
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 681,
-      "forks": 21,
-      "added_stars": "69 stars this week"
-    },
-    {
-      "title": "AndyHazz / bookends.koplugin",
-      "url": "https://github.com/AndyHazz/bookends.koplugin",
-      "description": "KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 403,
-      "forks": 18,
-      "added_stars": "26 stars this week"
+      "stars": 688,
+      "forks": 23,
+      "added_stars": "66 stars this week"
     },
     {
       "title": "LazyVim / LazyVim",
@@ -50,9 +50,19 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27249,
+      "stars": 27255,
       "forks": 1815,
-      "added_stars": "98 stars this week"
+      "added_stars": "93 stars this week"
+    },
+    {
+      "title": "AndyHazz / bookends.koplugin",
+      "url": "https://github.com/AndyHazz/bookends.koplugin",
+      "description": "KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 404,
+      "forks": 18,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "nvim-telescope / telescope.nvim",
@@ -62,7 +72,17 @@
       "languageColor": "#000080",
       "stars": 19724,
       "forks": 961,
-      "added_stars": "26 stars this week"
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "koreader / koreader",
+      "url": "https://github.com/koreader/koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 29228,
+      "forks": 1884,
+      "added_stars": "169 stars this week"
     },
     {
       "title": "stevearc / conform.nvim",
@@ -70,39 +90,19 @@
       "description": "Lightweight yet powerful formatter plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5313,
+      "stars": 5315,
       "forks": 306,
-      "added_stars": "13 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
+      "title": "id577 / FS25_AdvancedDamageSystem",
+      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
+      "description": "Advanced Damage System mod for Farming Simulator 25",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13889,
-      "forks": 2487,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 585,
-      "forks": 76,
-      "added_stars": "76 stars this week"
-    },
-    {
-      "title": "MeanderingProgrammer / render-markdown.nvim",
-      "url": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-      "description": "Improve viewing Markdown in Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4947,
-      "forks": 136,
-      "added_stars": "33 stars this week"
+      "stars": 261,
+      "forks": 18,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "MunifTanjim / nui.nvim",
@@ -110,29 +110,19 @@
       "description": "UI Component Library for Neovim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 2106,
+      "stars": 2107,
       "forks": 80,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "beyond-all-reason / Beyond-All-Reason",
-      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-      "description": "Main game repository for Beyond All Reason.",
+      "title": "mfussenegger / nvim-lint",
+      "url": "https://github.com/mfussenegger/nvim-lint",
+      "description": "Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4164,
-      "forks": 660,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "pd2-stuff / DLC-Unlocker-PD2",
-      "url": "https://github.com/pd2-stuff/DLC-Unlocker-PD2",
-      "description": "Unlocks all existing DLCS in payday 2",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 257,
-      "forks": 73,
-      "added_stars": "4 stars this week"
+      "stars": 2773,
+      "forks": 310,
+      "added_stars": "2 stars this week"
     }
   ]
 }

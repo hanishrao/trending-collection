@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 03:02:09 GMT",
+  "pubDate": "Mon, 24 Aug 2026 03:03:17 GMT",
   "items": [
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21147,
-      "forks": 1542,
-      "added_stars": "10,312 stars this month"
-    },
     {
       "title": "agent-substrate / substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1596,
-      "forks": 264,
-      "added_stars": "748 stars this month"
+      "stars": 1603,
+      "forks": 265,
+      "added_stars": "749 stars this month"
     },
     {
       "title": "superplanehq / superplane",
@@ -30,9 +20,9 @@
       "description": "The open source control plane for agentic engineering.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5427,
-      "forks": 589,
-      "added_stars": "1,225 stars this month"
+      "stars": 5431,
+      "forks": 588,
+      "added_stars": "1,200 stars this month"
     },
     {
       "title": "cli / cli",
@@ -40,9 +30,19 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45941,
-      "forks": 8900,
-      "added_stars": "718 stars this month"
+      "stars": 45958,
+      "forks": 8907,
+      "added_stars": "717 stars this month"
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21261,
+      "forks": 1555,
+      "added_stars": "10,097 stars this month"
     },
     {
       "title": "sundowndev / phoneinfoga",
@@ -50,9 +50,9 @@
       "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17597,
-      "forks": 5643,
-      "added_stars": "539 stars this month"
+      "stars": 17613,
+      "forks": 5644,
+      "added_stars": "538 stars this month"
     },
     {
       "title": "gastownhall / beads",
@@ -60,19 +60,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26530,
-      "forks": 1785,
-      "added_stars": "1,131 stars this month"
-    },
-    {
-      "title": "kubescape / kubescape",
-      "url": "https://github.com/kubescape/kubescape",
-      "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11679,
-      "forks": 1016,
-      "added_stars": "140 stars this month"
+      "stars": 26542,
+      "forks": 1787,
+      "added_stars": "1,055 stars this month"
     },
     {
       "title": "traefik / traefik",
@@ -80,8 +70,8 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 64538,
-      "forks": 6150,
+      "stars": 64552,
+      "forks": 6152,
       "added_stars": "588 stars this month"
     },
     {
@@ -90,9 +80,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 75121,
-      "forks": 4901,
-      "added_stars": "980 stars this month"
+      "stars": 75148,
+      "forks": 4903,
+      "added_stars": "984 stars this month"
     },
     {
       "title": "esengine / DeepSeek-Reasonix",
@@ -100,9 +90,9 @@
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35052,
+      "stars": 35082,
       "forks": 2331,
-      "added_stars": "8,020 stars this month"
+      "added_stars": "7,979 stars this month"
     },
     {
       "title": "AlexxIT / go2rtc",
@@ -110,29 +100,19 @@
       "description": "Ultimate camera streaming application",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14018,
-      "forks": 1276,
-      "added_stars": "517 stars this month"
+      "stars": 14028,
+      "forks": 1277,
+      "added_stars": "518 stars this month"
     },
     {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35443,
-      "forks": 3102,
-      "added_stars": "1,330 stars this month"
-    },
-    {
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22739,
-      "forks": 826,
-      "added_stars": "4,108 stars this month"
+      "stars": 21667,
+      "forks": 756,
+      "added_stars": "3,430 stars this month"
     },
     {
       "title": "gitleaks / gitleaks",
@@ -140,39 +120,9 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28907,
-      "forks": 2207,
-      "added_stars": "700 stars this month"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 89050,
-      "forks": 10463,
-      "added_stars": "3,596 stars this month"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 179216,
-      "forks": 17522,
-      "added_stars": "3,168 stars this month"
-    },
-    {
-      "title": "openai / tunnel-client",
-      "url": "https://github.com/openai/tunnel-client",
-      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 292,
-      "forks": 58,
-      "added_stars": "103 stars this month"
+      "stars": 28925,
+      "forks": 2208,
+      "added_stars": "684 stars this month"
     },
     {
       "title": "henrygd / beszel",
@@ -180,19 +130,39 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24552,
-      "forks": 964,
-      "added_stars": "939 stars this month"
+      "stars": 24588,
+      "forks": 967,
+      "added_stars": "941 stars this month"
     },
     {
-      "title": "podman-container-tools / podman",
-      "url": "https://github.com/podman-container-tools/podman",
-      "description": "Podman: A tool for managing OCI containers and pods.",
+      "title": "xpzouying / xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32668,
-      "forks": 3344,
-      "added_stars": "401 stars this month"
+      "stars": 15444,
+      "forks": 2276,
+      "added_stars": "677 stars this month"
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89101,
+      "forks": 10473,
+      "added_stars": "3,539 stars this month"
+    },
+    {
+      "title": "openai / tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 296,
+      "forks": 58,
+      "added_stars": "106 stars this month"
     },
     {
       "title": "multica-ai / multica",
@@ -200,19 +170,39 @@
       "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 47309,
-      "forks": 6053,
-      "added_stars": "5,977 stars this month"
+      "stars": 47392,
+      "forks": 6075,
+      "added_stars": "5,894 stars this month"
     },
     {
-      "title": "flyteorg / flyte",
-      "url": "https://github.com/flyteorg/flyte",
-      "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7226,
-      "forks": 876,
-      "added_stars": "96 stars this month"
+      "stars": 22763,
+      "forks": 828,
+      "added_stars": "3,989 stars this month"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 179287,
+      "forks": 17534,
+      "added_stars": "3,159 stars this month"
+    },
+    {
+      "title": "agentscope-ai / AgentTeams",
+      "url": "https://github.com/agentscope-ai/AgentTeams",
+      "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5465,
+      "forks": 673,
+      "added_stars": "325 stars this month"
     }
   ]
 }

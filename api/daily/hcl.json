@@ -2,26 +2,46 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 23 Aug 2026 02:56:47 GMT",
+  "pubDate": "Mon, 24 Aug 2026 02:57:46 GMT",
   "items": [
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3256,
-      "forks": 4626,
-      "added_stars": "1 star today"
+      "stars": 843,
+      "forks": 125,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2088,
-      "forks": 1257,
+      "stars": 692,
+      "forks": 176,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4676,
+      "forks": 3107,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kms",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
+      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 63,
+      "forks": 110,
       "added_stars": "0 stars today"
     },
     {
@@ -30,48 +50,58 @@
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1232,
+      "stars": 1233,
       "forks": 580,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "cloudposse / terraform-aws-dynamic-subnets",
+      "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
+      "description": "Terraform module for public and private subnets provisioning in existing VPC",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4998,
-      "forks": 4406,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1045,
-      "forks": 774,
+      "stars": 211,
+      "forks": 163,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "title": "terraform-google-modules / terraform-google-org-policy",
+      "url": "https://github.com/terraform-google-modules/terraform-google-org-policy",
+      "description": "Manages Google Cloud organization policies",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 207,
-      "forks": 604,
+      "stars": 102,
+      "forks": 84,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-container-vm",
+      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
+      "description": "Deploys containers on Compute Engine instances",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 581,
-      "forks": 3806,
+      "stars": 170,
+      "forks": 76,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-log-export",
+      "url": "https://github.com/terraform-google-modules/terraform-google-log-export",
+      "description": "Creates log exports at the project, folder, or organization level",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 107,
+      "forks": 91,
       "added_stars": "0 stars today"
     },
     {
@@ -85,54 +115,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "title": "Azure / terraform-azurerm-naming",
+      "url": "https://github.com/Azure/terraform-azurerm-naming",
+      "description": "",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 119,
-      "forks": 202,
+      "stars": 273,
+      "forks": 145,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 243,
-      "forks": 192,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 691,
-      "forks": 176,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 153,
-      "forks": 115,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 869,
-      "forks": 1110,
-      "added_stars": "1 star today"
     }
   ]
 }
