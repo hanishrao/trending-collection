@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 24 Aug 2026 02:57:46 GMT",
+  "pubDate": "Tue, 25 Aug 2026 02:54:01 GMT",
   "items": [
     {
       "title": "hashicorp / agent-skills",
@@ -10,9 +10,29 @@
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 843,
+      "stars": 846,
       "forks": 125,
-      "added_stars": "10 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
+      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
+      "description": "",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 524,
+      "forks": 814,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "iam-veeramalla / ultimate-devops-project-aws",
+      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
+      "description": "End to End DevOps project",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 942,
+      "forks": 2451,
+      "added_stars": "1 star today"
     },
     {
       "title": "chainguard-images / images",
@@ -22,27 +42,7 @@
       "languageColor": "#844FBA",
       "stars": 692,
       "forks": 176,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "antonputra / tutorials",
-      "url": "https://github.com/antonputra/tutorials",
-      "description": "DevOps Tutorials",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 4676,
-      "forks": 3107,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 63,
-      "forks": 110,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "semgrep / semgrep-rules",
@@ -52,26 +52,16 @@
       "languageColor": "#844FBA",
       "stars": 1233,
       "forks": 580,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cloudposse / terraform-aws-dynamic-subnets",
-      "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
-      "description": "Terraform module for public and private subnets provisioning in existing VPC",
+      "title": "DataDog / serverless-sample-app",
+      "url": "https://github.com/DataDog/serverless-sample-app",
+      "description": "Explore Datadog's serverless observability features with this sample app.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 211,
-      "forks": 163,
+      "stars": 60,
+      "forks": 20,
       "added_stars": "0 stars today"
     },
     {
@@ -85,43 +75,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-container-vm",
-      "url": "https://github.com/terraform-google-modules/terraform-google-container-vm",
-      "description": "Deploys containers on Compute Engine instances",
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 170,
-      "forks": 76,
+      "stars": 350,
+      "forks": 239,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-log-export",
-      "url": "https://github.com/terraform-google-modules/terraform-google-log-export",
-      "description": "Creates log exports at the project, folder, or organization level",
+      "title": "terraform-google-modules / terraform-google-github-actions-runners",
+      "url": "https://github.com/terraform-google-modules/terraform-google-github-actions-runners",
+      "description": "Creates self-hosted GitHub Actions Runners on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 107,
-      "forks": 91,
+      "stars": 253,
+      "forks": 129,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-vm",
-      "url": "https://github.com/terraform-google-modules/terraform-google-vm",
-      "description": "Provisions VMs in Google Cloud",
+      "title": "hashicorp / setup-packer",
+      "url": "https://github.com/hashicorp/setup-packer",
+      "description": "Run HashiCorp Packer as part of your GitHub Actions Workflow",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 270,
-      "forks": 403,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Azure / terraform-azurerm-naming",
-      "url": "https://github.com/Azure/terraform-azurerm-naming",
-      "description": "",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 273,
-      "forks": 145,
+      "stars": 165,
+      "forks": 88,
       "added_stars": "0 stars today"
     }
   ]

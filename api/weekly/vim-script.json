@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 24 Aug 2026 03:00:59 GMT",
+  "pubDate": "Tue, 25 Aug 2026 02:55:09 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -10,9 +10,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40787,
-      "forks": 6124,
-      "added_stars": "71 stars this week"
+      "stars": 40792,
+      "forks": 6123,
+      "added_stars": "57 stars this week"
     },
     {
       "title": "neovim / neovim",
@@ -20,9 +20,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 101922,
-      "forks": 7043,
-      "added_stars": "191 stars this week"
+      "stars": 101942,
+      "forks": 7045,
+      "added_stars": "183 stars this week"
     },
     {
       "title": "junegunn / vim-plug",
@@ -30,9 +30,9 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35751,
-      "forks": 1935,
-      "added_stars": "18 stars this week"
+      "stars": 35749,
+      "forks": 1934,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "derekhe / msfs2020-map-enhancement",
@@ -45,6 +45,16 @@
       "added_stars": "5 stars this week"
     },
     {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11683,
+      "forks": 798,
+      "added_stars": "7 stars this week"
+    },
+    {
       "title": "tpope / vim-eunuch",
       "url": "https://github.com/tpope/vim-eunuch",
       "description": "eunuch.vim: Helpers for UNIX",
@@ -52,47 +62,7 @@
       "languageColor": "#199f4b",
       "stars": 1887,
       "forks": 79,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11682,
-      "forks": 798,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21763,
-      "forks": 1078,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "preservim / nerdtree",
-      "url": "https://github.com/preservim/nerdtree",
-      "description": "A tree explorer plugin for vim.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 20087,
-      "forks": 1437,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "morhetz / gruvbox",
-      "url": "https://github.com/morhetz/gruvbox",
-      "description": "Retro groove color scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 15698,
-      "forks": 1126,
-      "added_stars": "19 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "dense-analysis / ale",
@@ -102,7 +72,27 @@
       "languageColor": "#199f4b",
       "stars": 14016,
       "forks": 1485,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "preservim / nerdtree",
+      "url": "https://github.com/preservim/nerdtree",
+      "description": "A tree explorer plugin for vim.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 20088,
+      "forks": 1437,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21763,
+      "forks": 1078,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "altercation / vim-colors-solarized",
@@ -125,14 +115,24 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "easymotion / vim-easymotion",
-      "url": "https://github.com/easymotion/vim-easymotion",
-      "description": "Vim motions on speed!",
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 7746,
-      "forks": 363,
-      "added_stars": "5 stars this week"
+      "stars": 15700,
+      "forks": 1126,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "godlygeek / tabular",
+      "url": "https://github.com/godlygeek/tabular",
+      "description": "Vim script for text filtering and alignment",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 2661,
+      "forks": 163,
+      "added_stars": "2 stars this week"
     }
   ]
 }

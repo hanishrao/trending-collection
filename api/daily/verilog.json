@@ -2,17 +2,47 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 24 Aug 2026 02:57:46 GMT",
+  "pubDate": "Tue, 25 Aug 2026 02:54:01 GMT",
   "items": [
+    {
+      "title": "jotego / jtcores",
+      "url": "https://github.com/jotego/jtcores",
+      "description": "FPGA cores compatible with multiple arcade game machines and KiCAD schematics of arcade games. Working on MiSTer FPGA/Analogue Pocket",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 323,
+      "forks": 64,
+      "added_stars": "1 star today"
+    },
     {
       "title": "The-OpenROAD-Project / OpenROAD",
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 3010,
+      "stars": 3017,
+      "forks": 991,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "OpenPOWERFoundation / a2o",
+      "url": "https://github.com/OpenPOWERFoundation/a2o",
+      "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 56,
+      "forks": 13,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "YosysHQ / picorv32",
+      "url": "https://github.com/YosysHQ/picorv32",
+      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 4355,
       "forks": 992,
-      "added_stars": "5 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "The-OpenROAD-Project / OpenSTA",
@@ -21,17 +51,7 @@
       "language": "Verilog",
       "languageColor": "#b2b7f8",
       "stars": 609,
-      "forks": 268,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "analogdevicesinc / hdl",
-      "url": "https://github.com/analogdevicesinc/hdl",
-      "description": "HDL libraries and projects",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 1999,
-      "forks": 1675,
+      "forks": 269,
       "added_stars": "0 stars today"
     }
   ]

@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 24 Aug 2026 03:00:59 GMT</pubDate>
+  <pubDate>Tue, 25 Aug 2026 02:55:09 GMT</pubDate>
   <item>
     <title>bazelbuild / bazel-central-registry</title>
     <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -21,19 +21,9 @@
     <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
   <item>
-    <title>cel-expr / cel-spec</title>
-    <link>https://github.com/cel-expr/cel-spec</link>
-    <description>Common Expression Language -- specification and binary representation</description>
-  </item>
-  <item>
     <title>tronbyt / apps</title>
     <link>https://github.com/tronbyt/apps</link>
     <description>Hard Fork of Tidbyt Community Repo</description>
-  </item>
-  <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
   </item>
   <item>
     <title>openconfig / gnoi</title>
@@ -41,14 +31,29 @@
     <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
   <item>
+    <title>GoogleContainerTools / distroless</title>
+    <link>https://github.com/GoogleContainerTools/distroless</link>
+    <description>🥑 Language focused docker images, minus the operating system.</description>
+  </item>
+  <item>
+    <title>cel-expr / cel-spec</title>
+    <link>https://github.com/cel-expr/cel-spec</link>
+    <description>Common Expression Language -- specification and binary representation</description>
+  </item>
+  <item>
     <title>googleapis / api-common-protos</title>
     <link>https://github.com/googleapis/api-common-protos</link>
     <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
   <item>
-    <title>GoogleContainerTools / distroless</title>
-    <link>https://github.com/GoogleContainerTools/distroless</link>
-    <description>🥑 Language focused docker images, minus the operating system.</description>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
+  </item>
+  <item>
+    <title>aspect-build / rules_lint</title>
+    <link>https://github.com/aspect-build/rules_lint</link>
+    <description>Run static analysis tools with Bazel</description>
   </item>
 </channel>
 </rss>

@@ -2,47 +2,27 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 24 Aug 2026 03:00:59 GMT",
+  "pubDate": "Tue, 25 Aug 2026 02:55:09 GMT",
   "items": [
-    {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1089,
-      "forks": 56,
-      "added_stars": "31 stars this week"
-    },
     {
       "title": "ROCm / rocm-libraries",
       "url": "https://github.com/ROCm/rocm-libraries",
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 409,
+      "stars": 410,
       "forks": 381,
-      "added_stars": "6 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "cirosantilli / x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "title": "RibShark / OmniDrive",
+      "url": "https://github.com/RibShark/OmniDrive",
+      "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 5340,
-      "forks": 429,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 480,
-      "forks": 223,
-      "added_stars": "2 stars this week"
+      "stars": 1090,
+      "forks": 56,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "riscv / riscv-arch-test",
@@ -50,9 +30,19 @@
       "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 772,
+      "stars": 773,
       "forks": 352,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "cirosantilli / x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 5341,
+      "forks": 429,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "vxunderground / MalwareSourceCode",
@@ -60,9 +50,19 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18664,
+      "stars": 18668,
       "forks": 2095,
-      "added_stars": "31 stars this week"
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 481,
+      "forks": 224,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "apple / swift-nio-ssl",
@@ -80,19 +80,9 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3073,
-      "forks": 1002,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6389,
-      "forks": 472,
-      "added_stars": "17 stars this week"
+      "stars": 3076,
+      "forks": 1001,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "pret / pokered",
@@ -100,9 +90,39 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4891,
+      "stars": 4890,
       "forks": 1289,
-      "added_stars": "14 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 6390,
+      "forks": 472,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "hasherezade / malware_training_vol1",
+      "url": "https://github.com/hasherezade/malware_training_vol1",
+      "description": "Materials for Windows Malware Analysis training (volume 1)",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2097,
+      "forks": 207,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 817,
+      "forks": 206,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "cRz-Shadows / Pokemon_Crystal_Legacy",
@@ -115,24 +135,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2495,
-      "forks": 969,
-      "added_stars": "4 stars this week"
-    },
-    {
       "title": "ebitengine / purego",
       "url": "https://github.com/ebitengine/purego",
       "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3801,
+      "stars": 3803,
       "forks": 124,
-      "added_stars": "16 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
       "title": "bitdump / BLHeli",
@@ -143,36 +153,6 @@
       "stars": 2223,
       "forks": 1148,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "cemu-project / cemu_graphic_packs",
-      "url": "https://github.com/cemu-project/cemu_graphic_packs",
-      "description": "Community Graphic Packs for Cemu",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1470,
-      "forks": 598,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "joaorb64 / smashremix-plus-extra",
-      "url": "https://github.com/joaorb64/smashremix-plus-extra",
-      "description": "Modding engine for Smash Remix",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 112,
-      "forks": 8,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 818,
-      "forks": 204,
-      "added_stars": "3 stars this week"
     }
   ]
 }
