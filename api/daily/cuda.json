@@ -2,17 +2,57 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 25 Aug 2026 02:54:01 GMT",
+  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
   "items": [
+    {
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 7735,
+      "forks": 1212,
+      "added_stars": "7 stars today"
+    },
     {
       "title": "thu-ml / SageAttention",
       "url": "https://github.com/thu-ml/SageAttention",
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3675,
-      "forks": 486,
-      "added_stars": "6 stars today"
+      "stars": 3683,
+      "forks": 487,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10062,
+      "forks": 1410,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1634,
+      "forks": 399,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3659,
+      "forks": 318,
+      "added_stars": "2 stars today"
     },
     {
       "title": "NVIDIA / cub",
@@ -25,24 +65,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1633,
-      "forks": 399,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10056,
-      "forks": 1406,
-      "added_stars": "4 stars today"
+      "stars": 17533,
+      "forks": 2066,
+      "added_stars": "2 stars today"
     },
     {
       "title": "karpathy / llm.c",
@@ -50,19 +80,19 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30859,
-      "forks": 3739,
-      "added_stars": "6 stars today"
+      "stars": 30869,
+      "forks": 3742,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "title": "NVIDIA / cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2448,
-      "forks": 241,
-      "added_stars": "2 stars today"
+      "stars": 840,
+      "forks": 226,
+      "added_stars": "0 stars today"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -72,17 +102,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1315,
       "forks": 264,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "MoonshotAI / FlashKDA",
-      "url": "https://github.com/MoonshotAI/FlashKDA",
-      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1228,
-      "forks": 118,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     }
   ]
 }

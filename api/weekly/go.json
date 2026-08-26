@@ -2,117 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 25 Aug 2026 02:55:09 GMT",
+  "pubDate": "Wed, 26 Aug 2026 03:01:56 GMT",
   "items": [
-    {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 39224,
-      "forks": 8103,
-      "added_stars": "1,872 stars this week"
-    },
     {
       "title": "agent-substrate / substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1616,
-      "forks": 268,
-      "added_stars": "384 stars this week"
+      "stars": 1628,
+      "forks": 272,
+      "added_stars": "385 stars this week"
     },
     {
-      "title": "compozy / compozy",
-      "url": "https://github.com/compozy/compozy",
-      "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2671,
-      "forks": 168,
-      "added_stars": "71 stars this week"
-    },
-    {
-      "title": "henrygd / beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24627,
-      "forks": 971,
-      "added_stars": "308 stars this week"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20546,
-      "forks": 2947,
-      "added_stars": "570 stars this week"
-    },
-    {
-      "title": "coreybutler / nvm-windows",
-      "url": "https://github.com/coreybutler/nvm-windows",
-      "description": "A node.js version management utility for Windows. Ironically written in Go.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 47465,
-      "forks": 3875,
-      "added_stars": "104 stars this week"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 179358,
-      "forks": 17546,
-      "added_stars": "672 stars this week"
-    },
-    {
-      "title": "go-task / task",
-      "url": "https://github.com/go-task/task",
-      "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16034,
-      "forks": 889,
-      "added_stars": "55 stars this week"
-    },
-    {
-      "title": "avelino / awesome-go",
-      "url": "https://github.com/avelino/awesome-go",
-      "description": "A curated list of awesome Go frameworks, libraries and software",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 182161,
-      "forks": 13504,
-      "added_stars": "912 stars this week"
-    },
-    {
-      "title": "entireio / cli",
-      "url": "https://github.com/entireio/cli",
-      "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5006,
-      "forks": 394,
-      "added_stars": "62 stars this week"
-    },
-    {
-      "title": "QuantumNous / new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46153,
-      "forks": 10963,
-      "added_stars": "805 stars this week"
+      "stars": 39390,
+      "forks": 8134,
+      "added_stars": "1,907 stars this week"
     },
     {
       "title": "bjarneo / cliamp",
@@ -120,19 +30,39 @@
       "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3652,
-      "forks": 207,
-      "added_stars": "476 stars this week"
+      "stars": 3716,
+      "forks": 213,
+      "added_stars": "492 stars this week"
     },
     {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "title": "compozy / compozy",
+      "url": "https://github.com/compozy/compozy",
+      "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 110663,
-      "forks": 13761,
-      "added_stars": "521 stars this week"
+      "stars": 2682,
+      "forks": 168,
+      "added_stars": "81 stars this week"
+    },
+    {
+      "title": "rorkai / App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6226,
+      "forks": 543,
+      "added_stars": "282 stars this week"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20630,
+      "forks": 2962,
+      "added_stars": "608 stars this week"
     },
     {
       "title": "golangci / golangci-lint",
@@ -140,29 +70,49 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19311,
+      "stars": 19318,
       "forks": 1620,
-      "added_stars": "56 stars this week"
+      "added_stars": "52 stars this week"
     },
     {
-      "title": "zzet / gortex",
-      "url": "https://github.com/zzet/gortex",
-      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1479,
-      "forks": 134,
-      "added_stars": "298 stars this week"
+      "stars": 110686,
+      "forks": 13763,
+      "added_stars": "527 stars this week"
     },
     {
-      "title": "pocket-id / pocket-id",
-      "url": "https://github.com/pocket-id/pocket-id",
-      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+      "title": "go-task / task",
+      "url": "https://github.com/go-task/task",
+      "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9009,
-      "forks": 304,
+      "stars": 16050,
+      "forks": 890,
+      "added_stars": "60 stars this week"
+    },
+    {
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34271,
+      "forks": 2965,
       "added_stars": "154 stars this week"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45319,
+      "forks": 8714,
+      "added_stars": "450 stars this week"
     },
     {
       "title": "authelia / authelia",
@@ -170,19 +120,49 @@
       "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28682,
-      "forks": 1471,
-      "added_stars": "84 stars this week"
+      "stars": 28697,
+      "forks": 1474,
+      "added_stars": "79 stars this week"
     },
     {
-      "title": "shadow1ng / fscan",
-      "url": "https://github.com/shadow1ng/fscan",
-      "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)",
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14437,
-      "forks": 1938,
-      "added_stars": "126 stars this week"
+      "stars": 46285,
+      "forks": 10997,
+      "added_stars": "812 stars this week"
+    },
+    {
+      "title": "entireio / cli",
+      "url": "https://github.com/entireio/cli",
+      "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5011,
+      "forks": 393,
+      "added_stars": "55 stars this week"
+    },
+    {
+      "title": "evolution-foundation / evolution-go",
+      "url": "https://github.com/evolution-foundation/evolution-go",
+      "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 740,
+      "forks": 377,
+      "added_stars": "109 stars this week"
+    },
+    {
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7140,
+      "forks": 1469,
+      "added_stars": "48 stars this week"
     },
     {
       "title": "github / gh-aw",
@@ -190,9 +170,19 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4991,
-      "forks": 504,
-      "added_stars": "56 stars this week"
+      "stars": 5000,
+      "forks": 505,
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "kopia / kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 13965,
+      "forks": 712,
+      "added_stars": "74 stars this week"
     }
   ]
 }

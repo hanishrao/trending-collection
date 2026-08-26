@@ -2,17 +2,27 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 25 Aug 2026 02:54:01 GMT",
+  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
   "items": [
+    {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 3367,
+      "forks": 490,
+      "added_stars": "1 star today"
+    },
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27232,
+      "stars": 27234,
       "forks": 12406,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -22,6 +32,16 @@
       "languageColor": "#AA6746",
       "stars": 1053,
       "forks": 519,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 222,
+      "forks": 43,
       "added_stars": "0 stars today"
     },
     {
@@ -35,63 +55,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3365,
-      "forks": 490,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "a16z / erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 222,
-      "forks": 43,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4288,
-      "forks": 706,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GNSPS / solidity-bytes-utils",
-      "url": "https://github.com/GNSPS/solidity-bytes-utils",
-      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 562,
-      "forks": 113,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "aave-dao / aave-v3-origin",
-      "url": "https://github.com/aave-dao/aave-v3-origin",
-      "description": "Aave V3 Protocol",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 290,
-      "forks": 225,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 516,
-      "forks": 57,
+      "stars": 748,
+      "forks": 1038,
       "added_stars": "0 stars today"
     },
     {
@@ -115,33 +85,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
+      "title": "aave-dao / aave-v3-origin",
+      "url": "https://github.com/aave-dao/aave-v3-origin",
+      "description": "Aave V3 Protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 199,
-      "forks": 122,
+      "stars": 290,
+      "forks": 225,
       "added_stars": "0 stars today"
     },
     {
-      "title": "OffchainLabs / nitro-contracts",
-      "url": "https://github.com/OffchainLabs/nitro-contracts",
-      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 151,
-      "forks": 159,
+      "stars": 4288,
+      "forks": 706,
       "added_stars": "0 stars today"
     },
     {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho Vault V2",
+      "title": "dmfxyz / murky",
+      "url": "https://github.com/dmfxyz/murky",
+      "description": "Merkle Proof Generator and Validator in Solidity",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 96,
-      "forks": 71,
+      "stars": 516,
+      "forks": 57,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 562,
+      "forks": 113,
       "added_stars": "0 stars today"
     },
     {
@@ -151,28 +131,38 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 946,
-      "forks": 294,
+      "forks": 295,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho Vault V2",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2527,
-      "forks": 1312,
+      "stars": 97,
+      "forks": 71,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 748,
-      "forks": 1038,
-      "added_stars": "2 stars today"
+      "stars": 904,
+      "forks": 659,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "OffchainLabs / nitro-contracts",
+      "url": "https://github.com/OffchainLabs/nitro-contracts",
+      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 151,
+      "forks": 158,
+      "added_stars": "0 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 25 Aug 2026 02:54:01 GMT",
+  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
   "items": [
     {
       "title": "leanprover-community / mathlib4",
@@ -10,19 +10,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3937,
-      "forks": 1619,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 8898,
-      "forks": 945,
-      "added_stars": "7 stars today"
+      "stars": 3945,
+      "forks": 1621,
+      "added_stars": "8 stars today"
     },
     {
       "title": "LionSR / TNLean",
@@ -35,6 +25,46 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1663,
+      "forks": 289,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 8909,
+      "forks": 949,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 670,
+      "forks": 187,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "leanprover-community / aesop",
+      "url": "https://github.com/leanprover-community/aesop",
+      "description": "White-box automation for Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 400,
+      "forks": 60,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -42,16 +72,6 @@
       "languageColor": "#ccc",
       "stars": 417,
       "forks": 159,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 36,
-      "forks": 11,
       "added_stars": "0 stars today"
     },
     {
@@ -65,36 +85,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 118,
-      "forks": 28,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 399,
-      "forks": 60,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "teorth / analysis",
-      "url": "https://github.com/teorth/analysis",
-      "description": "A Lean companion to Analysis I",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1872,
-      "forks": 261,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "leanprover-community / ProofWidgets4",
       "url": "https://github.com/leanprover-community/ProofWidgets4",
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
@@ -102,6 +92,16 @@
       "languageColor": "#ccc",
       "stars": 222,
       "forks": 47,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 118,
+      "forks": 28,
       "added_stars": "0 stars today"
     },
     {
@@ -115,43 +115,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1198,
-      "forks": 425,
+      "stars": 36,
+      "forks": 11,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 710,
+      "forks": 172,
       "added_stars": "1 star today"
     },
     {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
+      "title": "AlexKontorovich / PrimeNumberTheoremAnd",
+      "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+      "description": "Blueprint for the PNT+ Project",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 668,
-      "forks": 187,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "leanprover / comparator",
-      "url": "https://github.com/leanprover/comparator",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 152,
-      "forks": 27,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Verified-zkEVM / evm-asm",
-      "url": "https://github.com/Verified-zkEVM/evm-asm",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 54,
-      "forks": 13,
+      "stars": 340,
+      "forks": 115,
       "added_stars": "0 stars today"
     }
   ]
