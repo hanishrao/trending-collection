@@ -4,11 +4,16 @@
   <title>GitHub Mdx Languages Daily Trending</title>
   <description>Daily Trending of Mdx Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 26 Aug 2026 03:01:56 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 12:18:24 GMT</pubDate>
   <item>
     <title>thedaviddias / Front-End-Checklist</title>
     <link>https://github.com/thedaviddias/Front-End-Checklist</link>
     <description>🗂 The essential checklist for modern web development, for humans and AI agents</description>
+  </item>
+  <item>
+    <title>cloudflare / cloudflare-docs</title>
+    <link>https://github.com/cloudflare/cloudflare-docs</link>
+    <description>Cloudflare’s documentation</description>
   </item>
   <item>
     <title>huggingface / agents-course</title>
@@ -26,29 +31,9 @@
     <description>Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. 40 built-in policies, a local dashboard, no account required with a generous free cloud plan</description>
   </item>
   <item>
-    <title>dair-ai / Prompt-Engineering-Guide</title>
-    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
-  </item>
-  <item>
-    <title>wasp-lang / open-saas</title>
-    <link>https://github.com/wasp-lang/open-saas</link>
-    <description>A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.</description>
-  </item>
-  <item>
     <title>langfuse / langfuse-docs</title>
     <link>https://github.com/langfuse/langfuse-docs</link>
     <description>🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps</description>
-  </item>
-  <item>
-    <title>Comfy-Org / docs</title>
-    <link>https://github.com/Comfy-Org/docs</link>
-    <description>Documentation for ComfyUI</description>
-  </item>
-  <item>
-    <title>cloudflare / cloudflare-docs</title>
-    <link>https://github.com/cloudflare/cloudflare-docs</link>
-    <description>Cloudflare’s documentation</description>
   </item>
   <item>
     <title>hashicorp / web-unified-docs</title>
@@ -56,24 +41,19 @@
     <description>Hashicorp Unified Docs</description>
   </item>
   <item>
+    <title>Comfy-Org / docs</title>
+    <link>https://github.com/Comfy-Org/docs</link>
+    <description>Documentation for ComfyUI</description>
+  </item>
+  <item>
+    <title>CachyOS / wiki</title>
+    <link>https://github.com/CachyOS/wiki</link>
+    <description>Wiki for CachyOS</description>
+  </item>
+  <item>
     <title>solana-foundation / solana-com</title>
     <link>https://github.com/solana-foundation/solana-com</link>
     <description>The solana.com website.</description>
-  </item>
-  <item>
-    <title>pipecat-ai / docs</title>
-    <link>https://github.com/pipecat-ai/docs</link>
-    <description>Official Pipecat docs repo</description>
-  </item>
-  <item>
-    <title>npm / documentation</title>
-    <link>https://github.com/npm/documentation</link>
-    <description>Documentation for the npm registry, website, and command-line interface.</description>
-  </item>
-  <item>
-    <title>EnterpriseDB / docs</title>
-    <link>https://github.com/EnterpriseDB/docs</link>
-    <description>EDB Docs</description>
   </item>
   <item>
     <title>langchain-ai / docs</title>
@@ -81,14 +61,34 @@
     <description>Unified LangChain documentation.</description>
   </item>
   <item>
-    <title>detekt / detekt</title>
-    <link>https://github.com/detekt/detekt</link>
-    <description>Static code analysis for Kotlin</description>
+    <title>dair-ai / Prompt-Engineering-Guide</title>
+    <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+    <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
   </item>
   <item>
-    <title>all-contributors / allcontributors.org</title>
-    <link>https://github.com/all-contributors/allcontributors.org</link>
-    <description>✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨</description>
+    <title>cpinitiative / usaco-guide</title>
+    <link>https://github.com/cpinitiative/usaco-guide</link>
+    <description>A free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond.</description>
+  </item>
+  <item>
+    <title>camunda / camunda-docs</title>
+    <link>https://github.com/camunda/camunda-docs</link>
+    <description>Camunda 8 Documentation, including all components and features</description>
+  </item>
+  <item>
+    <title>ionic-team / capacitor-docs</title>
+    <link>https://github.com/ionic-team/capacitor-docs</link>
+    <description></description>
+  </item>
+  <item>
+    <title>mintlify / docs</title>
+    <link>https://github.com/mintlify/docs</link>
+    <description>Official Mintlify documentation</description>
+  </item>
+  <item>
+    <title>esphome / esphome.io</title>
+    <link>https://github.com/esphome/esphome.io</link>
+    <description>Source for esphome.io documentation files.</description>
   </item>
   <item>
     <title>openui / open-ui</title>
@@ -96,14 +96,14 @@
     <description>Maintain an open standard for UI and promote its adherence and adoption.</description>
   </item>
   <item>
-    <title>newrelic / docs-website</title>
-    <link>https://github.com/newrelic/docs-website</link>
-    <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+    <title>getsentry / sentry-docs</title>
+    <link>https://github.com/getsentry/sentry-docs</link>
+    <description>Sentry&#x27;s documentation (and tools to build it)</description>
   </item>
   <item>
-    <title>CachyOS / wiki</title>
-    <link>https://github.com/CachyOS/wiki</link>
-    <description>Wiki for CachyOS</description>
+    <title>LibreChat-AI / librechat.ai</title>
+    <link>https://github.com/LibreChat-AI/librechat.ai</link>
+    <description>Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai</description>
   </item>
 </channel>
 </rss>

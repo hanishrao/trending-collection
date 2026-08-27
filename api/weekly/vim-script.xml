@@ -4,16 +4,21 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 26 Aug 2026 03:01:56 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 12:18:24 GMT</pubDate>
+  <item>
+    <title>vim / vim</title>
+    <link>https://github.com/vim/vim</link>
+    <description>The official Vim repository</description>
+  </item>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
     <title>junegunn / vim-plug</title>
@@ -26,9 +31,9 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
   </item>
   <item>
     <title>tpope / vim-eunuch</title>
@@ -36,9 +41,24 @@
     <description>eunuch.vim: Helpers for UNIX</description>
   </item>
   <item>
-    <title>dracula / vim</title>
-    <link>https://github.com/dracula/vim</link>
-    <description>🧛🏻‍♂️ Dark theme for Vim</description>
+    <title>sainnhe / gruvbox-material</title>
+    <link>https://github.com/sainnhe/gruvbox-material</link>
+    <description>Gruvbox with Material Palette</description>
+  </item>
+  <item>
+    <title>fatih / vim-go</title>
+    <link>https://github.com/fatih/vim-go</link>
+    <description>Go development plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+  </item>
+  <item>
+    <title>vim-test / vim-test</title>
+    <link>https://github.com/vim-test/vim-test</link>
+    <description>Run your tests at the speed of thought</description>
   </item>
   <item>
     <title>preservim / nerdtree</title>
@@ -51,24 +71,14 @@
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
-    <title>godlygeek / tabular</title>
-    <link>https://github.com/godlygeek/tabular</link>
-    <description>Vim script for text filtering and alignment</description>
-  </item>
-  <item>
     <title>sainnhe / everforest</title>
     <link>https://github.com/sainnhe/everforest</link>
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>mbbill / undotree</title>
-    <link>https://github.com/mbbill/undotree</link>
-    <description>The undo history visualizer for VIM</description>
+    <title>prabirshrestha / vim-lsp</title>
+    <link>https://github.com/prabirshrestha/vim-lsp</link>
+    <description>async language server protocol plugin for vim and neovim</description>
   </item>
 </channel>
 </rss>

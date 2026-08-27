@@ -2,16 +2,36 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
   "items": [
     {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5169,
-      "forks": 1396,
+      "stars": 24563,
+      "forks": 4837,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "MatthewZMD / aidermacs",
+      "url": "https://github.com/MatthewZMD/aidermacs",
+      "description": "AI Pair Programming in Emacs with Aider",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 925,
+      "forks": 79,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22620,
+      "forks": 3156,
       "added_stars": "2 stars today"
     },
     {
@@ -20,49 +40,19 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 900,
-      "forks": 53,
-      "added_stars": "3 stars today"
+      "stars": 906,
+      "forks": 55,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22619,
-      "forks": 3156,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 24561,
-      "forks": 4837,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1774,
-      "forks": 221,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3500,
-      "forks": 426,
-      "added_stars": "3 stars today"
+      "stars": 7211,
+      "forks": 878,
+      "added_stars": "2 stars today"
     },
     {
       "title": "magit / transient",
@@ -70,8 +60,38 @@
       "description": "Transient commands",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 885,
+      "stars": 886,
       "forks": 73,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3503,
+      "forks": 426,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "magnars / dash.el",
+      "url": "https://github.com/magnars/dash.el",
+      "description": "A modern list library for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1745,
+      "forks": 138,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2965,
+      "forks": 2804,
       "added_stars": "0 stars today"
     },
     {
@@ -80,18 +100,28 @@
       "description": "Emacs frontend for the Pi coding agent",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 266,
+      "stars": 268,
       "forks": 33,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5170,
+      "forks": 1396,
       "added_stars": "0 stars today"
     },
     {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "title": "emacs-evil / evil",
+      "url": "https://github.com/emacs-evil/evil",
+      "description": "The extensible vi layer for Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7209,
-      "forks": 878,
+      "stars": 3839,
+      "forks": 305,
       "added_stars": "0 stars today"
     }
   ]

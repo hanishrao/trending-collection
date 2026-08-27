@@ -2,147 +2,47 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
   "items": [
+    {
+      "title": "zedeus / nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 13632,
+      "forks": 1071,
+      "added_stars": "63 stars today"
+    },
     {
       "title": "freestylefly / awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18433,
-      "forks": 1892,
-      "added_stars": "1,698 stars today"
+      "stars": 22491,
+      "forks": 2247,
+      "added_stars": "4,050 stars today"
     },
     {
-      "title": "anthropics / claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1815,
-      "forks": 181,
-      "added_stars": "351 stars today"
-    },
-    {
-      "title": "MadsLorentzen / ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 35426,
-      "forks": 12168,
-      "added_stars": "1,265 stars today"
-    },
-    {
-      "title": "apache / maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3397,
-      "forks": 336,
-      "added_stars": "543 stars today"
-    },
-    {
-      "title": "TauricResearch / TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 100333,
-      "forks": 19358,
-      "added_stars": "218 stars today"
-    },
-    {
-      "title": "AgriciDaniel / claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12806,
-      "forks": 1383,
-      "added_stars": "813 stars today"
-    },
-    {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 49091,
-      "forks": 8573,
-      "added_stars": "569 stars today"
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37821,
-      "forks": 3737,
-      "added_stars": "542 stars today"
-    },
-    {
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 31369,
-      "forks": 3185,
-      "added_stars": "1,083 stars today"
-    },
-    {
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 134288,
-      "forks": 19745,
-      "added_stars": "161 stars today"
-    },
-    {
-      "title": "multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "all",
-      "languageColor": null,
-      "stars": 207274,
-      "forks": 21146,
-      "added_stars": "830 stars today"
-    },
-    {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 118220,
-      "forks": 18013,
-      "added_stars": "1,181 stars today"
-    },
-    {
-      "title": "marin-community / marin",
-      "url": "https://github.com/marin-community/marin",
-      "description": "Open-source framework for the research and development of foundation models.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2172,
-      "forks": 196,
-      "added_stars": "231 stars today"
-    },
-    {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 111187,
-      "forks": 6109,
-      "added_stars": "982 stars today"
+      "stars": 21016,
+      "forks": 1377,
+      "added_stars": "1,035 stars today"
+    },
+    {
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1861,
+      "forks": 53,
+      "added_stars": "314 stars today"
     },
     {
       "title": "anthropics / claude-plugins-official",
@@ -150,19 +50,139 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 34122,
-      "forks": 3872,
-      "added_stars": "55 stars today"
+      "stars": 34502,
+      "forks": 3899,
+      "added_stars": "308 stars today"
     },
     {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2831,
-      "forks": 128,
-      "added_stars": "98 stars today"
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 35009,
+      "forks": 3377,
+      "added_stars": "138 stars today"
+    },
+    {
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 113435,
+      "forks": 6201,
+      "added_stars": "1,598 stars today"
+    },
+    {
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 51828,
+      "forks": 6507,
+      "added_stars": "1,284 stars today"
+    },
+    {
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 49896,
+      "forks": 8673,
+      "added_stars": "838 stars today"
+    },
+    {
+      "title": "ConardLi / garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": 11162,
+      "forks": 1400,
+      "added_stars": "113 stars today"
+    },
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 92021,
+      "forks": 8097,
+      "added_stars": "133 stars today"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 38967,
+      "forks": 10859,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13725,
+      "forks": 1414,
+      "added_stars": "810 stars today"
+    },
+    {
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2594,
+      "forks": 221,
+      "added_stars": "441 stars today"
+    },
+    {
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 73429,
+      "forks": 8422,
+      "added_stars": "125 stars today"
+    },
+    {
+      "title": "actions / checkout",
+      "url": "https://github.com/actions/checkout",
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8666,
+      "forks": 2750,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 87118,
+      "forks": 8598,
+      "added_stars": "1,040 stars today"
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 100873,
+      "forks": 19440,
+      "added_stars": "707 stars today"
     }
   ]
 }

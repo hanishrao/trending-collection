@@ -2,27 +2,37 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 03:01:56 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:18:24 GMT",
   "items": [
-    {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 101959,
-      "forks": 7052,
-      "added_stars": "170 stars this week"
-    },
     {
       "title": "vim / vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40800,
-      "forks": 6124,
-      "added_stars": "49 stars this week"
+      "stars": 40806,
+      "forks": 6126,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 101991,
+      "forks": 7052,
+      "added_stars": "184 stars this week"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11685,
+      "forks": 802,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "junegunn / vim-plug",
@@ -32,7 +42,7 @@
       "languageColor": "#199f4b",
       "stars": 35751,
       "forks": 1934,
-      "added_stars": "15 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
       "title": "derekhe / msfs2020-map-enhancement",
@@ -45,14 +55,14 @@
       "added_stars": "5 stars this week"
     },
     {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
+      "title": "mhinz / vim-galore",
+      "url": "https://github.com/mhinz/vim-galore",
+      "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11683,
-      "forks": 798,
-      "added_stars": "6 stars this week"
+      "stars": 17962,
+      "forks": 627,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "tpope / vim-eunuch",
@@ -65,33 +75,23 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "dracula / vim",
-      "url": "https://github.com/dracula/vim",
-      "description": "🧛🏻‍♂️ Dark theme for Vim",
+      "title": "sainnhe / gruvbox-material",
+      "url": "https://github.com/sainnhe/gruvbox-material",
+      "description": "Gruvbox with Material Palette",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 1391,
-      "forks": 449,
-      "added_stars": "1 star this week"
+      "stars": 2633,
+      "forks": 190,
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "preservim / nerdtree",
-      "url": "https://github.com/preservim/nerdtree",
-      "description": "A tree explorer plugin for vim.",
+      "title": "fatih / vim-go",
+      "url": "https://github.com/fatih/vim-go",
+      "description": "Go development plugin for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 20089,
-      "forks": 1438,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "dense-analysis / ale",
-      "url": "https://github.com/dense-analysis/ale",
-      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14016,
-      "forks": 1485,
+      "stars": 16216,
+      "forks": 1428,
       "added_stars": "2 stars this week"
     },
     {
@@ -100,19 +100,39 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21763,
+      "stars": 21768,
       "forks": 1078,
-      "added_stars": "14 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "godlygeek / tabular",
-      "url": "https://github.com/godlygeek/tabular",
-      "description": "Vim script for text filtering and alignment",
+      "title": "vim-test / vim-test",
+      "url": "https://github.com/vim-test/vim-test",
+      "description": "Run your tests at the speed of thought",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 2661,
-      "forks": 163,
-      "added_stars": "2 stars this week"
+      "stars": 3166,
+      "forks": 409,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "preservim / nerdtree",
+      "url": "https://github.com/preservim/nerdtree",
+      "description": "A tree explorer plugin for vim.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 20090,
+      "forks": 1438,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "dense-analysis / ale",
+      "url": "https://github.com/dense-analysis/ale",
+      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14017,
+      "forks": 1485,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "sainnhe / everforest",
@@ -120,19 +140,19 @@
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4181,
+      "stars": 4184,
       "forks": 144,
-      "added_stars": "10 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
-      "title": "mbbill / undotree",
-      "url": "https://github.com/mbbill/undotree",
-      "description": "The undo history visualizer for VIM",
+      "title": "prabirshrestha / vim-lsp",
+      "url": "https://github.com/prabirshrestha/vim-lsp",
+      "description": "async language server protocol plugin for vim and neovim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4539,
-      "forks": 119,
-      "added_stars": "0 stars this week"
+      "stars": 3409,
+      "forks": 327,
+      "added_stars": "3 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 03:03:07 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:20:40 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,7 +10,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4999,
+      "stars": 4998,
       "forks": 4409,
       "added_stars": "19 stars this month"
     },
@@ -32,7 +32,7 @@
       "languageColor": "#844FBA",
       "stars": 3257,
       "forks": 4624,
-      "added_stars": "9 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -40,9 +40,9 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2088,
+      "stars": 2089,
       "forks": 1259,
-      "added_stars": "19 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -52,7 +52,17 @@
       "languageColor": "#844FBA",
       "stars": 1276,
       "forks": 1280,
-      "added_stars": "4 stars this month"
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1235,
+      "forks": 582,
+      "added_stars": "27 stars this month"
     },
     {
       "title": "hashicorp / agent-skills",
@@ -62,17 +72,7 @@
       "languageColor": "#844FBA",
       "stars": 847,
       "forks": 125,
-      "added_stars": "89 stars this month"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1234,
-      "forks": 580,
-      "added_stars": "26 stars this month"
+      "added_stars": "87 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -82,6 +82,16 @@
       "languageColor": "#844FBA",
       "stars": 1045,
       "forks": 774,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "bridgecrewio / checkov-action",
+      "url": "https://github.com/bridgecrewio/checkov-action",
+      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 314,
+      "forks": 113,
       "added_stars": "2 stars this month"
     }
   ]

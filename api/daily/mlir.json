@@ -2,17 +2,27 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
   "items": [
+    {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 20022,
+      "forks": 3141,
+      "added_stars": "13 stars today"
+    },
     {
       "title": "triton-lang / triton-ascend",
       "url": "https://github.com/triton-lang/triton-ascend",
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 145,
-      "forks": 196,
-      "added_stars": "3 stars today"
+      "stars": 146,
+      "forks": 197,
+      "added_stars": "1 star today"
     },
     {
       "title": "google / heir",
@@ -20,39 +30,9 @@
       "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 874,
-      "forks": 162,
+      "stars": 877,
+      "forks": 164,
       "added_stars": "3 stars today"
-    },
-    {
-      "title": "triton-lang / triton",
-      "url": "https://github.com/triton-lang/triton",
-      "description": "Development repository for the Triton language and compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 20007,
-      "forks": 3139,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "facebookexperimental / triton",
-      "url": "https://github.com/facebookexperimental/triton",
-      "description": "Github mirror of trition-lang/triton repo.",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 192,
-      "forks": 67,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openxla / stablehlo",
-      "url": "https://github.com/openxla/stablehlo",
-      "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 687,
-      "forks": 219,
-      "added_stars": "2 stars today"
     }
   ]
 }

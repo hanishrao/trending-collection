@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 03:03:07 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:20:40 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,9 +10,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23030,
-      "forks": 1435,
-      "added_stars": "170 stars this month"
+      "stars": 23039,
+      "forks": 1434,
+      "added_stars": "177 stars this month"
     },
     {
       "title": "googleapis / googleapis",
@@ -20,8 +20,8 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8715,
-      "forks": 2622,
+      "stars": 8716,
+      "forks": 2623,
       "added_stars": "69 stars this month"
     },
     {
@@ -30,9 +30,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3953,
-      "forks": 303,
-      "added_stars": "52 stars this month"
+      "stars": 3954,
+      "forks": 304,
+      "added_stars": "53 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -40,9 +40,9 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 382,
+      "stars": 383,
       "forks": 857,
-      "added_stars": "5 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -53,16 +53,6 @@
       "stars": 686,
       "forks": 715,
       "added_stars": "6 stars this month"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 835,
-      "forks": 644,
-      "added_stars": "12 stars this month"
     },
     {
       "title": "bazel-contrib / rules_distroless",
@@ -82,17 +72,17 @@
       "languageColor": "#76d275",
       "stars": 370,
       "forks": 281,
-      "added_stars": "1 star this month"
+      "added_stars": "0 stars this month"
     },
     {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 143,
-      "forks": 97,
-      "added_stars": "1 star this month"
+      "stars": 835,
+      "forks": 644,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -105,6 +95,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 590,
+      "forks": 336,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "grpc / grpc-proto",
       "url": "https://github.com/grpc/grpc-proto",
       "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
@@ -115,34 +115,24 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "title": "aspect-build / rules_py",
+      "url": "https://github.com/aspect-build/rules_py",
+      "description": "More compatible Bazel rules for running Python tools and building Python projects",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 425,
-      "forks": 810,
+      "stars": 144,
+      "forks": 97,
       "added_stars": "2 stars this month"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 590,
-      "forks": 335,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 193,
-      "forks": 87,
-      "added_stars": "1 star this month"
+      "stars": 247,
+      "forks": 192,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "bazelbuild / examples",

@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 26 Aug 2026 02:59:59 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 12:16:12 GMT</pubDate>
   <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
@@ -16,39 +16,9 @@
     <description>Public interface definitions of Google APIs.</description>
   </item>
   <item>
-    <title>tronbyt / apps</title>
-    <link>https://github.com/tronbyt/apps</link>
-    <description>Hard Fork of Tidbyt Community Repo</description>
-  </item>
-  <item>
-    <title>uber / hermetic_cc_toolchain</title>
-    <link>https://github.com/uber/hermetic_cc_toolchain</link>
-    <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
-  </item>
-  <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
-  </item>
-  <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
-  </item>
-  <item>
-    <title>bazel-contrib / rules_distroless</title>
-    <link>https://github.com/bazel-contrib/rules_distroless</link>
-    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
-  </item>
-  <item>
-    <title>bazel-contrib / toolchains_llvm</title>
-    <link>https://github.com/bazel-contrib/toolchains_llvm</link>
-    <description>LLVM toolchain for bazel</description>
-  </item>
-  <item>
-    <title>bazel-contrib / rules_perl</title>
-    <link>https://github.com/bazel-contrib/rules_perl</link>
-    <description>Perl rules for Bazel</description>
+    <title>tilt-dev / tilt-extensions</title>
+    <link>https://github.com/tilt-dev/tilt-extensions</link>
+    <description>Extensions for Tilt</description>
   </item>
   <item>
     <title>openconfig / gnoi</title>
@@ -56,19 +26,34 @@
     <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
   <item>
-    <title>tilt-dev / tilt-extensions</title>
-    <link>https://github.com/tilt-dev/tilt-extensions</link>
-    <description>Extensions for Tilt</description>
+    <title>bazel-contrib / rules_perl</title>
+    <link>https://github.com/bazel-contrib/rules_perl</link>
+    <description>Perl rules for Bazel</description>
   </item>
   <item>
-    <title>bazelbuild / bazel-central-registry</title>
-    <link>https://github.com/bazelbuild/bazel-central-registry</link>
-    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+    <title>grpc / grpc-proto</title>
+    <link>https://github.com/grpc/grpc-proto</link>
+    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
   </item>
   <item>
-    <title>cncf / xds</title>
-    <link>https://github.com/cncf/xds</link>
-    <description>xDS API Working Group</description>
+    <title>bazel-contrib / rules_distroless</title>
+    <link>https://github.com/bazel-contrib/rules_distroless</link>
+    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
+  </item>
+  <item>
+    <title>uber / hermetic_cc_toolchain</title>
+    <link>https://github.com/uber/hermetic_cc_toolchain</link>
+    <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
+  </item>
+  <item>
+    <title>tronbyt / apps</title>
+    <link>https://github.com/tronbyt/apps</link>
+    <description>Hard Fork of Tidbyt Community Repo</description>
+  </item>
+  <item>
+    <title>googleapis / api-common-protos</title>
+    <link>https://github.com/googleapis/api-common-protos</link>
+    <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
   <item>
     <title>cel-expr / cel-spec</title>
@@ -76,14 +61,19 @@
     <description>Common Expression Language -- specification and binary representation</description>
   </item>
   <item>
-    <title>tidbyt / community</title>
-    <link>https://github.com/tidbyt/community</link>
-    <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
+    <title>cncf / xds</title>
+    <link>https://github.com/cncf/xds</link>
+    <description>xDS API Working Group</description>
   </item>
   <item>
-    <title>bazelbuild / bazel-skylib</title>
-    <link>https://github.com/bazelbuild/bazel-skylib</link>
-    <description>Common useful functions and rules for Bazel</description>
+    <title>bazelbuild / bazel-central-registry</title>
+    <link>https://github.com/bazelbuild/bazel-central-registry</link>
+    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
   </item>
 </channel>
 </rss>

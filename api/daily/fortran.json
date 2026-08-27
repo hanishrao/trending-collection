@@ -2,18 +2,8 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
   "items": [
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 70,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "MetOffice / jules",
       "url": "https://github.com/MetOffice/jules",
@@ -21,17 +11,67 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 21,
-      "forks": 29,
+      "forks": 30,
       "added_stars": "0 stars today"
     },
     {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
+      "title": "fabm-model / fabm",
+      "url": "https://github.com/fabm-model/fabm",
+      "description": "The Framework for Aquatic Biogeochemical Models (FABM): a Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 864,
-      "forks": 686,
+      "stars": 94,
+      "forks": 52,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 71,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 43,
+      "forks": 25,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1743,
+      "forks": 875,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 438,
+      "forks": 479,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 31,
+      "forks": 115,
       "added_stars": "0 stars today"
     },
     {
@@ -55,16 +95,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 438,
-      "forks": 479,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "MCSclimate / MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
@@ -75,24 +105,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1740,
-      "forks": 875,
-      "added_stars": "0 stars today"
+      "stars": 957,
+      "forks": 537,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "title": "nasa / cea",
+      "url": "https://github.com/nasa/cea",
+      "description": "CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and can be used for rocket performance, detonation parameters, and shock-wave analysis.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 43,
-      "forks": 25,
-      "added_stars": "0 stars today"
+      "stars": 178,
+      "forks": 35,
+      "added_stars": "1 star today"
     },
     {
       "title": "cp2k / cp2k",
@@ -100,18 +130,18 @@
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1194,
-      "forks": 493,
-      "added_stars": "3 stars today"
+      "stars": 1195,
+      "forks": 494,
+      "added_stars": "1 star today"
     },
     {
-      "title": "ESCOMP / CTSM",
-      "url": "https://github.com/ESCOMP/CTSM",
-      "description": "Community Terrestrial Systems Model (includes the Community Land Model of CESM)",
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 352,
-      "forks": 361,
+      "stars": 405,
+      "forks": 752,
       "added_stars": "0 stars today"
     }
   ]

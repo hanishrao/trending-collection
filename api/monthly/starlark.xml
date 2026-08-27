@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 26 Aug 2026 03:03:07 GMT</pubDate>
+  <pubDate>Thu, 27 Aug 2026 12:20:40 GMT</pubDate>
   <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
@@ -31,11 +31,6 @@
     <description>Bazel Python Rules</description>
   </item>
   <item>
-    <title>bazelbuild / rules_rust</title>
-    <link>https://github.com/bazelbuild/rules_rust</link>
-    <description>Rust rules for Bazel</description>
-  </item>
-  <item>
     <title>bazel-contrib / rules_distroless</title>
     <link>https://github.com/bazel-contrib/rules_distroless</link>
     <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
@@ -46,9 +41,9 @@
     <description>LLVM toolchain for bazel</description>
   </item>
   <item>
-    <title>aspect-build / rules_py</title>
-    <link>https://github.com/aspect-build/rules_py</link>
-    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
+    <title>bazelbuild / rules_rust</title>
+    <link>https://github.com/bazelbuild/rules_rust</link>
+    <description>Rust rules for Bazel</description>
   </item>
   <item>
     <title>googleapis / api-common-protos</title>
@@ -56,24 +51,24 @@
     <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
   <item>
-    <title>grpc / grpc-proto</title>
-    <link>https://github.com/grpc/grpc-proto</link>
-    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
-  </item>
-  <item>
-    <title>tidbyt / community</title>
-    <link>https://github.com/tidbyt/community</link>
-    <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_apple</title>
     <link>https://github.com/bazelbuild/rules_apple</link>
     <description>Bazel rules to build apps for Apple platforms.</description>
   </item>
   <item>
-    <title>openconfig / gnoi</title>
-    <link>https://github.com/openconfig/gnoi</link>
-    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
+    <title>grpc / grpc-proto</title>
+    <link>https://github.com/grpc/grpc-proto</link>
+    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+  </item>
+  <item>
+    <title>aspect-build / rules_py</title>
+    <link>https://github.com/aspect-build/rules_py</link>
+    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
+  </item>
+  <item>
+    <title>bazelbuild / rules_cc</title>
+    <link>https://github.com/bazelbuild/rules_cc</link>
+    <description>C++ Rules for Bazel</description>
   </item>
   <item>
     <title>bazelbuild / examples</title>

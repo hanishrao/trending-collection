@@ -2,27 +2,47 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 26 Aug 2026 02:59:59 GMT",
+  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
   "items": [
+    {
+      "title": "veracrypt / VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11424,
+      "forks": 1322,
+      "added_stars": "53 stars today"
+    },
     {
       "title": "microsoft / PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 138110,
-      "forks": 8504,
-      "added_stars": "46 stars today"
+      "stars": 138157,
+      "forks": 8509,
+      "added_stars": "54 stars today"
     },
     {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "title": "allinurl / goaccess",
+      "url": "https://github.com/allinurl/goaccess",
+      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 75448,
-      "forks": 9884,
-      "added_stars": "61 stars today"
+      "stars": 20871,
+      "forks": 1192,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 21838,
+      "forks": 2022,
+      "added_stars": "74 stars today"
     },
     {
       "title": "lvgl / lvgl",
@@ -30,79 +50,29 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24489,
+      "stars": 24508,
       "forks": 4323,
-      "added_stars": "16 stars today"
+      "added_stars": "19 stars today"
     },
     {
-      "title": "InterceptSuite / ProxyBridge",
-      "url": "https://github.com/InterceptSuite/ProxyBridge",
-      "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6111,
-      "forks": 370,
-      "added_stars": "65 stars today"
+      "stars": 16322,
+      "forks": 9852,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "EpicGames / raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "title": "espeak-ng / espeak-ng",
+      "url": "https://github.com/espeak-ng/espeak-ng",
+      "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7435,
-      "forks": 349,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27621,
-      "forks": 2566,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30687,
-      "forks": 11407,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "DeusData / codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 40638,
-      "forks": 3293,
-      "added_stars": "263 stars today"
-    },
-    {
-      "title": "hashcat / hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 26624,
-      "forks": 3537,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "OleksandrChekhovskyi / hax",
-      "url": "https://github.com/OleksandrChekhovskyi/hax",
-      "description": "A minimalist, terminal-native coding agent written in C.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 654,
-      "forks": 34,
-      "added_stars": "23 stars today"
+      "stars": 6771,
+      "forks": 1278,
+      "added_stars": "11 stars today"
     },
     {
       "title": "Mbed-TLS / mbedtls",
@@ -110,99 +80,89 @@
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6914,
-      "forks": 2957,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "NVIDIA / open-gpu-kernel-modules",
-      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
-      "description": "NVIDIA Linux open GPU kernel module source",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17319,
-      "forks": 1816,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "reactos / reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17963,
-      "forks": 2191,
+      "stars": 6921,
+      "forks": 2959,
       "added_stars": "10 stars today"
     },
     {
-      "title": "streetpea / chiaki-ng",
-      "url": "https://github.com/streetpea/chiaki-ng",
-      "description": "Next-Generation of Chiaki (the open-source remote play client for PlayStation)",
+      "title": "brunodev85 / winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2645,
-      "forks": 240,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34502,
-      "forks": 8072,
+      "stars": 18798,
+      "forks": 1685,
       "added_stars": "9 stars today"
     },
     {
-      "title": "containers / crun",
-      "url": "https://github.com/containers/crun",
-      "description": "A fast and lightweight fully featured OCI runtime and C library for running containers",
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4077,
-      "forks": 438,
+      "stars": 4445,
+      "forks": 1602,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 30700,
+      "forks": 11412,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "hathach / tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7058,
+      "forks": 1501,
       "added_stars": "4 stars today"
     },
     {
-      "title": "FRRouting / frr",
-      "url": "https://github.com/FRRouting/frr",
-      "description": "The FRRouting Protocol Suite",
+      "title": "cilium / tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4267,
-      "forks": 1596,
-      "added_stars": "3 stars today"
+      "stars": 4955,
+      "forks": 594,
+      "added_stars": "1 star today"
     },
     {
-      "title": "dorianborian / sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4147,
-      "forks": 560,
-      "added_stars": "29 stars today"
+      "stars": 42695,
+      "forks": 7328,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "qmk / qmk_firmware",
-      "url": "https://github.com/qmk/qmk_firmware",
-      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+      "title": "espressif / esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20659,
-      "forks": 44237,
+      "stars": 18879,
+      "forks": 8450,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "glfw / glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 15287,
+      "forks": 5924,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "sonic-net / sonic-buildimage",
-      "url": "https://github.com/sonic-net/sonic-buildimage",
-      "description": "Scripts which perform an installable binary image build for SONiC",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1016,
-      "forks": 1924,
-      "added_stars": "0 stars today"
     }
   ]
 }
