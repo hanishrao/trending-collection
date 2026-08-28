@@ -2,27 +2,27 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:40:32 GMT",
   "items": [
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 39949,
+      "forks": 1941,
+      "added_stars": "11 stars today"
+    },
     {
       "title": "jgm / pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46037,
-      "forks": 3952,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "plaintextaccounting / hledger",
-      "url": "https://github.com/plaintextaccounting/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4671,
-      "forks": 412,
-      "added_stars": "3 stars today"
+      "stars": 46050,
+      "forks": 3951,
+      "added_stars": "12 stars today"
     },
     {
       "title": "simplex-chat / simplex-chat",
@@ -30,48 +30,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19323,
-      "forks": 1354,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 39937,
-      "forks": 1940,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12378,
-      "forks": 503,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7887,
-      "forks": 688,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1645,
-      "forks": 67,
+      "stars": 19327,
+      "forks": 1350,
       "added_stars": "14 stars today"
     },
     {
@@ -80,19 +40,39 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27630,
+      "stars": 27632,
       "forks": 1227,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "title": "cardano-foundation / cardano-wallet",
+      "url": "https://github.com/cardano-foundation/cardano-wallet",
+      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3176,
-      "forks": 753,
+      "stars": 821,
+      "forks": 231,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12379,
+      "forks": 501,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1654,
+      "forks": 67,
+      "added_stars": "10 stars today"
     },
     {
       "title": "unisonweb / unison",
@@ -100,9 +80,19 @@
       "description": "A friendly programming language from the future",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6717,
+      "stars": 6719,
       "forks": 307,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "nammayatri / nammayatri",
+      "url": "https://github.com/nammayatri/nammayatri",
+      "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2533,
+      "forks": 395,
+      "added_stars": "0 stars today"
     }
   ]
 }

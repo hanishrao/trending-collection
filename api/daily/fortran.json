@@ -2,8 +2,18 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:40:32 GMT",
   "items": [
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 438,
+      "forks": 479,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "MetOffice / jules",
       "url": "https://github.com/MetOffice/jules",
@@ -12,26 +22,6 @@
       "languageColor": "#4d41b1",
       "stars": 21,
       "forks": 30,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "fabm-model / fabm",
-      "url": "https://github.com/fabm-model/fabm",
-      "description": "The Framework for Aquatic Biogeochemical Models (FABM): a Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 94,
-      "forks": 52,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 71,
       "added_stars": "0 stars today"
     },
     {
@@ -45,23 +35,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1743,
-      "forks": 875,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 438,
-      "forks": 479,
+      "stars": 26,
+      "forks": 72,
       "added_stars": "0 stars today"
     },
     {
@@ -75,26 +55,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "NGEET / fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 130,
-      "forks": 109,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ecmwf / fckit",
-      "url": "https://github.com/ecmwf/fckit",
-      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 48,
-      "forks": 21,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "MCSclimate / MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
@@ -105,24 +65,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 957,
-      "forks": 537,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "nasa / cea",
-      "url": "https://github.com/nasa/cea",
-      "description": "CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and can be used for rocket performance, detonation parameters, and shock-wave analysis.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 178,
-      "forks": 35,
-      "added_stars": "1 star today"
+      "stars": 130,
+      "forks": 109,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cp2k / cp2k",
@@ -132,16 +82,56 @@
       "languageColor": "#4d41b1",
       "stars": 1195,
       "forks": 494,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 959,
+      "forks": 537,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MFlowCode / MFC",
+      "url": "https://github.com/MFlowCode/MFC",
+      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 412,
+      "forks": 168,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 865,
+      "forks": 686,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1745,
+      "forks": 875,
       "added_stars": "1 star today"
     },
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "ecmwf / fckit",
+      "url": "https://github.com/ecmwf/fckit",
+      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 752,
+      "stars": 48,
+      "forks": 21,
       "added_stars": "0 stars today"
     }
   ]

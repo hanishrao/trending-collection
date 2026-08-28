@@ -2,26 +2,46 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:18:24 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:42:45 GMT",
   "items": [
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1206,
+      "forks": 428,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "strata-org / Strata",
+      "url": "https://github.com/strata-org/Strata",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 229,
+      "forks": 54,
+      "added_stars": "4 stars this week"
+    },
     {
       "title": "leanprover-community / mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3953,
-      "forks": 1623,
-      "added_stars": "46 stars this week"
+      "stars": 3960,
+      "forks": 1626,
+      "added_stars": "43 stars this week"
     },
     {
-      "title": "LionSR / TNLean",
-      "url": "https://github.com/LionSR/TNLean",
-      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
+      "title": "Verified-zkEVM / evm-asm",
+      "url": "https://github.com/Verified-zkEVM/evm-asm",
+      "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 33,
-      "forks": 2,
+      "stars": 54,
+      "forks": 13,
       "added_stars": "0 stars this week"
     },
     {
@@ -30,19 +50,19 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 8915,
-      "forks": 950,
-      "added_stars": "61 stars this week"
+      "stars": 8921,
+      "forks": 951,
+      "added_stars": "50 stars this week"
     },
     {
-      "title": "digama0 / lean4lean",
-      "url": "https://github.com/digama0/lean4lean",
-      "description": "Lean 4 kernel / 'external checker' written in Lean 4",
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 232,
-      "forks": 33,
-      "added_stars": "8 stars this week"
+      "stars": 673,
+      "forks": 187,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "leanprover-community / physlib",
@@ -50,9 +70,9 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 711,
-      "forks": 172,
-      "added_stars": "9 stars this week"
+      "stars": 713,
+      "forks": 173,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "leanprover-community / plausible",
@@ -65,16 +85,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 222,
-      "forks": 47,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "leanprover-community / LeanSearchClient",
       "url": "https://github.com/leanprover-community/LeanSearchClient",
       "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
@@ -83,6 +93,16 @@
       "stars": 36,
       "forks": 11,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 222,
+      "forks": 47,
+      "added_stars": "1 star this week"
     }
   ]
 }

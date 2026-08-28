@@ -2,17 +2,17 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:16:12 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:40:32 GMT",
   "items": [
     {
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "title": "llm-d / llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 32363,
-      "forks": 3312,
-      "added_stars": "1,024 stars today"
+      "stars": 4287,
+      "forks": 721,
+      "added_stars": "103 stars today"
     },
     {
       "title": "obra / superpowers",
@@ -20,129 +20,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 278401,
-      "forks": 24926,
-      "added_stars": "578 stars today"
-    },
-    {
-      "title": "laude-institute / headlong",
-      "url": "https://github.com/laude-institute/headlong",
-      "description": "An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it's shells all the way down.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 890,
-      "forks": 72,
-      "added_stars": "199 stars today"
-    },
-    {
-      "title": "1N3 / Sn1per",
-      "url": "https://github.com/1N3/Sn1per",
-      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11084,
-      "forks": 2176,
-      "added_stars": "126 stars today"
-    },
-    {
-      "title": "czlonkowski / n8n-skills",
-      "url": "https://github.com/czlonkowski/n8n-skills",
-      "description": "n8n skillset for Claude Code to build flawless n8n workflows",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6136,
-      "forks": 1019,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "iuricode / padroes-de-commits",
-      "url": "https://github.com/iuricode/padroes-de-commits",
-      "description": "Padrões de commits",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9637,
-      "forks": 1388,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "eugr / spark-vllm-docker",
-      "url": "https://github.com/eugr/spark-vllm-docker",
-      "description": "Docker configuration for running VLLM on dual DGX Sparks",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2191,
-      "forks": 370,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "deanpeters / Product-Manager-Skills",
-      "url": "https://github.com/deanpeters/Product-Manager-Skills",
-      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6692,
-      "forks": 809,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94762,
-      "forks": 10399,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "microsoft / azure-skills",
-      "url": "https://github.com/microsoft/azure-skills",
-      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1418,
-      "forks": 239,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "juewuy / ShellCrash",
-      "url": "https://github.com/juewuy/ShellCrash",
-      "description": "Run sing-box/mihomo as client in shell",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 13222,
-      "forks": 1861,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "VoltAgent / awesome-claude-code-subagents",
-      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-      "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 24669,
-      "forks": 2858,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11122,
-      "forks": 1911,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "ohmyzsh / ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 189409,
-      "forks": 26586,
-      "added_stars": "37 stars today"
+      "stars": 278886,
+      "forks": 24973,
+      "added_stars": "614 stars today"
     },
     {
       "title": "mattpocock / skills",
@@ -150,9 +30,129 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 238552,
-      "forks": 20285,
-      "added_stars": "1,277 stars today"
+      "stars": 239823,
+      "forks": 20396,
+      "added_stars": "1,135 stars today"
+    },
+    {
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 32944,
+      "forks": 3407,
+      "added_stars": "675 stars today"
+    },
+    {
+      "title": "StressOzz / Zapret-Manager",
+      "url": "https://github.com/StressOzz/Zapret-Manager",
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1750,
+      "forks": 74,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 94766,
+      "forks": 10397,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "1N3 / Sn1per",
+      "url": "https://github.com/1N3/Sn1per",
+      "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11151,
+      "forks": 2185,
+      "added_stars": "64 stars today"
+    },
+    {
+      "title": "microsoft / azure-skills",
+      "url": "https://github.com/microsoft/azure-skills",
+      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1425,
+      "forks": 239,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "jnMetaCode / agency-agents-zh",
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 20037,
+      "forks": 3251,
+      "added_stars": "41 stars today"
+    },
+    {
+      "title": "iuricode / padroes-de-commits",
+      "url": "https://github.com/iuricode/padroes-de-commits",
+      "description": "Padrões de commits",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9642,
+      "forks": 1402,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "xiv3r / Burpsuite-Professional",
+      "url": "https://github.com/xiv3r/Burpsuite-Professional",
+      "description": "Burpsuite Professional Latest Version 2026",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2984,
+      "forks": 706,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "a2aproject / A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 25529,
+      "forks": 2590,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "youngyangyang04 / leetcode-master",
+      "url": "https://github.com/youngyangyang04/leetcode-master",
+      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 62306,
+      "forks": 12307,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33005,
+      "forks": 1853,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "deanpeters / Product-Manager-Skills",
+      "url": "https://github.com/deanpeters/Product-Manager-Skills",
+      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6708,
+      "forks": 810,
+      "added_stars": "30 stars today"
     }
   ]
 }

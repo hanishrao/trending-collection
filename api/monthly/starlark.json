@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:20:40 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:46:01 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,9 +10,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23039,
-      "forks": 1434,
-      "added_stars": "177 stars this month"
+      "stars": 23041,
+      "forks": 1433,
+      "added_stars": "178 stars this month"
     },
     {
       "title": "googleapis / googleapis",
@@ -20,19 +20,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8716,
-      "forks": 2623,
-      "added_stars": "69 stars this month"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3954,
-      "forks": 304,
-      "added_stars": "53 stars this month"
+      "stars": 8719,
+      "forks": 2624,
+      "added_stars": "72 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -42,7 +32,17 @@
       "languageColor": "#76d275",
       "stars": 383,
       "forks": 857,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3955,
+      "forks": 304,
+      "added_stars": "51 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -51,7 +51,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 686,
-      "forks": 715,
+      "forks": 716,
       "added_stars": "6 stars this month"
     },
     {
@@ -71,7 +71,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 370,
-      "forks": 281,
+      "forks": 282,
       "added_stars": "0 stars this month"
     },
     {
@@ -80,8 +80,8 @@
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 835,
-      "forks": 644,
+      "stars": 837,
+      "forks": 646,
       "added_stars": "12 stars this month"
     },
     {
@@ -105,16 +105,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 293,
-      "forks": 115,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "aspect-build / rules_py",
       "url": "https://github.com/aspect-build/rules_py",
       "description": "More compatible Bazel rules for running Python tools and building Python projects",
@@ -131,8 +121,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 247,
-      "forks": 192,
+      "forks": 193,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 293,
+      "forks": 115,
+      "added_stars": "1 star this month"
     },
     {
       "title": "bazelbuild / examples",
@@ -143,6 +143,16 @@
       "stars": 954,
       "forks": 576,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 193,
+      "forks": 88,
+      "added_stars": "1 star this month"
     }
   ]
 }

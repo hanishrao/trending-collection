@@ -2,27 +2,27 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:18:24 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:42:45 GMT",
   "items": [
+    {
+      "title": "SDWebImage / SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 25632,
+      "forks": 5958,
+      "added_stars": "2 stars this week"
+    },
     {
       "title": "realm / realm-swift",
       "url": "https://github.com/realm/realm-swift",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16612,
-      "forks": 2235,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "google / promises",
-      "url": "https://github.com/google/promises",
-      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3829,
-      "forks": 314,
-      "added_stars": "1 star this week"
+      "stars": 16614,
+      "forks": 2236,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "google / GoogleUtilities",
@@ -31,7 +31,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 134,
-      "forks": 75,
+      "forks": 76,
       "added_stars": "1 star this week"
     },
     {
@@ -45,6 +45,36 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "google / promises",
+      "url": "https://github.com/google/promises",
+      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3830,
+      "forks": 315,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "google / gtm-session-fetcher",
+      "url": "https://github.com/google/gtm-session-fetcher",
+      "description": "Google Toolbox for Mac - Session Fetcher",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 292,
+      "forks": 197,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "google / app-check",
+      "url": "https://github.com/google/app-check",
+      "description": "Google-internal core components of Firebase App Check.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 45,
+      "forks": 25,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "AzureAD / microsoft-authentication-library-common-for-objc",
       "url": "https://github.com/AzureAD/microsoft-authentication-library-common-for-objc",
       "description": "Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)",
@@ -53,26 +83,6 @@
       "stars": 65,
       "forks": 42,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "google / gtm-session-fetcher",
-      "url": "https://github.com/google/gtm-session-fetcher",
-      "description": "Google Toolbox for Mac - Session Fetcher",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 291,
-      "forks": 196,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "google / app-check",
-      "url": "https://github.com/google/app-check",
-      "description": "Google-internal core components of Firebase App Check.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 44,
-      "forks": 24,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "aws-amplify / aws-sdk-ios",
@@ -85,36 +95,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "erikdoe / ocmock",
-      "url": "https://github.com/erikdoe/ocmock",
-      "description": "Mock objects for Objective-C",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 2171,
-      "forks": 608,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "uber / ios-snapshot-test-case",
-      "url": "https://github.com/uber/ios-snapshot-test-case",
-      "description": "Snapshot view unit tests for iOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 1862,
-      "forks": 227,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "kishikawakatsumi / UICKeyChainStore",
-      "url": "https://github.com/kishikawakatsumi/UICKeyChainStore",
-      "description": "UICKeyChainStore is a simple wrapper for Keychain on iOS, watchOS, tvOS and macOS. Makes using Keychain APIs as easy as NSUserDefaults.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3085,
-      "forks": 377,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "adjust / ios_sdk",
       "url": "https://github.com/adjust/ios_sdk",
       "description": "This is the iOS SDK of",
@@ -125,13 +105,33 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "OneSignal / OneSignal-iOS-SDK",
-      "url": "https://github.com/OneSignal/OneSignal-iOS-SDK",
-      "description": "OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your native iOS app with OneSignal. https://onesignal.com",
+      "title": "openid / AppAuth-iOS",
+      "url": "https://github.com/openid/AppAuth-iOS",
+      "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 539,
-      "forks": 265,
+      "stars": 2024,
+      "forks": 865,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "BranchMetrics / ios-branch-sdk-spm",
+      "url": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
+      "description": "Branch iOS SDK Swift Package Manager distribution",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 27,
+      "forks": 18,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "erikdoe / ocmock",
+      "url": "https://github.com/erikdoe/ocmock",
+      "description": "Mock objects for Objective-C",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 2171,
+      "forks": 608,
       "added_stars": "0 stars this week"
     },
     {
@@ -145,43 +145,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "openid / AppAuth-iOS",
-      "url": "https://github.com/openid/AppAuth-iOS",
-      "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
+      "title": "AliSoftware / OHHTTPStubs",
+      "url": "https://github.com/AliSoftware/OHHTTPStubs",
+      "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 2024,
-      "forks": 864,
-      "added_stars": "3 stars this week"
+      "stars": 5072,
+      "forks": 597,
+      "added_stars": "1 star this week"
     },
     {
-      "title": "SDWebImage / SDWebImage",
-      "url": "https://github.com/SDWebImage/SDWebImage",
-      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "title": "CleverTap / clevertap-ios-sdk",
+      "url": "https://github.com/CleverTap/clevertap-ios-sdk",
+      "description": "CleverTap iOS SDK",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25634,
-      "forks": 5961,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "kif-framework / KIF",
-      "url": "https://github.com/kif-framework/KIF",
-      "description": "Keep It Functional - An iOS Functional Testing Framework",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 6248,
-      "forks": 919,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "BranchMetrics / ios-branch-sdk-spm",
-      "url": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
-      "description": "Branch iOS SDK Swift Package Manager distribution",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 27,
-      "forks": 18,
+      "stars": 68,
+      "forks": 67,
       "added_stars": "0 stars this week"
     }
   ]

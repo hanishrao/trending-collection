@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 27 Aug 2026 12:18:24 GMT",
+  "pubDate": "Fri, 28 Aug 2026 13:42:45 GMT",
   "items": [
     {
       "title": "emqx / emqx",
@@ -10,29 +10,9 @@
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 16662,
+      "stars": 16667,
       "forks": 2545,
       "added_stars": "22 stars this week"
-    },
-    {
-      "title": "ninenines / cowboy",
-      "url": "https://github.com/ninenines/cowboy",
-      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 7525,
-      "forks": 1170,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "blt / port_compiler",
-      "url": "https://github.com/blt/port_compiler",
-      "description": "A rebar3 port compiler",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 69,
-      "forks": 40,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "eproxus / meck",
@@ -45,6 +25,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "erlang / rebar3",
+      "url": "https://github.com/erlang/rebar3",
+      "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 1818,
+      "forks": 527,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "WhatsApp / erlfmt",
       "url": "https://github.com/WhatsApp/erlfmt",
       "description": "An automated code formatter for Erlang",
@@ -52,6 +42,26 @@
       "languageColor": "#B83998",
       "stars": 463,
       "forks": 67,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7525,
+      "forks": 1170,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
       "added_stars": "0 stars this week"
     },
     {
@@ -70,9 +80,9 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12335,
+      "stars": 12339,
       "forks": 3275,
-      "added_stars": "13 stars this week"
+      "added_stars": "14 stars this week"
     }
   ]
 }

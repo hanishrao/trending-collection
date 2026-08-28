@@ -4,56 +4,11 @@
   <title>GitHub C# Languages Daily Trending</title>
   <description>Daily Trending of C# Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 27 Aug 2026 12:18:24 GMT</pubDate>
-  <item>
-    <title>veracrypt / VeraCrypt</title>
-    <link>https://github.com/veracrypt/VeraCrypt</link>
-    <description>Disk encryption with strong security based on TrueCrypt</description>
-  </item>
-  <item>
-    <title>microsoft / PowerToys</title>
-    <link>https://github.com/microsoft/PowerToys</link>
-    <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
-  </item>
-  <item>
-    <title>allinurl / goaccess</title>
-    <link>https://github.com/allinurl/goaccess</link>
-    <description>GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.</description>
-  </item>
+  <pubDate>Fri, 28 Aug 2026 13:42:45 GMT</pubDate>
   <item>
     <title>antirez / ds4</title>
     <link>https://github.com/antirez/ds4</link>
     <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
-  </item>
-  <item>
-    <title>lvgl / lvgl</title>
-    <link>https://github.com/lvgl/lvgl</link>
-    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
-  </item>
-  <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-  </item>
-  <item>
-    <title>espeak-ng / espeak-ng</title>
-    <link>https://github.com/espeak-ng/espeak-ng</link>
-    <description>eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.</description>
-  </item>
-  <item>
-    <title>Mbed-TLS / mbedtls</title>
-    <link>https://github.com/Mbed-TLS/mbedtls</link>
-    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
-  </item>
-  <item>
-    <title>brunodev85 / winlator</title>
-    <link>https://github.com/brunodev85/winlator</link>
-    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
-  </item>
-  <item>
-    <title>FreeRTOS / FreeRTOS-Kernel</title>
-    <link>https://github.com/FreeRTOS/FreeRTOS-Kernel</link>
-    <description>FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</description>
   </item>
   <item>
     <title>openssl / openssl</title>
@@ -61,14 +16,19 @@
     <description>General purpose TLS and crypto library</description>
   </item>
   <item>
-    <title>hathach / tinyusb</title>
-    <link>https://github.com/hathach/tinyusb</link>
-    <description>An open source cross-platform USB stack for embedded system</description>
+    <title>pgvector / pgvector</title>
+    <link>https://github.com/pgvector/pgvector</link>
+    <description>Open-source vector similarity search for Postgres</description>
   </item>
   <item>
-    <title>cilium / tetragon</title>
-    <link>https://github.com/cilium/tetragon</link>
-    <description>eBPF-based Security Observability and Runtime Enforcement</description>
+    <title>veracrypt / VeraCrypt</title>
+    <link>https://github.com/veracrypt/VeraCrypt</link>
+    <description>Disk encryption with strong security based on TrueCrypt</description>
+  </item>
+  <item>
+    <title>facebook / zstd</title>
+    <link>https://github.com/facebook/zstd</link>
+    <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
   <item>
     <title>curl / curl</title>
@@ -76,14 +36,79 @@
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>espressif / esp-idf</title>
-    <link>https://github.com/espressif/esp-idf</link>
-    <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
+    <title>mackron / miniaudio</title>
+    <link>https://github.com/mackron/miniaudio</link>
+    <description>Audio playback and capture library written in C, in a single source file.</description>
   </item>
   <item>
-    <title>glfw / glfw</title>
-    <link>https://github.com/glfw/glfw</link>
-    <description>A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input</description>
+    <title>lvgl / lvgl</title>
+    <link>https://github.com/lvgl/lvgl</link>
+    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
+  </item>
+  <item>
+    <title>containers / bubblewrap</title>
+    <link>https://github.com/containers/bubblewrap</link>
+    <description>Low-level unprivileged sandboxing tool used by Flatpak and similar projects</description>
+  </item>
+  <item>
+    <title>sunblaze-ucb / exploitgym</title>
+    <link>https://github.com/sunblaze-ucb/exploitgym</link>
+    <description>ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents&#x27; ability to develop exploits.</description>
+  </item>
+  <item>
+    <title>hathach / tinyusb</title>
+    <link>https://github.com/hathach/tinyusb</link>
+    <description>An open source cross-platform USB stack for embedded system</description>
+  </item>
+  <item>
+    <title>FRRouting / frr</title>
+    <link>https://github.com/FRRouting/frr</link>
+    <description>The FRRouting Protocol Suite</description>
+  </item>
+  <item>
+    <title>FreeRDP / FreeRDP</title>
+    <link>https://github.com/FreeRDP/FreeRDP</link>
+    <description>FreeRDP is a free remote desktop protocol library and clients</description>
+  </item>
+  <item>
+    <title>reactos / reactos</title>
+    <link>https://github.com/reactos/reactos</link>
+    <description>A free Windows-compatible Operating System</description>
+  </item>
+  <item>
+    <title>kingToolbox / WindTerm</title>
+    <link>https://github.com/kingToolbox/WindTerm</link>
+    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
+  </item>
+  <item>
+    <title>madler / zlib</title>
+    <link>https://github.com/madler/zlib</link>
+    <description>A massively spiffy yet delicately unobtrusive compression library.</description>
+  </item>
+  <item>
+    <title>systemd / systemd</title>
+    <link>https://github.com/systemd/systemd</link>
+    <description>The systemd System and Service Manager</description>
+  </item>
+  <item>
+    <title>micropython / micropython</title>
+    <link>https://github.com/micropython/micropython</link>
+    <description>MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems</description>
+  </item>
+  <item>
+    <title>libuv / libuv</title>
+    <link>https://github.com/libuv/libuv</link>
+    <description>Cross-platform asynchronous I/O</description>
+  </item>
+  <item>
+    <title>tmux / tmux</title>
+    <link>https://github.com/tmux/tmux</link>
+    <description>tmux source code</description>
+  </item>
+  <item>
+    <title>valkey-io / valkey</title>
+    <link>https://github.com/valkey-io/valkey</link>
+    <description>A flexible distributed key-value database that is optimized for caching and other realtime workloads.</description>
   </item>
 </channel>
 </rss>
