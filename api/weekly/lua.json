@@ -2,17 +2,37 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 29 Aug 2026 08:34:44 GMT",
+  "pubDate": "Sun, 30 Aug 2026 07:48:28 GMT",
   "items": [
+    {
+      "title": "olimorris / codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI Coding, Vim Style",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 6826,
+      "forks": 448,
+      "added_stars": "12 stars this week"
+    },
     {
       "title": "dariulone / cyberpunk-vr-port",
       "url": "https://github.com/dariulone/cyberpunk-vr-port",
       "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 238,
+      "stars": 240,
       "forks": 30,
-      "added_stars": "33 stars this week"
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "nvim-mini / mini.nvim",
+      "url": "https://github.com/nvim-mini/mini.nvim",
+      "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 9467,
+      "forks": 313,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "beyond-all-reason / Beyond-All-Reason",
@@ -20,9 +40,9 @@
       "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4182,
+      "stars": 4181,
       "forks": 659,
-      "added_stars": "29 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
       "title": "LazyVim / LazyVim",
@@ -30,29 +50,29 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27307,
+      "stars": 27312,
       "forks": 1818,
-      "added_stars": "86 stars this week"
+      "added_stars": "78 stars this week"
     },
     {
-      "title": "Kong / kong",
-      "url": "https://github.com/Kong/kong",
-      "description": "🦍 The API and AI Gateway",
+      "title": "nvim-lua / kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 44055,
-      "forks": 5205,
-      "added_stars": "45 stars this week"
+      "stars": 31360,
+      "forks": 46665,
+      "added_stars": "68 stars this week"
     },
     {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
+      "title": "stevearc / oil.nvim",
+      "url": "https://github.com/stevearc/oil.nvim",
+      "description": "Neovim file explorer: edit your filesystem like a buffer",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 634,
-      "forks": 80,
-      "added_stars": "56 stars this week"
+      "stars": 6855,
+      "forks": 249,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "neovim / nvim-lspconfig",
@@ -60,29 +80,9 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13897,
-      "forks": 2486,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "koreader / koreader",
-      "url": "https://github.com/koreader/koreader",
-      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 29339,
-      "forks": 1892,
-      "added_stars": "170 stars this week"
-    },
-    {
-      "title": "catppuccin / nvim",
-      "url": "https://github.com/catppuccin/nvim",
-      "description": "🍨 Soothing pastel theme for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 7592,
-      "forks": 339,
-      "added_stars": "16 stars this week"
+      "stars": 13902,
+      "forks": 2487,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "saghen / blink.cmp",
@@ -92,27 +92,37 @@
       "languageColor": "#000080",
       "stars": 6536,
       "forks": 358,
-      "added_stars": "20 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "id577 / FS25_AdvancedDamageSystem",
-      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
-      "description": "Advanced Damage System mod for Farming Simulator 25",
+      "title": "Kong / kong",
+      "url": "https://github.com/Kong/kong",
+      "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 264,
-      "forks": 18,
-      "added_stars": "4 stars this week"
+      "stars": 44058,
+      "forks": 5206,
+      "added_stars": "44 stars this week"
     },
     {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 6827,
-      "forks": 448,
-      "added_stars": "13 stars this week"
+      "stars": 646,
+      "forks": 80,
+      "added_stars": "58 stars this week"
+    },
+    {
+      "title": "iDvel / rime-ice",
+      "url": "https://github.com/iDvel/rime-ice",
+      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 19071,
+      "forks": 1173,
+      "added_stars": "133 stars this week"
     },
     {
       "title": "Qbox-project / qbx_core",
@@ -125,24 +135,44 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "catppuccin / nvim",
+      "url": "https://github.com/catppuccin/nvim",
+      "description": "🍨 Soothing pastel theme for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 7595,
+      "forks": 339,
+      "added_stars": "16 stars this week"
+    },
+    {
       "title": "nickjvandyke / opencode.nvim",
       "url": "https://github.com/nickjvandyke/opencode.nvim",
       "description": "Neovim 🤝 OpenCode in the flow that you already know.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3797,
+      "stars": 3796,
       "forks": 150,
-      "added_stars": "23 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "MunifTanjim / nui.nvim",
-      "url": "https://github.com/MunifTanjim/nui.nvim",
-      "description": "UI Component Library for Neovim.",
+      "title": "Quenty / NevermoreEngine",
+      "url": "https://github.com/Quenty/NevermoreEngine",
+      "description": "ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 2109,
-      "forks": 80,
-      "added_stars": "3 stars this week"
+      "stars": 606,
+      "forks": 145,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "LandSandBoat / server",
+      "url": "https://github.com/LandSandBoat/server",
+      "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 503,
+      "forks": 905,
+      "added_stars": "1 star this week"
     },
     {
       "title": "windwp / nvim-autopairs",
@@ -162,17 +192,7 @@
       "languageColor": "#000080",
       "stars": 4222,
       "forks": 89,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "mfussenegger / nvim-lint",
-      "url": "https://github.com/mfussenegger/nvim-lint",
-      "description": "Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 2774,
-      "forks": 310,
-      "added_stars": "2 stars this week"
+      "added_stars": "11 stars this week"
     }
   ]
 }

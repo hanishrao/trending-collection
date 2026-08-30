@@ -2,8 +2,18 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 29 Aug 2026 08:31:35 GMT",
+  "pubDate": "Sun, 30 Aug 2026 07:46:16 GMT",
   "items": [
+    {
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2284,
+      "forks": 1535,
+      "added_stars": "9 stars today"
+    },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
@@ -20,19 +30,19 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4999,
-      "forks": 4408,
-      "added_stars": "0 stars today"
+      "stars": 5000,
+      "forks": 4409,
+      "added_stars": "1 star today"
     },
     {
-      "title": "techiescamp / devops-projects",
-      "url": "https://github.com/techiescamp/devops-projects",
-      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2277,
-      "forks": 1530,
-      "added_stars": "8 stars today"
+      "stars": 3259,
+      "forks": 4625,
+      "added_stars": "2 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -41,17 +51,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1045,
-      "forks": 774,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3258,
-      "forks": 4624,
+      "forks": 775,
       "added_stars": "0 stars today"
     },
     {
@@ -61,47 +61,37 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 581,
-      "forks": 3807,
+      "forks": 3809,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "title": "cloudposse / terraform-aws-dynamic-subnets",
+      "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
+      "description": "Terraform module for public and private subnets provisioning in existing VPC",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 239,
+      "stars": 211,
+      "forks": 163,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
+      "title": "terraform-google-modules / terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 48,
-      "forks": 60,
+      "stars": 153,
+      "forks": 116,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "title": "cloudposse / terraform-aws-vpc",
+      "url": "https://github.com/cloudposse/terraform-aws-vpc",
+      "description": "Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 242,
-      "forks": 192,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 119,
-      "forks": 202,
+      "stars": 243,
+      "forks": 194,
       "added_stars": "0 stars today"
     }
   ]

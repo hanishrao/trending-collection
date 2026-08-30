@@ -4,16 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 29 Aug 2026 08:31:35 GMT</pubDate>
-  <item>
-    <title>JetBrains / go-modern-guidelines</title>
-    <link>https://github.com/JetBrains/go-modern-guidelines</link>
-    <description>Help AI coding agents write modern Go</description>
-  </item>
+  <pubDate>Sun, 30 Aug 2026 07:46:16 GMT</pubDate>
   <item>
     <title>tailscale / tailcat</title>
     <link>https://github.com/tailscale/tailcat</link>
     <description>like netcat, but over Tailscale&#x27;s data plane, without Tailscale&#x27;s control plane</description>
+  </item>
+  <item>
+    <title>JetBrains / go-modern-guidelines</title>
+    <link>https://github.com/JetBrains/go-modern-guidelines</link>
+    <description>Help AI coding agents write modern Go</description>
   </item>
   <item>
     <title>workweave / router</title>
@@ -21,14 +21,89 @@
     <description>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.</description>
   </item>
   <item>
+    <title>dapr / dapr</title>
+    <link>https://github.com/dapr/dapr</link>
+    <description>Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.</description>
+  </item>
+  <item>
+    <title>infiniflow / ragflow</title>
+    <link>https://github.com/infiniflow/ragflow</link>
+    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
+  </item>
+  <item>
+    <title>Ed1s0nZ / CyberStrikeAI</title>
+    <link>https://github.com/Ed1s0nZ/CyberStrikeAI</link>
+    <description>The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.</description>
+  </item>
+  <item>
+    <title>anchore / syft</title>
+    <link>https://github.com/anchore/syft</link>
+    <description>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</description>
+  </item>
+  <item>
     <title>vxcontrol / pentagi</title>
     <link>https://github.com/vxcontrol/pentagi</link>
     <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
   </item>
   <item>
-    <title>grafana / alloy</title>
-    <link>https://github.com/grafana/alloy</link>
-    <description>OpenTelemetry Collector distribution with programmable pipelines</description>
+    <title>cinar / indicator</title>
+    <link>https://github.com/cinar/indicator</link>
+    <description>Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀</description>
+  </item>
+  <item>
+    <title>juanfont / headscale</title>
+    <link>https://github.com/juanfont/headscale</link>
+    <description>An open source, self-hosted implementation of the Tailscale control server</description>
+  </item>
+  <item>
+    <title>semaphoreui / semaphore</title>
+    <link>https://github.com/semaphoreui/semaphore</link>
+    <description>Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.</description>
+  </item>
+  <item>
+    <title>argoproj / argo-cd</title>
+    <link>https://github.com/argoproj/argo-cd</link>
+    <description>Declarative Continuous Deployment for Kubernetes</description>
+  </item>
+  <item>
+    <title>amacneil / dbmate</title>
+    <link>https://github.com/amacneil/dbmate</link>
+    <description>🚀 A lightweight, framework-agnostic database migration tool.</description>
+  </item>
+  <item>
+    <title>oapi-codegen / oapi-codegen</title>
+    <link>https://github.com/oapi-codegen/oapi-codegen</link>
+    <description>Generate Go client and server boilerplate from OpenAPI 3 specifications</description>
+  </item>
+  <item>
+    <title>bytebase / bytebase</title>
+    <link>https://github.com/bytebase/bytebase</link>
+    <description>Database governance built for humans and agents — controlling changes and access across every major database.</description>
+  </item>
+  <item>
+    <title>voocel / ainovel-cli</title>
+    <link>https://github.com/voocel/ainovel-cli</link>
+    <description>✨多agent实现全自动AI小说生成</description>
+  </item>
+  <item>
+    <title>envoyproxy / gateway</title>
+    <link>https://github.com/envoyproxy/gateway</link>
+    <description>Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway</description>
+  </item>
+  <item>
+    <title>Gentleman-Programming / gentle-ai</title>
+    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+    <description></description>
+  </item>
+  <item>
+    <title>wavetermdev / waveterm</title>
+    <link>https://github.com/wavetermdev/waveterm</link>
+    <description>An open-source, AI-integrated, cross-platform terminal for seamless workflows</description>
+  </item>
+  <item>
+    <title>BishopFox / sliver</title>
+    <link>https://github.com/BishopFox/sliver</link>
+    <description>Adversary Emulation Framework</description>
   </item>
   <item>
     <title>vllm-project / semantic-router</title>
@@ -36,69 +111,9 @@
     <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
   </item>
   <item>
-    <title>QuantumNous / new-api</title>
-    <link>https://github.com/QuantumNous/new-api</link>
-    <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
-  </item>
-  <item>
-    <title>milvus-io / milvus</title>
-    <link>https://github.com/milvus-io/milvus</link>
-    <description>Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</description>
-  </item>
-  <item>
-    <title>traefik / traefik</title>
-    <link>https://github.com/traefik/traefik</link>
-    <description>The Cloud Native Application Proxy</description>
-  </item>
-  <item>
     <title>tailscale / tailscale</title>
     <link>https://github.com/tailscale/tailscale</link>
     <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-  </item>
-  <item>
-    <title>google / gvisor</title>
-    <link>https://github.com/google/gvisor</link>
-    <description>Application Kernel for Containers</description>
-  </item>
-  <item>
-    <title>aquasecurity / trivy</title>
-    <link>https://github.com/aquasecurity/trivy</link>
-    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-  </item>
-  <item>
-    <title>glanceapp / glance</title>
-    <link>https://github.com/glanceapp/glance</link>
-    <description>A self-hosted dashboard that puts all your feeds in one place</description>
-  </item>
-  <item>
-    <title>nats-io / nats-server</title>
-    <link>https://github.com/nats-io/nats-server</link>
-    <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
-  </item>
-  <item>
-    <title>flyteorg / flyte</title>
-    <link>https://github.com/flyteorg/flyte</link>
-    <description>Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.</description>
-  </item>
-  <item>
-    <title>runatlantis / atlantis</title>
-    <link>https://github.com/runatlantis/atlantis</link>
-    <description>Terraform Pull Request Automation</description>
-  </item>
-  <item>
-    <title>lxc / incus</title>
-    <link>https://github.com/lxc/incus</link>
-    <description>Powerful system container and virtual machine manager</description>
-  </item>
-  <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-  </item>
-  <item>
-    <title>compozy / compozy</title>
-    <link>https://github.com/compozy/compozy</link>
-    <description>An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.</description>
   </item>
 </channel>
 </rss>

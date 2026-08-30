@@ -2,37 +2,17 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 29 Aug 2026 08:31:35 GMT",
+  "pubDate": "Sun, 30 Aug 2026 07:46:16 GMT",
   "items": [
     {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1319,
-      "forks": 268,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1639,
-      "forks": 399,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2461,
-      "forks": 243,
-      "added_stars": "4 stars today"
+      "stars": 7752,
+      "forks": 1224,
+      "added_stars": "3 stars today"
     },
     {
       "title": "karpathy / llm.c",
@@ -42,17 +22,27 @@
       "languageColor": "#3A4E3A",
       "stars": 30892,
       "forks": 3746,
-      "added_stars": "8 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7748,
-      "forks": 1223,
-      "added_stars": "5 stars today"
+      "stars": 3685,
+      "forks": 494,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17539,
+      "forks": 2066,
+      "added_stars": "2 stars today"
     },
     {
       "title": "NVIDIA / cub",
@@ -62,6 +52,16 @@
       "languageColor": "#3A4E3A",
       "stars": 1842,
       "forks": 464,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10071,
+      "forks": 1419,
       "added_stars": "0 stars today"
     },
     {
@@ -75,16 +75,6 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 17536,
-      "forks": 2066,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "HazyResearch / ThunderKittens",
       "url": "https://github.com/HazyResearch/ThunderKittens",
       "description": "Tile primitives for speedy kernels",
@@ -92,6 +82,46 @@
       "languageColor": "#3A4E3A",
       "stars": 3658,
       "forks": 318,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "BBuf / how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3231,
+      "forks": 289,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1639,
+      "forks": 400,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NVIDIA / nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 924,
+      "forks": 122,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2461,
+      "forks": 243,
       "added_stars": "0 stars today"
     },
     {
@@ -100,19 +130,19 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 841,
+      "stars": 842,
       "forks": 228,
       "added_stars": "0 stars today"
     },
     {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
+      "title": "alibaba / rtp-llm",
+      "url": "https://github.com/alibaba/rtp-llm",
+      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10071,
-      "forks": 1418,
-      "added_stars": "2 stars today"
+      "stars": 1320,
+      "forks": 269,
+      "added_stars": "0 stars today"
     }
   ]
 }

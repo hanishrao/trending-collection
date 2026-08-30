@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 29 Aug 2026 08:36:57 GMT",
+  "pubDate": "Sun, 30 Aug 2026 07:50:41 GMT",
   "items": [
     {
       "title": "semgrep / semgrep",
@@ -10,9 +10,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 16434,
-      "forks": 1040,
-      "added_stars": "419 stars this month"
+      "stars": 16443,
+      "forks": 1041,
+      "added_stars": "422 stars this month"
     },
     {
       "title": "opengrep / opengrep",
@@ -20,9 +20,19 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3002,
-      "forks": 252,
-      "added_stars": "168 stars this month"
+      "stars": 3007,
+      "forks": 253,
+      "added_stars": "171 stars this month"
+    },
+    {
+      "title": "ocaml / dune",
+      "url": "https://github.com/ocaml/dune",
+      "description": "A composable build system for OCaml.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1912,
+      "forks": 495,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "janestreet / bonsai",
@@ -42,7 +52,7 @@
       "languageColor": "#ef7a08",
       "stars": 5558,
       "forks": 755,
-      "added_stars": "32 stars this month"
+      "added_stars": "30 stars this month"
     },
     {
       "title": "ocaml / ocaml",
@@ -50,29 +60,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6537,
+      "stars": 6538,
       "forks": 1412,
-      "added_stars": "60 stars this month"
-    },
-    {
-      "title": "ocaml / dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1911,
-      "forks": 495,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "savonet / liquidsoap",
-      "url": "https://github.com/savonet/liquidsoap",
-      "description": "Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1721,
-      "forks": 160,
-      "added_stars": "17 stars this month"
+      "added_stars": "54 stars this month"
     },
     {
       "title": "oxcaml / oxcaml",
@@ -85,26 +75,6 @@
       "added_stars": "32 stars this month"
     },
     {
-      "title": "bcpierce00 / unison",
-      "url": "https://github.com/bcpierce00/unison",
-      "description": "Unison file synchronizer",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 5455,
-      "forks": 273,
-      "added_stars": "50 stars this month"
-    },
-    {
-      "title": "facebook / infer",
-      "url": "https://github.com/facebook/infer",
-      "description": "A static analyzer for Java, C, C++, and Objective-C",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 15693,
-      "forks": 2099,
-      "added_stars": "46 stars this month"
-    },
-    {
       "title": "MinaProtocol / mina",
       "url": "https://github.com/MinaProtocol/mina",
       "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
@@ -115,14 +85,34 @@
       "added_stars": "6 stars this month"
     },
     {
-      "title": "janestreet / hardcaml",
-      "url": "https://github.com/janestreet/hardcaml",
-      "description": "Hardcaml is an OCaml library for designing hardware.",
+      "title": "savonet / liquidsoap",
+      "url": "https://github.com/savonet/liquidsoap",
+      "description": "Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1121,
-      "forks": 65,
-      "added_stars": "29 stars this month"
+      "stars": 1722,
+      "forks": 160,
+      "added_stars": "18 stars this month"
+    },
+    {
+      "title": "bcpierce00 / unison",
+      "url": "https://github.com/bcpierce00/unison",
+      "description": "Unison file synchronizer",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5455,
+      "forks": 273,
+      "added_stars": "49 stars this month"
+    },
+    {
+      "title": "facebook / infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 15694,
+      "forks": 2099,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -130,19 +120,9 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 929,
+      "stars": 932,
       "forks": 102,
-      "added_stars": "49 stars this month"
-    },
-    {
-      "title": "caffeinelabs / motoko",
-      "url": "https://github.com/caffeinelabs/motoko",
-      "description": "Simple high-level language for writing Internet Computer canisters",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 589,
-      "forks": 126,
-      "added_stars": "2 stars this month"
+      "added_stars": "51 stars this month"
     },
     {
       "title": "janestreet / magic-trace",
@@ -150,9 +130,9 @@
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6250,
+      "stars": 6251,
       "forks": 208,
-      "added_stars": "64 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
@@ -163,6 +143,16 @@
       "stars": 59,
       "forks": 11,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "caffeinelabs / motoko",
+      "url": "https://github.com/caffeinelabs/motoko",
+      "description": "Simple high-level language for writing Internet Computer canisters",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 589,
+      "forks": 126,
+      "added_stars": "1 star this month"
     }
   ]
 }

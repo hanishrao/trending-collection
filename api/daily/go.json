@@ -2,27 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 29 Aug 2026 08:31:35 GMT",
+  "pubDate": "Sun, 30 Aug 2026 07:46:16 GMT",
   "items": [
-    {
-      "title": "JetBrains / go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2684,
-      "forks": 79,
-      "added_stars": "574 stars today"
-    },
     {
       "title": "tailscale / tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2986,
+      "stars": 3780,
+      "forks": 114,
+      "added_stars": "789 stars today"
+    },
+    {
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2927,
       "forks": 82,
-      "added_stars": "965 stars today"
+      "added_stars": "303 stars today"
     },
     {
       "title": "workweave / router",
@@ -30,9 +30,49 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2471,
-      "forks": 74,
-      "added_stars": "693 stars today"
+      "stars": 2906,
+      "forks": 82,
+      "added_stars": "284 stars today"
+    },
+    {
+      "title": "dapr / dapr",
+      "url": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 26050,
+      "forks": 2140,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89617,
+      "forks": 10563,
+      "added_stars": "73 stars today"
+    },
+    {
+      "title": "Ed1s0nZ / CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6054,
+      "forks": 975,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "anchore / syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9479,
+      "forks": 939,
+      "added_stars": "5 stars today"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -40,19 +80,129 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22150,
-      "forks": 2947,
-      "added_stars": "68 stars today"
+      "stars": 22171,
+      "forks": 2953,
+      "added_stars": "45 stars today"
     },
     {
-      "title": "grafana / alloy",
-      "url": "https://github.com/grafana/alloy",
-      "description": "OpenTelemetry Collector distribution with programmable pipelines",
+      "title": "cinar / indicator",
+      "url": "https://github.com/cinar/indicator",
+      "description": "Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3484,
-      "forks": 696,
-      "added_stars": "4 stars today"
+      "stars": 1575,
+      "forks": 241,
+      "added_stars": "69 stars today"
+    },
+    {
+      "title": "juanfont / headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 43321,
+      "forks": 2530,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "semaphoreui / semaphore",
+      "url": "https://github.com/semaphoreui/semaphore",
+      "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14071,
+      "forks": 1296,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24036,
+      "forks": 7807,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "amacneil / dbmate",
+      "url": "https://github.com/amacneil/dbmate",
+      "description": "🚀 A lightweight, framework-agnostic database migration tool.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7269,
+      "forks": 369,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "oapi-codegen / oapi-codegen",
+      "url": "https://github.com/oapi-codegen/oapi-codegen",
+      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8548,
+      "forks": 1055,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bytebase / bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "description": "Database governance built for humans and agents — controlling changes and access across every major database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14448,
+      "forks": 977,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "voocel / ainovel-cli",
+      "url": "https://github.com/voocel/ainovel-cli",
+      "description": "✨多agent实现全自动AI小说生成",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1866,
+      "forks": 387,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "envoyproxy / gateway",
+      "url": "https://github.com/envoyproxy/gateway",
+      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2997,
+      "forks": 851,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6073,
+      "forks": 702,
+      "added_stars": "40 stars today"
+    },
+    {
+      "title": "wavetermdev / waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22157,
+      "forks": 1114,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "BishopFox / sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11750,
+      "forks": 1577,
+      "added_stars": "6 stars today"
     },
     {
       "title": "vllm-project / semantic-router",
@@ -60,39 +210,9 @@
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5393,
-      "forks": 851,
-      "added_stars": "41 stars today"
-    },
-    {
-      "title": "QuantumNous / new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46720,
-      "forks": 11106,
-      "added_stars": "110 stars today"
-    },
-    {
-      "title": "milvus-io / milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45864,
-      "forks": 4207,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64639,
-      "forks": 6171,
-      "added_stars": "15 stars today"
+      "stars": 5418,
+      "forks": 858,
+      "added_stars": "27 stars today"
     },
     {
       "title": "tailscale / tailscale",
@@ -100,99 +220,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35728,
-      "forks": 3125,
-      "added_stars": "44 stars today"
-    },
-    {
-      "title": "google / gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19188,
-      "forks": 1950,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37682,
-      "forks": 638,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "glanceapp / glance",
-      "url": "https://github.com/glanceapp/glance",
-      "description": "A self-hosted dashboard that puts all your feeds in one place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36689,
-      "forks": 1440,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "nats-io / nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20628,
-      "forks": 1920,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "flyteorg / flyte",
-      "url": "https://github.com/flyteorg/flyte",
-      "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7308,
-      "forks": 879,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "runatlantis / atlantis",
-      "url": "https://github.com/runatlantis/atlantis",
-      "description": "Terraform Pull Request Automation",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9264,
-      "forks": 1329,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "lxc / incus",
-      "url": "https://github.com/lxc/incus",
-      "description": "Powerful system container and virtual machine manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6072,
-      "forks": 484,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20882,
-      "forks": 3002,
-      "added_stars": "78 stars today"
-    },
-    {
-      "title": "compozy / compozy",
-      "url": "https://github.com/compozy/compozy",
-      "description": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2701,
-      "forks": 170,
-      "added_stars": "3 stars today"
+      "stars": 35787,
+      "forks": 3130,
+      "added_stars": "61 stars today"
     }
   ]
 }
