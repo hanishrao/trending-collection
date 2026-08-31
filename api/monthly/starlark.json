@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 30 Aug 2026 07:50:41 GMT",
+  "pubDate": "Mon, 31 Aug 2026 08:05:06 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,19 +10,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23044,
+      "stars": 23049,
       "forks": 1433,
-      "added_stars": "177 stars this month"
-    },
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8722,
-      "forks": 2625,
-      "added_stars": "72 stars this month"
+      "added_stars": "176 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -35,6 +25,16 @@
       "added_stars": "7 stars this month"
     },
     {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8724,
+      "forks": 2624,
+      "added_stars": "73 stars this month"
+    },
+    {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
@@ -42,7 +42,7 @@
       "languageColor": "#76d275",
       "stars": 3956,
       "forks": 304,
-      "added_stars": "47 stars this month"
+      "added_stars": "41 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -62,7 +62,17 @@
       "languageColor": "#76d275",
       "stars": 100,
       "forks": 71,
-      "added_stars": "1 star this month"
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 838,
+      "forks": 647,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "bazel-contrib / toolchains_llvm",
@@ -85,22 +95,12 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 837,
-      "forks": 647,
-      "added_stars": "14 stars this month"
-    },
-    {
       "title": "bazelbuild / rules_apple",
       "url": "https://github.com/bazelbuild/rules_apple",
       "description": "Bazel rules to build apps for Apple platforms.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 591,
+      "stars": 592,
       "forks": 336,
       "added_stars": "3 stars this month"
     },
@@ -112,7 +112,7 @@
       "languageColor": "#76d275",
       "stars": 144,
       "forks": 98,
-      "added_stars": "2 stars this month"
+      "added_stars": "1 star this month"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -135,16 +135,6 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 193,
-      "forks": 88,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "bazelbuild / examples",
       "url": "https://github.com/bazelbuild/examples",
       "description": "Examples for Bazel",
@@ -153,6 +143,16 @@
       "stars": 954,
       "forks": 576,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 193,
+      "forks": 89,
+      "added_stars": "1 star this month"
     }
   ]
 }

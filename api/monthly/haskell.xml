@@ -4,16 +4,11 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 30 Aug 2026 07:50:41 GMT</pubDate>
+  <pubDate>Mon, 31 Aug 2026 08:05:06 GMT</pubDate>
   <item>
     <title>jgm / pandoc</title>
     <link>https://github.com/jgm/pandoc</link>
     <description>Universal markup converter</description>
-  </item>
-  <item>
-    <title>plaintextaccounting / hledger</title>
-    <link>https://github.com/plaintextaccounting/hledger</link>
-    <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
   </item>
   <item>
     <title>koalaman / shellcheck</title>
@@ -21,19 +16,14 @@
     <description>ShellCheck, a static analysis tool for shell scripts</description>
   </item>
   <item>
+    <title>plaintextaccounting / hledger</title>
+    <link>https://github.com/plaintextaccounting/hledger</link>
+    <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
+  </item>
+  <item>
     <title>PostgREST / postgrest</title>
     <link>https://github.com/PostgREST/postgrest</link>
     <description>REST API for any Postgres database</description>
-  </item>
-  <item>
-    <title>hadolint / hadolint</title>
-    <link>https://github.com/hadolint/hadolint</link>
-    <description>Dockerfile linter, validate inline bash, written in Haskell</description>
-  </item>
-  <item>
-    <title>haskell / haskell-language-server</title>
-    <link>https://github.com/haskell/haskell-language-server</link>
-    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
   </item>
   <item>
     <title>monoscope-tech / monoscope</title>
@@ -41,9 +31,24 @@
     <description>Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.</description>
   </item>
   <item>
+    <title>haskell / haskell-language-server</title>
+    <link>https://github.com/haskell/haskell-language-server</link>
+    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
+  </item>
+  <item>
+    <title>hadolint / hadolint</title>
+    <link>https://github.com/hadolint/hadolint</link>
+    <description>Dockerfile linter, validate inline bash, written in Haskell</description>
+  </item>
+  <item>
     <title>digital-asset / daml</title>
     <link>https://github.com/digital-asset/daml</link>
     <description>The Daml smart contract language</description>
+  </item>
+  <item>
+    <title>IntersectMBO / cardano-node</title>
+    <link>https://github.com/IntersectMBO/cardano-node</link>
+    <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
   </item>
   <item>
     <title>haskell / cabal</title>
@@ -54,16 +59,6 @@
     <title>IntersectMBO / cardano-ledger</title>
     <link>https://github.com/IntersectMBO/cardano-ledger</link>
     <description>The ledger implementation and specifications of the Cardano blockchain.</description>
-  </item>
-  <item>
-    <title>therepanic / openleetcode</title>
-    <link>https://github.com/therepanic/openleetcode</link>
-    <description>we have democratized the LeetCode tests</description>
-  </item>
-  <item>
-    <title>IntersectMBO / cardano-node</title>
-    <link>https://github.com/IntersectMBO/cardano-node</link>
-    <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
   </item>
   <item>
     <title>elm / compiler</title>
@@ -81,14 +76,14 @@
     <description>HTTP server &amp; command-line for managing UTxOs and HD wallets in Cardano.</description>
   </item>
   <item>
-    <title>mtolly / onyx</title>
-    <link>https://github.com/mtolly/onyx</link>
-    <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
-  </item>
-  <item>
     <title>agda / agda</title>
     <link>https://github.com/agda/agda</link>
     <description>Agda is a dependently typed programming language / interactive theorem prover.</description>
+  </item>
+  <item>
+    <title>mtolly / onyx</title>
+    <link>https://github.com/mtolly/onyx</link>
+    <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
   </item>
   <item>
     <title>commercialhaskell / stack</title>
@@ -99,6 +94,11 @@
     <title>haskell / core-libraries-committee</title>
     <link>https://github.com/haskell/core-libraries-committee</link>
     <description></description>
+  </item>
+  <item>
+    <title>IntersectMBO / plutus</title>
+    <link>https://github.com/IntersectMBO/plutus</link>
+    <description>The Plutus language implementation and tools</description>
   </item>
 </channel>
 </rss>

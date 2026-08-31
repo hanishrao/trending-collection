@@ -2,27 +2,57 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 30 Aug 2026 07:46:16 GMT",
+  "pubDate": "Mon, 31 Aug 2026 07:59:28 GMT",
   "items": [
+    {
+      "title": "majd / ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10338,
+      "forks": 887,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "kenn-io / agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5663,
+      "forks": 644,
+      "added_stars": "142 stars today"
+    },
+    {
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21955,
+      "forks": 766,
+      "added_stars": "71 stars today"
+    },
     {
       "title": "tailscale / tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3780,
-      "forks": 114,
-      "added_stars": "789 stars today"
+      "stars": 4484,
+      "forks": 147,
+      "added_stars": "841 stars today"
     },
     {
-      "title": "JetBrains / go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
+      "title": "1Panel-dev / 1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2927,
-      "forks": 82,
-      "added_stars": "303 stars today"
+      "stars": 36741,
+      "forks": 3320,
+      "added_stars": "25 stars today"
     },
     {
       "title": "workweave / router",
@@ -30,189 +60,9 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2906,
-      "forks": 82,
-      "added_stars": "284 stars today"
-    },
-    {
-      "title": "dapr / dapr",
-      "url": "https://github.com/dapr/dapr",
-      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 26050,
-      "forks": 2140,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 89617,
-      "forks": 10563,
-      "added_stars": "73 stars today"
-    },
-    {
-      "title": "Ed1s0nZ / CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6054,
-      "forks": 975,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "anchore / syft",
-      "url": "https://github.com/anchore/syft",
-      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9479,
-      "forks": 939,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22171,
-      "forks": 2953,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "cinar / indicator",
-      "url": "https://github.com/cinar/indicator",
-      "description": "Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1575,
-      "forks": 241,
-      "added_stars": "69 stars today"
-    },
-    {
-      "title": "juanfont / headscale",
-      "url": "https://github.com/juanfont/headscale",
-      "description": "An open source, self-hosted implementation of the Tailscale control server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 43321,
-      "forks": 2530,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "semaphoreui / semaphore",
-      "url": "https://github.com/semaphoreui/semaphore",
-      "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14071,
-      "forks": 1296,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24036,
-      "forks": 7807,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "amacneil / dbmate",
-      "url": "https://github.com/amacneil/dbmate",
-      "description": "🚀 A lightweight, framework-agnostic database migration tool.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7269,
-      "forks": 369,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "oapi-codegen / oapi-codegen",
-      "url": "https://github.com/oapi-codegen/oapi-codegen",
-      "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8548,
-      "forks": 1055,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bytebase / bytebase",
-      "url": "https://github.com/bytebase/bytebase",
-      "description": "Database governance built for humans and agents — controlling changes and access across every major database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14448,
-      "forks": 977,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "voocel / ainovel-cli",
-      "url": "https://github.com/voocel/ainovel-cli",
-      "description": "✨多agent实现全自动AI小说生成",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1866,
-      "forks": 387,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "envoyproxy / gateway",
-      "url": "https://github.com/envoyproxy/gateway",
-      "description": "Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2997,
-      "forks": 851,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Gentleman-Programming / gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6073,
-      "forks": 702,
-      "added_stars": "40 stars today"
-    },
-    {
-      "title": "wavetermdev / waveterm",
-      "url": "https://github.com/wavetermdev/waveterm",
-      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22157,
-      "forks": 1114,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "BishopFox / sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11750,
-      "forks": 1577,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5418,
-      "forks": 858,
-      "added_stars": "27 stars today"
+      "stars": 3177,
+      "forks": 86,
+      "added_stars": "464 stars today"
     },
     {
       "title": "tailscale / tailscale",
@@ -220,9 +70,159 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35787,
-      "forks": 3130,
-      "added_stars": "61 stars today"
+      "stars": 35858,
+      "forks": 3144,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "charmbracelet / bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 44709,
+      "forks": 1305,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6094,
+      "forks": 704,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "sipeed / picoclaw",
+      "url": "https://github.com/sipeed/picoclaw",
+      "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29918,
+      "forks": 4459,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "cinar / indicator",
+      "url": "https://github.com/cinar/indicator",
+      "description": "Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1630,
+      "forks": 245,
+      "added_stars": "76 stars today"
+    },
+    {
+      "title": "komari-monitor / komari",
+      "url": "https://github.com/komari-monitor/komari",
+      "description": "A simple server monitor tool.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6037,
+      "forks": 576,
+      "added_stars": "52 stars today"
+    },
+    {
+      "title": "OpenListTeam / OpenList",
+      "url": "https://github.com/OpenListTeam/OpenList",
+      "description": "A new AList Fork to Anti Trust Crisis",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24404,
+      "forks": 2244,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "zeromicro / go-zero",
+      "url": "https://github.com/zeromicro/go-zero",
+      "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 33295,
+      "forks": 4318,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 125593,
+      "forks": 43968,
+      "added_stars": "244 stars today"
+    },
+    {
+      "title": "cloudflare / cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15449,
+      "forks": 1416,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "go-vikunja / vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The task manager you actually own.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5215,
+      "forks": 652,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "google / gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19202,
+      "forks": 1970,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "SagerNet / sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37417,
+      "forks": 4499,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "grafana / loki",
+      "url": "https://github.com/grafana/loki",
+      "description": "Like Prometheus, but for logs.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28813,
+      "forks": 4098,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "bettercap / bettercap",
+      "url": "https://github.com/bettercap/bettercap",
+      "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19917,
+      "forks": 1716,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "github / gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5063,
+      "forks": 528,
+      "added_stars": "12 stars today"
     }
   ]
 }
