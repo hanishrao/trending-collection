@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 31 Aug 2026 08:05:06 GMT</pubDate>
+  <pubDate>Tue, 01 Sep 2026 07:11:07 GMT</pubDate>
   <item>
     <title>syl20bnr / spacemacs</title>
     <link>https://github.com/syl20bnr/spacemacs</link>
@@ -14,6 +14,26 @@
     <title>dnouri / pi-coding-agent</title>
     <link>https://github.com/dnouri/pi-coding-agent</link>
     <description>Emacs frontend for the Pi coding agent</description>
+  </item>
+  <item>
+    <title>doomemacs / core</title>
+    <link>https://github.com/doomemacs/core</link>
+    <description>An Emacs framework for the stubborn martian hacker</description>
+  </item>
+  <item>
+    <title>emacs-mirror / emacs</title>
+    <link>https://github.com/emacs-mirror/emacs</link>
+    <description>Mirror of GNU Emacs</description>
+  </item>
+  <item>
+    <title>xenodium / agent-shell</title>
+    <link>https://github.com/xenodium/agent-shell</link>
+    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
+  </item>
+  <item>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
     <title>karthink / gptel</title>
@@ -26,36 +46,6 @@
     <description>Emacs client/library for the Language Server Protocol</description>
   </item>
   <item>
-    <title>doomemacs / core</title>
-    <link>https://github.com/doomemacs/core</link>
-    <description>An Emacs framework for the stubborn martian hacker</description>
-  </item>
-  <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
-  </item>
-  <item>
-    <title>emacs-mirror / emacs</title>
-    <link>https://github.com/emacs-mirror/emacs</link>
-    <description>Mirror of GNU Emacs</description>
-  </item>
-  <item>
-    <title>MatthewZMD / aidermacs</title>
-    <link>https://github.com/MatthewZMD/aidermacs</link>
-    <description>AI Pair Programming in Emacs with Aider</description>
-  </item>
-  <item>
-    <title>xenodium / agent-shell</title>
-    <link>https://github.com/xenodium/agent-shell</link>
-    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
-  </item>
-  <item>
-    <title>org-roam / org-roam</title>
-    <link>https://github.com/org-roam/org-roam</link>
-    <description>Rudimentary Roam replica with Org-mode</description>
-  </item>
-  <item>
     <title>melpa / melpa</title>
     <link>https://github.com/melpa/melpa</link>
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
@@ -66,9 +56,14 @@
     <description>Terminal emulator powered by libghostty</description>
   </item>
   <item>
-    <title>doomemacs / modules</title>
-    <link>https://github.com/doomemacs/modules</link>
-    <description>Official module library for Doom Emacs</description>
+    <title>org-roam / org-roam</title>
+    <link>https://github.com/org-roam/org-roam</link>
+    <description>Rudimentary Roam replica with Org-mode</description>
+  </item>
+  <item>
+    <title>mmontone / emacs-inspector</title>
+    <link>https://github.com/mmontone/emacs-inspector</link>
+    <description>Inspection tool for Emacs Lisp objects.</description>
   </item>
   <item>
     <title>bbatsov / projectile</title>
@@ -76,24 +71,29 @@
     <description>Project Interaction Library for Emacs</description>
   </item>
   <item>
-    <title>qjcg / awesome-typst</title>
-    <link>https://github.com/qjcg/awesome-typst</link>
-    <description>Awesome Typst Links</description>
-  </item>
-  <item>
     <title>magit / forge</title>
     <link>https://github.com/magit/forge</link>
     <description>Work with Git forges from the comfort of Magit</description>
   </item>
   <item>
+    <title>protesilaos / modus-themes</title>
+    <link>https://github.com/protesilaos/modus-themes</link>
+    <description>Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).</description>
+  </item>
+  <item>
+    <title>akermu / emacs-libvterm</title>
+    <link>https://github.com/akermu/emacs-libvterm</link>
+    <description>Emacs libvterm integration</description>
+  </item>
+  <item>
+    <title>doomemacs / modules</title>
+    <link>https://github.com/doomemacs/modules</link>
+    <description>Official module library for Doom Emacs</description>
+  </item>
+  <item>
     <title>dominikh / go-mode.el</title>
     <link>https://github.com/dominikh/go-mode.el</link>
     <description>Emacs mode for the Go programming language</description>
-  </item>
-  <item>
-    <title>mmontone / emacs-inspector</title>
-    <link>https://github.com/mmontone/emacs-inspector</link>
-    <description>Inspection tool for Emacs Lisp objects.</description>
   </item>
 </channel>
 </rss>

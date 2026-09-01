@@ -2,47 +2,17 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 31 Aug 2026 07:59:28 GMT",
+  "pubDate": "Tue, 01 Sep 2026 07:05:32 GMT",
   "items": [
     {
-      "title": "quickemu-project / quickemu",
-      "url": "https://github.com/quickemu-project/quickemu",
-      "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
+      "title": "OthmanAdi / planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 15958,
-      "forks": 728,
-      "added_stars": "141 stars today"
-    },
-    {
-      "title": "omacom / omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 35735,
-      "forks": 3683,
-      "added_stars": "758 stars today"
-    },
-    {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29447,
-      "forks": 2859,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "msitarzewski / agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 149133,
-      "forks": 24045,
-      "added_stars": "218 stars today"
+      "stars": 26532,
+      "forks": 2215,
+      "added_stars": "66 stars today"
     },
     {
       "title": "SimoneAvogadro / android-reverse-engineering-skill",
@@ -50,29 +20,49 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7635,
-      "forks": 859,
-      "added_stars": "97 stars today"
+      "stars": 7656,
+      "forks": 865,
+      "added_stars": "42 stars today"
     },
     {
-      "title": "acmesh-official / acme.sh",
-      "url": "https://github.com/acmesh-official/acme.sh",
-      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+      "title": "quickemu-project / quickemu",
+      "url": "https://github.com/quickemu-project/quickemu",
+      "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47556,
-      "forks": 5657,
-      "added_stars": "4 stars today"
+      "stars": 16039,
+      "forks": 731,
+      "added_stars": "70 stars today"
     },
     {
-      "title": "xiv3r / Burpsuite-Professional",
-      "url": "https://github.com/xiv3r/Burpsuite-Professional",
-      "description": "Burpsuite Professional Latest Version 2026",
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 3005,
-      "forks": 709,
-      "added_stars": "3 stars today"
+      "stars": 65603,
+      "forks": 2300,
+      "added_stars": "178 stars today"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29463,
+      "forks": 2860,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 149356,
+      "forks": 24082,
+      "added_stars": "262 stars today"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -80,79 +70,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4482,
-      "forks": 1472,
-      "added_stars": "107 stars today"
-    },
-    {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9104,
-      "forks": 281,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "ophub / amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9712,
-      "forks": 3109,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "BtbN / FFmpeg-Builds",
-      "url": "https://github.com/BtbN/FFmpeg-Builds",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11590,
-      "forks": 1522,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "getsentry / self-hosted",
-      "url": "https://github.com/getsentry/self-hosted",
-      "description": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9537,
-      "forks": 1963,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "google / oss-fuzz",
-      "url": "https://github.com/google/oss-fuzz",
-      "description": "OSS-Fuzz - continuous fuzzing for open source software.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 12604,
-      "forks": 2878,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "githubnext / monaspace",
-      "url": "https://github.com/githubnext/monaspace",
-      "description": "An innovative superfamily of fonts for code",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 19601,
-      "forks": 326,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "MichaelCade / 90DaysOfDevOps",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29685,
-      "forks": 6750,
-      "added_stars": "9 stars today"
+      "stars": 4576,
+      "forks": 1491,
+      "added_stars": "84 stars today"
     },
     {
       "title": "pystardust / ani-cli",
@@ -160,29 +80,109 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13667,
+      "stars": 13673,
       "forks": 876,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "bin456789 / reinstall",
-      "url": "https://github.com/bin456789/reinstall",
-      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 12890,
-      "forks": 2080,
       "added_stars": "11 stars today"
     },
     {
-      "title": "ophub / fnnas",
-      "url": "https://github.com/ophub/fnnas",
-      "description": "Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "title": "HyDE-Project / HyDE",
+      "url": "https://github.com/HyDE-Project/HyDE",
+      "description": "HyDE, your Development Environment 🖥️💻",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 3290,
-      "forks": 608,
+      "stars": 9546,
+      "forks": 636,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 280161,
+      "forks": 25109,
+      "added_stars": "446 stars today"
+    },
+    {
+      "title": "BtbN / FFmpeg-Builds",
+      "url": "https://github.com/BtbN/FFmpeg-Builds",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11595,
+      "forks": 1522,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "omacom / omarchy-iso",
+      "url": "https://github.com/omacom/omarchy-iso",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 252,
+      "forks": 113,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "jnMetaCode / agency-agents-zh",
+      "url": "https://github.com/jnMetaCode/agency-agents-zh",
+      "description": "🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 20171,
+      "forks": 3270,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "StressOzz / Zapret-Manager",
+      "url": "https://github.com/StressOzz/Zapret-Manager",
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt https://t.me/stressozz_manager",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1775,
+      "forks": 75,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "CachyOS / linux-cachyos",
+      "url": "https://github.com/CachyOS/linux-cachyos",
+      "description": "Archlinux Kernel based on different schedulers and some other performance improvements.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4361,
+      "forks": 155,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "omacom / omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 36399,
+      "forks": 3772,
+      "added_stars": "683 stars today"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9114,
+      "forks": 284,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "pwnerblu / surrealra1n",
+      "url": "https://github.com/pwnerblu/surrealra1n",
+      "description": "Tethered downgrade tool for macOS/Linux (A7-A13, iOS 7.0-17.6.1). Some restores may utilize seprmvr64 by Mineek.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 282,
+      "forks": 39,
+      "added_stars": "1 star today"
     }
   ]
 }

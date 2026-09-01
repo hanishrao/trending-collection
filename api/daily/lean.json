@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 31 Aug 2026 07:59:28 GMT",
+  "pubDate": "Tue, 01 Sep 2026 07:05:32 GMT",
   "items": [
     {
       "title": "leanprover-community / mathlib4",
@@ -10,9 +10,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 3977,
-      "forks": 1633,
-      "added_stars": "1 star today"
+      "stars": 3982,
+      "forks": 1635,
+      "added_stars": "7 stars today"
     },
     {
       "title": "leanprover / lean4",
@@ -20,9 +20,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 8942,
+      "stars": 8946,
       "forks": 956,
-      "added_stars": "10 stars today"
+      "added_stars": "6 stars today"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -30,9 +30,19 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1214,
-      "forks": 432,
-      "added_stars": "5 stars today"
+      "stars": 1216,
+      "forks": 436,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "LionSR / TNLean",
+      "url": "https://github.com/LionSR/TNLean",
+      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 34,
+      "forks": 3,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Verified-zkEVM / evm-asm",
@@ -45,36 +55,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cryspen / hax",
-      "url": "https://github.com/cryspen/hax",
-      "description": "A Rust verification tool",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 472,
-      "forks": 68,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "LionSR / TNLean",
-      "url": "https://github.com/LionSR/TNLean",
-      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 34,
-      "forks": 3,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 716,
-      "forks": 176,
-      "added_stars": "1 star today"
-    },
-    {
       "title": "leanprover / cslib",
       "url": "https://github.com/leanprover/cslib",
       "description": "The Lean Computer Science Library (CSLib)",
@@ -85,13 +65,53 @@
       "added_stars": "1 star today"
     },
     {
+      "title": "cryspen / hax",
+      "url": "https://github.com/cryspen/hax",
+      "description": "A Rust verification tool",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 472,
+      "forks": 68,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 417,
+      "stars": 418,
       "forks": 161,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 120,
+      "forks": 29,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 36,
+      "forks": 13,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 223,
+      "forks": 48,
       "added_stars": "0 stars today"
     },
     {
@@ -101,7 +121,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 115,
-      "forks": 29,
+      "forks": 30,
       "added_stars": "0 stars today"
     },
     {
@@ -115,6 +135,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "leanprover-community / import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 26,
+      "forks": 16,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "leanprover-community / quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
@@ -125,24 +155,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
+      "title": "AlexKontorovich / PrimeNumberTheoremAnd",
+      "url": "https://github.com/AlexKontorovich/PrimeNumberTheoremAnd",
+      "description": "Blueprint for the PNT+ Project",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 36,
-      "forks": 12,
-      "added_stars": "0 stars today"
+      "stars": 343,
+      "forks": 118,
+      "added_stars": "1 star today"
     },
     {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 223,
-      "forks": 47,
-      "added_stars": "1 star today"
+      "stars": 716,
+      "forks": 176,
+      "added_stars": "0 stars today"
     }
   ]
 }

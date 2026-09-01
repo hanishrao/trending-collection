@@ -4,16 +4,16 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 31 Aug 2026 07:59:28 GMT</pubDate>
+  <pubDate>Tue, 01 Sep 2026 07:05:32 GMT</pubDate>
   <item>
     <title>junegunn / vim-plug</title>
     <link>https://github.com/junegunn/vim-plug</link>
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>neovim / neovim</title>
-    <link>https://github.com/neovim/neovim</link>
-    <description>Vim-fork focused on extensibility and usability</description>
+    <title>amix / vimrc</title>
+    <link>https://github.com/amix/vimrc</link>
+    <description>The ultimate Vim configuration (vimrc)</description>
   </item>
   <item>
     <title>morhetz / gruvbox</title>
@@ -26,14 +26,9 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>andymass / vim-matchup</title>
-    <link>https://github.com/andymass/vim-matchup</link>
-    <description>vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</description>
-  </item>
-  <item>
-    <title>junegunn / fzf.vim</title>
-    <link>https://github.com/junegunn/fzf.vim</link>
-    <description>fzf ❤️ vim</description>
+    <title>neovim / neovim</title>
+    <link>https://github.com/neovim/neovim</link>
+    <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
     <title>sainnhe / everforest</title>
@@ -41,29 +36,14 @@
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>amix / vimrc</title>
-    <link>https://github.com/amix/vimrc</link>
-    <description>The ultimate Vim configuration (vimrc)</description>
+    <title>tpope / vim-commentary</title>
+    <link>https://github.com/tpope/vim-commentary</link>
+    <description>commentary.vim: comment stuff out</description>
   </item>
   <item>
-    <title>vim-airline / vim-airline-themes</title>
-    <link>https://github.com/vim-airline/vim-airline-themes</link>
-    <description>A collection of themes for vim-airline</description>
-  </item>
-  <item>
-    <title>sainnhe / gruvbox-material</title>
-    <link>https://github.com/sainnhe/gruvbox-material</link>
-    <description>Gruvbox with Material Palette</description>
-  </item>
-  <item>
-    <title>mbbill / undotree</title>
-    <link>https://github.com/mbbill/undotree</link>
-    <description>The undo history visualizer for VIM</description>
-  </item>
-  <item>
-    <title>kristijanhusak / vim-dadbod-ui</title>
-    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
-    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
     <title>tpope / vim-dadbod</title>
@@ -71,9 +51,29 @@
     <description>dadbod.vim: Modern database interface for Vim</description>
   </item>
   <item>
-    <title>vim / vim</title>
-    <link>https://github.com/vim/vim</link>
-    <description>The official Vim repository</description>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>vim-airline / vim-airline-themes</title>
+    <link>https://github.com/vim-airline/vim-airline-themes</link>
+    <description>A collection of themes for vim-airline</description>
+  </item>
+  <item>
+    <title>godlygeek / tabular</title>
+    <link>https://github.com/godlygeek/tabular</link>
+    <description>Vim script for text filtering and alignment</description>
+  </item>
+  <item>
+    <title>tpope / vim-repeat</title>
+    <link>https://github.com/tpope/vim-repeat</link>
+    <description>repeat.vim: enable repeating supported plugin maps with &quot;.&quot;</description>
+  </item>
+  <item>
+    <title>kristijanhusak / vim-dadbod-ui</title>
+    <link>https://github.com/kristijanhusak/vim-dadbod-ui</link>
+    <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
   </item>
   <item>
     <title>tpope / vim-fugitive</title>
@@ -81,39 +81,19 @@
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>altercation / vim-colors-solarized</title>
-    <link>https://github.com/altercation/vim-colors-solarized</link>
-    <description>precision colorscheme for the vim text editor</description>
-  </item>
-  <item>
-    <title>tpope / vim-unimpaired</title>
-    <link>https://github.com/tpope/vim-unimpaired</link>
-    <description>unimpaired.vim: Pairs of handy bracket mappings</description>
-  </item>
-  <item>
-    <title>mg979 / vim-visual-multi</title>
-    <link>https://github.com/mg979/vim-visual-multi</link>
-    <description>Multiple cursors plugin for vim/neovim</description>
-  </item>
-  <item>
-    <title>dracula / vim</title>
-    <link>https://github.com/dracula/vim</link>
-    <description>🧛🏻‍♂️ Dark theme for Vim</description>
-  </item>
-  <item>
     <title>tpope / vim-surround</title>
     <link>https://github.com/tpope/vim-surround</link>
     <description>surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</description>
   </item>
   <item>
-    <title>voldikss / vim-floaterm</title>
-    <link>https://github.com/voldikss/vim-floaterm</link>
-    <description>💻 Terminal manager for (neo)vim</description>
+    <title>kristijanhusak / vim-dadbod-completion</title>
+    <link>https://github.com/kristijanhusak/vim-dadbod-completion</link>
+    <description>Database autocompletion powered by https://github.com/tpope/vim-dadbod</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
+    <title>VundleVim / Vundle.vim</title>
+    <link>https://github.com/VundleVim/Vundle.vim</link>
+    <description>Vundle, the plug-in manager for Vim</description>
   </item>
 </channel>
 </rss>

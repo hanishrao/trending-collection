@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 31 Aug 2026 08:01:46 GMT",
+  "pubDate": "Tue, 01 Sep 2026 07:07:51 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,39 +10,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8724,
+      "stars": 8726,
       "forks": 2624,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 686,
-      "forks": 717,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 383,
-      "forks": 861,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 838,
-      "forks": 647,
-      "added_stars": "4 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -52,16 +22,6 @@
       "languageColor": "#76d275",
       "stars": 398,
       "forks": 87,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 100,
-      "forks": 71,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,12 +35,42 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 100,
+      "forks": 71,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 686,
+      "forks": 717,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 383,
+      "forks": 861,
+      "added_stars": "3 stars this week"
+    },
+    {
       "title": "openconfig / gnoi",
       "url": "https://github.com/openconfig/gnoi",
       "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 193,
+      "stars": 194,
       "forks": 89,
       "added_stars": "1 star this week"
     },
@@ -95,24 +85,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23049,
-      "forks": 1433,
-      "added_stars": "31 stars this week"
-    },
-    {
       "title": "tronbyt / apps",
       "url": "https://github.com/tronbyt/apps",
       "description": "Hard Fork of Tidbyt Community Repo",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 56,
-      "forks": 125,
-      "added_stars": "6 stars this week"
+      "stars": 57,
+      "forks": 126,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23051,
+      "forks": 1433,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -135,14 +125,34 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 838,
+      "forks": 648,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 271,
+      "forks": 84,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3956,
+      "stars": 3957,
       "forks": 304,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 31 Aug 2026 07:59:28 GMT",
+  "pubDate": "Tue, 01 Sep 2026 07:05:32 GMT",
   "items": [
     {
       "title": "karpathy / llm.c",
@@ -10,19 +10,29 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30898,
-      "forks": 3750,
-      "added_stars": "8 stars today"
+      "stars": 30903,
+      "forks": 3751,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "NVIDIA / nvbench",
-      "url": "https://github.com/NVIDIA/nvbench",
-      "description": "CUDA Kernel Benchmarking Library",
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 924,
-      "forks": 122,
-      "added_stars": "0 stars today"
+      "stars": 3693,
+      "forks": 495,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3661,
+      "forks": 319,
+      "added_stars": "1 star today"
     },
     {
       "title": "NVIDIA / cub",
@@ -35,24 +45,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1032,
-      "forks": 222,
-      "added_stars": "0 stars today"
+      "stars": 17541,
+      "forks": 2066,
+      "added_stars": "1 star today"
     },
     {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3661,
-      "forks": 318,
-      "added_stars": "2 stars today"
+      "stars": 7762,
+      "forks": 1225,
+      "added_stars": "9 stars today"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -60,49 +70,9 @@
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1321,
+      "stars": 1322,
       "forks": 269,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 17539,
-      "forks": 2066,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1641,
-      "forks": 400,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3691,
-      "forks": 495,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "NVIDIA / cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 843,
-      "forks": 228,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     }
   ]
 }
