@@ -2,27 +2,27 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:11:07 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:46:31 GMT",
   "items": [
-    {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 102051,
-      "forks": 7066,
-      "added_stars": "967 stars this month"
-    },
     {
       "title": "vim / vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40834,
+      "stars": 40848,
       "forks": 6129,
-      "added_stars": "241 stars this month"
+      "added_stars": "249 stars this month"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 102075,
+      "forks": 7070,
+      "added_stars": "976 stars this month"
     },
     {
       "title": "github / copilot.vim",
@@ -30,9 +30,29 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11686,
-      "forks": 807,
-      "added_stars": "49 stars this month"
+      "stars": 11687,
+      "forks": 806,
+      "added_stars": "48 stars this month"
+    },
+    {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 15721,
+      "forks": 1126,
+      "added_stars": "88 stars this month"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35758,
+      "forks": 1931,
+      "added_stars": "75 stars this month"
     },
     {
       "title": "tpope / vim-eunuch",
@@ -45,26 +65,6 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "morhetz / gruvbox",
-      "url": "https://github.com/morhetz/gruvbox",
-      "description": "Retro groove color scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 15716,
-      "forks": 1126,
-      "added_stars": "84 stars this month"
-    },
-    {
-      "title": "voldikss / vim-floaterm",
-      "url": "https://github.com/voldikss/vim-floaterm",
-      "description": "💻 Terminal manager for (neo)vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 2656,
-      "forks": 96,
-      "added_stars": "6 stars this month"
-    },
-    {
       "title": "dense-analysis / ale",
       "url": "https://github.com/dense-analysis/ale",
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
@@ -72,17 +72,7 @@
       "languageColor": "#199f4b",
       "stars": 14020,
       "forks": 1485,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35756,
-      "forks": 1932,
-      "added_stars": "75 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "derekhe / msfs2020-map-enhancement",
@@ -95,34 +85,14 @@
       "added_stars": "6 stars this month"
     },
     {
-      "title": "mhinz / vim-galore",
-      "url": "https://github.com/mhinz/vim-galore",
-      "description": "🎓 All things Vim!",
+      "title": "voldikss / vim-floaterm",
+      "url": "https://github.com/voldikss/vim-floaterm",
+      "description": "💻 Terminal manager for (neo)vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 17969,
-      "forks": 626,
-      "added_stars": "64 stars this month"
-    },
-    {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4187,
-      "forks": 144,
-      "added_stars": "60 stars this month"
-    },
-    {
-      "title": "amix / vimrc",
-      "url": "https://github.com/amix/vimrc",
-      "description": "The ultimate Vim configuration (vimrc)",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 31809,
-      "forks": 7233,
-      "added_stars": "62 stars this month"
+      "stars": 2657,
+      "forks": 96,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "tpope / vim-fugitive",
@@ -130,19 +100,19 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21772,
+      "stars": 21771,
       "forks": 1079,
-      "added_stars": "59 stars this month"
+      "added_stars": "58 stars this month"
     },
     {
-      "title": "ggml-org / llama.vim",
-      "url": "https://github.com/ggml-org/llama.vim",
-      "description": "Vim plugin for LLM-assisted code/text completion",
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 2157,
-      "forks": 119,
-      "added_stars": "43 stars this month"
+      "stars": 4188,
+      "forks": 144,
+      "added_stars": "58 stars this month"
     },
     {
       "title": "dracula / vim",
@@ -155,14 +125,14 @@
       "added_stars": "9 stars this month"
     },
     {
-      "title": "VundleVim / Vundle.vim",
-      "url": "https://github.com/VundleVim/Vundle.vim",
-      "description": "Vundle, the plug-in manager for Vim",
+      "title": "ggml-org / llama.vim",
+      "url": "https://github.com/ggml-org/llama.vim",
+      "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 23925,
-      "forks": 2535,
-      "added_stars": "12 stars this month"
+      "stars": 2157,
+      "forks": 119,
+      "added_stars": "43 stars this month"
     }
   ]
 }

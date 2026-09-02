@@ -2,8 +2,18 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:07:51 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:45:14 GMT",
   "items": [
+    {
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2298,
+      "forks": 1549,
+      "added_stars": "43 stars this week"
+    },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
@@ -15,24 +25,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "techiescamp / devops-projects",
-      "url": "https://github.com/techiescamp/devops-projects",
-      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "title": "DataDog / serverless-sample-app",
+      "url": "https://github.com/DataDog/serverless-sample-app",
+      "description": "Explore Datadog's serverless observability features with this sample app.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2296,
-      "forks": 1546,
-      "added_stars": "46 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5001,
-      "forks": 4410,
-      "added_stars": "4 stars this week"
+      "stars": 60,
+      "forks": 20,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -40,9 +40,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3259,
+      "stars": 3260,
       "forks": 4624,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -63,6 +63,36 @@
       "stars": 582,
       "forks": 3811,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "Azure / terraform-azurerm-naming",
+      "url": "https://github.com/Azure/terraform-azurerm-naming",
+      "description": "",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 274,
+      "forks": 146,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-gcloud",
+      "url": "https://github.com/terraform-google-modules/terraform-google-gcloud",
+      "description": "Executes Google Cloud CLI commands within Terraform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 177,
+      "forks": 97,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5002,
+      "forks": 4410,
+      "added_stars": "3 stars this week"
     }
   ]
 }

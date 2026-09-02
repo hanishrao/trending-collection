@@ -2,37 +2,17 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:07:51 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:45:14 GMT",
   "items": [
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30736,
-      "forks": 11424,
-      "added_stars": "66 stars this week"
-    },
     {
       "title": "curl / curl",
       "url": "https://github.com/curl/curl",
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42723,
-      "forks": 7335,
-      "added_stars": "63 stars this week"
-    },
-    {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 62931,
-      "forks": 28329,
-      "added_stars": "167 stars this week"
+      "stars": 42728,
+      "forks": 7333,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "dorianborian / sesame-robot",
@@ -40,9 +20,29 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4251,
-      "forks": 574,
-      "added_stars": "133 stars this week"
+      "stars": 4266,
+      "forks": 576,
+      "added_stars": "119 stars this week"
+    },
+    {
+      "title": "containers / bubblewrap",
+      "url": "https://github.com/containers/bubblewrap",
+      "description": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8565,
+      "forks": 380,
+      "added_stars": "95 stars this week"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 30744,
+      "forks": 11431,
+      "added_stars": "63 stars this week"
     },
     {
       "title": "lvgl / lvgl",
@@ -50,39 +50,9 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24554,
-      "forks": 4337,
-      "added_stars": "89 stars this week"
-    },
-    {
-      "title": "InterceptSuite / ProxyBridge",
-      "url": "https://github.com/InterceptSuite/ProxyBridge",
-      "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6217,
-      "forks": 377,
-      "added_stars": "181 stars this week"
-    },
-    {
-      "title": "UberGuidoZ / Flipper",
-      "url": "https://github.com/UberGuidoZ/Flipper",
-      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17460,
-      "forks": 3905,
-      "added_stars": "44 stars this week"
-    },
-    {
-      "title": "hashcat / hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 26671,
-      "forks": 3544,
-      "added_stars": "65 stars this week"
+      "stars": 24560,
+      "forks": 4339,
+      "added_stars": "81 stars this week"
     },
     {
       "title": "reactos / reactos",
@@ -90,29 +60,9 @@
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18014,
-      "forks": 2202,
-      "added_stars": "68 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16364,
-      "forks": 9882,
-      "added_stars": "71 stars this week"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 762,
-      "forks": 205,
-      "added_stars": "77 stars this week"
+      "stars": 18022,
+      "forks": 2203,
+      "added_stars": "69 stars this week"
     },
     {
       "title": "nothings / stb",
@@ -120,29 +70,39 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34563,
-      "forks": 8077,
-      "added_stars": "83 stars this week"
+      "stars": 34570,
+      "forks": 8076,
+      "added_stars": "85 stars this week"
     },
     {
-      "title": "radareorg / radare2",
-      "url": "https://github.com/radareorg/radare2",
-      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "title": "UberGuidoZ / Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24695,
-      "forks": 3309,
-      "added_stars": "62 stars this week"
+      "stars": 17464,
+      "forks": 3906,
+      "added_stars": "41 stars this week"
     },
     {
-      "title": "microsoft / msquic",
-      "url": "https://github.com/microsoft/msquic",
-      "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4774,
-      "forks": 691,
-      "added_stars": "3 stars this week"
+      "stars": 36811,
+      "forks": 3510,
+      "added_stars": "142 stars this week"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 772,
+      "forks": 208,
+      "added_stars": "76 stars this week"
     },
     {
       "title": "aircrack-ng / aircrack-ng",
@@ -150,8 +110,8 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7573,
-      "forks": 1359,
+      "stars": 7575,
+      "forks": 1362,
       "added_stars": "41 stars this week"
     },
     {
@@ -160,19 +120,29 @@
       "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 826,
-      "forks": 108,
+      "stars": 827,
+      "forks": 110,
       "added_stars": "31 stars this week"
     },
     {
-      "title": "DaveGamble / cJSON",
-      "url": "https://github.com/DaveGamble/cJSON",
-      "description": "Ultralightweight JSON parser in ANSI C",
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12964,
-      "forks": 3515,
-      "added_stars": "24 stars this week"
+      "stars": 16376,
+      "forks": 9889,
+      "added_stars": "77 stars this week"
+    },
+    {
+      "title": "radareorg / radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24708,
+      "forks": 3309,
+      "added_stars": "61 stars this week"
     },
     {
       "title": "arendst / Tasmota",
@@ -181,28 +151,48 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 24731,
-      "forks": 5168,
-      "added_stars": "16 stars this week"
+      "forks": 5169,
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "espressif / esp-idf",
-      "url": "https://github.com/espressif/esp-idf",
-      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "title": "sumatrapdfreader / sumatrapdf",
+      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18915,
-      "forks": 8458,
-      "added_stars": "52 stars this week"
+      "stars": 17469,
+      "forks": 2027,
+      "added_stars": "84 stars this week"
     },
     {
-      "title": "systemd / systemd",
-      "url": "https://github.com/systemd/systemd",
-      "description": "The systemd System and Service Manager",
+      "title": "micropython / micropython",
+      "url": "https://github.com/micropython/micropython",
+      "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16642,
-      "forks": 4659,
-      "added_stars": "25 stars this week"
+      "stars": 22036,
+      "forks": 8954,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "FreeRDP / FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13624,
+      "forks": 15426,
+      "added_stars": "37 stars this week"
+    },
+    {
+      "title": "microsoft / msquic",
+      "url": "https://github.com/microsoft/msquic",
+      "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4775,
+      "forks": 691,
+      "added_stars": "5 stars this week"
     }
   ]
 }

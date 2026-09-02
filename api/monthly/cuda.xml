@@ -4,7 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 01 Sep 2026 07:11:07 GMT</pubDate>
+  <pubDate>Wed, 02 Sep 2026 06:46:31 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepEP</title>
     <link>https://github.com/deepseek-ai/DeepEP</link>
@@ -21,19 +21,24 @@
     <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
   </item>
   <item>
-    <title>karpathy / llm.c</title>
-    <link>https://github.com/karpathy/llm.c</link>
-    <description>LLM training in simple, raw C/CUDA</description>
+    <title>NVIDIA / cuvs</title>
+    <link>https://github.com/NVIDIA/cuvs</link>
+    <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
   <item>
-    <title>alibaba / rtp-llm</title>
-    <link>https://github.com/alibaba/rtp-llm</link>
-    <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
+    <title>NVIDIA / raft</title>
+    <link>https://github.com/NVIDIA/raft</link>
+    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
   </item>
   <item>
     <title>NVIDIA / cuopt</title>
     <link>https://github.com/NVIDIA/cuopt</link>
     <description>GPU accelerated decision optimization</description>
+  </item>
+  <item>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
     <title>NVlabs / instant-ngp</title>
@@ -46,9 +51,19 @@
     <description>NCCL Tests</description>
   </item>
   <item>
-    <title>NVIDIA / cuvs</title>
-    <link>https://github.com/NVIDIA/cuvs</link>
-    <description>cuVS - a library for vector search and clustering on the GPU</description>
+    <title>alibaba / rtp-llm</title>
+    <link>https://github.com/alibaba/rtp-llm</link>
+    <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
+  </item>
+  <item>
+    <title>karpathy / llm.c</title>
+    <link>https://github.com/karpathy/llm.c</link>
+    <description>LLM training in simple, raw C/CUDA</description>
+  </item>
+  <item>
+    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
+    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
+    <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
     <title>mirage-project / mirage</title>
@@ -56,19 +71,14 @@
     <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
-    <title>HazyResearch / ThunderKittens</title>
-    <link>https://github.com/HazyResearch/ThunderKittens</link>
-    <description>Tile primitives for speedy kernels</description>
-  </item>
-  <item>
     <title>rapidsai / cugraph</title>
     <link>https://github.com/rapidsai/cugraph</link>
     <description>cuGraph - RAPIDS Graph Analytics Library</description>
   </item>
   <item>
-    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
-    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
-    <description>how to optimize some algorithm in cuda.</description>
+    <title>NVIDIA / cudf-spark-jni</title>
+    <link>https://github.com/NVIDIA/cudf-spark-jni</link>
+    <description>NVIDIA cuDF plugin JNI For Apache Spark</description>
   </item>
 </channel>
 </rss>

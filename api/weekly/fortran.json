@@ -2,46 +2,16 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:07:51 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:45:14 GMT",
   "items": [
     {
-      "title": "MetOffice / jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 21,
-      "forks": 31,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 438,
-      "forks": 479,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 72,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "MCSclimate / MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 54,
-      "forks": 19,
+      "stars": 43,
+      "forks": 25,
       "added_stars": "0 stars this week"
     },
     {
@@ -55,23 +25,83 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MetOffice / lfric_apps",
-      "url": "https://github.com/MetOffice/lfric_apps",
-      "description": "LFRic Applications",
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 31,
-      "forks": 115,
+      "stars": 21,
+      "forks": 31,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "title": "MFlowCode / MFC",
+      "url": "https://github.com/MFlowCode/MFC",
+      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 43,
-      "forks": 25,
+      "stars": 415,
+      "forks": 171,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 404,
+      "forks": 755,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 72,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 438,
+      "forks": 480,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 960,
+      "forks": 538,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1198,
+      "forks": 495,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 54,
+      "forks": 19,
       "added_stars": "0 stars this week"
     },
     {
@@ -85,44 +115,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MFlowCode / MFC",
-      "url": "https://github.com/MFlowCode/MFC",
-      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 414,
-      "forks": 171,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 959,
-      "forks": 538,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 404,
-      "forks": 754,
+      "stars": 31,
+      "forks": 115,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1198,
-      "forks": 494,
-      "added_stars": "8 stars this week"
+      "stars": 1687,
+      "forks": 394,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "wrf-model / WRF",
@@ -133,16 +143,6 @@
       "stars": 1747,
       "forks": 878,
       "added_stars": "8 stars this week"
-    },
-    {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1685,
-      "forks": 394,
-      "added_stars": "11 stars this week"
     }
   ]
 }

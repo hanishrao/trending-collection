@@ -2,8 +2,38 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:11:07 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:46:31 GMT",
   "items": [
+    {
+      "title": "MPAS-Dev / MPAS-Model",
+      "url": "https://github.com/MPAS-Dev/MPAS-Model",
+      "description": "Repository for MPAS models and shared framework releases.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 312,
+      "forks": 419,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "GEOS-ESM / MAPL",
+      "url": "https://github.com/GEOS-ESM/MAPL",
+      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 43,
+      "forks": 25,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "Reference-LAPACK / lapack",
+      "url": "https://github.com/Reference-LAPACK/lapack",
+      "description": "LAPACK development repository",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1896,
+      "forks": 513,
+      "added_stars": "18 stars this month"
+    },
     {
       "title": "E3SM-Project / E3SM",
       "url": "https://github.com/E3SM-Project/E3SM",
@@ -11,7 +41,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 438,
-      "forks": 479,
+      "forks": 480,
       "added_stars": "4 stars this month"
     },
     {
@@ -35,14 +65,64 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "ROCm / aomp",
+      "url": "https://github.com/ROCm/aomp",
+      "description": "AOMP is an open source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs. Use this repository for releases, issues, documentation, packaging, and examples.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 246,
+      "forks": 63,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 130,
+      "forks": 109,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1747,
+      "forks": 878,
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1198,
+      "forks": 495,
+      "added_stars": "25 stars this month"
+    },
+    {
       "title": "JuliaPackaging / Yggdrasil",
       "url": "https://github.com/JuliaPackaging/Yggdrasil",
       "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 404,
-      "forks": 754,
+      "forks": 755,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1687,
+      "forks": 394,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "MetOffice / lfric_apps",
@@ -65,74 +145,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1747,
-      "forks": 878,
-      "added_stars": "24 stars this month"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1198,
-      "forks": 494,
-      "added_stars": "26 stars this month"
-    },
-    {
       "title": "firemodels / fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 865,
-      "forks": 688,
+      "forks": 687,
       "added_stars": "10 stars this month"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
+      "title": "grimme-lab / xtb",
+      "url": "https://github.com/grimme-lab/xtb",
+      "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1685,
-      "forks": 394,
-      "added_stars": "40 stars this month"
-    },
-    {
-      "title": "NGEET / fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 130,
-      "forks": 109,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 43,
-      "forks": 25,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 959,
-      "forks": 538,
-      "added_stars": "17 stars this month"
+      "stars": 838,
+      "forks": 205,
+      "added_stars": "18 stars this month"
     }
   ]
 }

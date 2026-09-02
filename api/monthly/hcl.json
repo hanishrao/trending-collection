@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:11:07 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:46:31 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,7 +10,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5001,
+      "stars": 5002,
       "forks": 4410,
       "added_stars": "20 stars this month"
     },
@@ -30,19 +30,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3259,
+      "stars": 3260,
       "forks": 4624,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1240,
-      "forks": 582,
-      "added_stars": "24 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -60,18 +50,28 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2296,
-      "forks": 1546,
-      "added_stars": "94 stars this month"
+      "stars": 2298,
+      "forks": 1549,
+      "added_stars": "95 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "DataDog / serverless-sample-app",
+      "url": "https://github.com/DataDog/serverless-sample-app",
+      "description": "Explore Datadog's serverless observability features with this sample app.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1045,
-      "forks": 776,
+      "stars": 60,
+      "forks": 20,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / accelerated-platforms",
+      "url": "https://github.com/GoogleCloudPlatform/accelerated-platforms",
+      "description": "This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 102,
+      "forks": 36,
       "added_stars": "2 stars this month"
     },
     {
@@ -80,19 +80,39 @@
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 856,
+      "stars": 857,
       "forks": 125,
-      "added_stars": "89 stars this month"
+      "added_stars": "88 stars this month"
     },
     {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 692,
-      "forks": 176,
-      "added_stars": "7 stars this month"
+      "stars": 1241,
+      "forks": 582,
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
+      "description": "Terraform Azure Verified Resource Module for Key Vault",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 48,
+      "forks": 60,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "okd-project / okd",
+      "url": "https://github.com/okd-project/okd",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2113,
+      "forks": 323,
+      "added_stars": "14 stars this month"
     }
   ]
 }

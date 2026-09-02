@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 01 Sep 2026 07:05:32 GMT",
+  "pubDate": "Wed, 02 Sep 2026 06:44:00 GMT",
   "items": [
     {
       "title": "firecrawl / pdf-inspector",
@@ -10,9 +10,119 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17527,
-      "forks": 1208,
-      "added_stars": "228 stars today"
+      "stars": 18113,
+      "forks": 1232,
+      "added_stars": "541 stars today"
+    },
+    {
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 78257,
+      "forks": 4933,
+      "added_stars": "163 stars today"
+    },
+    {
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36443,
+      "forks": 2592,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "apache / iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4738,
+      "forks": 406,
+      "added_stars": "91 stars today"
+    },
+    {
+      "title": "0xPlaygrounds / rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8495,
+      "forks": 949,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "Zackriya-Solutions / meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30221,
+      "forks": 3259,
+      "added_stars": "50 stars today"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2355,
+      "forks": 313,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "servo / servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 37874,
+      "forks": 3777,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8483,
+      "forks": 1251,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "farion1231 / cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 130627,
+      "forks": 8973,
+      "added_stars": "191 stars today"
+    },
+    {
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 655,
+      "forks": 48,
+      "added_stars": "90 stars today"
+    },
+    {
+      "title": "martin-olivier / airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software mainly based on aircrack-ng tools suite",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2855,
+      "forks": 441,
+      "added_stars": "84 stars today"
     },
     {
       "title": "stalwartlabs / stalwart",
@@ -20,109 +130,39 @@
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14453,
-      "forks": 916,
-      "added_stars": "27 stars today"
+      "stars": 14472,
+      "forks": 918,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "RustPython / RustPython",
-      "url": "https://github.com/RustPython/RustPython",
-      "description": "A Python Interpreter written in Rust",
+      "title": "dbt-labs / dbt-core",
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 22326,
-      "forks": 1481,
-      "added_stars": "2 stars today"
+      "stars": 13766,
+      "forks": 2543,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "biomejs / biome",
-      "url": "https://github.com/biomejs/biome",
-      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "title": "dmtrKovalenko / fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 25691,
-      "forks": 1219,
-      "added_stars": "11 stars today"
+      "stars": 10358,
+      "forks": 434,
+      "added_stars": "58 stars today"
     },
     {
-      "title": "Hmbown / CodeWhale",
-      "url": "https://github.com/Hmbown/CodeWhale",
-      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 40884,
-      "forks": 3538,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "uutils / coreutils",
-      "url": "https://github.com/uutils/coreutils",
-      "description": "Cross-platform Rust rewrite of the GNU coreutils",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 24014,
-      "forks": 2016,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openinterpreter / openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 68217,
-      "forks": 5867,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "alphaXiv / openresearch-cli",
-      "url": "https://github.com/alphaXiv/openresearch-cli",
-      "description": "Run parallel research agents with any model",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 603,
-      "forks": 46,
-      "added_stars": "63 stars today"
-    },
-    {
-      "title": "FalkorDB / FalkorDB",
-      "url": "https://github.com/FalkorDB/FalkorDB",
-      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5759,
-      "forks": 445,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "zeroclaw-labs / zeroclaw",
-      "url": "https://github.com/zeroclaw-labs/zeroclaw",
-      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32700,
-      "forks": 4927,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "facebook / pyrefly",
-      "url": "https://github.com/facebook/pyrefly",
-      "description": "A fast type checker and language server for Python",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6921,
-      "forks": 509,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ankitects / anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30173,
-      "forks": 3174,
-      "added_stars": "21 stars today"
+      "stars": 122384,
+      "forks": 18786,
+      "added_stars": "99 stars today"
     }
   ]
 }
