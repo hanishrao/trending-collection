@@ -4,11 +4,16 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 02 Sep 2026 06:45:14 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 06:48:34 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
     <description>The official Vim repository</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
     <title>neovim / neovim</title>
@@ -16,9 +21,9 @@
     <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
     <title>tpope / vim-fugitive</title>
@@ -36,19 +41,14 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
   </item>
   <item>
-    <title>preservim / nerdtree</title>
-    <link>https://github.com/preservim/nerdtree</link>
-    <description>A tree explorer plugin for vim.</description>
-  </item>
-  <item>
-    <title>sainnhe / gruvbox-material</title>
-    <link>https://github.com/sainnhe/gruvbox-material</link>
-    <description>Gruvbox with Material Palette</description>
+    <title>tpope / vim-unimpaired</title>
+    <link>https://github.com/tpope/vim-unimpaired</link>
+    <description>unimpaired.vim: Pairs of handy bracket mappings</description>
   </item>
   <item>
     <title>fatih / vim-go</title>
@@ -66,14 +66,24 @@
     <description>Vundle, the plug-in manager for Vim</description>
   </item>
   <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
+    <title>sainnhe / gruvbox-material</title>
+    <link>https://github.com/sainnhe/gruvbox-material</link>
+    <description>Gruvbox with Material Palette</description>
   </item>
   <item>
     <title>sainnhe / everforest</title>
     <link>https://github.com/sainnhe/everforest</link>
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+  </item>
+  <item>
+    <title>godlygeek / tabular</title>
+    <link>https://github.com/godlygeek/tabular</link>
+    <description>Vim script for text filtering and alignment</description>
+  </item>
+  <item>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
 </channel>
 </rss>

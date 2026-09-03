@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 02 Sep 2026 06:46:31 GMT",
+  "pubDate": "Thu, 03 Sep 2026 06:50:46 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46103,
-      "forks": 3953,
-      "added_stars": "512 stars this month"
+      "stars": 46118,
+      "forks": 3954,
+      "added_stars": "521 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,9 +20,19 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39974,
-      "forks": 1942,
-      "added_stars": "216 stars this month"
+      "stars": 39982,
+      "forks": 1944,
+      "added_stars": "217 stars this month"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27639,
+      "forks": 1227,
+      "added_stars": "186 stars this month"
     },
     {
       "title": "plaintextaccounting / hledger",
@@ -30,9 +40,9 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4688,
+      "stars": 4690,
       "forks": 413,
-      "added_stars": "89 stars this month"
+      "added_stars": "91 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -55,14 +65,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27638,
-      "forks": 1227,
-      "added_stars": "182 stars this month"
+      "stars": 12381,
+      "forks": 500,
+      "added_stars": "62 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -70,39 +80,29 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1701,
+      "stars": 1708,
       "forks": 68,
-      "added_stars": "223 stars this month"
+      "added_stars": "221 stars this month"
     },
     {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "title": "therepanic / openleetcode",
+      "url": "https://github.com/therepanic/openleetcode",
+      "description": "we have democratized the LeetCode tests",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12383,
-      "forks": 500,
-      "added_stars": "61 stars this month"
+      "stars": 167,
+      "forks": 6,
+      "added_stars": "132 stars this month"
     },
     {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "title": "fossas / fossa-cli",
+      "url": "https://github.com/fossas/fossa-cli",
+      "description": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 7899,
-      "forks": 689,
-      "added_stars": "70 stars this month"
-    },
-    {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 3177,
-      "forks": 751,
-      "added_stars": "6 stars this month"
+      "stars": 1517,
+      "forks": 205,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-ledger",
@@ -115,14 +115,14 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "digital-asset / daml",
-      "url": "https://github.com/digital-asset/daml",
-      "description": "The Daml smart contract language",
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 914,
-      "forks": 259,
-      "added_stars": "2 stars this month"
+      "stars": 7900,
+      "forks": 689,
+      "added_stars": "71 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -135,14 +135,24 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "purescript / purescript",
-      "url": "https://github.com/purescript/purescript",
-      "description": "A strongly-typed language that compiles to JavaScript",
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 8904,
-      "forks": 575,
-      "added_stars": "20 stars this month"
+      "stars": 3177,
+      "forks": 751,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "digital-asset / daml",
+      "url": "https://github.com/digital-asset/daml",
+      "description": "The Daml smart contract language",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 914,
+      "forks": 258,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "agda / agda",
@@ -150,8 +160,8 @@
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2920,
-      "forks": 428,
+      "stars": 2922,
+      "forks": 429,
       "added_stars": "21 stars this month"
     },
     {
@@ -161,18 +171,8 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 2535,
-      "forks": 395,
+      "forks": 396,
       "added_stars": "10 stars this month"
-    },
-    {
-      "title": "cardano-foundation / cardano-wallet",
-      "url": "https://github.com/cardano-foundation/cardano-wallet",
-      "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 821,
-      "forks": 231,
-      "added_stars": "1 star this month"
     },
     {
       "title": "commercialhaskell / stack",

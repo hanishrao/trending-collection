@@ -4,7 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 02 Sep 2026 06:46:31 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 06:50:46 GMT</pubDate>
   <item>
     <title>deepseek-ai / DeepEP</title>
     <link>https://github.com/deepseek-ai/DeepEP</link>
@@ -31,19 +31,24 @@
     <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
   </item>
   <item>
+    <title>karpathy / llm.c</title>
+    <link>https://github.com/karpathy/llm.c</link>
+    <description>LLM training in simple, raw C/CUDA</description>
+  </item>
+  <item>
     <title>NVIDIA / cuopt</title>
     <link>https://github.com/NVIDIA/cuopt</link>
     <description>GPU accelerated decision optimization</description>
   </item>
   <item>
-    <title>HazyResearch / ThunderKittens</title>
-    <link>https://github.com/HazyResearch/ThunderKittens</link>
-    <description>Tile primitives for speedy kernels</description>
-  </item>
-  <item>
     <title>NVlabs / instant-ngp</title>
     <link>https://github.com/NVlabs/instant-ngp</link>
     <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
+  </item>
+  <item>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
     <title>NVIDIA / nccl-tests</title>
@@ -56,9 +61,9 @@
     <description>RTP-LLM: Alibaba&#x27;s high-performance LLM inference engine for diverse applications.</description>
   </item>
   <item>
-    <title>karpathy / llm.c</title>
-    <link>https://github.com/karpathy/llm.c</link>
-    <description>LLM training in simple, raw C/CUDA</description>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
     <title>BBuf / how-to-optim-algorithm-in-cuda</title>
@@ -66,19 +71,9 @@
     <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-  </item>
-  <item>
     <title>rapidsai / cugraph</title>
     <link>https://github.com/rapidsai/cugraph</link>
     <description>cuGraph - RAPIDS Graph Analytics Library</description>
-  </item>
-  <item>
-    <title>NVIDIA / cudf-spark-jni</title>
-    <link>https://github.com/NVIDIA/cudf-spark-jni</link>
-    <description>NVIDIA cuDF plugin JNI For Apache Spark</description>
   </item>
 </channel>
 </rss>

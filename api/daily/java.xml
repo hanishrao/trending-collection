@@ -4,11 +4,11 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 02 Sep 2026 06:44:00 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 06:46:22 GMT</pubDate>
   <item>
-    <title>apache / cassandra</title>
-    <link>https://github.com/apache/cassandra</link>
-    <description>Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.</description>
+    <title>kunal-kushwaha / DSA-Bootcamp-Java</title>
+    <link>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</link>
+    <description>This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</description>
   </item>
   <item>
     <title>checkstyle / checkstyle</title>
@@ -16,44 +16,34 @@
     <description>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.</description>
   </item>
   <item>
+    <title>AutoMQ / automq</title>
+    <link>https://github.com/AutoMQ/automq</link>
+    <description>Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.</description>
+  </item>
+  <item>
+    <title>spring-projects / spring-framework</title>
+    <link>https://github.com/spring-projects/spring-framework</link>
+    <description>Spring Framework</description>
+  </item>
+  <item>
+    <title>TeamNewPipe / NewPipe</title>
+    <link>https://github.com/TeamNewPipe/NewPipe</link>
+    <description>A libre lightweight streaming front-end for Android.</description>
+  </item>
+  <item>
+    <title>sepinf-inc / IPED</title>
+    <link>https://github.com/sepinf-inc/IPED</link>
+    <description>IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.</description>
+  </item>
+  <item>
+    <title>krahets / hello-algo</title>
+    <link>https://github.com/krahets/hello-algo</link>
+    <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现</description>
+  </item>
+  <item>
     <title>NotHarshhaa / DevOps-Projects</title>
     <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
     <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
-  </item>
-  <item>
-    <title>opensearch-project / OpenSearch</title>
-    <link>https://github.com/opensearch-project/OpenSearch</link>
-    <description>🔎 Open source distributed and RESTful search engine.</description>
-  </item>
-  <item>
-    <title>dataease / dataease</title>
-    <link>https://github.com/dataease/dataease</link>
-    <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
-  </item>
-  <item>
-    <title>iflytek / skillhub</title>
-    <link>https://github.com/iflytek/skillhub</link>
-    <description>Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.</description>
-  </item>
-  <item>
-    <title>apache / iceberg</title>
-    <link>https://github.com/apache/iceberg</link>
-    <description>Apache Iceberg</description>
-  </item>
-  <item>
-    <title>google / gson</title>
-    <link>https://github.com/google/gson</link>
-    <description>A Java serialization/deserialization library to convert Java Objects into JSON and back</description>
-  </item>
-  <item>
-    <title>binarywang / WxJava</title>
-    <link>https://github.com/binarywang/WxJava</link>
-    <description>微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发</description>
-  </item>
-  <item>
-    <title>NationalSecurityAgency / ghidra</title>
-    <link>https://github.com/NationalSecurityAgency/ghidra</link>
-    <description>Ghidra is a software reverse engineering (SRE) framework</description>
   </item>
   <item>
     <title>xuxueli / xxl-job</title>
@@ -61,14 +51,19 @@
     <description>A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</description>
   </item>
   <item>
+    <title>agentscope-ai / agentscope-java</title>
+    <link>https://github.com/agentscope-ai/agentscope-java</link>
+    <description>Build distributed, production-grade, long-running agents.</description>
+  </item>
+  <item>
+    <title>github / copilot-sdk</title>
+    <link>https://github.com/github/copilot-sdk</link>
+    <description>Multi-platform SDK for integrating GitHub Copilot Agent into apps and services</description>
+  </item>
+  <item>
     <title>langchain4j / langchain4j</title>
     <link>https://github.com/langchain4j/langchain4j</link>
     <description>LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.</description>
-  </item>
-  <item>
-    <title>jeecgboot / jimureport</title>
-    <link>https://github.com/jeecgboot/jimureport</link>
-    <description>一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。</description>
   </item>
   <item>
     <title>apache / kafka</title>
@@ -76,39 +71,44 @@
     <description>Apache Kafka - A distributed event streaming platform</description>
   </item>
   <item>
-    <title>crimera / piko</title>
-    <link>https://github.com/crimera/piko</link>
-    <description>morphe patches for twitter and instagram</description>
+    <title>openjdk / jdk</title>
+    <link>https://github.com/openjdk/jdk</link>
+    <description>JDK main-line development https://openjdk.org/projects/jdk</description>
   </item>
   <item>
-    <title>agentscope-ai / agentscope-java</title>
-    <link>https://github.com/agentscope-ai/agentscope-java</link>
-    <description>Build distributed, production-grade, long-running agents.</description>
+    <title>neo4j / neo4j</title>
+    <link>https://github.com/neo4j/neo4j</link>
+    <description>Graphs for Everyone</description>
   </item>
   <item>
-    <title>modelcontextprotocol / java-sdk</title>
-    <link>https://github.com/modelcontextprotocol/java-sdk</link>
-    <description>The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</description>
+    <title>conductor-oss / conductor</title>
+    <link>https://github.com/conductor-oss/conductor</link>
+    <description>Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents</description>
   </item>
   <item>
-    <title>alibaba / spring-ai-alibaba</title>
-    <link>https://github.com/alibaba/spring-ai-alibaba</link>
-    <description>Agentic AI Framework for Java Developers</description>
+    <title>1Panel-dev / CordysCRM</title>
+    <link>https://github.com/1Panel-dev/CordysCRM</link>
+    <description>🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。</description>
   </item>
   <item>
-    <title>zaproxy / zaproxy</title>
-    <link>https://github.com/zaproxy/zaproxy</link>
-    <description>The ZAP by Checkmarx Core project</description>
+    <title>StarRocks / starrocks</title>
+    <link>https://github.com/StarRocks/starrocks</link>
+    <description>The world&#x27;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
   </item>
   <item>
-    <title>karma9874 / AndroRAT</title>
-    <link>https://github.com/karma9874/AndroRAT</link>
-    <description>A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</description>
+    <title>opensearch-project / OpenSearch</title>
+    <link>https://github.com/opensearch-project/OpenSearch</link>
+    <description>🔎 Open source distributed and RESTful search engine.</description>
   </item>
   <item>
-    <title>jenkinsci / jenkins</title>
-    <link>https://github.com/jenkinsci/jenkins</link>
-    <description>Jenkins automation server</description>
+    <title>apereo / cas</title>
+    <link>https://github.com/apereo/cas</link>
+    <description>Apereo CAS - Identity &amp; Single Sign On for all earthlings and beyond.</description>
+  </item>
+  <item>
+    <title>ashishps1 / awesome-system-design-resources</title>
+    <link>https://github.com/ashishps1/awesome-system-design-resources</link>
+    <description>Learn System Design concepts and prepare for interviews using free resources.</description>
   </item>
 </channel>
 </rss>

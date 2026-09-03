@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 02 Sep 2026 06:45:14 GMT",
+  "pubDate": "Thu, 03 Sep 2026 06:48:34 GMT",
   "items": [
     {
       "title": "ROCm / rocm-libraries",
@@ -10,8 +10,8 @@
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 415,
-      "forks": 394,
+      "stars": 416,
+      "forks": 395,
       "added_stars": "5 stars this week"
     },
     {
@@ -30,7 +30,7 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18694,
+      "stars": 18696,
       "forks": 2097,
       "added_stars": "40 stars this week"
     },
@@ -45,14 +45,34 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "openhwgroup / cva6",
-      "url": "https://github.com/openhwgroup/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3090,
-      "forks": 1008,
-      "added_stars": "13 stars this week"
+      "stars": 3848,
+      "forks": 128,
+      "added_stars": "45 stars this week"
+    },
+    {
+      "title": "pret / pokediamond",
+      "url": "https://github.com/pret/pokediamond",
+      "description": "Decompilation of Pokémon Diamond/Pearl",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 521,
+      "forks": 100,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "pret / pokeheartgold",
+      "url": "https://github.com/pret/pokeheartgold",
+      "description": "Decompilation of Pokemon HeartGold/SoulSilver",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 577,
+      "forks": 199,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "z88dk / z88dk",
@@ -60,29 +80,9 @@
       "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1133,
+      "stars": 1134,
       "forks": 204,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "PlummersSoftwareLLC / TinyRetroPad",
-      "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1748,
-      "forks": 112,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "virtualagc / virtualagc",
-      "url": "https://github.com/virtualagc/virtualagc",
-      "description": "Virtual Apollo Guidance Computer (AGC) software",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3223,
-      "forks": 405,
-      "added_stars": "10 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "pret / pokered",
@@ -90,9 +90,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4902,
-      "forks": 1295,
-      "added_stars": "13 stars this week"
+      "stars": 4903,
+      "forks": 1296,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "chrislgarry / Apollo-11",
@@ -100,9 +100,39 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 72257,
+      "stars": 72268,
       "forks": 7993,
-      "added_stars": "93 stars this week"
+      "added_stars": "83 stars this week"
+    },
+    {
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 6410,
+      "forks": 474,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "virtualagc / virtualagc",
+      "url": "https://github.com/virtualagc/virtualagc",
+      "description": "Virtual Apollo Guidance Computer (AGC) software",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3224,
+      "forks": 405,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3090,
+      "forks": 1009,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "apple / swift-nio-ssl",
@@ -115,44 +145,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6409,
-      "forks": 475,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3840,
-      "forks": 128,
-      "added_stars": "24 stars this week"
-    },
-    {
       "title": "Rangi42 / polishedcrystal",
       "url": "https://github.com/Rangi42/polishedcrystal",
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1631,
+      "stars": 1632,
       "forks": 340,
       "added_stars": "8 stars this week"
     },
     {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 484,
-      "forks": 230,
-      "added_stars": "2 stars this week"
+      "stars": 782,
+      "forks": 353,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "corkami / pics",
+      "url": "https://github.com/corkami/pics",
+      "description": "File formats dissections and more...",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 11479,
+      "forks": 792,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "supranational / blst",
@@ -163,36 +183,6 @@
       "stars": 574,
       "forks": 232,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "cirosantilli / x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 5350,
-      "forks": 431,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1126,
-      "forks": 222,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2493,
-      "forks": 969,
-      "added_stars": "1 star this week"
     }
   ]
 }

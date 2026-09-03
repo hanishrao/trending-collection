@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 02 Sep 2026 06:45:14 GMT</pubDate>
+  <pubDate>Thu, 03 Sep 2026 06:48:34 GMT</pubDate>
   <item>
     <title>xenodium / agent-shell</title>
     <link>https://github.com/xenodium/agent-shell</link>
@@ -36,6 +36,11 @@
     <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
+    <title>doomemacs / modules</title>
+    <link>https://github.com/doomemacs/modules</link>
+    <description>Official module library for Doom Emacs</description>
+  </item>
+  <item>
     <title>jrblevin / markdown-mode</title>
     <link>https://github.com/jrblevin/markdown-mode</link>
     <description>Emacs Markdown Mode</description>
@@ -46,9 +51,9 @@
     <description>Transient commands</description>
   </item>
   <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+    <title>bbatsov / projectile</title>
+    <link>https://github.com/bbatsov/projectile</link>
+    <description>Project Interaction Library for Emacs</description>
   </item>
   <item>
     <title>magnars / dash.el</title>
@@ -56,14 +61,19 @@
     <description>A modern list library for Emacs</description>
   </item>
   <item>
-    <title>doomemacs / modules</title>
-    <link>https://github.com/doomemacs/modules</link>
-    <description>Official module library for Doom Emacs</description>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
     <title>rejeep / f.el</title>
     <link>https://github.com/rejeep/f.el</link>
     <description>Modern API for working with files and directories in Emacs</description>
+  </item>
+  <item>
+    <title>abo-abo / avy</title>
+    <link>https://github.com/abo-abo/avy</link>
+    <description>Jump to things in Emacs tree-style</description>
   </item>
   <item>
     <title>dakra / ghostel</title>
@@ -74,11 +84,6 @@
     <title>emacs-lsp / lsp-mode</title>
     <link>https://github.com/emacs-lsp/lsp-mode</link>
     <description>Emacs client/library for the Language Server Protocol</description>
-  </item>
-  <item>
-    <title>MatthewZMD / aidermacs</title>
-    <link>https://github.com/MatthewZMD/aidermacs</link>
-    <description>AI Pair Programming in Emacs with Aider</description>
   </item>
 </channel>
 </rss>
