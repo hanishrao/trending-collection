@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 03 Sep 2026 06:50:46 GMT",
+  "pubDate": "Fri, 04 Sep 2026 06:55:44 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27232,
-      "forks": 12404,
-      "added_stars": "79 stars this month"
+      "stars": 27231,
+      "forks": 12406,
+      "added_stars": "78 stars this month"
     },
     {
       "title": "1inch / swap-vm",
@@ -45,26 +45,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 750,
-      "forks": 1047,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "lifinance / contracts",
-      "url": "https://github.com/lifinance/contracts",
-      "description": "LI.FI Smart Contracts",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 212,
-      "forks": 111,
-      "added_stars": "4 stars this month"
-    },
-    {
       "title": "aave / aave-v4",
       "url": "https://github.com/aave/aave-v4",
       "description": "Aave V4",
@@ -72,17 +52,7 @@
       "languageColor": "#AA6746",
       "stars": 204,
       "forks": 126,
-      "added_stars": "12 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 904,
-      "forks": 661,
-      "added_stars": "9 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "Uniswap / v4-core",
@@ -95,24 +65,14 @@
       "added_stars": "10 stars this month"
     },
     {
-      "title": "foundry-rs / book",
-      "url": "https://github.com/foundry-rs/book",
-      "description": "A book on all things Foundry, available at https://getfoundry.sh.",
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 960,
-      "forks": 1007,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "Uniswap / v2-periphery",
-      "url": "https://github.com/Uniswap/v2-periphery",
-      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1266,
-      "forks": 1761,
-      "added_stars": "6 stars this month"
+      "stars": 904,
+      "forks": 661,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -125,14 +85,44 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "bnb-chain / BEPs",
-      "url": "https://github.com/bnb-chain/BEPs",
-      "description": "BNB Evolution Proposals",
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 975,
-      "forks": 682,
-      "added_stars": "8 stars this month"
+      "stars": 751,
+      "forks": 1053,
+      "added_stars": "18 stars this month"
+    },
+    {
+      "title": "Arachnid / solidity-stringutils",
+      "url": "https://github.com/Arachnid/solidity-stringutils",
+      "description": "Basic string utilities for Solidity",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1154,
+      "forks": 371,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "foundry-rs / book",
+      "url": "https://github.com/foundry-rs/book",
+      "description": "A book on all things Foundry, available at https://getfoundry.sh.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 961,
+      "forks": 1008,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "dapphub / ds-test",
+      "url": "https://github.com/dapphub/ds-test",
+      "description": "Assertions, equality checks and other test helpers",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 239,
+      "forks": 75,
+      "added_stars": "1 star this month"
     },
     {
       "title": "GNSPS / solidity-bytes-utils",
@@ -145,14 +135,24 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "Arachnid / solidity-stringutils",
-      "url": "https://github.com/Arachnid/solidity-stringutils",
-      "description": "Basic string utilities for Solidity",
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1154,
-      "forks": 371,
-      "added_stars": "2 stars this month"
+      "stars": 4286,
+      "forks": 706,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "bnb-chain / BEPs",
+      "url": "https://github.com/bnb-chain/BEPs",
+      "description": "BNB Evolution Proposals",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 976,
+      "forks": 683,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "dmfxyz / murky",
@@ -165,34 +165,44 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "OffchainLabs / nitro-contracts",
-      "url": "https://github.com/OffchainLabs/nitro-contracts",
-      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 151,
-      "forks": 158,
-      "added_stars": "0 stars this month"
+      "stars": 1055,
+      "forks": 520,
+      "added_stars": "7 stars this month"
     },
     {
-      "title": "0xProject / 0x-settler",
-      "url": "https://github.com/0xProject/0x-settler",
-      "description": "0x settlement contracts using Permit2",
+      "title": "PaulRBerg / prb-math",
+      "url": "https://github.com/PaulRBerg/prb-math",
+      "description": "Solidity library for advanced fixed-point math",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 111,
-      "forks": 73,
-      "added_stars": "9 stars this month"
+      "stars": 1006,
+      "forks": 145,
+      "added_stars": "4 stars this month"
     },
     {
-      "title": "dapphub / ds-test",
-      "url": "https://github.com/dapphub/ds-test",
-      "description": "Assertions, equality checks and other test helpers",
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 239,
-      "forks": 75,
+      "stars": 944,
+      "forks": 297,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "Uniswap / v2-periphery",
+      "url": "https://github.com/Uniswap/v2-periphery",
+      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1266,
+      "forks": 1761,
+      "added_stars": "6 stars this month"
     }
   ]
 }

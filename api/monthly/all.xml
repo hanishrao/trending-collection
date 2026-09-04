@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 03 Sep 2026 06:50:46 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 06:55:44 GMT</pubDate>
   <item>
     <title>omacom / omarchy</title>
     <link>https://github.com/omacom/omarchy</link>
@@ -16,14 +16,24 @@
     <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
   </item>
   <item>
-    <title>anthropics / claude-plugins-community</title>
-    <link>https://github.com/anthropics/claude-plugins-community</link>
-    <description>Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.</description>
+    <title>cursor / plugins</title>
+    <link>https://github.com/cursor/plugins</link>
+    <description>Cursor plugin specification and official plugins</description>
+  </item>
+  <item>
+    <title>cloudflare / cloudflare-os</title>
+    <link>https://github.com/cloudflare/cloudflare-os</link>
+    <description>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.</description>
   </item>
   <item>
     <title>tt-a1i / archify</title>
     <link>https://github.com/tt-a1i/archify</link>
     <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
+  </item>
+  <item>
+    <title>anthropics / claude-plugins-community</title>
+    <link>https://github.com/anthropics/claude-plugins-community</link>
+    <description>Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.</description>
   </item>
   <item>
     <title>AprilNEA / OpenLogi</title>
@@ -41,24 +51,19 @@
     <description>Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中</description>
   </item>
   <item>
-    <title>TencentCloud / TencentDB-Agent-Memory</title>
-    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
+    <title>vitali87 / code-graph-rag</title>
+    <link>https://github.com/vitali87/code-graph-rag</link>
+    <description>The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs</description>
   </item>
   <item>
-    <title>cloudflare / computer</title>
-    <link>https://github.com/cloudflare/computer</link>
-    <description>Give your agent a computer 👾</description>
+    <title>xai-org / x-algorithm</title>
+    <link>https://github.com/xai-org/x-algorithm</link>
+    <description>Algorithm powering the For You feed on X</description>
   </item>
   <item>
-    <title>huangruiteng / loopx</title>
-    <link>https://github.com/huangruiteng/loopx</link>
-    <description>Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.</description>
-  </item>
-  <item>
-    <title>ayghri / i-have-adhd</title>
-    <link>https://github.com/ayghri/i-have-adhd</link>
-    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
+    <title>THU-MAIC / OpenMAIC</title>
+    <link>https://github.com/THU-MAIC/OpenMAIC</link>
+    <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
   </item>
   <item>
     <title>cactus-compute / needle</title>
@@ -71,29 +76,9 @@
     <description>Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.</description>
   </item>
   <item>
-    <title>THU-MAIC / OpenMAIC</title>
-    <link>https://github.com/THU-MAIC/OpenMAIC</link>
-    <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
-  </item>
-  <item>
-    <title>modular / modular</title>
-    <link>https://github.com/modular/modular</link>
-    <description>The Modular Platform (includes MAX &amp; Mojo)</description>
-  </item>
-  <item>
-    <title>unclebob / swarm-forge</title>
-    <link>https://github.com/unclebob/swarm-forge</link>
-    <description>A simple tool for coordinating several AI agents.</description>
-  </item>
-  <item>
-    <title>google / skills</title>
-    <link>https://github.com/google/skills</link>
-    <description>Agent Skills for Google products and technologies</description>
-  </item>
-  <item>
-    <title>donnemartin / system-design-primer</title>
-    <link>https://github.com/donnemartin/system-design-primer</link>
-    <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
   </item>
   <item>
     <title>youssofal / MTPLX</title>
@@ -101,19 +86,24 @@
     <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
   </item>
   <item>
-    <title>firecrawl / pdf-inspector</title>
-    <link>https://github.com/firecrawl/pdf-inspector</link>
-    <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
+    <title>cloudflare / computer</title>
+    <link>https://github.com/cloudflare/computer</link>
+    <description>Give your agent a computer 👾</description>
   </item>
   <item>
-    <title>pingdotgg / t3code</title>
-    <link>https://github.com/pingdotgg/t3code</link>
-    <description></description>
+    <title>google / skills</title>
+    <link>https://github.com/google/skills</link>
+    <description>Agent Skills for Google products and technologies</description>
   </item>
   <item>
-    <title>3b1b / manim</title>
-    <link>https://github.com/3b1b/manim</link>
-    <description>Animation engine for explanatory math videos</description>
+    <title>modular / modular</title>
+    <link>https://github.com/modular/modular</link>
+    <description>The Modular Platform (includes MAX &amp; Mojo)</description>
+  </item>
+  <item>
+    <title>huangruiteng / loopx</title>
+    <link>https://github.com/huangruiteng/loopx</link>
+    <description>Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.</description>
   </item>
 </channel>
 </rss>

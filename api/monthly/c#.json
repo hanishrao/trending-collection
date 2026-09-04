@@ -2,37 +2,57 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 03 Sep 2026 06:50:46 GMT",
+  "pubDate": "Fri, 04 Sep 2026 06:55:44 GMT",
   "items": [
+    {
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27692,
+      "forks": 2576,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "maharmstone / btrfs",
+      "url": "https://github.com/maharmstone/btrfs",
+      "description": "WinBtrfs - an open-source btrfs driver for Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7715,
+      "forks": 304,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28261,
+      "forks": 12894,
+      "added_stars": "39 stars today"
+    },
     {
       "title": "DeusData / codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41974,
-      "forks": 3412,
-      "added_stars": "202 stars today"
+      "stars": 42132,
+      "forks": 3425,
+      "added_stars": "183 stars today"
     },
     {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "title": "sunblaze-ucb / exploitgym",
+      "url": "https://github.com/sunblaze-ucb/exploitgym",
+      "description": "ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16385,
-      "forks": 9894,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 69331,
-      "forks": 4422,
-      "added_stars": "261 stars today"
+      "stars": 931,
+      "forks": 115,
+      "added_stars": "31 stars today"
     },
     {
       "title": "espressif / esp-idf",
@@ -40,19 +60,49 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18935,
+      "stars": 18938,
       "forks": 8467,
       "added_stars": "10 stars today"
     },
     {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27682,
-      "forks": 2575,
-      "added_stars": "13 stars today"
+      "stars": 69516,
+      "forks": 4434,
+      "added_stars": "171 stars today"
+    },
+    {
+      "title": "lvgl / lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24586,
+      "forks": 4347,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "eunomia-bpf / agentsight",
+      "url": "https://github.com/eunomia-bpf/agentsight",
+      "description": "lightweight system-level observability for AI Agents",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 664,
+      "forks": 99,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "raspberrypi / linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13135,
+      "forks": 5464,
+      "added_stars": "6 stars today"
     },
     {
       "title": "ImageMagick / ImageMagick",
@@ -60,159 +110,79 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17311,
+      "stars": 17326,
       "forks": 1652,
-      "added_stars": "29 stars today"
+      "added_stars": "16 stars today"
     },
     {
-      "title": "Filoppi / Luma-Framework",
-      "url": "https://github.com/Filoppi/Luma-Framework",
-      "description": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 789,
-      "forks": 45,
-      "added_stars": "4 stars today"
+      "stars": 31570,
+      "forks": 8301,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "merbanan / rtl_433",
-      "url": "https://github.com/merbanan/rtl_433",
-      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
+      "title": "NVIDIA-RTX / Streamline",
+      "url": "https://github.com/NVIDIA-RTX/Streamline",
+      "description": "Streamline Integration Framework",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7780,
-      "forks": 1578,
-      "added_stars": "10 stars today"
+      "stars": 1077,
+      "forks": 148,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "title": "tmux / tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26705,
-      "forks": 2924,
-      "added_stars": "93 stars today"
+      "stars": 49047,
+      "forks": 2869,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
+      "title": "duixcom / Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14487,
-      "forks": 3388,
-      "added_stars": "11 stars today"
+      "stars": 15009,
+      "forks": 2525,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "mit-pdos / xv6-riscv",
-      "url": "https://github.com/mit-pdos/xv6-riscv",
-      "description": "Xv6 for RISC-V",
+      "title": "SchedMD / slurm",
+      "url": "https://github.com/SchedMD/slurm",
+      "description": "Slurm: A Highly Scalable Workload Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10296,
-      "forks": 4197,
+      "stars": 4311,
+      "forks": 881,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "freebsd / freebsd-src",
+      "url": "https://github.com/freebsd/freebsd-src",
+      "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 9307,
+      "forks": 3414,
       "added_stars": "3 stars today"
     },
     {
-      "title": "xiaojieonly / Ehviewer_CN_SXJ",
-      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
-      "description": "ehviewer，用爱发电，快乐前行",
+      "title": "destan19 / OpenAppFilter",
+      "url": "https://github.com/destan19/OpenAppFilter",
+      "description": "OAF(OpenAppFilter) is a parental control software based on OpenWrt. It supports popular applications across gaming, video streaming, instant messaging, such as TikTok, YouTube, Facebook. Currently, it supports hundreds of different applications.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26651,
-      "forks": 704,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "valkey-io / valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27115,
-      "forks": 1306,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 148771,
-      "forks": 13680,
-      "added_stars": "76 stars today"
-    },
-    {
-      "title": "microsoft / mimalloc",
-      "url": "https://github.com/microsoft/mimalloc",
-      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13345,
-      "forks": 1171,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "ExistentialAudio / BlackHole",
-      "url": "https://github.com/ExistentialAudio/BlackHole",
-      "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19683,
-      "forks": 836,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "erincatto / box3d",
-      "url": "https://github.com/erincatto/box3d",
-      "description": "Box3D is a 3D physics engine for games",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6247,
-      "forks": 316,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "redcanaryco / atomic-red-team",
-      "url": "https://github.com/redcanaryco/atomic-red-team",
-      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12479,
-      "forks": 3203,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "hufrea / byedpi",
-      "url": "https://github.com/hufrea/byedpi",
-      "description": "Bypass DPI",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3381,
-      "forks": 229,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "NVIDIA / open-gpu-kernel-modules",
-      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
-      "description": "NVIDIA Linux open GPU kernel module source",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17335,
-      "forks": 1829,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "sandboxie-plus / Sandboxie",
-      "url": "https://github.com/sandboxie-plus/Sandboxie",
-      "description": "Sandboxie Plus & Classic",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19327,
-      "forks": 2057,
-      "added_stars": "8 stars today"
+      "stars": 2824,
+      "forks": 747,
+      "added_stars": "10 stars today"
     }
   ]
 }

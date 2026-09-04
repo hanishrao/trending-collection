@@ -4,7 +4,17 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 03 Sep 2026 06:50:46 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 06:55:44 GMT</pubDate>
+  <item>
+    <title>google / googletest</title>
+    <link>https://github.com/google/googletest</link>
+    <description>GoogleTest - Google Testing and Mocking Framework</description>
+  </item>
+  <item>
+    <title>microsoft / microsoft-ui-xaml</title>
+    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
+    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
+  </item>
   <item>
     <title>microsoft / onnxruntime</title>
     <link>https://github.com/microsoft/onnxruntime</link>
@@ -16,19 +26,9 @@
     <description>The JavaScript / Wasm runtime that powers Cloudflare Workers</description>
   </item>
   <item>
-    <title>microsoft / microsoft-ui-xaml</title>
-    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
-    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
-  </item>
-  <item>
-    <title>google / googletest</title>
-    <link>https://github.com/google/googletest</link>
-    <description>GoogleTest - Google Testing and Mocking Framework</description>
-  </item>
-  <item>
-    <title>x64dbg / x64dbg</title>
-    <link>https://github.com/x64dbg/x64dbg</link>
-    <description>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</description>
+    <title>dragonflydb / dragonfly</title>
+    <link>https://github.com/dragonflydb/dragonfly</link>
+    <description>A modern replacement for Redis and Memcached</description>
   </item>
   <item>
     <title>electron / electron</title>
@@ -36,9 +36,9 @@
     <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
   </item>
   <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
+    <title>wazuh / wazuh</title>
+    <link>https://github.com/wazuh/wazuh</link>
+    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -46,14 +46,9 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>dmlc / xgboost</title>
-    <link>https://github.com/dmlc/xgboost</link>
-    <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</description>
-  </item>
-  <item>
-    <title>wazuh / wazuh</title>
-    <link>https://github.com/wazuh/wazuh</link>
-    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
+    <title>x64dbg / x64dbg</title>
+    <link>https://github.com/x64dbg/x64dbg</link>
+    <description>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</description>
   </item>
   <item>
     <title>moonlight-stream / moonlight-qt</title>
@@ -66,14 +61,19 @@
     <description>A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.</description>
   </item>
   <item>
+    <title>duckdb / duckdb</title>
+    <link>https://github.com/duckdb/duckdb</link>
+    <description>DuckDB is an analytical in-process SQL database management system</description>
+  </item>
+  <item>
     <title>PrismLauncher / PrismLauncher</title>
     <link>https://github.com/PrismLauncher/PrismLauncher</link>
     <description>A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)</description>
   </item>
   <item>
-    <title>duckdb / duckdb</title>
-    <link>https://github.com/duckdb/duckdb</link>
-    <description>DuckDB is an analytical in-process SQL database management system</description>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
     <title>LadybirdBrowser / ladybird</title>
@@ -81,9 +81,19 @@
     <description>Truly independent web browser</description>
   </item>
   <item>
+    <title>dmlc / xgboost</title>
+    <link>https://github.com/dmlc/xgboost</link>
+    <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</description>
+  </item>
+  <item>
     <title>openvinotoolkit / openvino</title>
     <link>https://github.com/openvinotoolkit/openvino</link>
     <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
+  </item>
+  <item>
+    <title>tensorflow / tensorflow</title>
+    <link>https://github.com/tensorflow/tensorflow</link>
+    <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
     <title>godotengine / godot</title>
@@ -91,34 +101,24 @@
     <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>orailnoor / cross-platform-llm-client</title>
-    <link>https://github.com/orailnoor/cross-platform-llm-client</link>
-    <description>A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.</description>
+    <title>cactus-compute / cactus</title>
+    <link>https://github.com/cactus-compute/cactus</link>
+    <description>Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.</description>
   </item>
   <item>
-    <title>dragonflydb / dragonfly</title>
-    <link>https://github.com/dragonflydb/dragonfly</link>
-    <description>A modern replacement for Redis and Memcached</description>
+    <title>MaaAssistantArknights / MaaAssistantArknights</title>
+    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
+  </item>
+  <item>
+    <title>prusa3d / PrusaSlicer</title>
+    <link>https://github.com/prusa3d/PrusaSlicer</link>
+    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
   </item>
   <item>
     <title>vicinaehq / vicinae</title>
     <link>https://github.com/vicinaehq/vicinae</link>
     <description>A focused launcher for your desktop - native, fast, extensible</description>
-  </item>
-  <item>
-    <title>aseprite / aseprite</title>
-    <link>https://github.com/aseprite/aseprite</link>
-    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
-  </item>
-  <item>
-    <title>telegramdesktop / tdesktop</title>
-    <link>https://github.com/telegramdesktop/tdesktop</link>
-    <description>Telegram Desktop messaging app</description>
-  </item>
-  <item>
-    <title>RPCS3 / rpcs3</title>
-    <link>https://github.com/RPCS3/rpcs3</link>
-    <description>PlayStation 3 emulator and debugger</description>
   </item>
 </channel>
 </rss>

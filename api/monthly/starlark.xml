@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 03 Sep 2026 06:50:46 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 06:55:44 GMT</pubDate>
   <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
@@ -26,11 +26,6 @@
     <description>Common Expression Language -- specification and binary representation</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_pkg</title>
     <link>https://github.com/bazelbuild/rules_pkg</link>
     <description>Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)</description>
@@ -39,6 +34,11 @@
     <title>aspect-build / rules_js</title>
     <link>https://github.com/aspect-build/rules_js</link>
     <description>High-performance Bazel rules for running Node.js tools and building JavaScript projects</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
   </item>
   <item>
     <title>bazel-contrib / rules_distroless</title>
@@ -56,6 +56,16 @@
     <description>LLVM toolchain for bazel</description>
   </item>
   <item>
+    <title>bazel-contrib / rules_kotlin</title>
+    <link>https://github.com/bazel-contrib/rules_kotlin</link>
+    <description>Bazel rules for Kotlin</description>
+  </item>
+  <item>
+    <title>aspect-build / aspect-cli</title>
+    <link>https://github.com/aspect-build/aspect-cli</link>
+    <description>{ Correct, Fast, Usable } -- Choose three</description>
+  </item>
+  <item>
     <title>googleapis / api-common-protos</title>
     <link>https://github.com/googleapis/api-common-protos</link>
     <description>A standard library for use in specifying protocol buffer APIs.</description>
@@ -69,6 +79,16 @@
     <title>bazelbuild / rules_rust</title>
     <link>https://github.com/bazelbuild/rules_rust</link>
     <description>Rust rules for Bazel</description>
+  </item>
+  <item>
+    <title>openconfig / gnoi</title>
+    <link>https://github.com/openconfig/gnoi</link>
+    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
+  </item>
+  <item>
+    <title>tidbyt / community</title>
+    <link>https://github.com/tidbyt/community</link>
+    <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
   </item>
 </channel>
 </rss>

@@ -2,37 +2,27 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 03 Sep 2026 06:46:22 GMT",
+  "pubDate": "Fri, 04 Sep 2026 06:51:10 GMT",
   "items": [
-    {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 30918,
-      "forks": 3754,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7770,
-      "forks": 1226,
-      "added_stars": "7 stars today"
-    },
     {
       "title": "deepseek-ai / DeepEP",
       "url": "https://github.com/deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10094,
-      "forks": 1423,
-      "added_stars": "9 stars today"
+      "stars": 10098,
+      "forks": 1422,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30917,
+      "forks": 3757,
+      "added_stars": "4 stars today"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -40,29 +30,29 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3701,
-      "forks": 499,
-      "added_stars": "2 stars today"
+      "stars": 3703,
+      "forks": 500,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "NVIDIA / cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 844,
-      "forks": 231,
-      "added_stars": "0 stars today"
+      "stars": 7775,
+      "forks": 1228,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "title": "alibaba / rtp-llm",
+      "url": "https://github.com/alibaba/rtp-llm",
+      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17542,
-      "forks": 2065,
-      "added_stars": "2 stars today"
+      "stars": 1326,
+      "forks": 271,
+      "added_stars": "1 star today"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -70,18 +60,8 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1643,
+      "stars": 1645,
       "forks": 401,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "MoonshotAI / FlashKDA",
-      "url": "https://github.com/MoonshotAI/FlashKDA",
-      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1243,
-      "forks": 121,
       "added_stars": "1 star today"
     },
     {
@@ -90,28 +70,18 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2472,
-      "forks": 244,
-      "added_stars": "3 stars today"
+      "stars": 2474,
+      "forks": 245,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3242,
-      "forks": 290,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "alibaba / rtp-llm",
-      "url": "https://github.com/alibaba/rtp-llm",
-      "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1325,
-      "forks": 272,
+      "stars": 17543,
+      "forks": 2064,
       "added_stars": "2 stars today"
     }
   ]

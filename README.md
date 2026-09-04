@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3426-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3427-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-09-03
-_Top 3 per language · [view full day →](./2026/2026-09-03.md)_
+## 🔥 Today's Trending — 2026-09-04
+_Top 3 per language · [view full day →](./2026/2026-09-04.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 🐍 | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🐍 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 🐍 | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🐍 | The agent that grows with you |
+| [anthropics/skills](https://github.com/anthropics/skills) | 🐍 | Public repository for Agent Skills |
+| [blader/humanizer](https://github.com/blader/humanizer) | 🐍 | Agent skill that removes signs of AI-generated writing from text |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 🦀 | Open source Loom alternative. Beautiful, shareable screen recordings. |
 | [pacifio/atlas](https://github.com/pacifio/atlas) | 🦀 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 🦀 | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🦀 | Browser automation CLI for AI agents |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🦀 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ⚡ | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ⚡ | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🐹 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 🐹 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | 🐹 | Dolt – Git for Data |
-| [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) | 🍎 | Run iOS apps without actually installing them! |
-| [p0deje/Maccy](https://github.com/p0deje/Maccy) | 🍎 | Lightweight clipboard manager for macOS |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 🍎 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔷 | Chrome DevTools for coding agents |
-| [vercel-labs/portless](https://github.com/vercel-labs/portless) | 🔷 | Replace port numbers with stable, named local URLs. For humans and agents. |
+| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 🐹 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next. |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 🍎 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
+| [utmapp/UTM](https://github.com/utmapp/UTM) | 🍎 | Virtual machines for iOS and macOS |
+| [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) | 🍎 | Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input. |
+| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 🔷 | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. |
 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 🔷 | runs anywhere. uses anything |
+| [vercel-labs/portless](https://github.com/vercel-labs/portless) | 🔷 | Replace port numbers with stable, named local URLs. For humans and agents. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-09-03.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-09-04](./2026/2026-09-04.md) | [hermes-agent](https://github.com/NousResearch/hermes-agent) | [Cap](https://github.com/CapSoftware/Cap) | [ponytail](https://github.com/DietrichGebert/ponytail) | [caveman](https://github.com/JuliusBrussee/caveman) | [cmux](https://github.com/manaflow-ai/cmux) | [magnitude](https://github.com/magnitudedev/magnitude) |
 | [2026-09-03](./2026/2026-09-03.md) | [timesfm](https://github.com/google-research/timesfm) | [atlas](https://github.com/pacifio/atlas) | [ponytail](https://github.com/DietrichGebert/ponytail) | [caveman](https://github.com/JuliusBrussee/caveman) | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | [2026-09-02](./2026/2026-09-02.md) | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [ECC](https://github.com/affaan-m/ECC) | [sing-box](https://github.com/SagerNet/sing-box) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [openclaude](https://github.com/Gitlawb/openclaude) |
 | [2026-09-01](./2026/2026-09-01.md) | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | [archify](https://github.com/tt-a1i/archify) | [ipatool](https://github.com/majd/ipatool) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) |
 | [2026-08-31](./2026/2026-08-31.md) | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [airgorah](https://github.com/martin-olivier/airgorah) | [archify](https://github.com/tt-a1i/archify) | [ipatool](https://github.com/majd/ipatool) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) |
 | [2026-08-30](./2026/2026-08-30.md) | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [worktrunk](https://github.com/max-sixty/worktrunk) | [archify](https://github.com/tt-a1i/archify) | [tailcat](https://github.com/tailscale/tailcat) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) |
 | [2026-08-29](./2026/2026-08-29.md) | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [openhuman](https://github.com/tinyhumansai/openhuman) | [archify](https://github.com/tt-a1i/archify) | [go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) |
-| [2026-08-28](./2026/2026-08-28.md) | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | [openhuman](https://github.com/tinyhumansai/openhuman) | [archify](https://github.com/tt-a1i/archify) | [go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -55,10 +55,10 @@ _Most days on trending, all time_
 | [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2245 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2014 |
 | [vapor/vapor](https://github.com/vapor/vapor) | 1730 |
-| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1495 |
+| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1496 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
-| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1342 |
+| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1343 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
 | [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1261 |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1248 |
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) | 🐍 | 2026-09-04 | Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks. |
+| [datacurve-ai/deep-swe](https://github.com/datacurve-ai/deep-swe) | 🐍 | 2026-09-04 | Measuring frontier coding agents on original, long-horizon engineering tasks |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 🦀 | 2026-09-04 | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🦀 | 2026-09-04 | Algorithm powering the For You feed on X |
+| [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) | 🦀 | 2026-09-04 | MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC. |
+| [SimoHypers/limusic](https://github.com/SimoHypers/limusic) | 🦀 | 2026-09-04 | Feature rich, native desktop, YouTube Music client. Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron. |
+| [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer) | 🍎 | 2026-09-04 | The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark |
 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 🐍 | 2026-09-03 | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
 | [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 🐍 | 2026-09-03 | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero |
 | [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) | 🦀 | 2026-09-03 | Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust. |
-| [vercel-labs/portless](https://github.com/vercel-labs/portless) | 🔷 | 2026-09-03 | Replace port numbers with stable, named local URLs. For humans and agents. |
-| [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) | 🔷 | 2026-09-03 |  |
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 🔷 | 2026-09-03 | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
-| [mujocolab/mjlab](https://github.com/mujocolab/mjlab) | 🐍 | 2026-09-02 | Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research |
-| [noonghunna/club-3090](https://github.com/noonghunna/club-3090) | 🐍 | 2026-09-02 | Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× and 2× cards. |
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 🦀 | 2026-09-02 | Run parallel research agents with any model |
-| [Nanako0129/TokenBar](https://github.com/Nanako0129/TokenBar) | 🍎 | 2026-09-02 | AI token usage & quota monitor for the macOS menu bar — native Swift, Liquid Glass, 3D contribution graph. Tracks Claude Code, Codex, Cursor, OpenCode & 25+ agents locally. |
 
 ---
 

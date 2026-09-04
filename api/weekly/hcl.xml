@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 03 Sep 2026 06:48:34 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 06:53:26 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
@@ -21,9 +21,14 @@
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+    <title>Azure / terraform-azurerm-naming</title>
+    <link>https://github.com/Azure/terraform-azurerm-naming</link>
+    <description></description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
+    <description>Terraform Azure Verified Resource Module for Key Vault</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
@@ -31,29 +36,9 @@
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-gcloud</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-gcloud</link>
-    <description>Executes Google Cloud CLI commands within Terraform</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-iam</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
-    <description>Manages multiple IAM roles for resources on Google Cloud</description>
-  </item>
-  <item>
-    <title>bridgecrewio / checkov-action</title>
-    <link>https://github.com/bridgecrewio/checkov-action</link>
-    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-project-factory</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
@@ -61,9 +46,24 @@
     <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
   <item>
-    <title>Azure / terraform-azurerm-naming</title>
-    <link>https://github.com/Azure/terraform-azurerm-naming</link>
-    <description></description>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-network</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+    <description>Sets up a new VPC network on Google Cloud</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-gcloud</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-gcloud</link>
+    <description>Executes Google Cloud CLI commands within Terraform</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 03 Sep 2026 06:50:46 GMT",
+  "pubDate": "Fri, 04 Sep 2026 06:55:44 GMT",
   "items": [
     {
       "title": "openbmc / openbmc",
@@ -10,9 +10,9 @@
       "description": "OpenBMC Distribution",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 2548,
-      "forks": 1171,
-      "added_stars": "28 stars this month"
+      "stars": 2550,
+      "forks": 1172,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "Xilinx / meta-xilinx",
@@ -25,6 +25,16 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "openembedded / openembedded-core",
+      "url": "https://github.com/openembedded/openembedded-core",
+      "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/.",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 466,
+      "forks": 579,
+      "added_stars": "7 stars this month"
+    },
+    {
       "title": "aws4embeddedlinux / meta-aws",
       "url": "https://github.com/aws4embeddedlinux/meta-aws",
       "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
@@ -35,34 +45,34 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "openembedded / openembedded-core",
-      "url": "https://github.com/openembedded/openembedded-core",
-      "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/.",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 466,
-      "forks": 578,
-      "added_stars": "7 stars this month"
-    },
-    {
       "title": "OE4T / meta-tegra",
       "url": "https://github.com/OE4T/meta-tegra",
       "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 572,
-      "forks": 313,
-      "added_stars": "4 stars this month"
+      "stars": 573,
+      "forks": 314,
+      "added_stars": "5 stars this month"
     },
     {
-      "title": "OpenCentauri / cosmos",
-      "url": "https://github.com/OpenCentauri/cosmos",
-      "description": "Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer",
+      "title": "nxp-imx / meta-imx",
+      "url": "https://github.com/nxp-imx/meta-imx",
+      "description": "i.MX Yocto Project i.MX BSP Layer",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 237,
-      "forks": 45,
-      "added_stars": "16 stars this month"
+      "stars": 120,
+      "forks": 115,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "rauc / meta-rauc",
+      "url": "https://github.com/rauc/meta-rauc",
+      "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 226,
+      "forks": 115,
+      "added_stars": "4 stars this month"
     }
   ]
 }

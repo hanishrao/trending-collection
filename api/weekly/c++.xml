@@ -4,16 +4,21 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 03 Sep 2026 06:48:34 GMT</pubDate>
+  <pubDate>Fri, 04 Sep 2026 06:53:26 GMT</pubDate>
+  <item>
+    <title>fmtlib / fmt</title>
+    <link>https://github.com/fmtlib/fmt</link>
+    <description>A modern formatting library</description>
+  </item>
   <item>
     <title>google / googletest</title>
     <link>https://github.com/google/googletest</link>
     <description>GoogleTest - Google Testing and Mocking Framework</description>
   </item>
   <item>
-    <title>microsoft / microsoft-ui-xaml</title>
-    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
-    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
     <title>doitsujin / dxvk</title>
@@ -21,9 +26,9 @@
     <description>Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</description>
   </item>
   <item>
-    <title>78 / xiaozhi-esp32</title>
-    <link>https://github.com/78/xiaozhi-esp32</link>
-    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
+    <title>ikawrakow / ik_llama.cpp</title>
+    <link>https://github.com/ikawrakow/ik_llama.cpp</link>
+    <description>llama.cpp fork with additional SOTA quants and improved performance</description>
   </item>
   <item>
     <title>dragonflydb / dragonfly</title>
@@ -36,14 +41,9 @@
     <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
-  </item>
-  <item>
-    <title>ikawrakow / ik_llama.cpp</title>
-    <link>https://github.com/ikawrakow/ik_llama.cpp</link>
-    <description>llama.cpp fork with additional SOTA quants and improved performance</description>
+    <title>78 / xiaozhi-esp32</title>
+    <link>https://github.com/78/xiaozhi-esp32</link>
+    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
   </item>
   <item>
     <title>rizinorg / cutter</title>
@@ -51,34 +51,14 @@
     <description>Free and Open Source Reverse Engineering Platform powered by rizin</description>
   </item>
   <item>
-    <title>aria2 / aria2</title>
-    <link>https://github.com/aria2/aria2</link>
-    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
+    <title>microsoft / microsoft-ui-xaml</title>
+    <link>https://github.com/microsoft/microsoft-ui-xaml</link>
+    <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
   </item>
   <item>
-    <title>PCSX2 / pcsx2</title>
-    <link>https://github.com/PCSX2/pcsx2</link>
-    <description>PCSX2 - The Playstation 2 Emulator</description>
-  </item>
-  <item>
-    <title>openvinotoolkit / openvino</title>
-    <link>https://github.com/openvinotoolkit/openvino</link>
-    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
-  </item>
-  <item>
-    <title>k4yt3x / video2x</title>
-    <link>https://github.com/k4yt3x/video2x</link>
-    <description>A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.</description>
-  </item>
-  <item>
-    <title>mozilla-ai / llamafile</title>
-    <link>https://github.com/mozilla-ai/llamafile</link>
-    <description>Distribute and run LLMs with a single file.</description>
-  </item>
-  <item>
-    <title>k2-fsa / sherpa-onnx</title>
-    <link>https://github.com/k2-fsa/sherpa-onnx</link>
-    <description>Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages</description>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
     <title>MrNeRF / LichtFeld-Studio</title>
@@ -86,14 +66,34 @@
     <description>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</description>
   </item>
   <item>
+    <title>aria2 / aria2</title>
+    <link>https://github.com/aria2/aria2</link>
+    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
+  </item>
+  <item>
+    <title>mozilla-ai / llamafile</title>
+    <link>https://github.com/mozilla-ai/llamafile</link>
+    <description>Distribute and run LLMs with a single file.</description>
+  </item>
+  <item>
+    <title>openvinotoolkit / openvino</title>
+    <link>https://github.com/openvinotoolkit/openvino</link>
+    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
+  </item>
+  <item>
     <title>project-chip / connectedhomeip</title>
     <link>https://github.com/project-chip/connectedhomeip</link>
     <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
   </item>
   <item>
-    <title>amnezia-vpn / amnezia-client</title>
-    <link>https://github.com/amnezia-vpn/amnezia-client</link>
-    <description>Amnezia VPN Client (Desktop+Mobile)</description>
+    <title>ggml-org / ggml</title>
+    <link>https://github.com/ggml-org/ggml</link>
+    <description>Tensor library for machine learning</description>
+  </item>
+  <item>
+    <title>colmap / colmap</title>
+    <link>https://github.com/colmap/colmap</link>
+    <description>COLMAP - Structure-from-Motion and Multi-View Stereo</description>
   </item>
   <item>
     <title>flameshot-org / flameshot</title>
@@ -101,24 +101,24 @@
     <description>Powerful yet simple to use screenshot software 🖥️ 📸</description>
   </item>
   <item>
-    <title>hyprwm / Hyprland</title>
-    <link>https://github.com/hyprwm/Hyprland</link>
-    <description>Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#x27;t sacrifice on its looks.</description>
+    <title>LizardByte / Sunshine</title>
+    <link>https://github.com/LizardByte/Sunshine</link>
+    <description>Self-hosted game stream host for Moonlight.</description>
   </item>
   <item>
-    <title>OpenRCT2 / OpenRCT2</title>
-    <link>https://github.com/OpenRCT2/OpenRCT2</link>
-    <description>An open source re-implementation of RollerCoaster Tycoon 2 🎢</description>
+    <title>amnezia-vpn / amnezia-client</title>
+    <link>https://github.com/amnezia-vpn/amnezia-client</link>
+    <description>Amnezia VPN Client (Desktop+Mobile)</description>
   </item>
   <item>
-    <title>MatixYo / ESP32-Plane-Radar</title>
-    <link>https://github.com/MatixYo/ESP32-Plane-Radar</link>
-    <description>Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.</description>
+    <title>lemonade-sdk / lemonade</title>
+    <link>https://github.com/lemonade-sdk/lemonade</link>
+    <description>Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk</description>
   </item>
   <item>
-    <title>google-deepmind / mujoco</title>
-    <link>https://github.com/google-deepmind/mujoco</link>
-    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+    <title>metasequoiaime / MetasequoiaImeTsf</title>
+    <link>https://github.com/metasequoiaime/MetasequoiaImeTsf</link>
+    <description>水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142</description>
   </item>
 </channel>
 </rss>
