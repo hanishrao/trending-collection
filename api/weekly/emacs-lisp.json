@@ -2,8 +2,18 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 04 Sep 2026 06:53:26 GMT",
+  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
   "items": [
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1829,
+      "forks": 229,
+      "added_stars": "34 stars this week"
+    },
     {
       "title": "doomemacs / core",
       "url": "https://github.com/doomemacs/core",
@@ -11,18 +21,8 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 22650,
-      "forks": 3151,
+      "forks": 3152,
       "added_stars": "26 stars this week"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1827,
-      "forks": 229,
-      "added_stars": "44 stars this week"
     },
     {
       "title": "karthink / gptel",
@@ -30,9 +30,9 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3513,
-      "forks": 427,
-      "added_stars": "13 stars this week"
+      "stars": 3515,
+      "forks": 428,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "emacs-evil / evil",
@@ -42,17 +42,7 @@
       "languageColor": "#c065db",
       "stars": 3854,
       "forks": 307,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2966,
-      "forks": 2806,
-      "added_stars": "2 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "jrblevin / markdown-mode",
@@ -62,7 +52,7 @@
       "languageColor": "#c065db",
       "stars": 1048,
       "forks": 185,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "rainstormstudio / nerd-icons.el",
@@ -75,24 +65,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24565,
-      "forks": 4835,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2541,
-      "forks": 327,
-      "added_stars": "14 stars this week"
+      "stars": 2966,
+      "forks": 2805,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "magit / transient",
@@ -105,34 +85,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "dakra / ghostel",
-      "url": "https://github.com/dakra/ghostel",
-      "description": "Terminal emulator powered by libghostty",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 921,
-      "forks": 58,
-      "added_stars": "13 stars this week"
-    },
-    {
       "title": "emacs-mirror / emacs",
       "url": "https://github.com/emacs-mirror/emacs",
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5186,
-      "forks": 1400,
-      "added_stars": "16 stars this week"
+      "stars": 5188,
+      "forks": 1402,
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "oantolin / embark",
-      "url": "https://github.com/oantolin/embark",
-      "description": "Emacs Mini-Buffer Actions Rooted in Keymaps",
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1224,
-      "forks": 69,
-      "added_stars": "5 stars this week"
+      "stars": 24564,
+      "forks": 4835,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "rejeep / f.el",
@@ -150,9 +120,29 @@
       "description": "Jump to things in Emacs tree-style",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1961,
+      "stars": 1962,
       "forks": 117,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2543,
+      "forks": 326,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 923,
+      "forks": 58,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "magnars / dash.el",
@@ -163,6 +153,16 @@
       "stars": 1745,
       "forks": 138,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "oantolin / embark",
+      "url": "https://github.com/oantolin/embark",
+      "description": "Emacs Mini-Buffer Actions Rooted in Keymaps",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1225,
+      "forks": 69,
+      "added_stars": "6 stars this week"
     }
   ]
 }

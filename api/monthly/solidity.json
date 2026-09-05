@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 04 Sep 2026 06:55:44 GMT",
+  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -11,8 +11,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 27231,
-      "forks": 12406,
-      "added_stars": "78 stars this month"
+      "forks": 12405,
+      "added_stars": "77 stars this month"
     },
     {
       "title": "1inch / swap-vm",
@@ -45,6 +45,16 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 750,
+      "forks": 1053,
+      "added_stars": "17 stars this month"
+    },
+    {
       "title": "aave / aave-v4",
       "url": "https://github.com/aave/aave-v4",
       "description": "Aave V4",
@@ -53,26 +63,6 @@
       "stars": 204,
       "forks": 126,
       "added_stars": "10 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2526,
-      "forks": 1317,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 904,
-      "forks": 661,
-      "added_stars": "8 stars this month"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -85,34 +75,24 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
+      "title": "celo-org / celo-monorepo",
+      "url": "https://github.com/celo-org/celo-monorepo",
+      "description": "Official repository for core projects comprising the Celo platform",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 751,
-      "forks": 1053,
-      "added_stars": "18 stars this month"
+      "stars": 804,
+      "forks": 482,
+      "added_stars": "3 stars this month"
     },
     {
-      "title": "Arachnid / solidity-stringutils",
-      "url": "https://github.com/Arachnid/solidity-stringutils",
-      "description": "Basic string utilities for Solidity",
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1154,
-      "forks": 371,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "foundry-rs / book",
-      "url": "https://github.com/foundry-rs/book",
-      "description": "A book on all things Foundry, available at https://getfoundry.sh.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 961,
-      "forks": 1008,
-      "added_stars": "4 stars this month"
+      "stars": 2526,
+      "forks": 1317,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "dapphub / ds-test",
@@ -125,13 +105,13 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "GNSPS / solidity-bytes-utils",
-      "url": "https://github.com/GNSPS/solidity-bytes-utils",
-      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+      "title": "Arachnid / solidity-stringutils",
+      "url": "https://github.com/Arachnid/solidity-stringutils",
+      "description": "Basic string utilities for Solidity",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 562,
-      "forks": 113,
+      "stars": 1154,
+      "forks": 371,
       "added_stars": "1 star this month"
     },
     {
@@ -140,29 +120,29 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 4286,
+      "stars": 4285,
       "forks": 706,
-      "added_stars": "9 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
-      "title": "bnb-chain / BEPs",
-      "url": "https://github.com/bnb-chain/BEPs",
-      "description": "BNB Evolution Proposals",
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 976,
-      "forks": 683,
-      "added_stars": "9 stars this month"
+      "stars": 904,
+      "forks": 661,
+      "added_stars": "7 stars this month"
     },
     {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
+      "title": "Uniswap / v2-periphery",
+      "url": "https://github.com/Uniswap/v2-periphery",
+      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 517,
-      "forks": 58,
-      "added_stars": "5 stars this month"
+      "stars": 1266,
+      "forks": 1761,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -185,24 +165,34 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 944,
-      "forks": 297,
+      "stars": 562,
+      "forks": 113,
       "added_stars": "1 star this month"
     },
     {
-      "title": "Uniswap / v2-periphery",
-      "url": "https://github.com/Uniswap/v2-periphery",
-      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho's non-custodial vault protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1266,
-      "forks": 1761,
-      "added_stars": "6 stars this month"
+      "stars": 100,
+      "forks": 74,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "dmfxyz / murky",
+      "url": "https://github.com/dmfxyz/murky",
+      "description": "Merkle Proof Generator and Validator in Solidity",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 517,
+      "forks": 58,
+      "added_stars": "5 stars this month"
     }
   ]
 }

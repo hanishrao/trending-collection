@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 04 Sep 2026 06:55:44 GMT",
+  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,19 +10,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5002,
+      "stars": 5003,
       "forks": 4409,
       "added_stars": "19 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 582,
-      "forks": 3812,
-      "added_stars": "2 stars this month"
     },
     {
       "title": "techiescamp / devops-projects",
@@ -30,9 +20,9 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2302,
+      "stars": 2306,
       "forks": 1554,
-      "added_stars": "95 stars this month"
+      "added_stars": "98 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -40,9 +30,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3259,
-      "forks": 4626,
-      "added_stars": "8 stars this month"
+      "stars": 3260,
+      "forks": 4625,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "DataDog / serverless-sample-app",
@@ -55,36 +45,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "GoogleCloudPlatform / accelerated-platforms",
-      "url": "https://github.com/GoogleCloudPlatform/accelerated-platforms",
-      "description": "This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 102,
-      "forks": 36,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2091,
-      "forks": 1261,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 861,
-      "forks": 125,
-      "added_stars": "85 stars this month"
-    },
-    {
       "title": "semgrep / semgrep-rules",
       "url": "https://github.com/semgrep/semgrep-rules",
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
@@ -93,6 +53,46 @@
       "stars": 1246,
       "forks": 584,
       "added_stars": "27 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / accelerated-platforms",
+      "url": "https://github.com/GoogleCloudPlatform/accelerated-platforms",
+      "description": "This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 103,
+      "forks": 36,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 583,
+      "forks": 3811,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2091,
+      "forks": 1260,
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 863,
+      "forks": 125,
+      "added_stars": "84 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
@@ -115,14 +115,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "hashicorp / terraform-cidr-subnets",
+      "url": "https://github.com/hashicorp/terraform-cidr-subnets",
+      "description": "A Terraform module for calculating subnet IP address prefixes",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1278,
-      "forks": 1283,
-      "added_stars": "2 stars this month"
+      "stars": 80,
+      "forks": 40,
+      "added_stars": "0 stars this month"
     }
   ]
 }

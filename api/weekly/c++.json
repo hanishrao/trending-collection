@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 04 Sep 2026 06:53:26 GMT",
+  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
   "items": [
     {
       "title": "fmtlib / fmt",
@@ -10,29 +10,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25255,
-      "forks": 3023,
-      "added_stars": "993 stars this week"
-    },
-    {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 39487,
-      "forks": 10886,
-      "added_stars": "497 stars this week"
-    },
-    {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 71993,
-      "forks": 16271,
-      "added_stars": "179 stars this week"
+      "stars": 25500,
+      "forks": 3035,
+      "added_stars": "1,671 stars this week"
     },
     {
       "title": "doitsujin / dxvk",
@@ -40,19 +20,39 @@
       "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17995,
-      "forks": 1227,
-      "added_stars": "72 stars this week"
+      "stars": 18002,
+      "forks": 1228,
+      "added_stars": "69 stars this week"
     },
     {
-      "title": "ikawrakow / ik_llama.cpp",
-      "url": "https://github.com/ikawrakow/ik_llama.cpp",
-      "description": "llama.cpp fork with additional SOTA quants and improved performance",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3178,
-      "forks": 453,
-      "added_stars": "82 stars this week"
+      "stars": 71999,
+      "forks": 16270,
+      "added_stars": "186 stars this week"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 39490,
+      "forks": 10887,
+      "added_stars": "342 stars this week"
+    },
+    {
+      "title": "audacity / audacity",
+      "url": "https://github.com/audacity/audacity",
+      "description": "Audio Editor",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18218,
+      "forks": 2639,
+      "added_stars": "551 stars this week"
     },
     {
       "title": "dragonflydb / dragonfly",
@@ -60,19 +60,19 @@
       "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31364,
-      "forks": 1252,
-      "added_stars": "276 stars this week"
+      "stars": 31410,
+      "forks": 1254,
+      "added_stars": "345 stars this week"
     },
     {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
+      "title": "ikawrakow / ik_llama.cpp",
+      "url": "https://github.com/ikawrakow/ik_llama.cpp",
+      "description": "llama.cpp fork with additional SOTA quants and improved performance",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40982,
-      "forks": 3713,
-      "added_stars": "261 stars this week"
+      "stars": 3181,
+      "forks": 453,
+      "added_stars": "43 stars this week"
     },
     {
       "title": "78 / xiaozhi-esp32",
@@ -80,29 +80,9 @@
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29601,
-      "forks": 6849,
-      "added_stars": "380 stars this week"
-    },
-    {
-      "title": "rizinorg / cutter",
-      "url": "https://github.com/rizinorg/cutter",
-      "description": "Free and Open Source Reverse Engineering Platform powered by rizin",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 19662,
-      "forks": 1452,
-      "added_stars": "62 stars this week"
-    },
-    {
-      "title": "microsoft / microsoft-ui-xaml",
-      "url": "https://github.com/microsoft/microsoft-ui-xaml",
-      "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8326,
-      "forks": 929,
-      "added_stars": "401 stars this week"
+      "stars": 29619,
+      "forks": 6858,
+      "added_stars": "236 stars this week"
     },
     {
       "title": "optiscaler / OptiScaler",
@@ -110,9 +90,39 @@
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10266,
-      "forks": 416,
-      "added_stars": "256 stars this week"
+      "stars": 10330,
+      "forks": 422,
+      "added_stars": "300 stars this week"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41005,
+      "forks": 3717,
+      "added_stars": "242 stars this week"
+    },
+    {
+      "title": "abseil / abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18124,
+      "forks": 3200,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "flameshot-org / flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 30776,
+      "forks": 2007,
+      "added_stars": "76 stars this week"
     },
     {
       "title": "MrNeRF / LichtFeld-Studio",
@@ -120,49 +130,9 @@
       "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3650,
+      "stars": 3658,
       "forks": 442,
-      "added_stars": "43 stars this week"
-    },
-    {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41908,
-      "forks": 3896,
-      "added_stars": "74 stars this week"
-    },
-    {
-      "title": "mozilla-ai / llamafile",
-      "url": "https://github.com/mozilla-ai/llamafile",
-      "description": "Distribute and run LLMs with a single file.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 25872,
-      "forks": 1596,
-      "added_stars": "177 stars this week"
-    },
-    {
-      "title": "openvinotoolkit / openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10799,
-      "forks": 3356,
-      "added_stars": "55 stars this week"
-    },
-    {
-      "title": "project-chip / connectedhomeip",
-      "url": "https://github.com/project-chip/connectedhomeip",
-      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8927,
-      "forks": 2466,
-      "added_stars": "20 stars this week"
+      "added_stars": "41 stars this week"
     },
     {
       "title": "ggml-org / ggml",
@@ -171,68 +141,88 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 15293,
-      "forks": 1806,
-      "added_stars": "55 stars this week"
+      "forks": 1807,
+      "added_stars": "48 stars this week"
     },
     {
-      "title": "colmap / colmap",
-      "url": "https://github.com/colmap/colmap",
-      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "title": "microsoft / microsoft-ui-xaml",
+      "url": "https://github.com/microsoft/microsoft-ui-xaml",
+      "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12646,
-      "forks": 2139,
-      "added_stars": "68 stars this week"
+      "stars": 8334,
+      "forks": 934,
+      "added_stars": "405 stars this week"
     },
     {
-      "title": "flameshot-org / flameshot",
-      "url": "https://github.com/flameshot-org/flameshot",
-      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "title": "mozilla-ai / llamafile",
+      "url": "https://github.com/mozilla-ai/llamafile",
+      "description": "Distribute and run LLMs with a single file.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 30770,
-      "forks": 2006,
-      "added_stars": "65 stars this week"
+      "stars": 25876,
+      "forks": 1597,
+      "added_stars": "175 stars this week"
     },
     {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
+      "title": "project-chip / connectedhomeip",
+      "url": "https://github.com/project-chip/connectedhomeip",
+      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40842,
-      "forks": 2079,
-      "added_stars": "259 stars this week"
+      "stars": 8928,
+      "forks": 2467,
+      "added_stars": "24 stars this week"
     },
     {
-      "title": "amnezia-vpn / amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "title": "microsoft / intelligent-terminal",
+      "url": "https://github.com/microsoft/intelligent-terminal",
+      "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14855,
-      "forks": 1127,
-      "added_stars": "151 stars this week"
+      "stars": 1921,
+      "forks": 151,
+      "added_stars": "119 stars this week"
     },
     {
-      "title": "lemonade-sdk / lemonade",
-      "url": "https://github.com/lemonade-sdk/lemonade",
-      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "title": "ocornut / imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5608,
-      "forks": 484,
-      "added_stars": "105 stars this week"
+      "stars": 76069,
+      "forks": 12040,
+      "added_stars": "166 stars this week"
     },
     {
-      "title": "metasequoiaime / MetasequoiaImeTsf",
-      "url": "https://github.com/metasequoiaime/MetasequoiaImeTsf",
-      "description": "水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142",
+      "title": "realsenseai / librealsense",
+      "url": "https://github.com/realsenseai/librealsense",
+      "description": "RealSense SDK",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1162,
-      "forks": 50,
-      "added_stars": "498 stars this week"
+      "stars": 8997,
+      "forks": 5039,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "k2-fsa / sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14614,
+      "forks": 1662,
+      "added_stars": "157 stars this week"
+    },
+    {
+      "title": "aria2 / aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41914,
+      "forks": 3895,
+      "added_stars": "71 stars this week"
     }
   ]
 }

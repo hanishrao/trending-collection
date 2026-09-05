@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 04 Sep 2026 06:53:26 GMT</pubDate>
+  <pubDate>Sat, 05 Sep 2026 06:38:18 GMT</pubDate>
   <item>
     <title>bazelbuild / bazel-central-registry</title>
     <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -16,29 +16,9 @@
     <description>Public interface definitions of Google APIs.</description>
   </item>
   <item>
-    <title>openconfig / gnoi</title>
-    <link>https://github.com/openconfig/gnoi</link>
-    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
-  </item>
-  <item>
     <title>cel-expr / cel-spec</title>
     <link>https://github.com/cel-expr/cel-spec</link>
     <description>Common Expression Language -- specification and binary representation</description>
-  </item>
-  <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
-  </item>
-  <item>
-    <title>GoogleContainerTools / distroless</title>
-    <link>https://github.com/GoogleContainerTools/distroless</link>
-    <description>🥑 Language focused docker images, minus the operating system.</description>
-  </item>
-  <item>
-    <title>bazelbuild / rules_rust</title>
-    <link>https://github.com/bazelbuild/rules_rust</link>
-    <description>Rust rules for Bazel</description>
   </item>
   <item>
     <title>tronbyt / apps</title>
@@ -46,9 +26,24 @@
     <description>Hard Fork of Tidbyt Community Repo</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_distroless</title>
-    <link>https://github.com/bazel-contrib/rules_distroless</link>
-    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
+    <title>googleapis / api-common-protos</title>
+    <link>https://github.com/googleapis/api-common-protos</link>
+    <description>A standard library for use in specifying protocol buffer APIs.</description>
+  </item>
+  <item>
+    <title>openconfig / gnoi</title>
+    <link>https://github.com/openconfig/gnoi</link>
+    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
+  </item>
+  <item>
+    <title>bazelbuild / rules_rust</title>
+    <link>https://github.com/bazelbuild/rules_rust</link>
+    <description>Rust rules for Bazel</description>
+  </item>
+  <item>
+    <title>GoogleContainerTools / distroless</title>
+    <link>https://github.com/GoogleContainerTools/distroless</link>
+    <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
     <title>bazel-contrib / rules_perl</title>
@@ -59,6 +54,11 @@
     <title>uber / hermetic_cc_toolchain</title>
     <link>https://github.com/uber/hermetic_cc_toolchain</link>
     <description>Bazel C/C++ toolchain for cross-compiling C/C++ programs</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_distroless</title>
+    <link>https://github.com/bazel-contrib/rules_distroless</link>
+    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
   <item>
     <title>bazel-contrib / rules_python</title>
