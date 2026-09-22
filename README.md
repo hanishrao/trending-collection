@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3444-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3445-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-09-21
-_Top 3 per language · [view full day →](./2026/2026-09-21.md)_
+## 🔥 Today's Trending — 2026-09-22
+_Top 3 per language · [view full day →](./2026/2026-09-22.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🐍 |  |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 🐍 | A community-supported supercharged document management system: scan, index and archive all your documents |
-| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 🐍 | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 🐍 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 🐍 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 🦀 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🦀 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
-| [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🦀 | Algorithm powering the For You feed on X |
-| [apache/datafusion](https://github.com/apache/datafusion) | 🦀 | Apache DataFusion SQL Query Engine |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⚡ | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) | 🦀 | OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
+| [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | ⚡ | List of Permanent Free LLM API (API Keys) |
+| [fmhy/edit](https://github.com/fmhy/edit) | ⚡ | Make changes to FMHY |
 | [coder/coder](https://github.com/coder/coder) | 🐹 | Secure environments for developers and their agents |
-| [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) | 🐹 | 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923 |
-| [asciimoo/hister](https://github.com/asciimoo/hister) | 🐹 | Your own search engine |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 🐹 | Make humans and AI agents work as one team — open-source and self-hostable. |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 🐹 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | [iina/iina](https://github.com/iina/iina) | 🍎 | The modern video player for macOS. |
-| [mrkai77/Loop](https://github.com/mrkai77/Loop) | 🍎 | Window management made elegant. |
-| [jipika/WaifuX](https://github.com/jipika/WaifuX) | 🍎 | macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧 |
+| [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | 🍎 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. |
+| [nightscout/Trio](https://github.com/nightscout/Trio) | 🍎 | Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations. |
 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔷 | A framework for building agentic apps |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔷 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔷 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 🔷 | Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-09-21.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-09-22](./2026/2026-09-22.md) | [financial-services](https://github.com/anthropics/financial-services) | [ai-memory](https://github.com/akitaonrails/ai-memory) | [agent-skills](https://github.com/addyosmani/agent-skills) | [coder](https://github.com/coder/coder) | [iina](https://github.com/iina/iina) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-21](./2026/2026-09-21.md) | [financial-services](https://github.com/anthropics/financial-services) | [quiche](https://github.com/cloudflare/quiche) | [ECC](https://github.com/affaan-m/ECC) | [coder](https://github.com/coder/coder) | [iina](https://github.com/iina/iina) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-20](./2026/2026-09-20.md) | [docling](https://github.com/docling-project/docling) | [quiche](https://github.com/cloudflare/quiche) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [coder](https://github.com/coder/coder) | [speaktype](https://github.com/karansinghgit/speaktype) | [claude-code](https://github.com/anthropics/claude-code) |
 | [2026-09-19](./2026/2026-09-19.md) | [Octop](https://github.com/TencentCloud/Octop) | [anki](https://github.com/ankitects/anki) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [claude-code](https://github.com/anthropics/claude-code) |
 | [2026-09-18](./2026/2026-09-18.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [OpenResearch](https://github.com/alphaXiv/OpenResearch) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [tinycast](https://github.com/abue-ammar/tinycast) | [BrowserSkill](https://github.com/Tencent/BrowserSkill) |
 | [2026-09-17](./2026/2026-09-17.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [anki](https://github.com/ankitects/anki) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [tinycast](https://github.com/abue-ammar/tinycast) | [voicebox](https://github.com/jamiepine/voicebox) |
 | [2026-09-16](./2026/2026-09-16.md) | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | [OpenResearch](https://github.com/alphaXiv/OpenResearch) | [agent-skills](https://github.com/addyosmani/agent-skills) | [open-code-review](https://github.com/alibaba/open-code-review) | [BrewUI](https://github.com/Homebrew/BrewUI) | [ever-gauzy](https://github.com/ever-co/ever-gauzy) |
-| [2026-09-15](./2026/2026-09-15.md) | [YuE](https://github.com/multimodal-art-projection/YuE) | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [open-code-review](https://github.com/alibaba/open-code-review) | [opendisplay](https://github.com/peetzweg/opendisplay) | [agent-skills](https://github.com/tech-leads-club/agent-skills) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 🐍 | 2026-09-21 | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
-| [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) | 🦀 | 2026-09-21 | WeChat macOS database decryption and query tool |
-| [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | 🦀 | 2026-09-21 | An embeddable, portable, branchable virtual machine to safely run Agents locally. |
-| [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | 🦀 | 2026-09-21 | NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility. |
-| [BuilderIO/skills](https://github.com/BuilderIO/skills) | ⚡ | 2026-09-21 | Skills for agents |
-| [akiralereal/iptv](https://github.com/akiralereal/iptv) | ⚡ | 2026-09-21 | 开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、B 站直播、斗鱼直播、虎牙直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。 |
-| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | 🐹 | 2026-09-21 | One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. |
-| [superdurable/dex](https://github.com/superdurable/dex) | 🐹 | 2026-09-21 | Durable Execution (D-EX) framework built on Temporal/Cadence |
-| [rooootdev/mond](https://github.com/rooootdev/mond) | 🍎 | 2026-09-21 | Edit MobileGestalt on iOS 27.0 beta 1 - 4! |
-| [claration/feather](https://github.com/claration/feather) | 🍎 | 2026-09-21 | Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. |
+| [cv-cat/DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) | 🐍 | 2026-09-22 | 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听 |
+| [TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch) | 🐍 | 2026-09-22 | 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 |
+| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 🐍 | 2026-09-22 | A Patch for GIMP 3+ for Photoshop Users |
+| [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) | 🦀 | 2026-09-22 | Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players. |
+| [elvisun/newsjack](https://github.com/elvisun/newsjack) | 🐹 | 2026-09-22 | The open-source skills that turn your agent into a full PR team. |
+| [AminMGMT/BackPack](https://github.com/AminMGMT/BackPack) | 🐹 | 2026-09-22 | High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups |
+| [zhoushoujianwork/easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) | 🐹 | 2026-09-22 | 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP. |
+| [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) | 🍎 | 2026-09-22 | Free up your Mac, safely. Clears the cache and junk it piles up on its own. Open source, and everything goes to the Trash, so nothing is ever lost. |
+| [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) | 🍎 | 2026-09-22 | Sysinternals ZoomIt for MacOS |
+| [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) | 🍎 | 2026-09-22 | Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you |
 
 ---
 

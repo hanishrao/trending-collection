@@ -2,8 +2,18 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
+  "pubDate": "Tue, 22 Sep 2026 07:12:42 GMT",
   "items": [
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21261,
+      "forks": 4811,
+      "added_stars": "31 stars this week"
+    },
     {
       "title": "freeCodeCamp / rdb-alpha",
       "url": "https://github.com/freeCodeCamp/rdb-alpha",
@@ -11,28 +21,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 173,
-      "forks": 1142,
+      "forks": 1145,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "kagisearch / kagi-docs",
-      "url": "https://github.com/kagisearch/kagi-docs",
-      "description": "Documentation for products made by Kagi Inc",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 411,
-      "forks": 714,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21258,
-      "forks": 4809,
-      "added_stars": "31 stars this week"
     },
     {
       "title": "kubernetes-sigs / contributor-playground",
@@ -51,48 +41,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 729,
-      "forks": 2057,
+      "forks": 2059,
       "added_stars": "6 stars this week"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4876,
-      "forks": 1977,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2598,
-      "forks": 311,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "odoo / docker",
-      "url": "https://github.com/odoo/docker",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 1211,
-      "forks": 1702,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "docker-library / python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2778,
-      "forks": 1108,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "MicrosoftDocs / windows-powershell-docs",
@@ -105,14 +55,44 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "datawhalechina / vibe-vibe",
-      "url": "https://github.com/datawhalechina/vibe-vibe",
-      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 6070,
-      "forks": 488,
-      "added_stars": "39 stars this week"
+      "stars": 4877,
+      "forks": 1977,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2598,
+      "forks": 311,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "kagisearch / kagi-docs",
+      "url": "https://github.com/kagisearch/kagi-docs",
+      "description": "Documentation for products made by Kagi Inc",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 411,
+      "forks": 716,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "docker-library / python",
+      "url": "https://github.com/docker-library/python",
+      "description": "Docker Official Image packaging for Python",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2779,
+      "forks": 1107,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "compose-spec / compose-spec",
@@ -120,18 +100,58 @@
       "description": "The Compose specification",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2730,
+      "stars": 2729,
       "forks": 787,
       "added_stars": "3 stars this week"
     },
     {
-      "title": "render-examples / mysql",
-      "url": "https://github.com/render-examples/mysql",
-      "description": "MySQL 8.0 and 5.7 on Render",
+      "title": "datawhalechina / vibe-vibe",
+      "url": "https://github.com/datawhalechina/vibe-vibe",
+      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 46,
-      "forks": 1151,
+      "stars": 6072,
+      "forks": 489,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "xhyphertech / Pretty-md",
+      "url": "https://github.com/xhyphertech/Pretty-md",
+      "description": "𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 267,
+      "forks": 940,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "zabbix / zabbix-docker",
+      "url": "https://github.com/zabbix/zabbix-docker",
+      "description": "Official Zabbix Dockerfiles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2841,
+      "forks": 1445,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "microsoft / mssql-docker",
+      "url": "https://github.com/microsoft/mssql-docker",
+      "description": "Official Microsoft repository for SQL Server in Docker resources",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 1886,
+      "forks": 764,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "k8s-operatorhub / community-operators",
+      "url": "https://github.com/k8s-operatorhub/community-operators",
+      "description": "The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 272,
+      "forks": 772,
       "added_stars": "0 stars this week"
     }
   ]

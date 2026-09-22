@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
+  "pubDate": "Tue, 22 Sep 2026 07:15:59 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -10,7 +10,7 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2100,
+      "stars": 2101,
       "forks": 1266,
       "added_stars": "13 stars this month"
     },
@@ -20,19 +20,9 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2328,
-      "forks": 1563,
-      "added_stars": "88 stars this month"
-    },
-    {
-      "title": "ministryofjustice / cloud-platform-environments",
-      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
-      "description": "Environment configuration for the Cloud Platform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 84,
-      "forks": 38,
-      "added_stars": "2 stars this month"
+      "stars": 2330,
+      "forks": 1564,
+      "added_stars": "89 stars this month"
     },
     {
       "title": "DataDog / serverless-sample-app",
@@ -60,9 +50,19 @@
       "description": "Terraform module for scalable GitHub action runners on AWS",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3132,
+      "stars": 3134,
       "forks": 747,
-      "added_stars": "25 stars this month"
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5005,
+      "forks": 4410,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
@@ -75,16 +75,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
-      "description": "Terraform Azure Verified Resource Module for Storage Account",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 39,
-      "forks": 80,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "Azure / terraform-azurerm-naming",
       "url": "https://github.com/Azure/terraform-azurerm-naming",
       "description": "",
@@ -93,6 +83,16 @@
       "stars": 274,
       "forks": 146,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
+      "description": "Terraform Azure Verified Resource Module for Storage Account",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 39,
+      "forks": 80,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -105,26 +105,6 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5004,
-      "forks": 4409,
-      "added_stars": "14 stars this month"
-    },
-    {
-      "title": "ministryofjustice / modernisation-platform-environments",
-      "url": "https://github.com/ministryofjustice/modernisation-platform-environments",
-      "description": "Modernisation platform environments • This repository is defined and managed in Terraform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 48,
-      "forks": 24,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
@@ -135,6 +115,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "ministryofjustice / cloud-platform-environments",
+      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
+      "description": "Environment configuration for the Cloud Platform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 84,
+      "forks": 38,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-network",
       "url": "https://github.com/terraform-google-modules/terraform-google-network",
       "description": "Sets up a new VPC network on Google Cloud",
@@ -143,6 +133,16 @@
       "stars": 503,
       "forks": 1281,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-cloud-dns",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-dns",
+      "description": "Creates and manages Cloud DNS public or private zones and their records",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 80,
+      "forks": 89,
+      "added_stars": "2 stars this month"
     }
   ]
 }

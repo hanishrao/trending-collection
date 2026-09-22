@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
+  <pubDate>Tue, 22 Sep 2026 07:15:59 GMT</pubDate>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
@@ -14,11 +14,6 @@
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
     <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
-  </item>
-  <item>
-    <title>ministryofjustice / cloud-platform-environments</title>
-    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
-    <description>Environment configuration for the Cloud Platform</description>
   </item>
   <item>
     <title>DataDog / serverless-sample-app</title>
@@ -36,14 +31,14 @@
     <description>Terraform module for scalable GitHub action runners on AWS</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
     <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
     <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
     <description>Terraform Azure Verified Resource Module for Key Vault</description>
-  </item>
-  <item>
-    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
-    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
-    <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-naming</title>
@@ -51,19 +46,14 @@
     <description></description>
   </item>
   <item>
+    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
+    <description>Terraform Azure Verified Resource Module for Storage Account</description>
+  </item>
+  <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>ministryofjustice / modernisation-platform-environments</title>
-    <link>https://github.com/ministryofjustice/modernisation-platform-environments</link>
-    <description>Modernisation platform environments • This repository is defined and managed in Terraform</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
@@ -71,9 +61,19 @@
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
+    <title>ministryofjustice / cloud-platform-environments</title>
+    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
+    <description>Environment configuration for the Cloud Platform</description>
+  </item>
+  <item>
     <title>terraform-google-modules / terraform-google-network</title>
     <link>https://github.com/terraform-google-modules/terraform-google-network</link>
     <description>Sets up a new VPC network on Google Cloud</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-cloud-dns</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-cloud-dns</link>
+    <description>Creates and manages Cloud DNS public or private zones and their records</description>
   </item>
 </channel>
 </rss>

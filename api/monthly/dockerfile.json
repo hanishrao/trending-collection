@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
+  "pubDate": "Tue, 22 Sep 2026 07:15:59 GMT",
   "items": [
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -10,9 +10,19 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105628,
-      "forks": 10726,
-      "added_stars": "164 stars this month"
+      "stars": 105631,
+      "forks": 10724,
+      "added_stars": "158 stars this month"
+    },
+    {
+      "title": "jaywcjlove / reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 15259,
+      "forks": 2224,
+      "added_stars": "86 stars this month"
     },
     {
       "title": "dotnet / dotnet-docker",
@@ -20,39 +30,9 @@
       "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4876,
+      "stars": 4877,
       "forks": 1977,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21258,
-      "forks": 4809,
-      "added_stars": "133 stars this month"
-    },
-    {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12075,
-      "forks": 3717,
-      "added_stars": "87 stars this month"
-    },
-    {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 664,
-      "added_stars": "0 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "oxsecurity / megalinter",
@@ -65,14 +45,44 @@
       "added_stars": "33 stars this month"
     },
     {
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12081,
+      "forks": 3718,
+      "added_stars": "89 stars this month"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21261,
+      "forks": 4811,
+      "added_stars": "135 stars this month"
+    },
+    {
       "title": "microsoft / vscode-remote-release",
       "url": "https://github.com/microsoft/vscode-remote-release",
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4177,
+      "stars": 4178,
       "forks": 470,
       "added_stars": "36 stars this month"
+    },
+    {
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12675,
+      "forks": 4341,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "MicrosoftDocs / windows-powershell-docs",
@@ -85,46 +95,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12674,
-      "forks": 4341,
-      "added_stars": "14 stars this month"
-    },
-    {
-      "title": "jaywcjlove / reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 15259,
-      "forks": 2225,
-      "added_stars": "90 stars this month"
-    },
-    {
-      "title": "nordquant / dbt-student-repo",
-      "url": "https://github.com/nordquant/dbt-student-repo",
-      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 24,
-      "forks": 3376,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "docker-library / python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2778,
-      "forks": 1108,
-      "added_stars": "8 stars this month"
-    },
-    {
       "title": "xhyphertech / Pretty-md",
       "url": "https://github.com/xhyphertech/Pretty-md",
       "description": "𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑",
@@ -133,6 +103,46 @@
       "stars": 267,
       "forks": 940,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "docker-library / python",
+      "url": "https://github.com/docker-library/python",
+      "description": "Docker Official Image packaging for Python",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2779,
+      "forks": 1107,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "nordquant / dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 24,
+      "forks": 3388,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 83,
+      "forks": 665,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "nodejs / docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 8594,
+      "forks": 1979,
+      "added_stars": "16 stars this month"
     }
   ]
 }
