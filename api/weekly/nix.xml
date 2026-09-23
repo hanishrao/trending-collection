@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 22 Sep 2026 07:12:42 GMT</pubDate>
+  <pubDate>Wed, 23 Sep 2026 07:12:33 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -21,11 +21,6 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>supabase / postgres</title>
-    <link>https://github.com/supabase/postgres</link>
-    <description>Unmodified Postgres with some useful extensions</description>
-  </item>
-  <item>
     <title>NixOS / nixos-hardware</title>
     <link>https://github.com/NixOS/nixos-hardware</link>
     <description>A collection of NixOS modules covering hardware quirks.</description>
@@ -36,21 +31,6 @@
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
-  </item>
-  <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
-  </item>
-  <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
-  </item>
-  <item>
     <title>numtide / system-manager</title>
     <link>https://github.com/numtide/system-manager</link>
     <description>Manage system config using nix on any distro</description>
@@ -59,6 +39,16 @@
     <title>NixOS / nix.dev</title>
     <link>https://github.com/NixOS/nix.dev</link>
     <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
+  </item>
+  <item>
+    <title>nix-community / nix-wrapper-modules</title>
+    <link>https://github.com/nix-community/nix-wrapper-modules</link>
+    <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]</description>
   </item>
 </channel>
 </rss>

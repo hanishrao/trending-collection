@@ -2,8 +2,28 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 22 Sep 2026 07:10:29 GMT",
+  "pubDate": "Wed, 23 Sep 2026 07:10:06 GMT",
   "items": [
+    {
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 6571,
+      "forks": 1411,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "opengrep / opengrep",
+      "url": "https://github.com/opengrep/opengrep",
+      "description": "🔎 Static code analysis engine to find security issues in code.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 3105,
+      "forks": 266,
+      "added_stars": "7 stars today"
+    },
     {
       "title": "bcpierce00 / unison",
       "url": "https://github.com/bcpierce00/unison",
@@ -12,17 +32,7 @@
       "languageColor": "#ef7a08",
       "stars": 5493,
       "forks": 273,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ocaml / opam",
-      "url": "https://github.com/ocaml/opam",
-      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1381,
-      "forks": 409,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -30,29 +40,9 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 975,
+      "stars": 979,
       "forks": 108,
       "added_stars": "3 stars today"
-    },
-    {
-      "title": "ocaml / dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1918,
-      "forks": 500,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "rocq-prover / rocq",
-      "url": "https://github.com/rocq-prover/rocq",
-      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 5583,
-      "forks": 763,
-      "added_stars": "1 star today"
     }
   ]
 }

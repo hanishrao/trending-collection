@@ -4,21 +4,16 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 22 Sep 2026 07:15:59 GMT</pubDate>
+  <pubDate>Wed, 23 Sep 2026 07:14:09 GMT</pubDate>
+  <item>
+    <title>syl20bnr / spacemacs</title>
+    <link>https://github.com/syl20bnr/spacemacs</link>
+    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
+  </item>
   <item>
     <title>karthink / gptel</title>
     <link>https://github.com/karthink/gptel</link>
     <description>A simple, extensible LLM client for Emacs</description>
-  </item>
-  <item>
-    <title>emacs-mirror / emacs</title>
-    <link>https://github.com/emacs-mirror/emacs</link>
-    <description>Mirror of GNU Emacs</description>
-  </item>
-  <item>
-    <title>doomemacs / core</title>
-    <link>https://github.com/doomemacs/core</link>
-    <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
     <title>melpa / melpa</title>
@@ -26,14 +21,9 @@
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
   <item>
-    <title>syl20bnr / spacemacs</title>
-    <link>https://github.com/syl20bnr/spacemacs</link>
-    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
-  </item>
-  <item>
-    <title>emacs-evil / evil</title>
-    <link>https://github.com/emacs-evil/evil</link>
-    <description>The extensible vi layer for Emacs.</description>
+    <title>doomemacs / core</title>
+    <link>https://github.com/doomemacs/core</link>
+    <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
     <title>xenodium / agent-shell</title>
@@ -41,9 +31,14 @@
     <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
-    <title>flycheck / flycheck</title>
-    <link>https://github.com/flycheck/flycheck</link>
-    <description>On the fly syntax checking for GNU Emacs</description>
+    <title>emacs-evil / evil</title>
+    <link>https://github.com/emacs-evil/evil</link>
+    <description>The extensible vi layer for Emacs.</description>
+  </item>
+  <item>
+    <title>emacs-mirror / emacs</title>
+    <link>https://github.com/emacs-mirror/emacs</link>
+    <description>Mirror of GNU Emacs</description>
   </item>
   <item>
     <title>tumashu / posframe</title>
@@ -51,19 +46,19 @@
     <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
   </item>
   <item>
-    <title>seagle0128 / doom-modeline</title>
-    <link>https://github.com/seagle0128/doom-modeline</link>
-    <description>A fancy and fast mode-line inspired by minimalism design.</description>
-  </item>
-  <item>
-    <title>google-coral / coralnpu</title>
-    <link>https://github.com/google-coral/coralnpu</link>
-    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
-  </item>
-  <item>
     <title>emacs-lsp / lsp-mode</title>
     <link>https://github.com/emacs-lsp/lsp-mode</link>
     <description>Emacs client/library for the Language Server Protocol</description>
+  </item>
+  <item>
+    <title>flycheck / flycheck</title>
+    <link>https://github.com/flycheck/flycheck</link>
+    <description>On the fly syntax checking for GNU Emacs</description>
+  </item>
+  <item>
+    <title>seagle0128 / doom-modeline</title>
+    <link>https://github.com/seagle0128/doom-modeline</link>
+    <description>A fancy and fast mode-line inspired by minimalism design.</description>
   </item>
   <item>
     <title>bbatsov / projectile</title>
@@ -71,14 +66,14 @@
     <description>Project Interaction Library for Emacs</description>
   </item>
   <item>
-    <title>dgutov / diff-hl</title>
-    <link>https://github.com/dgutov/diff-hl</link>
-    <description>Emacs package for highlighting uncommitted changes</description>
+    <title>google-coral / coralnpu</title>
+    <link>https://github.com/google-coral/coralnpu</link>
+    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
   </item>
   <item>
-    <title>dakra / ghostel</title>
-    <link>https://github.com/dakra/ghostel</link>
-    <description>Terminal emulator powered by libghostty</description>
+    <title>abo-abo / hydra</title>
+    <link>https://github.com/abo-abo/hydra</link>
+    <description>make Emacs bindings that stick around</description>
   </item>
   <item>
     <title>yoshiki / yaml-mode</title>
@@ -86,9 +81,14 @@
     <description>The emacs major mode for editing files in the YAML data serialization format.</description>
   </item>
   <item>
-    <title>abo-abo / hydra</title>
-    <link>https://github.com/abo-abo/hydra</link>
-    <description>make Emacs bindings that stick around</description>
+    <title>dgutov / diff-hl</title>
+    <link>https://github.com/dgutov/diff-hl</link>
+    <description>Emacs package for highlighting uncommitted changes</description>
+  </item>
+  <item>
+    <title>abo-abo / ace-window</title>
+    <link>https://github.com/abo-abo/ace-window</link>
+    <description>Quickly switch windows in Emacs</description>
   </item>
   <item>
     <title>rainstormstudio / nerd-icons.el</title>
@@ -99,11 +99,6 @@
     <title>magit / magit</title>
     <link>https://github.com/magit/magit</link>
     <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
-  </item>
-  <item>
-    <title>akermu / emacs-libvterm</title>
-    <link>https://github.com/akermu/emacs-libvterm</link>
-    <description>Emacs libvterm integration</description>
   </item>
 </channel>
 </rss>
