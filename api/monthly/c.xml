@@ -4,26 +4,21 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 23 Sep 2026 07:14:09 GMT</pubDate>
-  <item>
-    <title>libretro / RetroArch</title>
-    <link>https://github.com/libretro/RetroArch</link>
-    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
-  </item>
-  <item>
-    <title>doldecomp / melee</title>
-    <link>https://github.com/doldecomp/melee</link>
-    <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
-  </item>
+  <pubDate>Thu, 24 Sep 2026 07:06:16 GMT</pubDate>
   <item>
     <title>facebook / zstd</title>
     <link>https://github.com/facebook/zstd</link>
     <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
   <item>
-    <title>nmap / nmap</title>
-    <link>https://github.com/nmap/nmap</link>
-    <description>Nmap - the Network Mapper. Github mirror of official SVN repository.</description>
+    <title>libretro / RetroArch</title>
+    <link>https://github.com/libretro/RetroArch</link>
+    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+  </item>
+  <item>
+    <title>asmvik / yabai</title>
+    <link>https://github.com/asmvik/yabai</link>
+    <description>A tiling window manager for macOS based on binary space partitioning</description>
   </item>
   <item>
     <title>curl / curl</title>
@@ -31,14 +26,14 @@
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>libsdl-org / SDL</title>
-    <link>https://github.com/libsdl-org/SDL</link>
-    <description>Simple DirectMedia Layer</description>
-  </item>
-  <item>
     <title>obsproject / obs-studio</title>
     <link>https://github.com/obsproject/obs-studio</link>
     <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+  </item>
+  <item>
+    <title>libsdl-org / SDL</title>
+    <link>https://github.com/libsdl-org/SDL</link>
+    <description>Simple DirectMedia Layer</description>
   </item>
   <item>
     <title>jqlang / jq</title>
@@ -46,24 +41,29 @@
     <description>Command-line JSON processor</description>
   </item>
   <item>
-    <title>valkey-io / valkey</title>
-    <link>https://github.com/valkey-io/valkey</link>
-    <description>A flexible distributed key-value database that is optimized for caching and other realtime workloads.</description>
-  </item>
-  <item>
     <title>OpenVPN / openvpn</title>
     <link>https://github.com/OpenVPN/openvpn</link>
     <description>OpenVPN is an open source VPN daemon</description>
   </item>
   <item>
-    <title>hashcat / hashcat</title>
-    <link>https://github.com/hashcat/hashcat</link>
-    <description>World&#x27;s fastest and most advanced password recovery utility</description>
+    <title>nmap / nmap</title>
+    <link>https://github.com/nmap/nmap</link>
+    <description>Nmap - the Network Mapper. Github mirror of official SVN repository.</description>
   </item>
   <item>
-    <title>ImageMagick / ImageMagick</title>
-    <link>https://github.com/ImageMagick/ImageMagick</link>
-    <description>ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.</description>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
+  </item>
+  <item>
+    <title>valkey-io / valkey</title>
+    <link>https://github.com/valkey-io/valkey</link>
+    <description>A flexible distributed key-value database that is optimized for caching and other realtime workloads.</description>
+  </item>
+  <item>
+    <title>mit-pdos / xv6-riscv</title>
+    <link>https://github.com/mit-pdos/xv6-riscv</link>
+    <description>Xv6 for RISC-V</description>
   </item>
   <item>
     <title>HarbourMasters / Shipwright</title>
@@ -71,19 +71,9 @@
     <description></description>
   </item>
   <item>
-    <title>tr4m0ryp / tr4mpass</title>
-    <link>https://github.com/tr4m0ryp/tr4mpass</link>
-    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
-  </item>
-  <item>
-    <title>cilium / tetragon</title>
-    <link>https://github.com/cilium/tetragon</link>
-    <description>eBPF-based Security Observability and Runtime Enforcement</description>
-  </item>
-  <item>
-    <title>mpv-player / mpv</title>
-    <link>https://github.com/mpv-player/mpv</link>
-    <description>🎥 Command line media player</description>
+    <title>aircrack-ng / aircrack-ng</title>
+    <link>https://github.com/aircrack-ng/aircrack-ng</link>
+    <description>WiFi security auditing tools suite</description>
   </item>
   <item>
     <title>winsiderss / systeminformer</title>
@@ -96,24 +86,34 @@
     <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
-    <title>UberGuidoZ / Flipper</title>
-    <link>https://github.com/UberGuidoZ/Flipper</link>
-    <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
+    <title>ImageMagick / ImageMagick</title>
+    <link>https://github.com/ImageMagick/ImageMagick</link>
+    <description>ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.</description>
   </item>
   <item>
-    <title>jemalloc / jemalloc</title>
-    <link>https://github.com/jemalloc/jemalloc</link>
-    <description></description>
+    <title>FreeRDP / FreeRDP</title>
+    <link>https://github.com/FreeRDP/FreeRDP</link>
+    <description>FreeRDP is a free remote desktop protocol library and clients</description>
+  </item>
+  <item>
+    <title>hashcat / hashcat</title>
+    <link>https://github.com/hashcat/hashcat</link>
+    <description>World&#x27;s fastest and most advanced password recovery utility</description>
+  </item>
+  <item>
+    <title>mpv-player / mpv</title>
+    <link>https://github.com/mpv-player/mpv</link>
+    <description>🎥 Command line media player</description>
+  </item>
+  <item>
+    <title>doldecomp / melee</title>
+    <link>https://github.com/doldecomp/melee</link>
+    <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
   </item>
   <item>
     <title>armory3d / armorpaint</title>
     <link>https://github.com/armory3d/armorpaint</link>
     <description>Graphics Creation Tools</description>
-  </item>
-  <item>
-    <title>semgrep / semgrep</title>
-    <link>https://github.com/semgrep/semgrep</link>
-    <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
   </item>
 </channel>
 </rss>

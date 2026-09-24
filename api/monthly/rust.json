@@ -2,27 +2,37 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 23 Sep 2026 07:14:09 GMT",
+  "pubDate": "Thu, 24 Sep 2026 07:06:16 GMT",
   "items": [
-    {
-      "title": "AprilNEA / OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 21982,
-      "forks": 718,
-      "added_stars": "8,375 stars this month"
-    },
     {
       "title": "max-sixty / worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8352,
-      "forks": 293,
-      "added_stars": "1,901 stars this month"
+      "stars": 8381,
+      "forks": 294,
+      "added_stars": "1,917 stars this month"
+    },
+    {
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22045,
+      "forks": 722,
+      "added_stars": "7,610 stars this month"
+    },
+    {
+      "title": "apache / iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4937,
+      "forks": 448,
+      "added_stars": "416 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -30,29 +40,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14662,
-      "forks": 913,
-      "added_stars": "1,354 stars this month"
-    },
-    {
-      "title": "cloudflare / quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12510,
-      "forks": 1143,
-      "added_stars": "721 stars this month"
-    },
-    {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37047,
-      "forks": 2361,
-      "added_stars": "3,618 stars this month"
+      "stars": 14707,
+      "forks": 916,
+      "added_stars": "1,337 stars this month"
     },
     {
       "title": "ankitects / anki",
@@ -60,9 +50,9 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31442,
-      "forks": 3255,
-      "added_stars": "1,721 stars this month"
+      "stars": 31488,
+      "forks": 3260,
+      "added_stars": "1,738 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -70,19 +60,19 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8128,
-      "forks": 550,
-      "added_stars": "4,049 stars this month"
+      "stars": 8251,
+      "forks": 559,
+      "added_stars": "4,043 stars this month"
     },
     {
-      "title": "firecracker-microvm / firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36883,
-      "forks": 2643,
-      "added_stars": "744 stars this month"
+      "stars": 37099,
+      "forks": 2366,
+      "added_stars": "3,550 stars this month"
     },
     {
       "title": "CapSoftware / Cap",
@@ -90,9 +80,19 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 22645,
-      "forks": 1953,
-      "added_stars": "1,652 stars this month"
+      "stars": 22703,
+      "forks": 1960,
+      "added_stars": "1,665 stars this month"
+    },
+    {
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36913,
+      "forks": 2643,
+      "added_stars": "752 stars this month"
     },
     {
       "title": "emilk / egui",
@@ -100,29 +100,9 @@
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30674,
-      "forks": 2146,
-      "added_stars": "590 stars this month"
-    },
-    {
-      "title": "xingkongliang / skills-manager",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4913,
-      "forks": 423,
-      "added_stars": "992 stars this month"
-    },
-    {
-      "title": "ajeetdsouza / zoxide",
-      "url": "https://github.com/ajeetdsouza/zoxide",
-      "description": "A smarter cd command. Supports all major shells.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39657,
-      "forks": 908,
-      "added_stars": "954 stars this month"
+      "stars": 30688,
+      "forks": 2148,
+      "added_stars": "591 stars this month"
     },
     {
       "title": "NVlabs / cuda-oxide",
@@ -130,19 +110,29 @@
       "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3571,
-      "forks": 281,
-      "added_stars": "490 stars this month"
+      "stars": 3578,
+      "forks": 283,
+      "added_stars": "498 stars this month"
     },
     {
-      "title": "janhq / jan",
-      "url": "https://github.com/janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "title": "xingkongliang / skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 44614,
-      "forks": 3049,
-      "added_stars": "621 stars this month"
+      "stars": 4919,
+      "forks": 425,
+      "added_stars": "990 stars this month"
+    },
+    {
+      "title": "ajeetdsouza / zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39667,
+      "forks": 908,
+      "added_stars": "948 stars this month"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -150,29 +140,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2225,
-      "forks": 224,
-      "added_stars": "1,343 stars this month"
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 40048,
-      "forks": 3953,
-      "added_stars": "3,792 stars this month"
-    },
-    {
-      "title": "google / magika",
-      "url": "https://github.com/google/magika",
-      "description": "Fast and accurate AI powered file content types detection",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18643,
-      "forks": 1170,
-      "added_stars": "717 stars this month"
+      "stars": 2251,
+      "forks": 228,
+      "added_stars": "1,368 stars this month"
     },
     {
       "title": "rustfs / rustfs",
@@ -180,9 +150,39 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 33684,
+      "stars": 33745,
       "forks": 1509,
-      "added_stars": "2,677 stars this month"
+      "added_stars": "2,712 stars this month"
+    },
+    {
+      "title": "google / magika",
+      "url": "https://github.com/google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18653,
+      "forks": 1170,
+      "added_stars": "720 stars this month"
+    },
+    {
+      "title": "cloudflare / quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 12546,
+      "forks": 1146,
+      "added_stars": "760 stars this month"
+    },
+    {
+      "title": "janhq / jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 44632,
+      "forks": 3052,
+      "added_stars": "630 stars this month"
     },
     {
       "title": "lbjlaq / Antigravity-Manager",
@@ -190,9 +190,9 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31672,
-      "forks": 3409,
-      "added_stars": "1,289 stars this month"
+      "stars": 31696,
+      "forks": 3413,
+      "added_stars": "1,286 stars this month"
     },
     {
       "title": "uutils / coreutils",
@@ -200,19 +200,9 @@
       "description": "Cross-platform Rust rewrite of the GNU coreutils",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24156,
-      "forks": 2050,
-      "added_stars": "375 stars this month"
-    },
-    {
-      "title": "gleam-lang / gleam",
-      "url": "https://github.com/gleam-lang/gleam",
-      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 21934,
-      "forks": 1022,
-      "added_stars": "208 stars this month"
+      "stars": 24167,
+      "forks": 2051,
+      "added_stars": "377 stars this month"
     },
     {
       "title": "GraphiteEditor / Graphite",
@@ -220,9 +210,19 @@
       "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 27335,
-      "forks": 1263,
+      "stars": 27345,
+      "forks": 1264,
       "added_stars": "473 stars this month"
+    },
+    {
+      "title": "pnpm / pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36626,
+      "forks": 1758,
+      "added_stars": "484 stars this month"
     }
   ]
 }

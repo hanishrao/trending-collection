@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 23 Sep 2026 07:12:33 GMT</pubDate>
+  <pubDate>Thu, 24 Sep 2026 07:04:42 GMT</pubDate>
   <item>
     <title>cloudflare / quiche</title>
     <link>https://github.com/cloudflare/quiche</link>
@@ -16,9 +16,9 @@
     <description>Turn your coding agents into research agents</description>
   </item>
   <item>
-    <title>ankitects / anki</title>
-    <link>https://github.com/ankitects/anki</link>
-    <description>Anki is a smart spaced repetition flashcard program</description>
+    <title>akitaonrails / ai-memory</title>
+    <link>https://github.com/akitaonrails/ai-memory</link>
+    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>yyjeqhc / webcodex</title>
@@ -31,14 +31,9 @@
     <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
-    <title>makepad / makepad</title>
-    <link>https://github.com/makepad/makepad</link>
-    <description>Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl</description>
-  </item>
-  <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>ankitects / anki</title>
+    <link>https://github.com/ankitects/anki</link>
+    <description>Anki is a smart spaced repetition flashcard program</description>
   </item>
   <item>
     <title>NVlabs / cuda-oxide</title>
@@ -46,14 +41,19 @@
     <description>cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.</description>
   </item>
   <item>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+  </item>
+  <item>
+    <title>makepad / makepad</title>
+    <link>https://github.com/makepad/makepad</link>
+    <description>Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl</description>
+  </item>
+  <item>
     <title>Automattic / harper</title>
     <link>https://github.com/Automattic/harper</link>
     <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-  </item>
-  <item>
-    <title>Nasiko-Labs / nasiko</title>
-    <link>https://github.com/Nasiko-Labs/nasiko</link>
-    <description>Developer Control Plane for your AI Agents</description>
   </item>
   <item>
     <title>lbjlaq / Antigravity-Manager</title>
@@ -61,14 +61,14 @@
     <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
   </item>
   <item>
-    <title>HakanSeven12 / OpenCADStudio</title>
-    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+    <title>vercel-labs / agent-browser</title>
+    <link>https://github.com/vercel-labs/agent-browser</link>
+    <description>Browser automation CLI for AI agents</description>
   </item>
   <item>
-    <title>GCWing / OpenBitFun</title>
-    <link>https://github.com/GCWing/OpenBitFun</link>
-    <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+    <title>uutils / coreutils</title>
+    <link>https://github.com/uutils/coreutils</link>
+    <description>Cross-platform Rust rewrite of the GNU coreutils</description>
   </item>
   <item>
     <title>zeronsh / zeron</title>
@@ -76,19 +76,9 @@
     <description>A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-  </item>
-  <item>
-    <title>SimoHypers / limusic</title>
-    <link>https://github.com/SimoHypers/limusic</link>
-    <description>Feature rich, native desktop, YouTube Music client. Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron.</description>
-  </item>
-  <item>
-    <title>EricLBuehler / mistral.rs</title>
-    <link>https://github.com/EricLBuehler/mistral.rs</link>
-    <description>Fast, flexible LLM inference</description>
+    <title>rust-lang / rust</title>
+    <link>https://github.com/rust-lang/rust</link>
+    <description>Empowering everyone to build reliable and efficient software.</description>
   </item>
   <item>
     <title>mesamirh / MovieBox-Tui</title>
@@ -101,14 +91,24 @@
     <description>mold 🦠: A Modern Linker in Rust 🦀</description>
   </item>
   <item>
-    <title>rust-lang / rust</title>
-    <link>https://github.com/rust-lang/rust</link>
-    <description>Empowering everyone to build reliable and efficient software.</description>
+    <title>tauri-apps / tauri</title>
+    <link>https://github.com/tauri-apps/tauri</link>
+    <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
   </item>
   <item>
-    <title>bevyengine / bevy</title>
-    <link>https://github.com/bevyengine/bevy</link>
-    <description>A refreshingly simple data-driven game engine built in Rust</description>
+    <title>GCWing / OpenBitFun</title>
+    <link>https://github.com/GCWing/OpenBitFun</link>
+    <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+  </item>
+  <item>
+    <title>EricLBuehler / mistral.rs</title>
+    <link>https://github.com/EricLBuehler/mistral.rs</link>
+    <description>Fast, flexible LLM inference</description>
+  </item>
+  <item>
+    <title>EpicGames / lore</title>
+    <link>https://github.com/EpicGames/lore</link>
+    <description>Lore is a next-generation, open source version control system</description>
   </item>
 </channel>
 </rss>

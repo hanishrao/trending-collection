@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 23 Sep 2026 07:10:06 GMT",
+  "pubDate": "Thu, 24 Sep 2026 07:03:11 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,9 +10,19 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5006,
+      "stars": 5007,
       "forks": 4411,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2105,
+      "forks": 1265,
+      "added_stars": "3 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -22,46 +32,36 @@
       "languageColor": "#844FBA",
       "stars": 3267,
       "forks": 4626,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2102,
-      "forks": 1265,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "sidpalas / devops-directive-terraform-course",
-      "url": "https://github.com/sidpalas/devops-directive-terraform-course",
-      "description": "Companion repo for complete Terraform course",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1475,
-      "forks": 2428,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "iam-veeramalla / ultimate-devops-project-aws",
-      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
-      "description": "End to End DevOps project",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 962,
-      "forks": 2488,
       "added_stars": "0 stars today"
     },
     {
-      "title": "okd-project / okd",
-      "url": "https://github.com/okd-project/okd",
-      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2127,
-      "forks": 323,
+      "stars": 1042,
+      "forks": 778,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1256,
+      "forks": 591,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 585,
+      "forks": 3808,
       "added_stars": "0 stars today"
     },
     {
@@ -75,43 +75,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
-      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
-      "description": "",
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 545,
-      "forks": 855,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 778,
+      "stars": 351,
+      "forks": 239,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ViktorUJ / cks",
-      "url": "https://github.com/ViktorUJ/cks",
-      "description": "Open-source Platform for learning kubernetes and aws eks and preparation for for Certified Kubernetes exams (CKA ,CKS , CKAD, ICA)",
+      "title": "terraform-google-modules / terraform-google-gcloud",
+      "url": "https://github.com/terraform-google-modules/terraform-google-gcloud",
+      "description": "Executes Google Cloud CLI commands within Terraform",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1603,
-      "forks": 305,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 63,
-      "forks": 111,
+      "stars": 178,
+      "forks": 98,
       "added_stars": "0 stars today"
     },
     {
@@ -122,6 +102,36 @@
       "languageColor": "#844FBA",
       "stars": 207,
       "forks": 608,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 502,
+      "forks": 1281,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 119,
+      "forks": 202,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 153,
+      "forks": 119,
       "added_stars": "0 stars today"
     }
   ]

@@ -4,11 +4,11 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 23 Sep 2026 07:10:06 GMT</pubDate>
+  <pubDate>Thu, 24 Sep 2026 07:03:11 GMT</pubDate>
   <item>
-    <title>bazel-contrib / rules_perl</title>
-    <link>https://github.com/bazel-contrib/rules_perl</link>
-    <description>Perl rules for Bazel</description>
+    <title>GoogleContainerTools / distroless</title>
+    <link>https://github.com/GoogleContainerTools/distroless</link>
+    <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
     <title>googleapis / googleapis</title>
@@ -16,19 +16,19 @@
     <description>Public interface definitions of Google APIs.</description>
   </item>
   <item>
-    <title>bazelbuild / rules_apple</title>
-    <link>https://github.com/bazelbuild/rules_apple</link>
-    <description>Bazel rules to build apps for Apple platforms.</description>
+    <title>bazel-contrib / rules_perl</title>
+    <link>https://github.com/bazel-contrib/rules_perl</link>
+    <description>Perl rules for Bazel</description>
   </item>
   <item>
-    <title>bazelbuild / bazel-central-registry</title>
-    <link>https://github.com/bazelbuild/bazel-central-registry</link>
-    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
+    <title>bazelbuild / rules_cc</title>
+    <link>https://github.com/bazelbuild/rules_cc</link>
+    <description>C++ Rules for Bazel</description>
   </item>
   <item>
-    <title>tilt-dev / tilt-extensions</title>
-    <link>https://github.com/tilt-dev/tilt-extensions</link>
-    <description>Extensions for Tilt</description>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
   </item>
   <item>
     <title>uber / hermetic_cc_toolchain</title>
@@ -41,14 +41,19 @@
     <description>Common Expression Language -- specification and binary representation</description>
   </item>
   <item>
+    <title>tilt-dev / tilt-extensions</title>
+    <link>https://github.com/tilt-dev/tilt-extensions</link>
+    <description>Extensions for Tilt</description>
+  </item>
+  <item>
     <title>cncf / xds</title>
     <link>https://github.com/cncf/xds</link>
     <description>xDS API Working Group</description>
   </item>
   <item>
-    <title>grpc / grpc-proto</title>
-    <link>https://github.com/grpc/grpc-proto</link>
-    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+    <title>bazel-contrib / rules_distroless</title>
+    <link>https://github.com/bazel-contrib/rules_distroless</link>
+    <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
 </channel>
 </rss>

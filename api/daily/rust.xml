@@ -4,11 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 23 Sep 2026 07:10:06 GMT</pubDate>
+  <pubDate>Thu, 24 Sep 2026 07:03:11 GMT</pubDate>
   <item>
-    <title>clash-verge-rev / clash-verge-rev</title>
-    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
-    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
+    <title>cloudflare / quiche</title>
+    <link>https://github.com/cloudflare/quiche</link>
+    <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
   </item>
   <item>
     <title>yynxxxxx / Codex-X</title>
@@ -21,29 +21,14 @@
     <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
-    <title>juspay / hyperswitch</title>
-    <link>https://github.com/juspay/hyperswitch</link>
-    <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
-  </item>
-  <item>
-    <title>HelixDB / helix-db</title>
-    <link>https://github.com/HelixDB/helix-db</link>
-    <description>HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.</description>
-  </item>
-  <item>
-    <title>cloudflare / quiche</title>
-    <link>https://github.com/cloudflare/quiche</link>
-    <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
-  </item>
-  <item>
-    <title>nklmilojevic / sofka</title>
-    <link>https://github.com/nklmilojevic/sofka</link>
-    <description>A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.</description>
-  </item>
-  <item>
     <title>hydra-db / hydradb</title>
     <link>https://github.com/hydra-db/hydradb</link>
     <description>HydraDB - fast graph database on object storage</description>
+  </item>
+  <item>
+    <title>acsandmann / rift</title>
+    <link>https://github.com/acsandmann/rift</link>
+    <description>a tiling window manager for macos</description>
   </item>
   <item>
     <title>Nasiko-Labs / nasiko</title>
@@ -51,24 +36,39 @@
     <description>Developer Control Plane for your AI Agents</description>
   </item>
   <item>
-    <title>dmtrKovalenko / fff</title>
-    <link>https://github.com/dmtrKovalenko/fff</link>
-    <description>The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS</description>
-  </item>
-  <item>
-    <title>tokio-rs / topcoat</title>
-    <link>https://github.com/tokio-rs/topcoat</link>
-    <description>A batteries-included framework for building web apps</description>
-  </item>
-  <item>
     <title>lahfir / agent-desktop</title>
     <link>https://github.com/lahfir/agent-desktop</link>
     <description>Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app&#x27;s real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.</description>
   </item>
   <item>
-    <title>huggingface / tokenizers</title>
-    <link>https://github.com/huggingface/tokenizers</link>
-    <description>💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</description>
+    <title>reacherhq / check-if-email-exists</title>
+    <link>https://github.com/reacherhq/check-if-email-exists</link>
+    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+  </item>
+  <item>
+    <title>longbridge / gpui-kit</title>
+    <link>https://github.com/longbridge/gpui-kit</link>
+    <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
+  </item>
+  <item>
+    <title>vercel-labs / agent-browser</title>
+    <link>https://github.com/vercel-labs/agent-browser</link>
+    <description>Browser automation CLI for AI agents</description>
+  </item>
+  <item>
+    <title>superradcompany / microsandbox</title>
+    <link>https://github.com/superradcompany/microsandbox</link>
+    <description>🧱 fast branchable microVM for any workload</description>
+  </item>
+  <item>
+    <title>edwardkim / rhwp</title>
+    <link>https://github.com/edwardkim/rhwp</link>
+    <description>아래한글 hwp viewer and editor by rust and wasm</description>
+  </item>
+  <item>
+    <title>clash-verge-rev / clash-verge-rev</title>
+    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
+    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
   </item>
   <item>
     <title>agentgateway / agentgateway</title>
@@ -76,24 +76,49 @@
     <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
   </item>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>mesamirh / MovieBox-Tui</title>
+    <link>https://github.com/mesamirh/MovieBox-Tui</link>
+    <description>Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.</description>
   </item>
   <item>
-    <title>smol-machines / smolvm</title>
-    <link>https://github.com/smol-machines/smolvm</link>
-    <description>An embeddable, portable, branchable virtual machine to safely run Agents locally.</description>
+    <title>moghtech / komodo</title>
+    <link>https://github.com/moghtech/komodo</link>
+    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
   </item>
   <item>
-    <title>lbjlaq / Antigravity-Manager</title>
-    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
-    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
+    <title>t8y2 / dbx</title>
+    <link>https://github.com/t8y2/dbx</link>
+    <description>25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
   </item>
   <item>
-    <title>tinyhumansai / openhuman</title>
-    <link>https://github.com/tinyhumansai/openhuman</link>
-    <description>OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows</description>
+    <title>CluvexStudio / Aether</title>
+    <link>https://github.com/CluvexStudio/Aether</link>
+    <description>A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.</description>
+  </item>
+  <item>
+    <title>huggingface / tokenizers</title>
+    <link>https://github.com/huggingface/tokenizers</link>
+    <description>💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</description>
+  </item>
+  <item>
+    <title>tursodatabase / turso</title>
+    <link>https://github.com/tursodatabase/turso</link>
+    <description>A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.</description>
+  </item>
+  <item>
+    <title>tw93 / Pake</title>
+    <link>https://github.com/tw93/Pake</link>
+    <description>🤱🏻 Turn any webpage into a desktop app with one command.</description>
+  </item>
+  <item>
+    <title>astral-sh / ruff</title>
+    <link>https://github.com/astral-sh/ruff</link>
+    <description>An extremely fast Python linter and code formatter, written in Rust.</description>
+  </item>
+  <item>
+    <title>AlexsJones / llmfit</title>
+    <link>https://github.com/AlexsJones/llmfit</link>
+    <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
   </item>
 </channel>
 </rss>

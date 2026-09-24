@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3446-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3447-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-09-23
-_Top 3 per language · [view full day →](./2026/2026-09-23.md)_
+## 🔥 Today's Trending — 2026-09-24
+_Top 3 per language · [view full day →](./2026/2026-09-24.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 🐍 |  |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 🐍 | CLI tool for configuring and monitoring Claude Code |
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 🐍 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 🦀 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 🐍 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. |
+| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🦀 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
 | [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) | 🦀 | OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 |
 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 🦀 | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
-| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | ⚡ | Free, simple, and intuitive online database diagram editor and SQL generator. |
-| [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | ⚡ | List of Permanent Free LLM API (API Keys) |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | ⚡ | The design language that makes your AI harness better at design. |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | ⚡ | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | ⚡ | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀 |
 | [google/ax](https://github.com/google/ax) | 🐹 | Google's open agentic orchestration runtime |
-| [coder/coder](https://github.com/coder/coder) | 🐹 | Secure environments for developers and their agents |
-| [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | 🍎 | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. |
-| [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) | 🍎 | Use your tokens to raise, evolve, and collect Pokémon! 🥚 |
-| [swiftlang/swift](https://github.com/swiftlang/swift) | 🍎 | The Swift Programming Language |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
+| [hoaxisr/awg-manager](https://github.com/hoaxisr/awg-manager) | 🐹 | AmneziaWG tunnel manager with web interface for Keenetic routers |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
+| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🍎 | Free and open-source macOS menu bar toolkit. |
+| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | 🍎 | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 🔷 | A framework for building agentic apps |
 | [dream-num/univer](https://github.com/dream-num/univer) | 🔷 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-| [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | 🔷 | The Generative UI framework |
-| [upscayl/upscayl](https://github.com/upscayl/upscayl) | 🔷 | 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 🔷 | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-09-23.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-09-24](./2026/2026-09-24.md) | [financial-services](https://github.com/anthropics/financial-services) | [quiche](https://github.com/cloudflare/quiche) | [impeccable](https://github.com/pbakaus/impeccable) | [ax](https://github.com/google/ax) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-23](./2026/2026-09-23.md) | [financial-services](https://github.com/anthropics/financial-services) | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [drawdb](https://github.com/drawdb-io/drawdb) | [substrate](https://github.com/agent-substrate/substrate) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [univer](https://github.com/dream-num/univer) |
 | [2026-09-22](./2026/2026-09-22.md) | [financial-services](https://github.com/anthropics/financial-services) | [ai-memory](https://github.com/akitaonrails/ai-memory) | [agent-skills](https://github.com/addyosmani/agent-skills) | [coder](https://github.com/coder/coder) | [iina](https://github.com/iina/iina) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-21](./2026/2026-09-21.md) | [financial-services](https://github.com/anthropics/financial-services) | [quiche](https://github.com/cloudflare/quiche) | [ECC](https://github.com/affaan-m/ECC) | [coder](https://github.com/coder/coder) | [iina](https://github.com/iina/iina) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-20](./2026/2026-09-20.md) | [docling](https://github.com/docling-project/docling) | [quiche](https://github.com/cloudflare/quiche) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [coder](https://github.com/coder/coder) | [speaktype](https://github.com/karansinghgit/speaktype) | [claude-code](https://github.com/anthropics/claude-code) |
 | [2026-09-19](./2026/2026-09-19.md) | [Octop](https://github.com/TencentCloud/Octop) | [anki](https://github.com/ankitects/anki) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [claude-code](https://github.com/anthropics/claude-code) |
 | [2026-09-18](./2026/2026-09-18.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [OpenResearch](https://github.com/alphaXiv/OpenResearch) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [tinycast](https://github.com/abue-ammar/tinycast) | [BrowserSkill](https://github.com/Tencent/BrowserSkill) |
-| [2026-09-17](./2026/2026-09-17.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [anki](https://github.com/ankitects/anki) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [tinycast](https://github.com/abue-ammar/tinycast) | [voicebox](https://github.com/jamiepine/voicebox) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -55,7 +55,7 @@ _Most days on trending, all time_
 | [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2251 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2014 |
 | [vapor/vapor](https://github.com/vapor/vapor) | 1733 |
-| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1501 |
+| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1502 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1346 |
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [acsandmann/rift](https://github.com/acsandmann/rift) | 🦀 | 2026-09-24 | a tiling window manager for macos |
+| [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) | ⚡ | 2026-09-24 | Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from pi.dev. |
+| [vChewing/vChewing-macOS](https://github.com/vChewing/vChewing-macOS) | 🍎 | 2026-09-24 | 唯音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就，同時支援拼音與注音打字。唯音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。更具諸多唯音特色功能。目前研發管理工作均在 Gitee 進行。 |
+| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | 🔷 | 2026-09-24 | MiMo Code: Where Models and Agents Co-Evolve |
+| [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote) | 🔷 | 2026-09-24 | Make it yours. A customizable key viewer for DJMAX RESPECT V and any game. |
+| [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 🔷 | 2026-09-24 |  |
+| [westpoint-io/mimik](https://github.com/westpoint-io/mimik) | 🔷 | 2026-09-24 | 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸 |
+| [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) | 🔷 | 2026-09-24 | Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V |
 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 🐍 | 2026-09-23 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🦀 | 2026-09-23 | HydraDB - fast graph database on object storage |
-| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | ⚡ | 2026-09-23 | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. |
-| [google/ax](https://github.com/google/ax) | 🐹 | 2026-09-23 | Google's open agentic orchestration runtime |
-| [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🐹 | 2026-09-23 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇 |
-| [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) | 🐹 | 2026-09-23 | BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability. |
-| [skyhook-io/radar](https://github.com/skyhook-io/radar) | 🐹 | 2026-09-23 | The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary. |
-| [fullsend-ai/fullsend](https://github.com/fullsend-ai/fullsend) | 🐹 | 2026-09-23 | On the path to fully autonomous agentic engineering |
-| [cv-cat/DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) | 🐍 | 2026-09-22 | 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听 |
-| [TNT-Likely/PanWatch](https://github.com/TNT-Likely/PanWatch) | 🐍 | 2026-09-22 | 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 |
 
 ---
 

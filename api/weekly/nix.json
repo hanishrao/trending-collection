@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 23 Sep 2026 07:12:33 GMT",
+  "pubDate": "Thu, 24 Sep 2026 07:04:42 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26216,
-      "forks": 20155,
-      "added_stars": "98 stars this week"
+      "stars": 26233,
+      "forks": 20163,
+      "added_stars": "93 stars this week"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -20,9 +20,19 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1994,
-      "forks": 257,
+      "stars": 2001,
+      "forks": 256,
       "added_stars": "48 stars this week"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10379,
+      "forks": 2480,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "microvm-nix / microvm.nix",
@@ -30,9 +40,19 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2959,
-      "forks": 232,
-      "added_stars": "24 stars this week"
+      "stars": 2962,
+      "forks": 231,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "finix-community / finix",
+      "url": "https://github.com/finix-community/finix",
+      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 525,
+      "forks": 39,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -42,37 +62,7 @@
       "languageColor": "#7e7eff",
       "stars": 3307,
       "forks": 978,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10376,
-      "forks": 2480,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "numtide / system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1740,
-      "forks": 64,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "NixOS / nix.dev",
-      "url": "https://github.com/NixOS/nix.dev",
-      "description": "Official documentation for getting things done with Nix.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3975,
-      "forks": 340,
-      "added_stars": "12 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -80,19 +70,19 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5946,
-      "forks": 658,
-      "added_stars": "23 stars this week"
+      "stars": 5947,
+      "forks": 659,
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "nix-community / nix-wrapper-modules",
-      "url": "https://github.com/nix-community/nix-wrapper-modules",
-      "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]",
+      "title": "NixOS / nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 465,
-      "forks": 65,
-      "added_stars": "10 stars this week"
+      "stars": 3976,
+      "forks": 340,
+      "added_stars": "12 stars this week"
     }
   ]
 }

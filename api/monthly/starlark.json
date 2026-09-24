@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 23 Sep 2026 07:14:09 GMT",
+  "pubDate": "Thu, 24 Sep 2026 07:06:16 GMT",
   "items": [
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -10,9 +10,9 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 386,
+      "stars": 387,
       "forks": 905,
-      "added_stars": "6 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "googleapis / googleapis",
@@ -22,7 +22,7 @@
       "languageColor": "#76d275",
       "stars": 8768,
       "forks": 2632,
-      "added_stars": "69 stars this month"
+      "added_stars": "68 stars this month"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -30,7 +30,7 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23093,
+      "stars": 23094,
       "forks": 1436,
       "added_stars": "93 stars this month"
     },
@@ -42,7 +42,7 @@
       "languageColor": "#76d275",
       "stars": 247,
       "forks": 197,
-      "added_stars": "1 star this month"
+      "added_stars": "0 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -55,6 +55,16 @@
       "added_stars": "10 stars this month"
     },
     {
+      "title": "tronbyt / apps",
+      "url": "https://github.com/tronbyt/apps",
+      "description": "Hard Fork of Tidbyt Community Repo",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 60,
+      "forks": 145,
+      "added_stars": "11 stars this month"
+    },
+    {
       "title": "bazel-contrib / rules_distroless",
       "url": "https://github.com/bazel-contrib/rules_distroless",
       "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
@@ -63,6 +73,26 @@
       "stars": 101,
       "forks": 75,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3986,
+      "forks": 305,
+      "added_stars": "37 stars this month"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 690,
+      "forks": 723,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazel-contrib / toolchains_llvm",
@@ -75,24 +105,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 690,
-      "forks": 722,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3983,
-      "forks": 305,
-      "added_stars": "33 stars this month"
+      "stars": 195,
+      "forks": 91,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "grpc / grpc-proto",
@@ -105,16 +125,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 195,
-      "forks": 90,
-      "added_stars": "3 stars this month"
-    },
-    {
       "title": "tidbyt / community",
       "url": "https://github.com/tidbyt/community",
       "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
@@ -123,6 +133,16 @@
       "stars": 427,
       "forks": 822,
       "added_stars": "5 stars this month"
+    },
+    {
+      "title": "aspect-build / rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 155,
+      "forks": 126,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -135,6 +155,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "aspect-build / aspect-cli",
+      "url": "https://github.com/aspect-build/aspect-cli",
+      "description": "{ Correct, Fast, Usable } -- Choose three",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 166,
+      "forks": 45,
+      "added_stars": "4 stars this month"
+    },
+    {
       "title": "immich-app / immich-charts",
       "url": "https://github.com/immich-app/immich-charts",
       "description": "Helm chart implementation of Immich",
@@ -142,7 +172,7 @@
       "languageColor": "#76d275",
       "stars": 351,
       "forks": 114,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     }
   ]
 }

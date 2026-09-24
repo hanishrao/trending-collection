@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 23 Sep 2026 07:12:33 GMT",
+  "pubDate": "Thu, 24 Sep 2026 07:04:42 GMT",
   "items": [
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 595,
+      "forks": 334,
+      "added_stars": "1 star this week"
+    },
     {
       "title": "googleapis / googleapis",
       "url": "https://github.com/googleapis/googleapis",
@@ -12,7 +22,7 @@
       "languageColor": "#76d275",
       "stars": 8768,
       "forks": 2632,
-      "added_stars": "15 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -23,16 +33,6 @@
       "stars": 247,
       "forks": 197,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 595,
-      "forks": 334,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "cncf / xds",
@@ -60,9 +60,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23093,
+      "stars": 23094,
       "forks": 1436,
-      "added_stars": "27 stars this week"
+      "added_stars": "22 stars this week"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -75,26 +75,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3983,
-      "forks": 305,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 386,
-      "forks": 905,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "bazel-contrib / rules_perl",
       "url": "https://github.com/bazel-contrib/rules_perl",
       "description": "Perl rules for Bazel",
@@ -102,6 +82,56 @@
       "languageColor": "#76d275",
       "stars": 31,
       "forks": 49,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3986,
+      "forks": 305,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 387,
+      "forks": 905,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "immich-app / immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 351,
+      "forks": 114,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 690,
+      "forks": 723,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "tidbyt / community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 427,
+      "forks": 822,
       "added_stars": "0 stars this week"
     }
   ]

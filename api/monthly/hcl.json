@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 23 Sep 2026 07:14:09 GMT",
+  "pubDate": "Thu, 24 Sep 2026 07:06:16 GMT",
   "items": [
     {
       "title": "techiescamp / devops-projects",
@@ -11,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2330,
-      "forks": 1564,
+      "forks": 1563,
       "added_stars": "86 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2102,
+      "stars": 2105,
       "forks": 1265,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "ministryofjustice / cloud-platform-environments",
@@ -35,16 +35,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "DataDog / serverless-sample-app",
-      "url": "https://github.com/DataDog/serverless-sample-app",
-      "description": "Explore Datadog's serverless observability features with this sample app.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 61,
-      "forks": 20,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
       "description": "Configures opinionated GKE clusters",
@@ -55,24 +45,24 @@
       "added_stars": "6 stars this month"
     },
     {
+      "title": "DataDog / serverless-sample-app",
+      "url": "https://github.com/DataDog/serverless-sample-app",
+      "description": "Explore Datadog's serverless observability features with this sample app.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 61,
+      "forks": 20,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "github-aws-runners / terraform-aws-github-runner",
       "url": "https://github.com/github-aws-runners/terraform-aws-github-runner",
       "description": "Terraform module for scalable GitHub action runners on AWS",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3134,
+      "stars": 3135,
       "forks": 747,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 50,
-      "forks": 60,
-      "added_stars": "2 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -85,14 +75,34 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
+      "description": "Terraform Azure Verified Resource Module for Key Vault",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 50,
+      "forks": 60,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
       "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
       "description": "Terraform Azure Verified Resource Module for Storage Account",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 39,
-      "forks": 80,
+      "forks": 79,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5007,
+      "forks": 4411,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-naming",
@@ -103,26 +113,6 @@
       "stars": 274,
       "forks": 147,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5006,
-      "forks": 4411,
-      "added_stars": "14 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 778,
-      "added_stars": "0 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
@@ -153,6 +143,26 @@
       "stars": 178,
       "forks": 98,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1042,
+      "forks": 778,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1256,
+      "forks": 591,
+      "added_stars": "21 stars this month"
     }
   ]
 }

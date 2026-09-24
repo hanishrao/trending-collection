@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 23 Sep 2026 07:12:33 GMT</pubDate>
+  <pubDate>Thu, 24 Sep 2026 07:04:42 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
@@ -14,6 +14,11 @@
     <title>anthropics / claude-code</title>
     <link>https://github.com/anthropics/claude-code</link>
     <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
+  </item>
+  <item>
+    <title>anthropics / financial-services</title>
+    <link>https://github.com/anthropics/financial-services</link>
+    <description></description>
   </item>
   <item>
     <title>Tencent / WeKnora</title>
@@ -26,14 +31,14 @@
     <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
   </item>
   <item>
-    <title>anthropics / knowledge-work-plugins</title>
-    <link>https://github.com/anthropics/knowledge-work-plugins</link>
-    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
-  </item>
-  <item>
     <title>addyosmani / agent-skills</title>
     <link>https://github.com/addyosmani/agent-skills</link>
     <description>Production-grade engineering skills for AI coding agents.</description>
+  </item>
+  <item>
+    <title>anthropics / knowledge-work-plugins</title>
+    <link>https://github.com/anthropics/knowledge-work-plugins</link>
+    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
   </item>
   <item>
     <title>JustVugg / colibri</title>
@@ -46,29 +51,14 @@
     <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
   </item>
   <item>
-    <title>anthropics / financial-services</title>
-    <link>https://github.com/anthropics/financial-services</link>
-    <description></description>
-  </item>
-  <item>
     <title>stablyai / orca</title>
     <link>https://github.com/stablyai/orca</link>
     <description>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
   </item>
   <item>
-    <title>danny-avila / LibreChat</title>
-    <link>https://github.com/danny-avila/LibreChat</link>
-    <description>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active</description>
-  </item>
-  <item>
-    <title>home-assistant / core</title>
-    <link>https://github.com/home-assistant/core</link>
-    <description>🏡 Open source home automation that puts local control and privacy first.</description>
-  </item>
-  <item>
-    <title>cline / cline</title>
-    <link>https://github.com/cline/cline</link>
-    <description>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.</description>
+    <title>davila7 / claude-code-templates</title>
+    <link>https://github.com/davila7/claude-code-templates</link>
+    <description>CLI tool for configuring and monitoring Claude Code</description>
   </item>
   <item>
     <title>cloudflare / quiche</title>
@@ -76,19 +66,29 @@
     <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
   </item>
   <item>
-    <title>Panniantong / Agent-Reach</title>
-    <link>https://github.com/Panniantong/Agent-Reach</link>
-    <description>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
+    <title>LibreChat-AI / LibreChat</title>
+    <link>https://github.com/LibreChat-AI/LibreChat</link>
+    <description>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active</description>
   </item>
   <item>
-    <title>supabase / supabase</title>
-    <link>https://github.com/supabase/supabase</link>
-    <description>The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
+    <title>cline / cline</title>
+    <link>https://github.com/cline/cline</link>
+    <description>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.</description>
+  </item>
+  <item>
+    <title>pytorch / pytorch</title>
+    <link>https://github.com/pytorch/pytorch</link>
+    <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
   </item>
   <item>
     <title>cilium / cilium</title>
     <link>https://github.com/cilium/cilium</link>
     <description>eBPF-based Networking, Security, and Observability</description>
+  </item>
+  <item>
+    <title>Fission-AI / OpenSpec</title>
+    <link>https://github.com/Fission-AI/OpenSpec</link>
+    <description>Spec-driven development (SDD) for AI coding assistants.</description>
   </item>
   <item>
     <title>cloudflare / security-audit-skill</title>
@@ -101,9 +101,9 @@
     <description>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</description>
   </item>
   <item>
-    <title>Tencent / BrowserSkill</title>
-    <link>https://github.com/Tencent/BrowserSkill</link>
-    <description>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.</description>
+    <title>superdesigndev / treg</title>
+    <link>https://github.com/superdesigndev/treg</link>
+    <description>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
   </item>
 </channel>
 </rss>
