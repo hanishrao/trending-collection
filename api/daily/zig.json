@@ -2,67 +2,17 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:03:11 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:00:18 GMT",
   "items": [
-    {
-      "title": "ddalcu / mlx-serve",
-      "url": "https://github.com/ddalcu/mlx-serve",
-      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1520,
-      "forks": 144,
-      "added_stars": "25 stars today"
-    },
     {
       "title": "tigerbeetle / tigerbeetle",
       "url": "https://github.com/tigerbeetle/tigerbeetle",
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 17081,
+      "stars": 17084,
       "forks": 905,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "lightpanda-io / browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 35534,
-      "forks": 1688,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "roc-lang / roc",
-      "url": "https://github.com/roc-lang/roc",
-      "description": "A fast, friendly, functional language.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 6069,
-      "forks": 418,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "zml / zml",
-      "url": "https://github.com/zml/zml",
-      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 4081,
-      "forks": 185,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "sleep3r / mtproto.zig",
-      "url": "https://github.com/sleep3r/mtproto.zig",
-      "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1967,
-      "forks": 101,
-      "added_stars": "11 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "ghostty-org / ghostty",
@@ -70,9 +20,29 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 61486,
-      "forks": 3502,
-      "added_stars": "37 stars today"
+      "stars": 61523,
+      "forks": 3514,
+      "added_stars": "44 stars today"
+    },
+    {
+      "title": "dmtrKovalenko / odiff",
+      "url": "https://github.com/dmtrKovalenko/odiff",
+      "description": "A very fast SIMD-first image comparison library (with nodejs API)",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3213,
+      "forks": 115,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 35560,
+      "forks": 1690,
+      "added_stars": "30 stars today"
     },
     {
       "title": "neurosnap / zmx",
@@ -80,19 +50,49 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2166,
-      "forks": 152,
-      "added_stars": "4 stars today"
+      "stars": 2168,
+      "forks": 154,
+      "added_stars": "1 star today"
     },
     {
-      "title": "neurocyte / flow",
-      "url": "https://github.com/neurocyte/flow",
-      "description": "Flow Control: a programmer's text editor",
+      "title": "roc-lang / roc",
+      "url": "https://github.com/roc-lang/roc",
+      "description": "A fast, friendly, functional language.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2428,
-      "forks": 120,
-      "added_stars": "7 stars today"
+      "stars": 6070,
+      "forks": 418,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ziglang / zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 43306,
+      "forks": 3200,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1542,
+      "forks": 147,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "zml / zml",
+      "url": "https://github.com/zml/zml",
+      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 4083,
+      "forks": 185,
+      "added_stars": "3 stars today"
     },
     {
       "title": "zigtools / zls",
@@ -100,18 +100,8 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5147,
-      "forks": 450,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "riverwm / river",
-      "url": "https://github.com/riverwm/river",
-      "description": "[mirror] A non-monolithic Wayland compositor",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 4289,
-      "forks": 169,
+      "stars": 5149,
+      "forks": 451,
       "added_stars": "1 star today"
     }
   ]

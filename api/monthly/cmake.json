@@ -2,27 +2,37 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:06:16 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:04:59 GMT",
   "items": [
-    {
-      "title": "microsoft / vcpkg",
-      "url": "https://github.com/microsoft/vcpkg",
-      "description": "C++ Library Manager for Windows, Linux, and MacOS",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 27481,
-      "forks": 7735,
-      "added_stars": "128 stars this month"
-    },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
       "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1764,
+      "stars": 1767,
       "forks": 259,
-      "added_stars": "59 stars this month"
+      "added_stars": "63 stars this month"
+    },
+    {
+      "title": "microsoft / vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27485,
+      "forks": 7737,
+      "added_stars": "127 stars this month"
+    },
+    {
+      "title": "OpenMoonRay / openmoonray",
+      "url": "https://github.com/OpenMoonRay/openmoonray",
+      "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 4729,
+      "forks": 315,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "corrosion-rs / corrosion",
@@ -32,17 +42,7 @@
       "languageColor": "#DA3434",
       "stars": 1501,
       "forks": 150,
-      "added_stars": "18 stars this month"
-    },
-    {
-      "title": "OpenMoonRay / openmoonray",
-      "url": "https://github.com/OpenMoonRay/openmoonray",
-      "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 4726,
-      "forks": 315,
-      "added_stars": "13 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
@@ -75,6 +75,16 @@
       "added_stars": "30 stars this month"
     },
     {
+      "title": "Andersama / obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 849,
+      "forks": 54,
+      "added_stars": "13 stars this month"
+    },
+    {
       "title": "arsenm / sanitizers-cmake",
       "url": "https://github.com/arsenm/sanitizers-cmake",
       "description": "CMake modules to help use sanitizers",
@@ -82,36 +92,6 @@
       "languageColor": "#DA3434",
       "stars": 413,
       "forks": 74,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "ecmwf / ecbuild",
-      "url": "https://github.com/ecmwf/ecbuild",
-      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 39,
-      "forks": 41,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "Andersama / obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 847,
-      "forks": 54,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "jrl-umi3218 / jrl-cmakemodules",
-      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
-      "description": "CMake utility toolbox",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 79,
-      "forks": 58,
       "added_stars": "1 star this month"
     },
     {
@@ -135,14 +115,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "KiCad / kicad-symbols",
-      "url": "https://github.com/KiCad/kicad-symbols",
-      "description": "Official KiCad schematic symbol libraries for Kicad 5",
+      "title": "ecmwf / ecbuild",
+      "url": "https://github.com/ecmwf/ecbuild",
+      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 768,
-      "forks": 724,
-      "added_stars": "4 stars this month"
+      "stars": 39,
+      "forks": 41,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 79,
+      "forks": 58,
+      "added_stars": "1 star this month"
     }
   ]
 }

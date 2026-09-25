@@ -2,17 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:04:42 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:02:43 GMT",
   "items": [
+    {
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37430,
+      "forks": 5423,
+      "added_stars": "2,382 stars this week"
+    },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 40350,
-      "forks": 2904,
-      "added_stars": "9,833 stars this week"
+      "stars": 40965,
+      "forks": 2944,
+      "added_stars": "6,920 stars this week"
     },
     {
       "title": "anthropics / claude-code",
@@ -20,29 +30,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 147843,
-      "forks": 24256,
-      "added_stars": "2,762 stars this week"
-    },
-    {
-      "title": "anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 37086,
-      "forks": 5389,
-      "added_stars": "1,895 stars this week"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29486,
-      "forks": 3965,
-      "added_stars": "4,522 stars this week"
+      "stars": 148004,
+      "forks": 24454,
+      "added_stars": "2,384 stars this week"
     },
     {
       "title": "affaan-m / ECC",
@@ -50,9 +40,19 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 266337,
-      "forks": 39806,
-      "added_stars": "6,695 stars this week"
+      "stars": 267070,
+      "forks": 39907,
+      "added_stars": "6,193 stars this week"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29820,
+      "forks": 4008,
+      "added_stars": "3,749 stars this week"
     },
     {
       "title": "addyosmani / agent-skills",
@@ -60,9 +60,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 98754,
-      "forks": 10372,
-      "added_stars": "3,867 stars this week"
+      "stars": 98937,
+      "forks": 10389,
+      "added_stars": "3,345 stars this week"
     },
     {
       "title": "anthropics / knowledge-work-plugins",
@@ -70,29 +70,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25515,
-      "forks": 3024,
-      "added_stars": "1,358 stars this week"
-    },
-    {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 37400,
-      "forks": 4047,
-      "added_stars": "2,739 stars this week"
-    },
-    {
-      "title": "TencentCloud / Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4801,
-      "forks": 568,
-      "added_stars": "1,877 stars this week"
+      "stars": 25571,
+      "forks": 3027,
+      "added_stars": "1,118 stars this week"
     },
     {
       "title": "stablyai / orca",
@@ -100,9 +80,19 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 76844,
-      "forks": 5032,
-      "added_stars": "6,435 stars this week"
+      "stars": 77719,
+      "forks": 5085,
+      "added_stars": "6,547 stars this week"
+    },
+    {
+      "title": "TencentCloud / Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4893,
+      "forks": 581,
+      "added_stars": "1,608 stars this week"
     },
     {
       "title": "davila7 / claude-code-templates",
@@ -110,9 +100,29 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31614,
-      "forks": 3588,
-      "added_stars": "613 stars this week"
+      "stars": 31744,
+      "forks": 3607,
+      "added_stars": "965 stars this week"
+    },
+    {
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 37579,
+      "forks": 4072,
+      "added_stars": "2,055 stars this week"
+    },
+    {
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 28231,
+      "forks": 2787,
+      "added_stars": "3,363 stars this week"
     },
     {
       "title": "cloudflare / quiche",
@@ -120,49 +130,9 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12546,
-      "forks": 1146,
-      "added_stars": "707 stars this week"
-    },
-    {
-      "title": "LibreChat-AI / LibreChat",
-      "url": "https://github.com/LibreChat-AI/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 44821,
-      "forks": 9186,
-      "added_stars": "949 stars this week"
-    },
-    {
-      "title": "cline / cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 69195,
-      "forks": 7503,
-      "added_stars": "1,177 stars this week"
-    },
-    {
-      "title": "pytorch / pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 103230,
-      "forks": 30128,
-      "added_stars": "196 stars this week"
-    },
-    {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 25503,
-      "forks": 4098,
-      "added_stars": "447 stars this week"
+      "stars": 12582,
+      "forks": 1148,
+      "added_stars": "741 stars this week"
     },
     {
       "title": "Fission-AI / OpenSpec",
@@ -170,29 +140,49 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 70097,
-      "forks": 4795,
-      "added_stars": "1,538 stars this week"
+      "stars": 70261,
+      "forks": 4806,
+      "added_stars": "1,415 stars this week"
     },
     {
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 21026,
-      "forks": 1204,
-      "added_stars": "15,280 stars this week"
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8370,
+      "forks": 567,
+      "added_stars": "1,243 stars this week"
     },
     {
-      "title": "Open-Dev-Society / OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "title": "pytorch / pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 103281,
+      "forks": 30325,
+      "added_stars": "228 stars this week"
+    },
+    {
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 18980,
-      "forks": 2307,
-      "added_stars": "4,356 stars this week"
+      "stars": 69271,
+      "forks": 7515,
+      "added_stars": "855 stars this week"
+    },
+    {
+      "title": "LibreChat-AI / LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 44921,
+      "forks": 9203,
+      "added_stars": "743 stars this week"
     },
     {
       "title": "superdesigndev / treg",
@@ -200,9 +190,19 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2848,
-      "forks": 245,
-      "added_stars": "1,067 stars this week"
+      "stars": 3242,
+      "forks": 268,
+      "added_stars": "1,406 stars this week"
+    },
+    {
+      "title": "cilium / cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25545,
+      "forks": 4105,
+      "added_stars": "362 stars this week"
     }
   ]
 }

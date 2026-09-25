@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:03:11 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:00:18 GMT",
   "items": [
     {
       "title": "google / ax",
@@ -10,9 +10,9 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9418,
-      "forks": 454,
-      "added_stars": "1,543 stars today"
+      "stars": 10780,
+      "forks": 527,
+      "added_stars": "1,373 stars today"
     },
     {
       "title": "agent-substrate / substrate",
@@ -20,169 +20,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3603,
-      "forks": 421,
-      "added_stars": "558 stars today"
-    },
-    {
-      "title": "hoaxisr / awg-manager",
-      "url": "https://github.com/hoaxisr/awg-manager",
-      "description": "AmneziaWG tunnel manager with web interface for Keenetic routers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 675,
-      "forks": 43,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "weave-os / router",
-      "url": "https://github.com/weave-os/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5032,
-      "forks": 138,
-      "added_stars": "185 stars today"
-    },
-    {
-      "title": "mostlygeek / llama-swap",
-      "url": "https://github.com/mostlygeek/llama-swap",
-      "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5741,
-      "forks": 481,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "opentofu / opentofu",
-      "url": "https://github.com/opentofu/opentofu",
-      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30272,
-      "forks": 1377,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "zzet / gortex",
-      "url": "https://github.com/zzet/gortex",
-      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/39MFHu3J5d",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1723,
-      "forks": 162,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "flexprice / flexprice",
-      "url": "https://github.com/flexprice/flexprice",
-      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6933,
-      "forks": 996,
-      "added_stars": "617 stars today"
-    },
-    {
-      "title": "chenyme / grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7732,
-      "forks": 2309,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "router-for-me / CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 53069,
-      "forks": 8013,
-      "added_stars": "179 stars today"
-    },
-    {
-      "title": "bjarneo / cliamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "description": "cliamp - Terminal music player inspired by winamp",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4317,
-      "forks": 290,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "grafana / mcp-grafana",
-      "url": "https://github.com/grafana/mcp-grafana",
-      "description": "MCP server for Grafana",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3488,
-      "forks": 454,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "github / gh-stack",
-      "url": "https://github.com/github/gh-stack",
-      "description": "GitHub Stacked PRs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1550,
-      "forks": 75,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "prometheus / prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 66199,
-      "forks": 10853,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "hashicorp / terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49715,
-      "forks": 10625,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "kubernetes-sigs / karpenter",
-      "url": "https://github.com/kubernetes-sigs/karpenter",
-      "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2202,
-      "forks": 582,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "projectdiscovery / nuclei",
-      "url": "https://github.com/projectdiscovery/nuclei",
-      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 31476,
-      "forks": 3888,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "alibaba / skill-up",
-      "url": "https://github.com/alibaba/skill-up",
-      "description": "An evaluation and evolution tool for Agent Skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1061,
-      "forks": 86,
-      "added_stars": "16 stars today"
+      "stars": 3744,
+      "forks": 433,
+      "added_stars": "357 stars today"
     },
     {
       "title": "maximhq / bifrost",
@@ -190,19 +30,169 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8301,
-      "forks": 1275,
-      "added_stars": "48 stars today"
+      "stars": 8343,
+      "forks": 1287,
+      "added_stars": "41 stars today"
     },
     {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
+      "title": "bjarneo / cliamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33163,
-      "forks": 5043,
+      "stars": 4335,
+      "forks": 292,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "weave-os / router",
+      "url": "https://github.com/weave-os/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5149,
+      "forks": 142,
+      "added_stars": "154 stars today"
+    },
+    {
+      "title": "flexprice / flexprice",
+      "url": "https://github.com/flexprice/flexprice",
+      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6939,
+      "forks": 998,
       "added_stars": "24 stars today"
+    },
+    {
+      "title": "ArvinLovegood / go-stock",
+      "url": "https://github.com/ArvinLovegood/go-stock",
+      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7703,
+      "forks": 1346,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6091,
+      "forks": 968,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7595,
+      "forks": 319,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "autobrr / autobrr",
+      "url": "https://github.com/autobrr/autobrr",
+      "description": "Modern, easy to use download automation for torrents and usenet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3093,
+      "forks": 219,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "openfga / openfga",
+      "url": "https://github.com/openfga/openfga",
+      "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5854,
+      "forks": 507,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "router-for-me / CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 53149,
+      "forks": 8022,
+      "added_stars": "124 stars today"
+    },
+    {
+      "title": "projectdiscovery / nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 31500,
+      "forks": 3892,
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "getprobo / probo",
+      "url": "https://github.com/getprobo/probo",
+      "description": "Open source solutions for SOC2, GDPR, and ISO27001",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1389,
+      "forks": 217,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "grafana / mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3496,
+      "forks": 453,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "skyhook-io / radar",
+      "url": "https://github.com/skyhook-io/radar",
+      "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3477,
+      "forks": 224,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "v2fly / v2ray-core",
+      "url": "https://github.com/v2fly/v2ray-core",
+      "description": "A platform for building proxies to bypass network restrictions.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34624,
+      "forks": 5070,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "go-vikunja / vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The task manager you actually own.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5503,
+      "forks": 711,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "etcd-io / etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 52310,
+      "forks": 10516,
+      "added_stars": "8 stars today"
     }
   ]
 }

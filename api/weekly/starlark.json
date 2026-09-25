@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:04:42 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:02:43 GMT",
   "items": [
     {
       "title": "bazelbuild / rules_apple",
@@ -20,9 +20,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8768,
+      "stars": 8769,
       "forks": 2632,
-      "added_stars": "11 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -31,7 +31,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 247,
-      "forks": 197,
+      "forks": 199,
       "added_stars": "0 stars this week"
     },
     {
@@ -45,6 +45,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 31,
+      "forks": 49,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -53,16 +63,6 @@
       "stars": 402,
       "forks": 87,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23094,
-      "forks": 1436,
-      "added_stars": "22 stars this week"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -75,44 +75,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazel-contrib / rules_perl",
-      "url": "https://github.com/bazel-contrib/rules_perl",
-      "description": "Perl rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 31,
-      "forks": 49,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3986,
+      "stars": 3987,
       "forks": 305,
       "added_stars": "8 stars this week"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 387,
-      "forks": 905,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 351,
-      "forks": 114,
-      "added_stars": "0 stars this week"
+      "stars": 23094,
+      "forks": 1437,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -122,17 +102,17 @@
       "languageColor": "#76d275",
       "stars": 690,
       "forks": 723,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 427,
-      "forks": 822,
-      "added_stars": "0 stars this week"
+      "stars": 387,
+      "forks": 909,
+      "added_stars": "1 star this week"
     }
   ]
 }

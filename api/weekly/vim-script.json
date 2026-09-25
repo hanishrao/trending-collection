@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:04:42 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:02:43 GMT",
   "items": [
     {
       "title": "neovim / neovim",
@@ -10,9 +10,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102548,
-      "forks": 7132,
-      "added_stars": "213 stars this week"
+      "stars": 102563,
+      "forks": 7133,
+      "added_stars": "214 stars this week"
     },
     {
       "title": "jbranchaud / til",
@@ -22,27 +22,17 @@
       "languageColor": "#199f4b",
       "stars": 14154,
       "forks": 754,
-      "added_stars": "6 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11683,
-      "forks": 818,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "dense-analysis / ale",
-      "url": "https://github.com/dense-analysis/ale",
-      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14019,
-      "forks": 1484,
-      "added_stars": "5 stars this week"
+      "stars": 21801,
+      "forks": 1081,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "vim / vim",
@@ -50,9 +40,19 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40924,
+      "stars": 40939,
       "forks": 6134,
-      "added_stars": "46 stars this week"
+      "added_stars": "53 stars this week"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11684,
+      "forks": 818,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "junegunn / vim-plug",
@@ -60,9 +60,29 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35775,
-      "forks": 1935,
-      "added_stars": "18 stars this week"
+      "stars": 35776,
+      "forks": 1934,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "dense-analysis / ale",
+      "url": "https://github.com/dense-analysis/ale",
+      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14020,
+      "forks": 1484,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "mhinz / vim-galore",
+      "url": "https://github.com/mhinz/vim-galore",
+      "description": "🎓 All things Vim!",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 17994,
+      "forks": 627,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "sainnhe / everforest",
@@ -70,8 +90,8 @@
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4229,
-      "forks": 144,
+      "stars": 4231,
+      "forks": 145,
       "added_stars": "14 stars this week"
     },
     {
@@ -80,29 +100,9 @@
       "description": "The ultimate Vim configuration (vimrc)",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 31814,
+      "stars": 31815,
       "forks": 7221,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "mhinz / vim-galore",
-      "url": "https://github.com/mhinz/vim-galore",
-      "description": "🎓 All things Vim!",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 17992,
-      "forks": 627,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21800,
-      "forks": 1081,
-      "added_stars": "16 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
       "title": "kristijanhusak / vim-dadbod-ui",
@@ -110,9 +110,19 @@
       "description": "Simple UI for https://github.com/tpope/vim-dadbod",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 2051,
-      "forks": 137,
+      "stars": 2052,
+      "forks": 136,
       "added_stars": "4 stars this week"
+    },
+    {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 15762,
+      "forks": 1124,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "wsdjeg / SpaceVim",
@@ -120,18 +130,8 @@
       "description": "A modular configuration of Vim and Neovim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 20198,
+      "stars": 20199,
       "forks": 1412,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "fatih / vim-go",
-      "url": "https://github.com/fatih/vim-go",
-      "description": "Go development plugin for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 16218,
-      "forks": 1425,
       "added_stars": "2 stars this week"
     }
   ]

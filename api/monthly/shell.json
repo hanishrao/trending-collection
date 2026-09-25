@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 24 Sep 2026 07:06:16 GMT",
+  "pubDate": "Fri, 25 Sep 2026 07:04:59 GMT",
   "items": [
     {
       "title": "omacom / omarchy",
@@ -10,9 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 42917,
-      "forks": 4973,
-      "added_stars": "14,577 stars this month"
+      "stars": 43064,
+      "forks": 5000,
+      "added_stars": "13,665 stars this month"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,29 +20,19 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7083,
-      "forks": 2198,
-      "added_stars": "3,121 stars this month"
+      "stars": 7157,
+      "forks": 2236,
+      "added_stars": "3,120 stars this month"
     },
     {
       "title": "llm-d / llm-d",
       "url": "https://github.com/llm-d/llm-d",
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4646,
-      "forks": 790,
-      "added_stars": "534 stars this month"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53387,
-      "forks": 4861,
-      "added_stars": "523 stars this month"
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4652,
+      "forks": 789,
+      "added_stars": "529 stars this month"
     },
     {
       "title": "PrismML-Eng / Bonsai-demo",
@@ -50,9 +40,9 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 3074,
-      "forks": 329,
-      "added_stars": "818 stars this month"
+      "stars": 3095,
+      "forks": 335,
+      "added_stars": "853 stars this month"
     },
     {
       "title": "quickemu-project / quickemu",
@@ -60,9 +50,19 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16247,
-      "forks": 736,
-      "added_stars": "561 stars this month"
+      "stars": 16290,
+      "forks": 739,
+      "added_stars": "589 stars this month"
+    },
+    {
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 53396,
+      "forks": 4872,
+      "added_stars": "512 stars this month"
     },
     {
       "title": "community-scripts / ProxmoxVE",
@@ -70,59 +70,9 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29650,
-      "forks": 2901,
-      "added_stars": "358 stars this month"
-    },
-    {
-      "title": "jqssun / android-titanium-browser",
-      "url": "https://github.com/jqssun/android-titanium-browser",
-      "description": "Secure open-source Android browser with support for extensions",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2706,
-      "forks": 128,
-      "added_stars": "600 stars this month"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 95170,
-      "forks": 10468,
-      "added_stars": "620 stars this month"
-    },
-    {
-      "title": "assafdori / bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2372,
-      "forks": 554,
-      "added_stars": "220 stars this month"
-    },
-    {
-      "title": "armbian / build",
-      "url": "https://github.com/armbian/build",
-      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5441,
-      "forks": 3174,
-      "added_stars": "90 stars this month"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 17024,
-      "forks": 4412,
-      "added_stars": "211 stars this month"
+      "stars": 29659,
+      "forks": 2902,
+      "added_stars": "359 stars this month"
     },
     {
       "title": "ophub / amlogic-s9xxx-armbian",
@@ -130,39 +80,59 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9949,
-      "forks": 3155,
-      "added_stars": "233 stars this month"
+      "stars": 10014,
+      "forks": 3167,
+      "added_stars": "354 stars this month"
     },
     {
-      "title": "longhorn / longhorn",
-      "url": "https://github.com/longhorn/longhorn",
-      "description": "Cloud-Native distributed storage built on and for Kubernetes",
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 8002,
-      "forks": 737,
-      "added_stars": "78 stars this month"
+      "stars": 2708,
+      "forks": 128,
+      "added_stars": "582 stars this month"
     },
     {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7893,
-      "forks": 897,
-      "added_stars": "1,020 stars this month"
+      "stars": 95172,
+      "forks": 10471,
+      "added_stars": "615 stars this month"
     },
     {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9377,
-      "forks": 304,
-      "added_stars": "374 stars this month"
+      "stars": 17027,
+      "forks": 4412,
+      "added_stars": "204 stars this month"
+    },
+    {
+      "title": "assafdori / bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Golden Gate.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2377,
+      "forks": 555,
+      "added_stars": "216 stars this month"
+    },
+    {
+      "title": "armbian / build",
+      "url": "https://github.com/armbian/build",
+      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5443,
+      "forks": 3174,
+      "added_stars": "91 stars this month"
     },
     {
       "title": "higgsfield-ai / cli",
@@ -170,9 +140,9 @@
       "description": "Higgsfield CLI",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 579,
-      "forks": 128,
-      "added_stars": "115 stars this month"
+      "stars": 589,
+      "forks": 131,
+      "added_stars": "122 stars this month"
     },
     {
       "title": "bin456789 / reinstall",
@@ -180,9 +150,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13350,
-      "forks": 2158,
-      "added_stars": "561 stars this month"
+      "stars": 13357,
+      "forks": 2160,
+      "added_stars": "568 stars this month"
     },
     {
       "title": "VSCodium / vscodium",
@@ -190,9 +160,49 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33356,
-      "forks": 1865,
-      "added_stars": "485 stars this month"
+      "stars": 33378,
+      "forks": 1868,
+      "added_stars": "484 stars this month"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9382,
+      "forks": 305,
+      "added_stars": "363 stars this month"
+    },
+    {
+      "title": "longhorn / longhorn",
+      "url": "https://github.com/longhorn/longhorn",
+      "description": "Cloud-Native distributed storage built on and for Kubernetes",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 8004,
+      "forks": 737,
+      "added_stars": "80 stars this month"
+    },
+    {
+      "title": "youngyangyang04 / leetcode-master",
+      "url": "https://github.com/youngyangyang04/leetcode-master",
+      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 62571,
+      "forks": 12297,
+      "added_stars": "388 stars this month"
+    },
+    {
+      "title": "a2aproject / A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 25927,
+      "forks": 2627,
+      "added_stars": "477 stars this month"
     }
   ]
 }
