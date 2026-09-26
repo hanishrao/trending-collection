@@ -2,18 +2,8 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 25 Sep 2026 07:04:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 07:03:37 GMT",
   "items": [
-    {
-      "title": "OpenZeppelin / openzeppelin-contracts",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 27255,
-      "forks": 12400,
-      "added_stars": "61 stars this month"
-    },
     {
       "title": "Uniswap / v4-core",
       "url": "https://github.com/Uniswap/v4-core",
@@ -22,7 +12,17 @@
       "languageColor": "#AA6746",
       "stars": 2534,
       "forks": 1331,
-      "added_stars": "10 stars this month"
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "OpenZeppelin / openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 27255,
+      "forks": 12398,
+      "added_stars": "59 stars this month"
     },
     {
       "title": "1inch / swap-vm",
@@ -62,17 +62,7 @@
       "languageColor": "#AA6746",
       "stars": 104,
       "forks": 76,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4286,
-      "forks": 706,
-      "added_stars": "6 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "Uniswap / v4-periphery",
@@ -82,17 +72,7 @@
       "languageColor": "#AA6746",
       "stars": 905,
       "forks": 668,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1059,
-      "forks": 521,
-      "added_stars": "6 stars this month"
+      "added_stars": "2 stars this month"
     },
     {
       "title": "GNSPS / solidity-bytes-utils",
@@ -105,14 +85,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 208,
-      "forks": 130,
-      "added_stars": "9 stars this month"
+      "stars": 4286,
+      "forks": 705,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1058,
+      "forks": 521,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "matter-labs / era-contracts",
@@ -125,6 +115,16 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 945,
+      "forks": 299,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "morpho-org / midnight",
       "url": "https://github.com/morpho-org/midnight",
       "description": "Morpho's fixed rate markets protocol",
@@ -132,27 +132,7 @@
       "languageColor": "#AA6746",
       "stars": 118,
       "forks": 54,
-      "added_stars": "12 stars this month"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 763,
-      "forks": 1067,
-      "added_stars": "23 stars this month"
-    },
-    {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 945,
-      "forks": 300,
-      "added_stars": "2 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -165,6 +145,16 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 763,
+      "forks": 1069,
+      "added_stars": "23 stars this month"
+    },
+    {
       "title": "Vectorized / solady",
       "url": "https://github.com/Vectorized/solady",
       "description": "Optimized Solidity snippets.",
@@ -172,27 +162,27 @@
       "languageColor": "#AA6746",
       "stars": 3376,
       "forks": 491,
-      "added_stars": "19 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
-      "title": "aave-dao / aave-v3-origin",
-      "url": "https://github.com/aave-dao/aave-v3-origin",
-      "description": "Aave V3 Protocol",
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 291,
-      "forks": 228,
-      "added_stars": "2 stars this month"
+      "stars": 208,
+      "forks": 130,
+      "added_stars": "8 stars this month"
     },
     {
-      "title": "pendle-finance / pendle-core-v2-public",
-      "url": "https://github.com/pendle-finance/pendle-core-v2-public",
-      "description": "",
+      "title": "defisaver / defisaver-v3-contracts",
+      "url": "https://github.com/defisaver/defisaver-v3-contracts",
+      "description": "All the contracts related to the Defi Saver ecosystem",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 219,
-      "forks": 96,
-      "added_stars": "6 stars this month"
+      "stars": 378,
+      "forks": 174,
+      "added_stars": "5 stars this month"
     }
   ]
 }

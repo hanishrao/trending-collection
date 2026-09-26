@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 25 Sep 2026 07:02:43 GMT",
+  "pubDate": "Sat, 26 Sep 2026 07:01:32 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -10,19 +10,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5006,
+      "stars": 5005,
       "forks": 4411,
       "added_stars": "3 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1281,
-      "forks": 1287,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -41,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 585,
-      "forks": 3808,
+      "forks": 3807,
       "added_stars": "0 stars this week"
     },
     {
@@ -50,28 +40,18 @@
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1042,
+      "stars": 1041,
       "forks": 779,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cirruslabs / macos-image-templates",
-      "url": "https://github.com/cirruslabs/macos-image-templates",
-      "description": "",
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 377,
-      "forks": 114,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 676,
-      "forks": 669,
+      "stars": 1281,
+      "forks": 1287,
       "added_stars": "0 stars this week"
     },
     {
@@ -92,6 +72,16 @@
       "languageColor": "#844FBA",
       "stars": 119,
       "forks": 202,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 964,
+      "forks": 593,
       "added_stars": "0 stars this week"
     }
   ]

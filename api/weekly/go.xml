@@ -4,7 +4,7 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 25 Sep 2026 07:02:43 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 07:01:32 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
@@ -16,9 +16,9 @@
     <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
   </item>
   <item>
-    <title>cilium / cilium</title>
-    <link>https://github.com/cilium/cilium</link>
-    <description>eBPF-based Networking, Security, and Observability</description>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
     <title>coder / coder</title>
@@ -26,19 +26,9 @@
     <description>Secure environments for developers and their agents</description>
   </item>
   <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
-  </item>
-  <item>
     <title>asciimoo / hister</title>
     <link>https://github.com/asciimoo/hister</link>
     <description>Your own search engine</description>
-  </item>
-  <item>
-    <title>guohuiyuan / go-music-dl</title>
-    <link>https://github.com/guohuiyuan/go-music-dl</link>
-    <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
   </item>
   <item>
     <title>kubernetes / kubernetes</title>
@@ -61,14 +51,19 @@
     <description>The Go programming language</description>
   </item>
   <item>
+    <title>docker / compose</title>
+    <link>https://github.com/docker/compose</link>
+    <description>Define and run multi-container applications with Docker</description>
+  </item>
+  <item>
+    <title>cilium / cilium</title>
+    <link>https://github.com/cilium/cilium</link>
+    <description>eBPF-based Networking, Security, and Observability</description>
+  </item>
+  <item>
     <title>openai / tunnel-client</title>
     <link>https://github.com/openai/tunnel-client</link>
     <description>Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.</description>
-  </item>
-  <item>
-    <title>Gentleman-Programming / gentle-ai</title>
-    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
-    <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
   </item>
   <item>
     <title>aquasecurity / trivy</title>
@@ -76,9 +71,24 @@
     <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
-    <title>docker / compose</title>
-    <link>https://github.com/docker/compose</link>
-    <description>Define and run multi-container applications with Docker</description>
+    <title>v2rayA / v2rayA</title>
+    <link>https://github.com/v2rayA/v2rayA</link>
+    <description>A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.</description>
+  </item>
+  <item>
+    <title>Gentleman-Programming / gentle-ai</title>
+    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+    <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+  </item>
+  <item>
+    <title>modelcontextprotocol / go-sdk</title>
+    <link>https://github.com/modelcontextprotocol/go-sdk</link>
+    <description>The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.</description>
+  </item>
+  <item>
+    <title>prometheus / prometheus</title>
+    <link>https://github.com/prometheus/prometheus</link>
+    <description>The Prometheus monitoring system and time series database.</description>
   </item>
   <item>
     <title>maximhq / bifrost</title>
@@ -86,24 +96,14 @@
     <description>Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.</description>
   </item>
   <item>
-    <title>router-for-me / CLIProxyAPI</title>
-    <link>https://github.com/router-for-me/CLIProxyAPI</link>
-    <description>Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API</description>
+    <title>henrygd / beszel</title>
+    <link>https://github.com/henrygd/beszel</link>
+    <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
   </item>
   <item>
-    <title>gastownhall / beads</title>
-    <link>https://github.com/gastownhall/beads</link>
-    <description>Beads - A memory upgrade for your coding agent</description>
-  </item>
-  <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
-  </item>
-  <item>
-    <title>prometheus / prometheus</title>
-    <link>https://github.com/prometheus/prometheus</link>
-    <description>The Prometheus monitoring system and time series database.</description>
+    <title>guohuiyuan / go-music-dl</title>
+    <link>https://github.com/guohuiyuan/go-music-dl</link>
+    <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
   </item>
 </channel>
 </rss>

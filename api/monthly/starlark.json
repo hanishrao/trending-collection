@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 25 Sep 2026 07:04:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 07:03:37 GMT",
   "items": [
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -11,7 +11,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 387,
-      "forks": 909,
+      "forks": 910,
       "added_stars": "7 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8769,
-      "forks": 2632,
-      "added_stars": "67 stars this month"
+      "stars": 8767,
+      "forks": 2631,
+      "added_stars": "65 stars this month"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -35,14 +35,24 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 595,
+      "forks": 334,
+      "added_stars": "6 stars this month"
+    },
+    {
       "title": "GoogleContainerTools / distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23094,
+      "stars": 23095,
       "forks": 1437,
-      "added_stars": "90 stars this month"
+      "added_stars": "88 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -52,27 +62,7 @@
       "languageColor": "#76d275",
       "stars": 844,
       "forks": 655,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "tronbyt / apps",
-      "url": "https://github.com/tronbyt/apps",
-      "description": "Hard Fork of Tidbyt Community Repo",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 60,
-      "forks": 145,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 101,
-      "forks": 76,
-      "added_stars": "1 star this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -85,14 +75,24 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 101,
+      "forks": 77,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3987,
+      "stars": 3989,
       "forks": 305,
-      "added_stars": "38 stars this month"
+      "added_stars": "39 stars this month"
     },
     {
       "title": "bazel-contrib / toolchains_llvm",
@@ -103,6 +103,16 @@
       "stars": 372,
       "forks": 283,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "tidbyt / community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 428,
+      "forks": 823,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "grpc / grpc-proto",
@@ -122,17 +132,7 @@
       "languageColor": "#76d275",
       "stars": 195,
       "forks": 91,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 427,
-      "forks": 823,
-      "added_stars": "5 stars this month"
+      "added_stars": "2 stars this month"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -145,24 +145,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "aspect-build / aspect-cli",
-      "url": "https://github.com/aspect-build/aspect-cli",
-      "description": "{ Correct, Fast, Usable } -- Choose three",
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 167,
-      "forks": 45,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 351,
-      "forks": 114,
-      "added_stars": "4 stars this month"
+      "stars": 31,
+      "forks": 49,
+      "added_stars": "0 stars this month"
     }
   ]
 }

@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3448-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3449-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-09-25
-_Top 3 per language · [view full day →](./2026/2026-09-25.md)_
+## 🔥 Today's Trending — 2026-09-26
+_Top 3 per language · [view full day →](./2026/2026-09-26.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🐍 | Learn it. Build it. Ship it for others. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🐍 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🐍 | Hindsight: Agent Memory That Learns |
-| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 🐍 | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
+| [anthropics/skills](https://github.com/anthropics/skills) | 🐍 | Public repository for Agent Skills |
+| [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) | 🦀 | NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device. |
+| [akitaonrails/ai-usagebar](https://github.com/akitaonrails/ai-usagebar) | 🦀 | Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar |
 | [hydra-db/hydradb](https://github.com/hydra-db/hydradb) | 🦀 | HydraDB - fast graph database on object storage |
-| [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) | 🦀 | Developer Control Plane for your AI Agents |
-| [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) | 🦀 | Counter-Strike: 2 Offset Dumper |
+| [androoAGI/starnet](https://github.com/androoAGI/starnet) | ⚡ | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | ⚡ | The design language that makes your AI harness better at design. |
-| [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) | ⚡ | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
-| [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API) | ⚡ | 📈 Get real-time stocks from TradingView |
+| [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) | ⚡ | 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required! |
 | [google/ax](https://github.com/google/ax) | 🐹 | Google's open agentic orchestration runtime |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | 🐹 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 🍎 | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
-| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🍎 | Free and open-source macOS menu bar toolkit. |
+| [openbao/openbao](https://github.com/openbao/openbao) | 🐹 | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
+| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | 🐹 | One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. |
+| [farzaa/clicky](https://github.com/farzaa/clicky) | 🍎 |  |
+| [openai/tart](https://github.com/openai/tart) | 🍎 | macOS and Linux VMs on Apple Silicon to use in CI and other automations |
+| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | 🍎 | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 🔷 | The open-source app everyone uses to manage agents at work |
 | [dream-num/univer](https://github.com/dream-num/univer) | 🔷 | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-| [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 🔷 | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔷 | ⌥ Coding agent with the IDE wired in. Built by Stencil Labs. |
+| [payloadcms/payload](https://github.com/payloadcms/payload) | 🔷 | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-09-25.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-09-26](./2026/2026-09-26.md) | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | [nobodywho](https://github.com/nobodywho-ooo/nobodywho) | [starnet](https://github.com/androoAGI/starnet) | [ax](https://github.com/google/ax) | [clicky](https://github.com/farzaa/clicky) | [paperclip](https://github.com/paperclipai/paperclip) |
 | [2026-09-25](./2026/2026-09-25.md) | [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | [hydradb](https://github.com/hydra-db/hydradb) | [impeccable](https://github.com/pbakaus/impeccable) | [ax](https://github.com/google/ax) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [univer](https://github.com/dream-num/univer) |
 | [2026-09-24](./2026/2026-09-24.md) | [financial-services](https://github.com/anthropics/financial-services) | [quiche](https://github.com/cloudflare/quiche) | [impeccable](https://github.com/pbakaus/impeccable) | [ax](https://github.com/google/ax) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-23](./2026/2026-09-23.md) | [financial-services](https://github.com/anthropics/financial-services) | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | [drawdb](https://github.com/drawdb-io/drawdb) | [substrate](https://github.com/agent-substrate/substrate) | [FluidAudio](https://github.com/FluidInference/FluidAudio) | [univer](https://github.com/dream-num/univer) |
 | [2026-09-22](./2026/2026-09-22.md) | [financial-services](https://github.com/anthropics/financial-services) | [ai-memory](https://github.com/akitaonrails/ai-memory) | [agent-skills](https://github.com/addyosmani/agent-skills) | [coder](https://github.com/coder/coder) | [iina](https://github.com/iina/iina) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-21](./2026/2026-09-21.md) | [financial-services](https://github.com/anthropics/financial-services) | [quiche](https://github.com/cloudflare/quiche) | [ECC](https://github.com/affaan-m/ECC) | [coder](https://github.com/coder/coder) | [iina](https://github.com/iina/iina) | [agent-native](https://github.com/BuilderIO/agent-native) |
 | [2026-09-20](./2026/2026-09-20.md) | [docling](https://github.com/docling-project/docling) | [quiche](https://github.com/cloudflare/quiche) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [coder](https://github.com/coder/coder) | [speaktype](https://github.com/karansinghgit/speaktype) | [claude-code](https://github.com/anthropics/claude-code) |
-| [2026-09-19](./2026/2026-09-19.md) | [Octop](https://github.com/TencentCloud/Octop) | [anki](https://github.com/ankitects/anki) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [claude-code](https://github.com/anthropics/claude-code) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [derv82/wifit3](https://github.com/derv82/wifit3) | 🐍 | 2026-09-26 | Wifite but USB-only & cross-platform. |
+| [Alban1911/Rose](https://github.com/Alban1911/Rose) | 🐍 | 2026-09-26 | League, unlocked. |
+| [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) | 🦀 | 2026-09-26 | NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device. |
+| [CodeZeno/Claude-Code-Usage-Monitor](https://github.com/CodeZeno/Claude-Code-Usage-Monitor) | 🦀 | 2026-09-26 | Windows taskbar widget for Claude Code, Codex, Cursor and more. Track usage limits and reset times. Free and open source. |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 🔷 | 2026-09-26 | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [vega-org/vega-app](https://github.com/vega-org/vega-app) | 🔷 | 2026-09-26 | A media streaming app for android. |
+| [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | 🔷 | 2026-09-26 | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 🐍 | 2026-09-25 | Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 |
 | [aayushch/laya](https://github.com/aayushch/laya) | 🐍 | 2026-09-25 | Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK. |
 | [zeronsh/zeron](https://github.com/zeronsh/zeron) | 🦀 | 2026-09-25 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. |
-| [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) | 🦀 | 2026-09-25 | AgentENV (AENV) is a distributed platform for running agent environments at scale. |
-| [androoAGI/starnet](https://github.com/androoAGI/starnet) | ⚡ | 2026-09-25 | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
-| [getprobo/probo](https://github.com/getprobo/probo) | 🐹 | 2026-09-25 | Open source solutions for SOC2, GDPR, and ISO27001 |
-| [chenqi92/primuse](https://github.com/chenqi92/primuse) | 🍎 | 2026-09-25 | IOS、MacOS、AppleTV端音乐app，添加群晖等nas源、飞牛音乐等音乐服务源、百度网盘等各类网盘源、webdav等网络文件源。apple music集成播放，自带刮削功能、CarPlay、mv播放，apple store已经上架，搜猿音或Primuse |
-| [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 🔷 | 2026-09-25 | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others |
-| [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) | 🔷 | 2026-09-25 | The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern. |
-| [stepfun-ai/Step-Code](https://github.com/stepfun-ai/Step-Code) | 🔷 | 2026-09-25 |  |
 
 ---
 

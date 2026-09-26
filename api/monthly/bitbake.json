@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 25 Sep 2026 07:04:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 07:03:37 GMT",
   "items": [
     {
       "title": "qualcomm-linux / meta-qcom",
@@ -10,7 +10,7 @@
       "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 162,
+      "stars": 164,
       "forks": 368,
       "added_stars": "6 stars this month"
     },
@@ -20,49 +20,9 @@
       "description": "Layer containing NXP hardware support metadata",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 218,
+      "stars": 219,
       "forks": 295,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "nxp-imx / meta-imx",
-      "url": "https://github.com/nxp-imx/meta-imx",
-      "description": "i.MX Yocto Project i.MX BSP Layer",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 122,
-      "forks": 117,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "meta-qt5 / meta-qt5",
-      "url": "https://github.com/meta-qt5/meta-qt5",
-      "description": "QT5 layer for openembedded",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 275,
-      "forks": 370,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "Freescale / meta-freescale-3rdparty",
-      "url": "https://github.com/Freescale/meta-freescale-3rdparty",
-      "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 119,
-      "forks": 536,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "openembedded / meta-openembedded",
-      "url": "https://github.com/openembedded/meta-openembedded",
-      "description": "",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 501,
-      "forks": 854,
-      "added_stars": "4 stars this month"
     },
     {
       "title": "aws4embeddedlinux / meta-aws",
@@ -75,6 +35,26 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "Freescale / meta-freescale-3rdparty",
+      "url": "https://github.com/Freescale/meta-freescale-3rdparty",
+      "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 119,
+      "forks": 536,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "nxp-imx / meta-imx",
+      "url": "https://github.com/nxp-imx/meta-imx",
+      "description": "i.MX Yocto Project i.MX BSP Layer",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 122,
+      "forks": 117,
+      "added_stars": "3 stars this month"
+    },
+    {
       "title": "OSSystems / meta-browser",
       "url": "https://github.com/OSSystems/meta-browser",
       "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
@@ -82,6 +62,16 @@
       "languageColor": "#00bce4",
       "stars": 223,
       "forks": 221,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "meta-qt5 / meta-qt5",
+      "url": "https://github.com/meta-qt5/meta-qt5",
+      "description": "QT5 layer for openembedded",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 275,
+      "forks": 370,
       "added_stars": "0 stars this month"
     },
     {
@@ -95,24 +85,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "OE4T / meta-tegra",
-      "url": "https://github.com/OE4T/meta-tegra",
-      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
+      "title": "openembedded / meta-openembedded",
+      "url": "https://github.com/openembedded/meta-openembedded",
+      "description": "",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 579,
-      "forks": 318,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "kraj / meta-clang",
-      "url": "https://github.com/kraj/meta-clang",
-      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 197,
-      "forks": 253,
-      "added_stars": "0 stars this month"
+      "stars": 502,
+      "forks": 854,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "Xilinx / meta-xilinx",
@@ -125,24 +105,34 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "kraj / meta-clang",
+      "url": "https://github.com/kraj/meta-clang",
+      "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 198,
+      "forks": 253,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "OE4T / meta-tegra",
+      "url": "https://github.com/OE4T/meta-tegra",
+      "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 580,
+      "forks": 318,
+      "added_stars": "9 stars this month"
+    },
+    {
       "title": "sbabic / meta-swupdate",
       "url": "https://github.com/sbabic/meta-swupdate",
       "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": 184,
+      "stars": 185,
       "forks": 127,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "openbmc / openbmc",
-      "url": "https://github.com/openbmc/openbmc",
-      "description": "OpenBMC Distribution",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 2573,
-      "forks": 1181,
-      "added_stars": "35 stars this month"
     },
     {
       "title": "mendersoftware / meta-mender",
@@ -153,6 +143,16 @@
       "stars": 189,
       "forks": 216,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "openbmc / openbmc",
+      "url": "https://github.com/openbmc/openbmc",
+      "description": "OpenBMC Distribution",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 2575,
+      "forks": 1182,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "ros / meta-ros",

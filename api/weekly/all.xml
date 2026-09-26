@@ -4,21 +4,26 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 25 Sep 2026 07:02:43 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 07:01:32 GMT</pubDate>
+  <item>
+    <title>cloudflare / security-audit-skill</title>
+    <link>https://github.com/cloudflare/security-audit-skill</link>
+    <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+  </item>
   <item>
     <title>anthropics / financial-services</title>
     <link>https://github.com/anthropics/financial-services</link>
     <description></description>
   </item>
   <item>
-    <title>alibaba / open-code-review</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <description>Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-  </item>
-  <item>
     <title>anthropics / claude-code</title>
     <link>https://github.com/anthropics/claude-code</link>
     <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
+  </item>
+  <item>
+    <title>alibaba / open-code-review</title>
+    <link>https://github.com/alibaba/open-code-review</link>
+    <description>Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
   </item>
   <item>
     <title>affaan-m / ECC</title>
@@ -36,19 +41,19 @@
     <description>Production-grade engineering skills for AI coding agents.</description>
   </item>
   <item>
-    <title>anthropics / knowledge-work-plugins</title>
-    <link>https://github.com/anthropics/knowledge-work-plugins</link>
-    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
-  </item>
-  <item>
     <title>stablyai / orca</title>
     <link>https://github.com/stablyai/orca</link>
     <description>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
   </item>
   <item>
-    <title>TencentCloud / Octop</title>
-    <link>https://github.com/TencentCloud/Octop</link>
-    <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
+    <title>vectorize-io / hindsight</title>
+    <link>https://github.com/vectorize-io/hindsight</link>
+    <description>Hindsight: Agent Memory That Learns</description>
+  </item>
+  <item>
+    <title>anthropics / knowledge-work-plugins</title>
+    <link>https://github.com/anthropics/knowledge-work-plugins</link>
+    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
   </item>
   <item>
     <title>davila7 / claude-code-templates</title>
@@ -56,14 +61,19 @@
     <description>CLI tool for configuring and monitoring Claude Code</description>
   </item>
   <item>
-    <title>JustVugg / colibri</title>
-    <link>https://github.com/JustVugg/colibri</link>
-    <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
+    <title>paperclipai / paperclip</title>
+    <link>https://github.com/paperclipai/paperclip</link>
+    <description>The open-source app everyone uses to manage agents at work</description>
   </item>
   <item>
-    <title>vectorize-io / hindsight</title>
-    <link>https://github.com/vectorize-io/hindsight</link>
-    <description>Hindsight: Agent Memory That Learns</description>
+    <title>pytorch / pytorch</title>
+    <link>https://github.com/pytorch/pytorch</link>
+    <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
+  </item>
+  <item>
+    <title>TencentCloud / Octop</title>
+    <link>https://github.com/TencentCloud/Octop</link>
+    <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
   </item>
   <item>
     <title>cloudflare / quiche</title>
@@ -76,24 +86,9 @@
     <description>Spec-driven development (SDD) for AI coding assistants.</description>
   </item>
   <item>
-    <title>akitaonrails / ai-memory</title>
-    <link>https://github.com/akitaonrails/ai-memory</link>
-    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-  </item>
-  <item>
-    <title>pytorch / pytorch</title>
-    <link>https://github.com/pytorch/pytorch</link>
-    <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
-  </item>
-  <item>
-    <title>cline / cline</title>
-    <link>https://github.com/cline/cline</link>
-    <description>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.</description>
-  </item>
-  <item>
-    <title>LibreChat-AI / LibreChat</title>
-    <link>https://github.com/LibreChat-AI/LibreChat</link>
-    <description>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active</description>
+    <title>HKUDS / CLI-Anything</title>
+    <link>https://github.com/HKUDS/CLI-Anything</link>
+    <description>&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
   </item>
   <item>
     <title>superdesigndev / treg</title>
@@ -101,9 +96,19 @@
     <description>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
   </item>
   <item>
-    <title>cilium / cilium</title>
-    <link>https://github.com/cilium/cilium</link>
-    <description>eBPF-based Networking, Security, and Observability</description>
+    <title>cline / cline</title>
+    <link>https://github.com/cline/cline</link>
+    <description>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.</description>
+  </item>
+  <item>
+    <title>odoo / odoo</title>
+    <link>https://github.com/odoo/odoo</link>
+    <description>Odoo. Open Source Apps To Grow Your Business.</description>
+  </item>
+  <item>
+    <title>bojieli / ai-agent-book</title>
+    <link>https://github.com/bojieli/ai-agent-book</link>
+    <description>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</description>
   </item>
 </channel>
 </rss>

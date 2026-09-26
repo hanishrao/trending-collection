@@ -2,17 +2,27 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 25 Sep 2026 07:02:43 GMT",
+  "pubDate": "Sat, 26 Sep 2026 07:01:32 GMT",
   "items": [
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10208,
+      "forks": 1451,
+      "added_stars": "44 stars this week"
+    },
     {
       "title": "flashinfer-ai / flashinfer",
       "url": "https://github.com/flashinfer-ai/flashinfer",
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6502,
-      "forks": 1498,
-      "added_stars": "71 stars this week"
+      "stars": 6506,
+      "forks": 1501,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "thu-ml / SpargeAttn",
@@ -20,9 +30,9 @@
       "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1251,
+      "stars": 1252,
       "forks": 107,
-      "added_stars": "130 stars this week"
+      "added_stars": "117 stars this week"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -30,9 +40,19 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3946,
-      "forks": 517,
-      "added_stars": "159 stars this week"
+      "stars": 3948,
+      "forks": 518,
+      "added_stars": "142 stars this week"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1050,
+      "forks": 238,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -40,19 +60,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1666,
-      "forks": 408,
+      "stars": 1668,
+      "forks": 409,
       "added_stars": "8 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10207,
-      "forks": 1450,
-      "added_stars": "43 stars this week"
     },
     {
       "title": "karpathy / llm.c",
@@ -60,19 +70,29 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31056,
-      "forks": 3765,
-      "added_stars": "56 stars this week"
+      "stars": 31061,
+      "forks": 3764,
+      "added_stars": "48 stars this week"
     },
     {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "title": "NVIDIA / cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2513,
-      "forks": 257,
-      "added_stars": "13 stars this week"
+      "stars": 856,
+      "forks": 238,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 7868,
+      "forks": 1276,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
@@ -82,27 +102,7 @@
       "languageColor": "#3A4E3A",
       "stars": 3290,
       "forks": 292,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7867,
-      "forks": 1276,
-      "added_stars": "27 stars this week"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1048,
-      "forks": 238,
-      "added_stars": "7 stars this week"
+      "added_stars": "14 stars this week"
     }
   ]
 }

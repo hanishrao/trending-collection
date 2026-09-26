@@ -4,16 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 25 Sep 2026 07:02:43 GMT</pubDate>
+  <pubDate>Sat, 26 Sep 2026 07:01:32 GMT</pubDate>
   <item>
     <title>cloudflare / quiche</title>
     <link>https://github.com/cloudflare/quiche</link>
     <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
-  </item>
-  <item>
-    <title>akitaonrails / ai-memory</title>
-    <link>https://github.com/akitaonrails/ai-memory</link>
-    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>yyjeqhc / webcodex</title>
@@ -21,9 +16,19 @@
     <description>Give cloud AI agents a real development environment on your own machines.</description>
   </item>
   <item>
+    <title>hydra-db / hydradb</title>
+    <link>https://github.com/hydra-db/hydradb</link>
+    <description>HydraDB - fast graph database on object storage</description>
+  </item>
+  <item>
     <title>rustfs / rustfs</title>
     <link>https://github.com/rustfs/rustfs</link>
     <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+  </item>
+  <item>
+    <title>akitaonrails / ai-memory</title>
+    <link>https://github.com/akitaonrails/ai-memory</link>
+    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>ankitects / anki</title>
@@ -36,49 +41,9 @@
     <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
-    <title>hydra-db / hydradb</title>
-    <link>https://github.com/hydra-db/hydradb</link>
-    <description>HydraDB - fast graph database on object storage</description>
-  </item>
-  <item>
     <title>Automattic / harper</title>
     <link>https://github.com/Automattic/harper</link>
     <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-  </item>
-  <item>
-    <title>makepad / makepad</title>
-    <link>https://github.com/makepad/makepad</link>
-    <description>Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl</description>
-  </item>
-  <item>
-    <title>NVlabs / cuda-oxide</title>
-    <link>https://github.com/NVlabs/cuda-oxide</link>
-    <description>cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.</description>
-  </item>
-  <item>
-    <title>lbjlaq / Antigravity-Manager</title>
-    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
-    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
-  </item>
-  <item>
-    <title>farion1231 / cc-switch</title>
-    <link>https://github.com/farion1231/cc-switch</link>
-    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
-  </item>
-  <item>
-    <title>rust-lang / rust</title>
-    <link>https://github.com/rust-lang/rust</link>
-    <description>Empowering everyone to build reliable and efficient software.</description>
-  </item>
-  <item>
-    <title>mesamirh / MovieBox-Tui</title>
-    <link>https://github.com/mesamirh/MovieBox-Tui</link>
-    <description>Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.</description>
-  </item>
-  <item>
-    <title>rui314 / mold</title>
-    <link>https://github.com/rui314/mold</link>
-    <description>mold 🦠: A Modern Linker in Rust 🦀</description>
   </item>
   <item>
     <title>clash-verge-rev / clash-verge-rev</title>
@@ -86,29 +51,64 @@
     <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
   </item>
   <item>
+    <title>rust-lang / rust</title>
+    <link>https://github.com/rust-lang/rust</link>
+    <description>Empowering everyone to build reliable and efficient software.</description>
+  </item>
+  <item>
+    <title>lbjlaq / Antigravity-Manager</title>
+    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
+    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
+  </item>
+  <item>
+    <title>rui314 / mold</title>
+    <link>https://github.com/rui314/mold</link>
+    <description>mold 🦠: A Modern Linker in Rust 🦀</description>
+  </item>
+  <item>
+    <title>mesamirh / MovieBox-Tui</title>
+    <link>https://github.com/mesamirh/MovieBox-Tui</link>
+    <description>Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.</description>
+  </item>
+  <item>
     <title>uutils / coreutils</title>
     <link>https://github.com/uutils/coreutils</link>
     <description>Cross-platform Rust rewrite of the GNU coreutils</description>
   </item>
   <item>
-    <title>tauri-apps / tauri</title>
-    <link>https://github.com/tauri-apps/tauri</link>
-    <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
+    <title>farion1231 / cc-switch</title>
+    <link>https://github.com/farion1231/cc-switch</link>
+    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
   </item>
   <item>
-    <title>EpicGames / lore</title>
-    <link>https://github.com/EpicGames/lore</link>
-    <description>Lore is a next-generation, open source version control system</description>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
   </item>
   <item>
-    <title>alphaXiv / OpenResearch</title>
-    <link>https://github.com/alphaXiv/OpenResearch</link>
-    <description>Turn your coding agents into research agents</description>
+    <title>tokio-rs / tokio</title>
+    <link>https://github.com/tokio-rs/tokio</link>
+    <description>A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</description>
   </item>
   <item>
-    <title>EricLBuehler / mistral.rs</title>
-    <link>https://github.com/EricLBuehler/mistral.rs</link>
-    <description>Fast, flexible LLM inference</description>
+    <title>yynxxxxx / Codex-X</title>
+    <link>https://github.com/yynxxxxx/Codex-X</link>
+    <description>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。</description>
+  </item>
+  <item>
+    <title>Nasiko-Labs / nasiko</title>
+    <link>https://github.com/Nasiko-Labs/nasiko</link>
+    <description>Developer Control Plane for your AI Agents</description>
+  </item>
+  <item>
+    <title>zeronsh / zeron</title>
+    <link>https://github.com/zeronsh/zeron</link>
+    <description>A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.</description>
+  </item>
+  <item>
+    <title>longbridge / gpui-kit</title>
+    <link>https://github.com/longbridge/gpui-kit</link>
+    <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
   </item>
 </channel>
 </rss>

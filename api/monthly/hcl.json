@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 25 Sep 2026 07:04:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 07:03:37 GMT",
   "items": [
     {
       "title": "techiescamp / devops-projects",
@@ -10,9 +10,19 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2332,
+      "stars": 2334,
       "forks": 1565,
-      "added_stars": "87 stars this month"
+      "added_stars": "85 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2110,
+      "forks": 1267,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "ministryofjustice / cloud-platform-environments",
@@ -25,24 +35,24 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2108,
-      "forks": 1265,
-      "added_stars": "20 stars this month"
+      "stars": 695,
+      "forks": 176,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "github-aws-runners / terraform-aws-github-runner",
       "url": "https://github.com/github-aws-runners/terraform-aws-github-runner",
       "description": "Terraform module for scalable GitHub action runners on AWS",
-      "language": "HCL",
-      "languageColor": "#844FBA",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
       "stars": 3135,
       "forks": 746,
-      "added_stars": "24 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -55,14 +65,14 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 695,
-      "forks": 176,
-      "added_stars": "3 stars this month"
+      "stars": 585,
+      "forks": 3807,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
@@ -73,16 +83,6 @@
       "stars": 50,
       "forks": 60,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 585,
-      "forks": 3808,
-      "added_stars": "4 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
@@ -103,36 +103,6 @@
       "stars": 274,
       "forks": 147,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5006,
-      "forks": 4411,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 779,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1280,
-      "added_stars": "2 stars this month"
     }
   ]
 }
