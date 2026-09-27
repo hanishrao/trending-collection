@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 26 Sep 2026 06:59:07 GMT",
+  "pubDate": "Sun, 27 Sep 2026 07:27:54 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -12,7 +12,17 @@
       "languageColor": "#844FBA",
       "stars": 2110,
       "forks": 1267,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 585,
+      "forks": 3808,
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -20,39 +30,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3266,
-      "forks": 4626,
+      "stars": 3267,
+      "forks": 4627,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 695,
-      "forks": 176,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 351,
-      "forks": 239,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 964,
-      "forks": 593,
-      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -62,46 +42,6 @@
       "languageColor": "#844FBA",
       "stars": 1041,
       "forks": 779,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "antonputra / tutorials",
-      "url": "https://github.com/antonputra/tutorials",
-      "description": "DevOps Tutorials",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 4693,
-      "forks": 3110,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 585,
-      "forks": 3807,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "okd-project / okd",
-      "url": "https://github.com/okd-project/okd",
-      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2127,
-      "forks": 323,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 119,
-      "forks": 202,
       "added_stars": "0 stars today"
     },
     {
@@ -115,6 +55,36 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 351,
+      "forks": 239,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 119,
+      "forks": 202,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 29,
+      "forks": 71,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-kms",
       "url": "https://github.com/terraform-google-modules/terraform-google-kms",
       "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
@@ -122,6 +92,16 @@
       "languageColor": "#844FBA",
       "stars": 63,
       "forks": 111,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-security-group",
+      "url": "https://github.com/cloudposse/terraform-aws-security-group",
+      "description": "Terraform module to provision an AWS Security Group",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 39,
+      "forks": 38,
       "added_stars": "0 stars today"
     }
   ]

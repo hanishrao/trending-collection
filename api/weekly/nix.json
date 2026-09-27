@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 26 Sep 2026 07:01:32 GMT",
+  "pubDate": "Sun, 27 Sep 2026 07:31:20 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26256,
-      "forks": 20187,
-      "added_stars": "82 stars this week"
+      "stars": 26261,
+      "forks": 20195,
+      "added_stars": "84 stars this week"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -20,9 +20,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2011,
-      "forks": 260,
-      "added_stars": "41 stars this week"
+      "stars": 2013,
+      "forks": 261,
+      "added_stars": "37 stars this week"
     },
     {
       "title": "microvm-nix / microvm.nix",
@@ -30,19 +30,9 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2965,
+      "stars": 2971,
       "forks": 233,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10383,
-      "forks": 2482,
-      "added_stars": "27 stars this week"
+      "added_stars": "26 stars this week"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -55,24 +45,34 @@
       "added_stars": "8 stars this week"
     },
     {
-      "title": "nix-community / disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3341,
-      "forks": 333,
-      "added_stars": "15 stars this week"
-    },
-    {
       "title": "finix-community / finix",
       "url": "https://github.com/finix-community/finix",
       "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 529,
-      "forks": 39,
-      "added_stars": "13 stars this week"
+      "stars": 543,
+      "forks": 40,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "nix-community / nixos-apple-silicon",
+      "url": "https://github.com/nix-community/nixos-apple-silicon",
+      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1662,
+      "forks": 173,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "nix-community / disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3346,
+      "forks": 333,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "nix-community / nix-wrapper-modules",
@@ -80,9 +80,29 @@
       "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 470,
+      "stars": 471,
       "forks": 67,
-      "added_stars": "12 stars this week"
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "nix-community / stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2414,
+      "forks": 365,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10384,
+      "forks": 2481,
+      "added_stars": "25 stars this week"
     }
   ]
 }

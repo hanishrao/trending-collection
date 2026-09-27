@@ -2,27 +2,27 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 26 Sep 2026 07:03:37 GMT",
+  "pubDate": "Sun, 27 Sep 2026 07:33:47 GMT",
   "items": [
+    {
+      "title": "doldecomp / melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2288,
+      "forks": 325,
+      "added_stars": "1,271 stars this month"
+    },
     {
       "title": "facebook / zstd",
       "url": "https://github.com/facebook/zstd",
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27937,
+      "stars": 27946,
       "forks": 2614,
       "added_stars": "340 stars this month"
-    },
-    {
-      "title": "armory3d / armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5192,
-      "forks": 588,
-      "added_stars": "1,172 stars this month"
     },
     {
       "title": "libretro / RetroArch",
@@ -30,9 +30,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14109,
-      "forks": 2244,
-      "added_stars": "570 stars this month"
+      "stars": 14131,
+      "forks": 2247,
+      "added_stars": "577 stars this month"
     },
     {
       "title": "asmvik / yabai",
@@ -40,49 +40,9 @@
       "description": "A tiling window manager for macOS based on binary space partitioning",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29661,
-      "forks": 768,
-      "added_stars": "202 stars this month"
-    },
-    {
-      "title": "jqlang / jq",
-      "url": "https://github.com/jqlang/jq",
-      "description": "Command-line JSON processor",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 35695,
-      "forks": 2724,
-      "added_stars": "261 stars this month"
-    },
-    {
-      "title": "libsdl-org / SDL",
-      "url": "https://github.com/libsdl-org/SDL",
-      "description": "Simple DirectMedia Layer",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16669,
-      "forks": 3017,
-      "added_stars": "290 stars this month"
-    },
-    {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 150421,
-      "forks": 13815,
-      "added_stars": "2,347 stars this month"
-    },
-    {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14606,
-      "forks": 3407,
-      "added_stars": "197 stars this month"
+      "stars": 29662,
+      "forks": 770,
+      "added_stars": "201 stars this month"
     },
     {
       "title": "obsproject / obs-studio",
@@ -90,9 +50,19 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 76636,
-      "forks": 10318,
-      "added_stars": "1,314 stars this month"
+      "stars": 76664,
+      "forks": 10332,
+      "added_stars": "1,313 stars this month"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 150484,
+      "forks": 13819,
+      "added_stars": "2,327 stars this month"
     },
     {
       "title": "HarbourMasters / Shipwright",
@@ -100,9 +70,39 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5483,
-      "forks": 862,
-      "added_stars": "205 stars this month"
+      "stars": 5490,
+      "forks": 864,
+      "added_stars": "209 stars this month"
+    },
+    {
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14607,
+      "forks": 3409,
+      "added_stars": "197 stars this month"
+    },
+    {
+      "title": "libsdl-org / SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16683,
+      "forks": 3018,
+      "added_stars": "289 stars this month"
+    },
+    {
+      "title": "jqlang / jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 35701,
+      "forks": 2881,
+      "added_stars": "261 stars this month"
     },
     {
       "title": "curl / curl",
@@ -110,19 +110,19 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42929,
-      "forks": 7380,
-      "added_stars": "361 stars this month"
+      "stars": 42949,
+      "forks": 7387,
+      "added_stars": "369 stars this month"
     },
     {
-      "title": "skeeto / w64devkit",
-      "url": "https://github.com/skeeto/w64devkit",
-      "description": "Portable C and C++ Development Kit for x64 (and x86) Windows",
+      "title": "radareorg / radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4855,
-      "forks": 385,
-      "added_stars": "132 stars this month"
+      "stars": 24881,
+      "forks": 3330,
+      "added_stars": "271 stars this month"
     },
     {
       "title": "openwrt / openwrt",
@@ -130,19 +130,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28530,
-      "forks": 13025,
-      "added_stars": "473 stars this month"
-    },
-    {
-      "title": "ImageMagick / ImageMagick",
-      "url": "https://github.com/ImageMagick/ImageMagick",
-      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17516,
-      "forks": 1662,
-      "added_stars": "313 stars this month"
+      "stars": 28539,
+      "forks": 13028,
+      "added_stars": "469 stars this month"
     },
     {
       "title": "aircrack-ng / aircrack-ng",
@@ -150,9 +140,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7679,
+      "stars": 7678,
       "forks": 1378,
-      "added_stars": "161 stars this month"
+      "added_stars": "160 stars this month"
     },
     {
       "title": "FreeRDP / FreeRDP",
@@ -160,29 +150,9 @@
       "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13733,
-      "forks": 15483,
-      "added_stars": "167 stars this month"
-    },
-    {
-      "title": "valkey-io / valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27295,
-      "forks": 1331,
-      "added_stars": "365 stars this month"
-    },
-    {
-      "title": "nmap / nmap",
-      "url": "https://github.com/nmap/nmap",
-      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13673,
-      "forks": 2908,
-      "added_stars": "243 stars this month"
+      "stars": 13735,
+      "forks": 15489,
+      "added_stars": "169 stars this month"
     },
     {
       "title": "hashcat / hashcat",
@@ -190,29 +160,39 @@
       "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26867,
+      "stars": 26876,
       "forks": 3565,
-      "added_stars": "284 stars this month"
+      "added_stars": "280 stars this month"
     },
     {
-      "title": "doldecomp / melee",
-      "url": "https://github.com/doldecomp/melee",
-      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "title": "armory3d / armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2279,
-      "forks": 325,
-      "added_stars": "1,272 stars this month"
+      "stars": 5199,
+      "forks": 588,
+      "added_stars": "1,177 stars this month"
     },
     {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
+      "title": "nmap / nmap",
+      "url": "https://github.com/nmap/nmap",
+      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16100,
-      "forks": 1790,
-      "added_stars": "431 stars this month"
+      "stars": 13674,
+      "forks": 2909,
+      "added_stars": "239 stars this month"
+    },
+    {
+      "title": "ImageMagick / ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17525,
+      "forks": 1662,
+      "added_stars": "317 stars this month"
     },
     {
       "title": "mit-pdos / xv6-riscv",
@@ -220,9 +200,29 @@
       "description": "Xv6 for RISC-V",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10522,
-      "forks": 4326,
-      "added_stars": "277 stars this month"
+      "stars": 10529,
+      "forks": 4332,
+      "added_stars": "282 stars this month"
+    },
+    {
+      "title": "Filoppi / Luma-Framework",
+      "url": "https://github.com/Filoppi/Luma-Framework",
+      "description": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 852,
+      "forks": 56,
+      "added_stars": "93 stars this month"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1050,
+      "forks": 265,
+      "added_stars": "351 stars this month"
     }
   ]
 }

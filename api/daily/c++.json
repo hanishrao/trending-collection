@@ -2,87 +2,97 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 26 Sep 2026 06:59:07 GMT",
+  "pubDate": "Sun, 27 Sep 2026 07:27:54 GMT",
   "items": [
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 200507,
+      "forks": 77668,
+      "added_stars": "46 stars today"
+    },
     {
       "title": "leejet / stable-diffusion.cpp",
       "url": "https://github.com/leejet/stable-diffusion.cpp",
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7394,
-      "forks": 826,
-      "added_stars": "166 stars today"
+      "stars": 7415,
+      "forks": 828,
+      "added_stars": "50 stars today"
     },
     {
-      "title": "harry7557558 / spirula-studio",
-      "url": "https://github.com/harry7557558/spirula-studio",
-      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "title": "zeux / meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1042,
-      "forks": 80,
-      "added_stars": "82 stars today"
+      "stars": 8454,
+      "forks": 749,
+      "added_stars": "77 stars today"
     },
     {
-      "title": "cyberbotics / webots",
-      "url": "https://github.com/cyberbotics/webots",
-      "description": "Webots Robot Simulator",
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4670,
-      "forks": 2068,
+      "stars": 50103,
+      "forks": 9009,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "google / highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5897,
+      "forks": 474,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "esphome / esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11732,
+      "forks": 5666,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "apache / thrift",
+      "url": "https://github.com/apache/thrift",
+      "description": "Apache Thrift",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10961,
+      "forks": 4113,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "google / flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 26512,
+      "forks": 3681,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "facebook / rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 32137,
+      "forks": 6937,
       "added_stars": "5 stars today"
-    },
-    {
-      "title": "amnezia-vpn / amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15202,
-      "forks": 1161,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 50684,
-      "forks": 7508,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "notepad-plus-plus / notepad-plus-plus",
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
-      "description": "Notepad++ official repository",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29411,
-      "forks": 5376,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "MaaAssistantArknights / MaaAssistantArknights",
-      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 23456,
-      "forks": 2853,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "google-ai-edge / LiteRT",
-      "url": "https://github.com/google-ai-edge/LiteRT",
-      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3443,
-      "forks": 461,
-      "added_stars": "4 stars today"
     },
     {
       "title": "ROCm / rocm-systems",
@@ -90,89 +100,119 @@
       "description": "super repo for rocm systems projects",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 512,
+      "stars": 514,
       "forks": 419,
-      "added_stars": "0 stars today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "AlexandreRouma / SDRPlusPlus",
-      "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
-      "description": "Cross-Platform SDR Software",
+      "title": "OpenRCT2 / OpenRCT2",
+      "url": "https://github.com/OpenRCT2/OpenRCT2",
+      "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6369,
-      "forks": 889,
-      "added_stars": "1 star today"
+      "stars": 16266,
+      "forks": 1906,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "shadps4-emu / shadPS4",
-      "url": "https://github.com/shadps4-emu/shadPS4",
-      "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+      "title": "firebase / firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32970,
-      "forks": 2568,
-      "added_stars": "12 stars today"
+      "stars": 6673,
+      "forks": 1792,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "title": "argotorg / solidity",
+      "url": "https://github.com/argotorg/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39585,
-      "forks": 10899,
-      "added_stars": "7 stars today"
+      "stars": 25742,
+      "forks": 6166,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "microsoft / winget-cli",
-      "url": "https://github.com/microsoft/winget-cli",
-      "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+      "title": "turanszkij / WickedEngine",
+      "url": "https://github.com/turanszkij/WickedEngine",
+      "description": "3D engine with modern graphics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 26457,
-      "forks": 1801,
-      "added_stars": "1 star today"
+      "stars": 7251,
+      "forks": 777,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "justcallmekoko / ESP32Marauder",
-      "url": "https://github.com/justcallmekoko/ESP32Marauder",
-      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12470,
-      "forks": 1491,
-      "added_stars": "12 stars today"
+      "stars": 50688,
+      "forks": 7509,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "lammps / lammps",
-      "url": "https://github.com/lammps/lammps",
-      "description": "Public development project of the LAMMPS MD software package",
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3071,
-      "forks": 2054,
-      "added_stars": "0 stars today"
+      "stars": 10922,
+      "forks": 3409,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "0xShug0 / audio.cpp",
-      "url": "https://github.com/0xShug0/audio.cpp",
-      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+      "title": "mozilla-ai / llamafile",
+      "url": "https://github.com/mozilla-ai/llamafile",
+      "description": "Distribute and run LLMs with a single file.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3039,
-      "forks": 345,
-      "added_stars": "23 stars today"
+      "stars": 26077,
+      "forks": 1617,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "NVIDIA / cutlass",
-      "url": "https://github.com/NVIDIA/cutlass",
-      "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
+      "title": "envoyproxy / envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10496,
-      "forks": 2102,
-      "added_stars": "10 stars today"
+      "stars": 29000,
+      "forks": 5632,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "valhalla / valhalla",
+      "url": "https://github.com/valhalla/valhalla",
+      "description": "Open Source Routing Engine for OpenStreetMap",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6262,
+      "forks": 993,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "catchorg / Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21495,
+      "forks": 3503,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ocornut / imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 76381,
+      "forks": 12061,
+      "added_stars": "25 stars today"
     }
   ]
 }

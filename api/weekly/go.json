@@ -2,27 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 26 Sep 2026 07:01:32 GMT",
+  "pubDate": "Sun, 27 Sep 2026 07:31:20 GMT",
   "items": [
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 41422,
-      "forks": 2977,
-      "added_stars": "5,030 stars this week"
-    },
     {
       "title": "Tencent / WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30157,
-      "forks": 4052,
-      "added_stars": "3,189 stars this week"
+      "stars": 30407,
+      "forks": 4073,
+      "added_stars": "3,015 stars this week"
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 41699,
+      "forks": 3001,
+      "added_stars": "4,310 stars this week"
     },
     {
       "title": "agent-substrate / substrate",
@@ -30,9 +30,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3813,
-      "forks": 444,
-      "added_stars": "1,831 stars this week"
+      "stars": 3850,
+      "forks": 452,
+      "added_stars": "1,866 stars this week"
     },
     {
       "title": "coder / coder",
@@ -40,159 +40,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16698,
-      "forks": 1589,
-      "added_stars": "1,575 stars this week"
-    },
-    {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5719,
-      "forks": 248,
-      "added_stars": "891 stars this week"
-    },
-    {
-      "title": "kubernetes / kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 128005,
-      "forks": 45251,
-      "added_stars": "216 stars this week"
-    },
-    {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 76087,
-      "forks": 5002,
-      "added_stars": "270 stars this week"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 51364,
-      "forks": 6661,
-      "added_stars": "986 stars this week"
-    },
-    {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 139018,
-      "forks": 20506,
-      "added_stars": "194 stars this week"
-    },
-    {
-      "title": "docker / compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38228,
-      "forks": 5844,
-      "added_stars": "79 stars this week"
-    },
-    {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 25555,
-      "forks": 4106,
-      "added_stars": "214 stars this week"
-    },
-    {
-      "title": "openai / tunnel-client",
-      "url": "https://github.com/openai/tunnel-client",
-      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 495,
-      "forks": 97,
-      "added_stars": "76 stars this week"
-    },
-    {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38080,
-      "forks": 711,
-      "added_stars": "116 stars this week"
-    },
-    {
-      "title": "v2rayA / v2rayA",
-      "url": "https://github.com/v2rayA/v2rayA",
-      "description": "A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15614,
-      "forks": 1607,
-      "added_stars": "54 stars this week"
-    },
-    {
-      "title": "Gentleman-Programming / gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7302,
-      "forks": 798,
-      "added_stars": "305 stars this week"
-    },
-    {
-      "title": "modelcontextprotocol / go-sdk",
-      "url": "https://github.com/modelcontextprotocol/go-sdk",
-      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5150,
-      "forks": 552,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "prometheus / prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 66235,
-      "forks": 10860,
-      "added_stars": "135 stars this week"
-    },
-    {
-      "title": "maximhq / bifrost",
-      "url": "https://github.com/maximhq/bifrost",
-      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8367,
-      "forks": 1292,
-      "added_stars": "209 stars this week"
-    },
-    {
-      "title": "henrygd / beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 25756,
-      "forks": 1046,
-      "added_stars": "274 stars this week"
+      "stars": 16717,
+      "forks": 1590,
+      "added_stars": "1,246 stars this week"
     },
     {
       "title": "guohuiyuan / go-music-dl",
@@ -200,9 +50,159 @@
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4765,
-      "forks": 458,
-      "added_stars": "387 stars this week"
+      "stars": 4871,
+      "forks": 467,
+      "added_stars": "352 stars this week"
+    },
+    {
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 128040,
+      "forks": 45402,
+      "added_stars": "234 stars this week"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 76102,
+      "forks": 5006,
+      "added_stars": "267 stars this week"
+    },
+    {
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 139049,
+      "forks": 20645,
+      "added_stars": "214 stars this week"
+    },
+    {
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 66259,
+      "forks": 10865,
+      "added_stars": "158 stars this week"
+    },
+    {
+      "title": "openai / tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 502,
+      "forks": 97,
+      "added_stars": "75 stars this week"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7328,
+      "forks": 803,
+      "added_stars": "311 stars this week"
+    },
+    {
+      "title": "docker / compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38248,
+      "forks": 5845,
+      "added_stars": "78 stars this week"
+    },
+    {
+      "title": "elvisun / newsjack",
+      "url": "https://github.com/elvisun/newsjack",
+      "description": "The open-source skills that turn your agent into a full PR team.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1433,
+      "forks": 135,
+      "added_stars": "322 stars this week"
+    },
+    {
+      "title": "v2rayA / v2rayA",
+      "url": "https://github.com/v2rayA/v2rayA",
+      "description": "A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15621,
+      "forks": 1609,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "Armur-Ai / Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2638,
+      "forks": 480,
+      "added_stars": "113 stars this week"
+    },
+    {
+      "title": "maximhq / bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8384,
+      "forks": 1293,
+      "added_stars": "216 stars this week"
+    },
+    {
+      "title": "qax-os / excelize",
+      "url": "https://github.com/qax-os/excelize",
+      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20941,
+      "forks": 1961,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "distribution / distribution",
+      "url": "https://github.com/distribution/distribution",
+      "description": "The toolkit to pack, ship, store, and deliver container content",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10629,
+      "forks": 2792,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38090,
+      "forks": 715,
+      "added_stars": "116 stars this week"
+    },
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7621,
+      "forks": 320,
+      "added_stars": "183 stars this week"
     }
   ]
 }

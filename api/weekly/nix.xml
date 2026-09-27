@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 26 Sep 2026 07:01:32 GMT</pubDate>
+  <pubDate>Sun, 27 Sep 2026 07:31:20 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -21,19 +21,9 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
-  </item>
-  <item>
     <title>NixOS / nixos-hardware</title>
     <link>https://github.com/NixOS/nixos-hardware</link>
     <description>A collection of NixOS modules covering hardware quirks.</description>
-  </item>
-  <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
     <title>finix-community / finix</title>
@@ -41,9 +31,29 @@
     <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
   </item>
   <item>
+    <title>nix-community / nixos-apple-silicon</title>
+    <link>https://github.com/nix-community/nixos-apple-silicon</link>
+    <description>Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]</description>
+  </item>
+  <item>
+    <title>nix-community / disko</title>
+    <link>https://github.com/nix-community/disko</link>
+    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+  </item>
+  <item>
     <title>nix-community / nix-wrapper-modules</title>
     <link>https://github.com/nix-community/nix-wrapper-modules</link>
     <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]</description>
+  </item>
+  <item>
+    <title>nix-community / stylix</title>
+    <link>https://github.com/nix-community/stylix</link>
+    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
+  </item>
+  <item>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
 </channel>
 </rss>
