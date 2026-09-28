@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 27 Sep 2026 07:33:47 GMT",
+  "pubDate": "Mon, 28 Sep 2026 08:09:30 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3959,
+      "stars": 3963,
       "forks": 919,
-      "added_stars": "88 stars this month"
+      "added_stars": "86 stars this month"
     },
     {
       "title": "lowRISC / opentitan",
@@ -20,19 +20,9 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3665,
-      "forks": 1121,
-      "added_stars": "66 stars this month"
-    },
-    {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 2069,
-      "forks": 809,
-      "added_stars": "43 stars this month"
+      "stars": 3666,
+      "forks": 1124,
+      "added_stars": "62 stars this month"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -45,6 +35,16 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2072,
+      "forks": 810,
+      "added_stars": "44 stars this month"
+    },
+    {
       "title": "chipsalliance / caliptra-rtl",
       "url": "https://github.com/chipsalliance/caliptra-rtl",
       "description": "HW Design Collateral for Caliptra RoT IP",
@@ -55,24 +55,24 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 13027,
+      "forks": 1253,
+      "added_stars": "175 stars this month"
+    },
+    {
       "title": "openhwfoundation / cvw",
       "url": "https://github.com/openhwfoundation/cvw",
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 638,
-      "forks": 575,
+      "forks": 576,
       "added_stars": "31 stars this month"
-    },
-    {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 13023,
-      "forks": 1252,
-      "added_stars": "170 stars this month"
     },
     {
       "title": "pulp-platform / axi",
@@ -80,7 +80,7 @@
       "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 1706,
+      "stars": 1707,
       "forks": 374,
       "added_stars": "40 stars this month"
     },
@@ -90,9 +90,19 @@
       "description": "Common SystemVerilog components",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 804,
+      "stars": 805,
       "forks": 206,
       "added_stars": "15 stars this month"
+    },
+    {
+      "title": "openhwfoundation / core-et",
+      "url": "https://github.com/openhwfoundation/core-et",
+      "description": "CORE-ET Silicon Platform",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 82,
+      "forks": 20,
+      "added_stars": "3 stars this month"
     }
   ]
 }

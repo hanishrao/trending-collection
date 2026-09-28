@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 27 Sep 2026 07:31:20 GMT</pubDate>
+  <pubDate>Mon, 28 Sep 2026 08:07:51 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
@@ -31,9 +31,9 @@
     <description>Manages multiple IAM roles for resources on Google Cloud</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-    <description>Configures opinionated GKE clusters</description>
+    <title>terraform-google-modules / terraform-google-project-factory</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
@@ -41,9 +41,19 @@
     <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-project-factory</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+    <title>cloudposse / terraform-aws-security-group</title>
+    <link>https://github.com/cloudposse/terraform-aws-security-group</link>
+    <description>Terraform module to provision an AWS Security Group</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-elasticache</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
+    <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-network</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+    <description>Sets up a new VPC network on Google Cloud</description>
   </item>
 </channel>
 </rss>

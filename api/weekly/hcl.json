@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 27 Sep 2026 07:31:20 GMT",
+  "pubDate": "Mon, 28 Sep 2026 08:07:51 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -10,9 +10,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3267,
+      "stars": 3269,
       "forks": 4627,
-      "added_stars": "5 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -20,9 +20,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5005,
-      "forks": 4411,
-      "added_stars": "3 stars this week"
+      "stars": 5007,
+      "forks": 4412,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -31,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 585,
-      "forks": 3808,
+      "forks": 3807,
       "added_stars": "0 stars this week"
     },
     {
@@ -41,7 +41,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1041,
-      "forks": 779,
+      "forks": 780,
       "added_stars": "0 stars this week"
     },
     {
@@ -55,13 +55,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1281,
-      "forks": 1286,
+      "stars": 964,
+      "forks": 593,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,13 +75,33 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "title": "cloudposse / terraform-aws-security-group",
+      "url": "https://github.com/cloudposse/terraform-aws-security-group",
+      "description": "Terraform module to provision an AWS Security Group",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 964,
-      "forks": 593,
+      "stars": 39,
+      "forks": 38,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 29,
+      "forks": 71,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 502,
+      "forks": 1280,
       "added_stars": "0 stars this week"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 27 Sep 2026 07:31:20 GMT",
+  "pubDate": "Mon, 28 Sep 2026 08:07:51 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,39 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26261,
-      "forks": 20195,
-      "added_stars": "84 stars this week"
-    },
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2013,
-      "forks": 261,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2971,
-      "forks": 233,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3310,
-      "forks": 978,
-      "added_stars": "8 stars this week"
+      "stars": 26270,
+      "forks": 20212,
+      "added_stars": "80 stars this week"
     },
     {
       "title": "finix-community / finix",
@@ -50,19 +20,29 @@
       "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 543,
+      "stars": 544,
       "forks": 40,
-      "added_stars": "25 stars this week"
+      "added_stars": "24 stars this week"
     },
     {
-      "title": "nix-community / nixos-apple-silicon",
-      "url": "https://github.com/nix-community/nixos-apple-silicon",
-      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
+      "title": "microvm-nix / microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1662,
-      "forks": 173,
-      "added_stars": "11 stars this week"
+      "stars": 2972,
+      "forks": 233,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2016,
+      "forks": 263,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "nix-community / disko",
@@ -70,29 +50,19 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3346,
+      "stars": 3347,
       "forks": 333,
-      "added_stars": "16 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "nix-community / nix-wrapper-modules",
-      "url": "https://github.com/nix-community/nix-wrapper-modules",
-      "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]",
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 471,
-      "forks": 67,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "nix-community / stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2414,
-      "forks": 365,
-      "added_stars": "8 stars this week"
+      "stars": 3311,
+      "forks": 979,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "nix-community / home-manager",
@@ -100,9 +70,19 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10384,
-      "forks": 2481,
-      "added_stars": "25 stars this week"
+      "stars": 10388,
+      "forks": 2482,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "nix-community / nix-wrapper-modules",
+      "url": "https://github.com/nix-community/nix-wrapper-modules",
+      "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 473,
+      "forks": 67,
+      "added_stars": "12 stars this week"
     }
   ]
 }

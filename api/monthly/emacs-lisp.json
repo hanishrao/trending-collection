@@ -2,18 +2,8 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 27 Sep 2026 07:33:47 GMT",
+  "pubDate": "Mon, 28 Sep 2026 08:09:30 GMT",
   "items": [
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1901,
-      "forks": 240,
-      "added_stars": "128 stars this month"
-    },
     {
       "title": "karthink / gptel",
       "url": "https://github.com/karthink/gptel",
@@ -21,8 +11,58 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 3540,
-      "forks": 435,
+      "forks": 436,
       "added_stars": "43 stars this month"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22710,
+      "forks": 3144,
+      "added_stars": "111 stars this month"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2584,
+      "forks": 339,
+      "added_stars": "61 stars this month"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5212,
+      "forks": 1405,
+      "added_stars": "50 stars this month"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1902,
+      "forks": 240,
+      "added_stars": "127 stars this month"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2974,
+      "forks": 2819,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -32,47 +72,7 @@
       "languageColor": "#c065db",
       "stars": 24566,
       "forks": 4829,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22709,
-      "forks": 3144,
-      "added_stars": "116 stars this month"
-    },
-    {
-      "title": "mmontone / emacs-inspector",
-      "url": "https://github.com/mmontone/emacs-inspector",
-      "description": "Inspection tool for Emacs Lisp objects.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 121,
-      "forks": 11,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2972,
-      "forks": 2819,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2583,
-      "forks": 339,
-      "added_stars": "63 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "seagle0128 / doom-modeline",
@@ -85,6 +85,16 @@
       "added_stars": "8 stars this month"
     },
     {
+      "title": "emacs-evil / evil",
+      "url": "https://github.com/emacs-evil/evil",
+      "description": "The extensible vi layer for Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3857,
+      "forks": 308,
+      "added_stars": "21 stars this month"
+    },
+    {
       "title": "dgutov / diff-hl",
       "url": "https://github.com/dgutov/diff-hl",
       "description": "Emacs package for highlighting uncommitted changes",
@@ -95,14 +105,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "bbatsov / projectile",
-      "url": "https://github.com/bbatsov/projectile",
-      "description": "Project Interaction Library for Emacs",
+      "title": "emacs-lsp / lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 4242,
-      "forks": 586,
-      "added_stars": "12 stars this month"
+      "stars": 5123,
+      "forks": 983,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "tumashu / posframe",
@@ -125,24 +135,34 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "emacs-evil / evil",
-      "url": "https://github.com/emacs-evil/evil",
-      "description": "The extensible vi layer for Emacs.",
+      "title": "abo-abo / ace-window",
+      "url": "https://github.com/abo-abo/ace-window",
+      "description": "Quickly switch windows in Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3857,
-      "forks": 307,
-      "added_stars": "23 stars this month"
+      "stars": 1128,
+      "forks": 95,
+      "added_stars": "6 stars this month"
     },
     {
-      "title": "emacs-lsp / lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
+      "title": "rainstormstudio / nerd-icons.el",
+      "url": "https://github.com/rainstormstudio/nerd-icons.el",
+      "description": "",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5123,
-      "forks": 983,
-      "added_stars": "15 stars this month"
+      "stars": 329,
+      "forks": 48,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "mickeynp / combobulate",
+      "url": "https://github.com/mickeynp/combobulate",
+      "description": "Structured Editing and Navigation in Emacs with Tree-Sitter",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1243,
+      "forks": 97,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "abo-abo / hydra",
@@ -163,36 +183,6 @@
       "stars": 522,
       "forks": 132,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "rainstormstudio / nerd-icons.el",
-      "url": "https://github.com/rainstormstudio/nerd-icons.el",
-      "description": "",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 329,
-      "forks": 48,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "magit / transient",
-      "url": "https://github.com/magit/transient",
-      "description": "Transient commands",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 887,
-      "forks": 74,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "oantolin / embark",
-      "url": "https://github.com/oantolin/embark",
-      "description": "Emacs Mini-Buffer Actions Rooted in Keymaps",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1228,
-      "forks": 72,
-      "added_stars": "11 stars this month"
     }
   ]
 }

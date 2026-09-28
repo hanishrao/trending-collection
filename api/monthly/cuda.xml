@@ -4,7 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 27 Sep 2026 07:33:47 GMT</pubDate>
+  <pubDate>Mon, 28 Sep 2026 08:09:30 GMT</pubDate>
   <item>
     <title>flashinfer-ai / flashinfer</title>
     <link>https://github.com/flashinfer-ai/flashinfer</link>
@@ -21,11 +21,6 @@
     <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
   </item>
   <item>
-    <title>HazyResearch / ThunderKittens</title>
-    <link>https://github.com/HazyResearch/ThunderKittens</link>
-    <description>Tile primitives for speedy kernels</description>
-  </item>
-  <item>
     <title>deepseek-ai / DeepEP</title>
     <link>https://github.com/deepseek-ai/DeepEP</link>
     <description>DeepEP: an efficient expert-parallel communication library</description>
@@ -36,9 +31,9 @@
     <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
   <item>
-    <title>NVIDIA / raft</title>
-    <link>https://github.com/NVIDIA/raft</link>
-    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
   </item>
   <item>
     <title>karpathy / llm.c</title>
@@ -51,9 +46,19 @@
     <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
   </item>
   <item>
+    <title>CannyLab / tsne-cuda</title>
+    <link>https://github.com/CannyLab/tsne-cuda</link>
+    <description>GPU Accelerated t-SNE for CUDA with Python bindings</description>
+  </item>
+  <item>
     <title>deepseek-ai / DeepGEMM</title>
     <link>https://github.com/deepseek-ai/DeepGEMM</link>
     <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+  </item>
+  <item>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
     <title>NVIDIA / nccl-tests</title>
@@ -66,24 +71,9 @@
     <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-  </item>
-  <item>
     <title>rapidsai / cugraph</title>
     <link>https://github.com/rapidsai/cugraph</link>
     <description>cuGraph - RAPIDS Graph Analytics Library</description>
-  </item>
-  <item>
-    <title>NVIDIA / nccl-extensions</title>
-    <link>https://github.com/NVIDIA/nccl-extensions</link>
-    <description>Communication patterns for AI, built on top of NCCL device and host APIs</description>
-  </item>
-  <item>
-    <title>rahul-goel / fused-ssim</title>
-    <link>https://github.com/rahul-goel/fused-ssim</link>
-    <description>Lightning fast differentiable SSIM.</description>
   </item>
 </channel>
 </rss>
