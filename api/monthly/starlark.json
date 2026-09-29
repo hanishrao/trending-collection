@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 28 Sep 2026 08:09:30 GMT",
+  "pubDate": "Tue, 29 Sep 2026 07:49:38 GMT",
   "items": [
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -12,7 +12,7 @@
       "languageColor": "#76d275",
       "stars": 388,
       "forks": 916,
-      "added_stars": "6 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -21,7 +21,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 247,
-      "forks": 199,
+      "forks": 200,
       "added_stars": "0 stars this month"
     },
     {
@@ -30,9 +30,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8767,
-      "forks": 2631,
-      "added_stars": "62 stars this month"
+      "stars": 8766,
+      "forks": 2633,
+      "added_stars": "60 stars this month"
     },
     {
       "title": "tronbyt / apps",
@@ -65,14 +65,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 295,
-      "forks": 115,
-      "added_stars": "2 stars this month"
+      "stars": 3994,
+      "forks": 306,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "bazel-contrib / toolchains_llvm",
@@ -85,24 +85,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3991,
-      "forks": 306,
-      "added_stars": "41 stars this month"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23100,
-      "forks": 1437,
-      "added_stars": "80 stars this month"
+      "stars": 295,
+      "forks": 115,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "tidbyt / community",
@@ -115,6 +105,26 @@
       "added_stars": "6 stars this month"
     },
     {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 689,
+      "forks": 723,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23107,
+      "forks": 1438,
+      "added_stars": "83 stars this month"
+    },
+    {
       "title": "openconfig / gnoi",
       "url": "https://github.com/openconfig/gnoi",
       "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
@@ -125,24 +135,24 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "immich-app / immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 690,
-      "forks": 723,
-      "added_stars": "4 stars this month"
+      "stars": 354,
+      "forks": 115,
+      "added_stars": "6 stars this month"
     },
     {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 148,
-      "forks": 98,
-      "added_stars": "4 stars this month"
+      "stars": 846,
+      "forks": 656,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -153,36 +163,6 @@
       "stars": 265,
       "forks": 59,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 845,
-      "forks": 656,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "aspect-build / aspect-cli",
-      "url": "https://github.com/aspect-build/aspect-cli",
-      "description": "{ Correct, Fast, Usable } -- Choose three",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 167,
-      "forks": 45,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 353,
-      "forks": 115,
-      "added_stars": "6 stars this month"
     }
   ]
 }

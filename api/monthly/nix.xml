@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 28 Sep 2026 08:09:30 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 07:49:38 GMT</pubDate>
   <item>
     <title>numtide / llm-agents.nix</title>
     <link>https://github.com/numtide/llm-agents.nix</link>
@@ -14,6 +14,11 @@
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
+  </item>
+  <item>
+    <title>NixOS / nixos-hardware</title>
+    <link>https://github.com/NixOS/nixos-hardware</link>
+    <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
     <title>supabase / postgres</title>
@@ -26,14 +31,9 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>NixOS / nixos-hardware</title>
-    <link>https://github.com/NixOS/nixos-hardware</link>
-    <description>A collection of NixOS modules covering hardware quirks.</description>
-  </item>
-  <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+    <title>finix-community / finix</title>
+    <link>https://github.com/finix-community/finix</link>
+    <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
   </item>
   <item>
     <title>NixOS / nix.dev</title>
@@ -41,9 +41,9 @@
     <description>Official documentation for getting things done with Nix.</description>
   </item>
   <item>
-    <title>numtide / system-manager</title>
-    <link>https://github.com/numtide/system-manager</link>
-    <description>Manage system config using nix on any distro</description>
+    <title>nix-community / disko</title>
+    <link>https://github.com/nix-community/disko</link>
+    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
     <title>edmundmiller / dotfiles</title>
@@ -51,9 +51,9 @@
     <description>For keeping all my Dotfiles update to date</description>
   </item>
   <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
   </item>
   <item>
     <title>Mic92 / sops-nix</title>
@@ -61,9 +61,9 @@
     <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
-    <title>feel-co / hjem</title>
-    <link>https://github.com/feel-co/hjem</link>
-    <description>Streamlined, elegant $HOME management with Nix</description>
+    <title>nix-community / NixOS-WSL</title>
+    <link>https://github.com/nix-community/NixOS-WSL</link>
+    <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
   <item>
     <title>ekala-project / corepkgs</title>
@@ -71,9 +71,9 @@
     <description>Core packages and NixOS modules for a poly-repo nixpkgs fork</description>
   </item>
   <item>
-    <title>nix-community / NixOS-WSL</title>
-    <link>https://github.com/nix-community/NixOS-WSL</link>
-    <description>NixOS on WSL [maintainer=@nzbr]</description>
+    <title>feel-co / hjem</title>
+    <link>https://github.com/feel-co/hjem</link>
+    <description>Streamlined, elegant $HOME management with Nix</description>
   </item>
 </channel>
 </rss>

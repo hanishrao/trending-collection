@@ -4,11 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 28 Sep 2026 08:09:30 GMT</pubDate>
+  <pubDate>Tue, 29 Sep 2026 07:49:38 GMT</pubDate>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>magnitudedev / magnitude</title>
+    <link>https://github.com/magnitudedev/magnitude</link>
+    <description>Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.</description>
   </item>
   <item>
     <title>longbridge / gpui-kit</title>
@@ -16,9 +16,19 @@
     <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
   </item>
   <item>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+  </item>
+  <item>
     <title>akitaonrails / ai-memory</title>
     <link>https://github.com/akitaonrails/ai-memory</link>
     <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+  </item>
+  <item>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
   </item>
   <item>
     <title>juspay / hyperswitch</title>
@@ -31,19 +41,9 @@
     <description>Anki is a smart spaced repetition flashcard program</description>
   </item>
   <item>
-    <title>CapSoftware / Cap</title>
-    <link>https://github.com/CapSoftware/Cap</link>
-    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
-  </item>
-  <item>
     <title>rustfs / rustfs</title>
     <link>https://github.com/rustfs/rustfs</link>
     <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-  </item>
-  <item>
-    <title>martin-olivier / airgorah</title>
-    <link>https://github.com/martin-olivier/airgorah</link>
-    <description>A WiFi security auditing software</description>
   </item>
   <item>
     <title>HakanSeven12 / OpenCADStudio</title>
@@ -56,6 +56,11 @@
     <description>A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.</description>
   </item>
   <item>
+    <title>NVIDIA / cuda-rust</title>
+    <link>https://github.com/NVIDIA/cuda-rust</link>
+    <description>cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.</description>
+  </item>
+  <item>
     <title>google / magika</title>
     <link>https://github.com/google/magika</link>
     <description>Fast and accurate AI powered file content types detection</description>
@@ -66,19 +71,9 @@
     <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
   </item>
   <item>
-    <title>NVlabs / cuda-oxide</title>
-    <link>https://github.com/NVlabs/cuda-oxide</link>
-    <description>cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.</description>
-  </item>
-  <item>
     <title>lbjlaq / Antigravity-Manager</title>
     <link>https://github.com/lbjlaq/Antigravity-Manager</link>
     <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
-  </item>
-  <item>
-    <title>cloudflare / quiche</title>
-    <link>https://github.com/cloudflare/quiche</link>
-    <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
   </item>
   <item>
     <title>firecracker-microvm / firecracker</title>
@@ -86,19 +81,24 @@
     <description>Secure and fast microVMs for serverless computing.</description>
   </item>
   <item>
+    <title>cloudflare / quiche</title>
+    <link>https://github.com/cloudflare/quiche</link>
+    <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
+  </item>
+  <item>
     <title>uutils / coreutils</title>
     <link>https://github.com/uutils/coreutils</link>
     <description>Cross-platform Rust rewrite of the GNU coreutils</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-  </item>
-  <item>
     <title>mesamirh / MovieBox-Tui</title>
     <link>https://github.com/mesamirh/MovieBox-Tui</link>
     <description>Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.</description>
+  </item>
+  <item>
+    <title>clash-verge-rev / clash-verge-rev</title>
+    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
+    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
   </item>
   <item>
     <title>emilk / egui</title>
@@ -111,9 +111,9 @@
     <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
   </item>
   <item>
-    <title>gfx-rs / wgpu</title>
-    <link>https://github.com/gfx-rs/wgpu</link>
-    <description>A cross-platform, safe, pure-Rust graphics API.</description>
+    <title>remorses / gpuix</title>
+    <link>https://github.com/remorses/gpuix</link>
+    <description>Node.js &amp; React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron</description>
   </item>
 </channel>
 </rss>

@@ -2,17 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 28 Sep 2026 08:07:51 GMT",
+  "pubDate": "Tue, 29 Sep 2026 07:48:03 GMT",
   "items": [
+    {
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8602,
+      "forks": 582,
+      "added_stars": "1,110 stars this week"
+    },
     {
       "title": "cloudflare / quiche",
       "url": "https://github.com/cloudflare/quiche",
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12673,
-      "forks": 1151,
-      "added_stars": "521 stars this week"
+      "stars": 12708,
+      "forks": 1154,
+      "added_stars": "522 stars this week"
     },
     {
       "title": "hydra-db / hydradb",
@@ -20,49 +30,19 @@
       "description": "HydraDB - fast graph database on object storage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11300,
-      "forks": 4904,
-      "added_stars": "7,565 stars this week"
+      "stars": 12430,
+      "forks": 5439,
+      "added_stars": "8,467 stars this week"
     },
     {
-      "title": "yynxxxxx / Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3967,
-      "forks": 487,
-      "added_stars": "424 stars this week"
-    },
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8504,
-      "forks": 577,
-      "added_stars": "1,224 stars this week"
-    },
-    {
-      "title": "yyjeqhc / webcodex",
-      "url": "https://github.com/yyjeqhc/webcodex",
-      "description": "Give cloud AI agents a real development environment on your own machines.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2000,
-      "forks": 253,
-      "added_stars": "489 stars this week"
-    },
-    {
-      "title": "clash-verge-rev / clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 147910,
-      "forks": 10617,
-      "added_stars": "2,173 stars this week"
+      "stars": 8339,
+      "forks": 338,
+      "added_stars": "2,758 stars this week"
     },
     {
       "title": "tokio-rs / topcoat",
@@ -70,9 +50,39 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5598,
-      "forks": 186,
-      "added_stars": "613 stars this week"
+      "stars": 5704,
+      "forks": 189,
+      "added_stars": "743 stars this week"
+    },
+    {
+      "title": "clash-verge-rev / clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 148159,
+      "forks": 10629,
+      "added_stars": "2,004 stars this week"
+    },
+    {
+      "title": "yynxxxxx / Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3988,
+      "forks": 488,
+      "added_stars": "356 stars this week"
+    },
+    {
+      "title": "timhartmann7 / omnyssh",
+      "url": "https://github.com/timhartmann7/omnyssh",
+      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1043,
+      "forks": 57,
+      "added_stars": "243 stars this week"
     },
     {
       "title": "rust-lang / rust",
@@ -80,49 +90,9 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 119254,
-      "forks": 17038,
-      "added_stars": "328 stars this week"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 34016,
-      "forks": 1529,
-      "added_stars": "514 stars this week"
-    },
-    {
-      "title": "pnpm / pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36685,
-      "forks": 1892,
-      "added_stars": "109 stars this week"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31781,
-      "forks": 3425,
-      "added_stars": "271 stars this week"
-    },
-    {
-      "title": "longbridge / gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14896,
-      "forks": 934,
-      "added_stars": "305 stars this week"
+      "stars": 119291,
+      "forks": 17148,
+      "added_stars": "337 stars this week"
     },
     {
       "title": "juspay / hyperswitch",
@@ -130,19 +100,39 @@
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 44977,
-      "forks": 6197,
-      "added_stars": "1,286 stars this week"
+      "stars": 45204,
+      "forks": 6374,
+      "added_stars": "1,535 stars this week"
     },
     {
-      "title": "Nasiko-Labs / nasiko",
-      "url": "https://github.com/Nasiko-Labs/nasiko",
-      "description": "Developer Control Plane for your AI Agents",
+      "title": "pnpm / pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9008,
-      "forks": 1940,
-      "added_stars": "2,353 stars this week"
+      "stars": 36696,
+      "forks": 1899,
+      "added_stars": "113 stars this week"
+    },
+    {
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 35251,
+      "forks": 4639,
+      "added_stars": "1,437 stars this week"
+    },
+    {
+      "title": "longbridge / gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14982,
+      "forks": 940,
+      "added_stars": "350 stars this week"
     },
     {
       "title": "trailofbits / coop",
@@ -150,9 +140,9 @@
       "description": "Isolated VM environment for running Claude Code and Codex",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 704,
-      "forks": 35,
-      "added_stars": "448 stars this week"
+      "stars": 719,
+      "forks": 36,
+      "added_stars": "464 stars this week"
     },
     {
       "title": "zeronsh / zeron",
@@ -160,9 +150,9 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2255,
-      "forks": 221,
-      "added_stars": "449 stars this week"
+      "stars": 2416,
+      "forks": 232,
+      "added_stars": "439 stars this week"
     },
     {
       "title": "run-llama / liteparse",
@@ -170,9 +160,19 @@
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12685,
-      "forks": 864,
-      "added_stars": "347 stars this week"
+      "stars": 12708,
+      "forks": 865,
+      "added_stars": "353 stars this week"
+    },
+    {
+      "title": "yyjeqhc / webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2036,
+      "forks": 256,
+      "added_stars": "414 stars this week"
     },
     {
       "title": "huggingface / tokenizers",
@@ -180,29 +180,9 @@
       "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11131,
-      "forks": 1209,
-      "added_stars": "80 stars this week"
-    },
-    {
-      "title": "tauri-apps / tauri",
-      "url": "https://github.com/tauri-apps/tauri",
-      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 111447,
-      "forks": 4028,
-      "added_stars": "274 stars this week"
-    },
-    {
-      "title": "moghtech / komodo",
-      "url": "https://github.com/moghtech/komodo",
-      "description": "🦎 a tool to build and deploy software on many servers 🦎",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12540,
-      "forks": 424,
-      "added_stars": "179 stars this week"
+      "stars": 11137,
+      "forks": 1210,
+      "added_stars": "85 stars this week"
     }
   ]
 }

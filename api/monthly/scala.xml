@@ -4,26 +4,16 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 28 Sep 2026 08:09:30 GMT</pubDate>
-  <item>
-    <title>OpenXiangShan / XiangShan</title>
-    <link>https://github.com/OpenXiangShan/XiangShan</link>
-    <description>Open-source high-performance RISC-V processor</description>
-  </item>
-  <item>
-    <title>delta-io / delta</title>
-    <link>https://github.com/delta-io/delta</link>
-    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
-  </item>
+  <pubDate>Tue, 29 Sep 2026 07:49:38 GMT</pubDate>
   <item>
     <title>apache / datafusion-comet</title>
     <link>https://github.com/apache/datafusion-comet</link>
     <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
-    <title>NVIDIA / cudf-spark</title>
-    <link>https://github.com/NVIDIA/cudf-spark</link>
-    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
+    <title>OpenXiangShan / XiangShan</title>
+    <link>https://github.com/OpenXiangShan/XiangShan</link>
+    <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
     <title>apache / spark</title>
@@ -31,14 +21,19 @@
     <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
   </item>
   <item>
+    <title>delta-io / delta</title>
+    <link>https://github.com/delta-io/delta</link>
+    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
+  </item>
+  <item>
     <title>sbt / sbt</title>
     <link>https://github.com/sbt/sbt</link>
     <description>sbt, the interactive build tool</description>
   </item>
   <item>
-    <title>lichess-org / lila</title>
-    <link>https://github.com/lichess-org/lila</link>
-    <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
     <title>chipsalliance / chisel</title>
@@ -51,9 +46,9 @@
     <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
   </item>
   <item>
-    <title>joernio / joern</title>
-    <link>https://github.com/joernio/joern</link>
-    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
+    <title>lichess-org / lila</title>
+    <link>https://github.com/lichess-org/lila</link>
+    <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
   </item>
   <item>
     <title>chipsalliance / rocket-chip</title>
@@ -61,9 +56,19 @@
     <description>Rocket Chip Generator</description>
   </item>
   <item>
+    <title>NVIDIA / cudf-spark</title>
+    <link>https://github.com/NVIDIA/cudf-spark</link>
+    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
+  </item>
+  <item>
     <title>gitbucket / gitbucket</title>
     <link>https://github.com/gitbucket/gitbucket</link>
     <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
+  </item>
+  <item>
+    <title>scala-js / scala-js</title>
+    <link>https://github.com/scala-js/scala-js</link>
+    <description>Scala.js, the Scala to JavaScript compiler</description>
   </item>
   <item>
     <title>guardian / frontend</title>
@@ -71,14 +76,14 @@
     <description>The Guardian DotCom.</description>
   </item>
   <item>
-    <title>twitter / the-algorithm</title>
-    <link>https://github.com/twitter/the-algorithm</link>
-    <description>Source code for the X Recommendation Algorithm</description>
-  </item>
-  <item>
     <title>scalameta / metals</title>
     <link>https://github.com/scalameta/metals</link>
     <description>Scala language server with rich IDE features 🚀</description>
+  </item>
+  <item>
+    <title>twitter / the-algorithm</title>
+    <link>https://github.com/twitter/the-algorithm</link>
+    <description>Source code for the X Recommendation Algorithm</description>
   </item>
   <item>
     <title>gatling / gatling</title>
@@ -101,16 +106,6 @@
     <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
   </item>
   <item>
-    <title>microsoft / SynapseML</title>
-    <link>https://github.com/microsoft/SynapseML</link>
-    <description>Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark</description>
-  </item>
-  <item>
-    <title>yahoo / CMAK</title>
-    <link>https://github.com/yahoo/CMAK</link>
-    <description>CMAK is a tool for managing Apache Kafka clusters</description>
-  </item>
-  <item>
     <title>snowplow / snowplow</title>
     <link>https://github.com/snowplow/snowplow</link>
     <description>The leader in Customer Data Infrastructure</description>
@@ -119,6 +114,16 @@
     <title>http4s / http4s</title>
     <link>https://github.com/http4s/http4s</link>
     <description>A minimal, idiomatic Scala interface for HTTP</description>
+  </item>
+  <item>
+    <title>microsoft / SynapseML</title>
+    <link>https://github.com/microsoft/SynapseML</link>
+    <description>Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark</description>
+  </item>
+  <item>
+    <title>com-lihaoyi / mill</title>
+    <link>https://github.com/com-lihaoyi/mill</link>
+    <description>A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools</description>
   </item>
 </channel>
 </rss>

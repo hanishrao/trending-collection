@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 28 Sep 2026 08:09:30 GMT",
+  "pubDate": "Tue, 29 Sep 2026 07:49:38 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42060,
-      "forks": 3018,
-      "added_stars": "20,657 stars this month"
+      "stars": 42428,
+      "forks": 3043,
+      "added_stars": "20,955 stars this month"
     },
     {
       "title": "Tencent / WeKnora",
@@ -20,19 +20,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30761,
-      "forks": 4114,
-      "added_stars": "9,985 stars this month"
-    },
-    {
-      "title": "tailscale / tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7774,
-      "forks": 331,
-      "added_stars": "6,333 stars this month"
+      "stars": 31091,
+      "forks": 4153,
+      "added_stars": "10,271 stars this month"
     },
     {
       "title": "agent-substrate / substrate",
@@ -40,19 +30,19 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3900,
-      "forks": 460,
-      "added_stars": "2,249 stars this month"
+      "stars": 3938,
+      "forks": 468,
+      "added_stars": "2,300 stars this month"
     },
     {
-      "title": "majd / ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11423,
-      "forks": 953,
-      "added_stars": "1,529 stars this month"
+      "stars": 7797,
+      "forks": 334,
+      "added_stars": "5,437 stars this month"
     },
     {
       "title": "vllm-project / semantic-router",
@@ -60,39 +50,9 @@
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5947,
-      "forks": 980,
-      "added_stars": "599 stars this month"
-    },
-    {
-      "title": "theagentrouter / agent-router",
-      "url": "https://github.com/theagentrouter/agent-router",
-      "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2148,
-      "forks": 394,
-      "added_stars": "190 stars this month"
-    },
-    {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5772,
-      "forks": 251,
-      "added_stars": "2,683 stars this month"
-    },
-    {
-      "title": "henrygd / beszel",
-      "url": "https://github.com/henrygd/beszel",
-      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 25807,
-      "forks": 1052,
-      "added_stars": "1,095 stars this month"
+      "stars": 5974,
+      "forks": 989,
+      "added_stars": "597 stars this month"
     },
     {
       "title": "coder / coder",
@@ -100,9 +60,29 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16733,
-      "forks": 1592,
-      "added_stars": "2,620 stars this month"
+      "stars": 16747,
+      "forks": 1596,
+      "added_stars": "2,625 stars this month"
+    },
+    {
+      "title": "asciimoo / hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5790,
+      "forks": 253,
+      "added_stars": "2,629 stars this month"
+    },
+    {
+      "title": "majd / ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11435,
+      "forks": 955,
+      "added_stars": "1,540 stars this month"
     },
     {
       "title": "gtsteffaniak / filebrowser",
@@ -110,9 +90,9 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8459,
+      "stars": 8472,
       "forks": 446,
-      "added_stars": "574 stars this month"
+      "added_stars": "579 stars this month"
     },
     {
       "title": "cloudflare / cloudflared",
@@ -120,49 +100,29 @@
       "description": "Cloudflare Tunnel client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15938,
-      "forks": 1457,
-      "added_stars": "564 stars this month"
+      "stars": 15952,
+      "forks": 1462,
+      "added_stars": "565 stars this month"
     },
     {
-      "title": "weave-os / router",
-      "url": "https://github.com/weave-os/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "title": "henrygd / beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5354,
-      "forks": 143,
-      "added_stars": "3,755 stars this month"
+      "stars": 25833,
+      "forks": 1055,
+      "added_stars": "1,075 stars this month"
     },
     {
-      "title": "authelia / authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+      "title": "drakkan / sftpgo",
+      "url": "https://github.com/drakkan/sftpgo",
+      "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29113,
-      "forks": 1494,
-      "added_stars": "432 stars this month"
-    },
-    {
-      "title": "projectdiscovery / katana",
-      "url": "https://github.com/projectdiscovery/katana",
-      "description": "A next-generation crawling and spidering framework.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17586,
-      "forks": 1188,
-      "added_stars": "263 stars this month"
-    },
-    {
-      "title": "semaphoreui / semaphore",
-      "url": "https://github.com/semaphoreui/semaphore",
-      "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14202,
-      "forks": 1316,
-      "added_stars": "153 stars this month"
+      "stars": 12597,
+      "forks": 970,
+      "added_stars": "147 stars this month"
     },
     {
       "title": "danielmiessler / Fabric",
@@ -170,19 +130,9 @@
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 44091,
-      "forks": 4285,
-      "added_stars": "636 stars this month"
-    },
-    {
-      "title": "glanceapp / glance",
-      "url": "https://github.com/glanceapp/glance",
-      "description": "A self-hosted dashboard that puts all your feeds in one place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37240,
-      "forks": 1470,
-      "added_stars": "675 stars this month"
+      "stars": 44106,
+      "forks": 4286,
+      "added_stars": "647 stars this month"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -190,49 +140,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25047,
-      "forks": 3219,
-      "added_stars": "3,096 stars this month"
-    },
-    {
-      "title": "seaweedfs / seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35033,
-      "forks": 3012,
-      "added_stars": "788 stars this month"
-    },
-    {
-      "title": "kopia / kopia",
-      "url": "https://github.com/kopia/kopia",
-      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14210,
-      "forks": 738,
-      "added_stars": "264 stars this month"
-    },
-    {
-      "title": "SagerNet / sing-box",
-      "url": "https://github.com/SagerNet/sing-box",
-      "description": "The universal proxy platform",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38376,
-      "forks": 4655,
-      "added_stars": "1,190 stars this month"
-    },
-    {
-      "title": "rorkai / App-Store-Connect-CLI",
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
-      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7460,
-      "forks": 628,
-      "added_stars": "1,118 stars this month"
+      "stars": 25090,
+      "forks": 3225,
+      "added_stars": "3,088 stars this month"
     },
     {
       "title": "navidrome / navidrome",
@@ -240,9 +150,79 @@
       "description": "🎧 Your Personal Streaming Service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23857,
-      "forks": 1729,
-      "added_stars": "759 stars this month"
+      "stars": 23881,
+      "forks": 1731,
+      "added_stars": "760 stars this month"
+    },
+    {
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35066,
+      "forks": 3013,
+      "added_stars": "804 stars this month"
+    },
+    {
+      "title": "weave-os / router",
+      "url": "https://github.com/weave-os/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5395,
+      "forks": 144,
+      "added_stars": "3,078 stars this month"
+    },
+    {
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29126,
+      "forks": 1495,
+      "added_stars": "436 stars this month"
+    },
+    {
+      "title": "glanceapp / glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37260,
+      "forks": 1470,
+      "added_stars": "670 stars this month"
+    },
+    {
+      "title": "projectdiscovery / katana",
+      "url": "https://github.com/projectdiscovery/katana",
+      "description": "A next-generation crawling and spidering framework.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17592,
+      "forks": 1190,
+      "added_stars": "263 stars this month"
+    },
+    {
+      "title": "e2b-dev / runtime",
+      "url": "https://github.com/e2b-dev/runtime",
+      "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1640,
+      "forks": 451,
+      "added_stars": "416 stars this month"
+    },
+    {
+      "title": "kubernetes / minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32164,
+      "forks": 5334,
+      "added_stars": "110 stars this month"
     }
   ]
 }
