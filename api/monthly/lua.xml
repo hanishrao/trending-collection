@@ -4,11 +4,16 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 29 Sep 2026 07:49:38 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 07:52:36 GMT</pubDate>
   <item>
     <title>LazyVim / LazyVim</title>
     <link>https://github.com/LazyVim/LazyVim</link>
     <description>Neovim config for the lazy</description>
+  </item>
+  <item>
+    <title>nvim-mini / mini.nvim</title>
+    <link>https://github.com/nvim-mini/mini.nvim</link>
+    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
   </item>
   <item>
     <title>MeanderingProgrammer / render-markdown.nvim</title>
@@ -21,36 +26,6 @@
     <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
   </item>
   <item>
-    <title>nvim-mini / mini.nvim</title>
-    <link>https://github.com/nvim-mini/mini.nvim</link>
-    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
-  </item>
-  <item>
-    <title>beyond-all-reason / Beyond-All-Reason</title>
-    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
-    <description>Main game repository for Beyond All Reason.</description>
-  </item>
-  <item>
-    <title>xmake-io / xmake</title>
-    <link>https://github.com/xmake-io/xmake</link>
-    <description>🔥 A cross-platform build utility based on Lua</description>
-  </item>
-  <item>
-    <title>Kong / kong</title>
-    <link>https://github.com/Kong/kong</link>
-    <description>🦍 The API and AI Gateway</description>
-  </item>
-  <item>
-    <title>apache / apisix</title>
-    <link>https://github.com/apache/apisix</link>
-    <description>The Cloud-Native API Gateway and AI Gateway</description>
-  </item>
-  <item>
-    <title>AndyHazz / bookshelf.koplugin</title>
-    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
-  </item>
-  <item>
     <title>PathOfBuildingCommunity / PathOfBuilding-PoE2</title>
     <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2</link>
     <description></description>
@@ -61,9 +36,59 @@
     <description>✨ AI Coding, Vim Style</description>
   </item>
   <item>
-    <title>koreader / koreader</title>
-    <link>https://github.com/koreader/koreader</link>
-    <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
+    <title>nvim-telescope / telescope.nvim</title>
+    <link>https://github.com/nvim-telescope/telescope.nvim</link>
+    <description>Find, Filter, Preview, Pick. All lua, all the time.</description>
+  </item>
+  <item>
+    <title>lewis6991 / gitsigns.nvim</title>
+    <link>https://github.com/lewis6991/gitsigns.nvim</link>
+    <description>Git integration for buffers</description>
+  </item>
+  <item>
+    <title>saghen / blink.cmp</title>
+    <link>https://github.com/saghen/blink.cmp</link>
+    <description>Performant, batteries-included completion plugin for Neovim</description>
+  </item>
+  <item>
+    <title>xmake-io / xmake</title>
+    <link>https://github.com/xmake-io/xmake</link>
+    <description>🔥 A cross-platform build utility based on Lua</description>
+  </item>
+  <item>
+    <title>AndyHazz / bookshelf.koplugin</title>
+    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
+    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
+  </item>
+  <item>
+    <title>Kong / kong</title>
+    <link>https://github.com/Kong/kong</link>
+    <description>🦍 The API and AI Gateway</description>
+  </item>
+  <item>
+    <title>nvim-tree / nvim-tree.lua</title>
+    <link>https://github.com/nvim-tree/nvim-tree.lua</link>
+    <description>A file explorer tree for neovim written in lua</description>
+  </item>
+  <item>
+    <title>amzxyz / rime-wanxiang</title>
+    <link>https://github.com/amzxyz/rime-wanxiang</link>
+    <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。</description>
+  </item>
+  <item>
+    <title>stevearc / conform.nvim</title>
+    <link>https://github.com/stevearc/conform.nvim</link>
+    <description>Lightweight yet powerful formatter plugin for Neovim</description>
+  </item>
+  <item>
+    <title>folke / lazy.nvim</title>
+    <link>https://github.com/folke/lazy.nvim</link>
+    <description>💤 A modern plugin manager for Neovim</description>
+  </item>
+  <item>
+    <title>nvim-lualine / lualine.nvim</title>
+    <link>https://github.com/nvim-lualine/lualine.nvim</link>
+    <description>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</description>
   </item>
   <item>
     <title>nvim-lua / kickstart.nvim</title>
@@ -71,14 +96,14 @@
     <description>A launch point for your personal nvim configuration</description>
   </item>
   <item>
-    <title>sphamba / smear-cursor.nvim</title>
-    <link>https://github.com/sphamba/smear-cursor.nvim</link>
-    <description>🌠 Neovim plugin to animate the cursor with a smear effect in all terminals</description>
+    <title>folke / snacks.nvim</title>
+    <link>https://github.com/folke/snacks.nvim</link>
+    <description>🍿 A collection of QoL plugins for Neovim</description>
   </item>
   <item>
-    <title>finlater / weread.koplugin</title>
-    <link>https://github.com/finlater/weread.koplugin</link>
-    <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。</description>
+    <title>nvim-neo-tree / neo-tree.nvim</title>
+    <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
+    <description>Neovim plugin to manage the file system and other tree like structures.</description>
   </item>
 </channel>
 </rss>

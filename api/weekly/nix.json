@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 29 Sep 2026 07:48:03 GMT",
+  "pubDate": "Wed, 30 Sep 2026 07:51:04 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26281,
-      "forks": 20224,
-      "added_stars": "80 stars this week"
+      "stars": 26289,
+      "forks": 20235,
+      "added_stars": "87 stars this week"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -20,9 +20,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2021,
-      "forks": 264,
-      "added_stars": "37 stars this week"
+      "stars": 2027,
+      "forks": 269,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "finix-community / finix",
@@ -30,29 +30,9 @@
       "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 548,
+      "stars": 549,
       "forks": 40,
       "added_stars": "25 stars this week"
-    },
-    {
-      "title": "nix-community / NixNG",
-      "url": "https://github.com/nix-community/NixNG",
-      "description": "A linux distribution based on Nix [maintainer=@MagicRB]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 503,
-      "forks": 22,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2971,
-      "forks": 234,
-      "added_stars": "15 stars this week"
     },
     {
       "title": "nix-community / disko",
@@ -60,39 +40,39 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3347,
+      "stars": 3348,
       "forks": 333,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5968,
+      "forks": 660,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "Mic92 / sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3192,
+      "forks": 236,
       "added_stars": "18 stars this week"
     },
     {
-      "title": "numtide / system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
+      "title": "NixOS / nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1745,
-      "forks": 64,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3311,
-      "forks": 979,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "nix-community / nix-wrapper-modules",
-      "url": "https://github.com/nix-community/nix-wrapper-modules",
-      "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 473,
-      "forks": 67,
-      "added_stars": "9 stars this week"
+      "stars": 3984,
+      "forks": 341,
+      "added_stars": "12 stars this week"
     }
   ]
 }

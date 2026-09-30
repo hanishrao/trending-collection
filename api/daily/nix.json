@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 29 Sep 2026 07:46:27 GMT",
+  "pubDate": "Wed, 30 Sep 2026 07:49:34 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,69 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26281,
-      "forks": 20224,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2021,
-      "forks": 264,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "chaotic-cx / nyx",
-      "url": "https://github.com/chaotic-cx/nyx",
-      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 776,
-      "forks": 81,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Tarow / nix-podman-stacks",
-      "url": "https://github.com/Tarow/nix-podman-stacks",
-      "description": "Home Manager Modules for integrated Podman Stacks",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 195,
-      "forks": 16,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nix-community / disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3347,
-      "forks": 333,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "birneee / nixnet",
-      "url": "https://github.com/birneee/nixnet",
-      "description": "Reproducible network experiments with a single command, on a single machine with Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 23,
-      "forks": 5,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nix-community / nix-wrapper-modules",
-      "url": "https://github.com/nix-community/nix-wrapper-modules",
-      "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 473,
-      "forks": 67,
-      "added_stars": "0 stars today"
+      "stars": 26289,
+      "forks": 20235,
+      "added_stars": "17 stars today"
     },
     {
       "title": "nix-community / home-manager",
@@ -80,9 +20,59 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10389,
+      "stars": 10393,
       "forks": 2484,
-      "added_stars": "2 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5968,
+      "forks": 660,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2027,
+      "forks": 269,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "media-kit / libmpv-darwin-build",
+      "url": "https://github.com/media-kit/libmpv-darwin-build",
+      "description": "libmpv for macOS & iOS.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 60,
+      "forks": 84,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "chaotic-cx / nyx",
+      "url": "https://github.com/chaotic-cx/nyx",
+      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 778,
+      "forks": 82,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "finix-community / finix",
+      "url": "https://github.com/finix-community/finix",
+      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 549,
+      "forks": 40,
+      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,17 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 29 Sep 2026 07:49:38 GMT",
+  "pubDate": "Wed, 30 Sep 2026 07:52:36 GMT",
   "items": [
     {
-      "title": "magnitudedev / magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5439,
-      "forks": 386,
-      "added_stars": "3,856 stars this month"
+      "stars": 8523,
+      "forks": 303,
+      "added_stars": "1,843 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -20,169 +20,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14982,
-      "forks": 940,
-      "added_stars": "1,386 stars this month"
-    },
-    {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8455,
-      "forks": 302,
-      "added_stars": "1,844 stars this month"
-    },
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8603,
-      "forks": 582,
-      "added_stars": "3,529 stars this month"
-    },
-    {
-      "title": "CapSoftware / Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22925,
-      "forks": 1984,
-      "added_stars": "1,687 stars this month"
-    },
-    {
-      "title": "juspay / hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 45204,
-      "forks": 6374,
-      "added_stars": "1,904 stars this month"
-    },
-    {
-      "title": "ankitects / anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31646,
-      "forks": 3282,
-      "added_stars": "1,797 stars this month"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 34090,
-      "forks": 1532,
-      "added_stars": "2,879 stars this month"
-    },
-    {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2329,
-      "forks": 240,
-      "added_stars": "1,387 stars this month"
-    },
-    {
-      "title": "router-for-me / EasyCLIProxyAPI",
-      "url": "https://github.com/router-for-me/EasyCLIProxyAPI",
-      "description": "A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2555,
-      "forks": 201,
-      "added_stars": "975 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuda-rust",
-      "url": "https://github.com/NVIDIA/cuda-rust",
-      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3616,
-      "forks": 285,
-      "added_stars": "518 stars this month"
-    },
-    {
-      "title": "google / magika",
-      "url": "https://github.com/google/magika",
-      "description": "Fast and accurate AI powered file content types detection",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18683,
-      "forks": 1172,
-      "added_stars": "736 stars this month"
-    },
-    {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37288,
-      "forks": 2390,
-      "added_stars": "2,957 stars this month"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31807,
-      "forks": 3427,
-      "added_stars": "1,253 stars this month"
-    },
-    {
-      "title": "firecracker-microvm / firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37010,
-      "forks": 2649,
-      "added_stars": "726 stars this month"
-    },
-    {
-      "title": "cloudflare / quiche",
-      "url": "https://github.com/cloudflare/quiche",
-      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12708,
-      "forks": 1154,
-      "added_stars": "919 stars this month"
-    },
-    {
-      "title": "uutils / coreutils",
-      "url": "https://github.com/uutils/coreutils",
-      "description": "Cross-platform Rust rewrite of the GNU coreutils",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 24204,
-      "forks": 2066,
-      "added_stars": "402 stars this month"
-    },
-    {
-      "title": "mesamirh / MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2324,
-      "forks": 268,
-      "added_stars": "1,023 stars this month"
+      "stars": 15153,
+      "forks": 947,
+      "added_stars": "1,454 stars this month"
     },
     {
       "title": "clash-verge-rev / clash-verge-rev",
@@ -190,19 +30,129 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 148159,
-      "forks": 10629,
-      "added_stars": "7,660 stars this month"
+      "stars": 148399,
+      "forks": 10650,
+      "added_stars": "7,745 stars this month"
     },
     {
-      "title": "emilk / egui",
-      "url": "https://github.com/emilk/egui",
-      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "title": "magnitudedev / magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30754,
-      "forks": 2159,
-      "added_stars": "584 stars this month"
+      "stars": 5481,
+      "forks": 392,
+      "added_stars": "3,974 stars this month"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 124827,
+      "forks": 19340,
+      "added_stars": "3,143 stars this month"
+    },
+    {
+      "title": "pollen-robotics / microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9011,
+      "forks": 1147,
+      "added_stars": "7,355 stars this month"
+    },
+    {
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2358,
+      "forks": 244,
+      "added_stars": "1,398 stars this month"
+    },
+    {
+      "title": "pnpm / pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36706,
+      "forks": 1898,
+      "added_stars": "453 stars this month"
+    },
+    {
+      "title": "ankitects / anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31663,
+      "forks": 3286,
+      "added_stars": "1,804 stars this month"
+    },
+    {
+      "title": "juspay / hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 45261,
+      "forks": 6424,
+      "added_stars": "2,006 stars this month"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31828,
+      "forks": 3428,
+      "added_stars": "1,261 stars this month"
+    },
+    {
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 34176,
+      "forks": 1539,
+      "added_stars": "2,924 stars this month"
+    },
+    {
+      "title": "CapSoftware / Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22963,
+      "forks": 1988,
+      "added_stars": "1,697 stars this month"
+    },
+    {
+      "title": "mesamirh / MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2354,
+      "forks": 270,
+      "added_stars": "1,036 stars this month"
+    },
+    {
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8648,
+      "forks": 592,
+      "added_stars": "3,587 stars this month"
     },
     {
       "title": "reacherhq / check-if-email-exists",
@@ -210,9 +160,9 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10046,
-      "forks": 726,
-      "added_stars": "610 stars this month"
+      "stars": 10057,
+      "forks": 728,
+      "added_stars": "609 stars this month"
     },
     {
       "title": "remorses / gpuix",
@@ -220,9 +170,59 @@
       "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2461,
-      "forks": 68,
-      "added_stars": "1,143 stars this month"
+      "stars": 2477,
+      "forks": 69,
+      "added_stars": "1,163 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuda-rust",
+      "url": "https://github.com/NVIDIA/cuda-rust",
+      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3630,
+      "forks": 285,
+      "added_stars": "532 stars this month"
+    },
+    {
+      "title": "apache / iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4978,
+      "forks": 456,
+      "added_stars": "374 stars this month"
+    },
+    {
+      "title": "google / magika",
+      "url": "https://github.com/google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18687,
+      "forks": 1174,
+      "added_stars": "739 stars this month"
+    },
+    {
+      "title": "eythaann / Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17915,
+      "forks": 615,
+      "added_stars": "333 stars this month"
+    },
+    {
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 37365,
+      "forks": 2395,
+      "added_stars": "2,990 stars this month"
     }
   ]
 }

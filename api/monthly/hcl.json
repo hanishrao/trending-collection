@@ -2,37 +2,17 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 29 Sep 2026 07:49:38 GMT",
+  "pubDate": "Wed, 30 Sep 2026 07:52:36 GMT",
   "items": [
     {
-      "title": "ministryofjustice / cloud-platform-environments",
-      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
-      "description": "Environment configuration for the Cloud Platform",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 84,
-      "forks": 38,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2110,
-      "forks": 1267,
-      "added_stars": "20 stars this month"
-    },
-    {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 695,
-      "forks": 176,
-      "added_stars": "3 stars this month"
+      "stars": 5007,
+      "forks": 4413,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -41,7 +21,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1281,
-      "forks": 1286,
+      "forks": 1288,
       "added_stars": "4 stars this month"
     },
     {
@@ -55,54 +35,64 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "langchain-ai / terraform",
-      "url": "https://github.com/langchain-ai/terraform",
-      "description": "Repository containing langchain terraform modules",
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 20,
-      "forks": 20,
-      "added_stars": "4 stars this month"
+      "stars": 3270,
+      "forks": 4627,
+      "added_stars": "14 stars this month"
     },
     {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 50,
-      "forks": 60,
+      "stars": 1041,
+      "forks": 781,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 502,
+      "forks": 1280,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 964,
+      "forks": 593,
       "added_stars": "2 stars this month"
     },
     {
-      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
-      "description": "Terraform Azure Verified Resource Module for Storage Account",
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 39,
-      "forks": 79,
-      "added_stars": "0 stars this month"
+      "stars": 4693,
+      "forks": 3111,
+      "added_stars": "23 stars this month"
     },
     {
-      "title": "Azure / terraform-azurerm-naming",
-      "url": "https://github.com/Azure/terraform-azurerm-naming",
-      "description": "",
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 274,
-      "forks": 147,
+      "stars": 242,
+      "forks": 191,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "bridgecrewio / terragoat",
-      "url": "https://github.com/bridgecrewio/terragoat",
-      "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1308,
-      "forks": 5877,
-      "added_stars": "4 stars this month"
     }
   ]
 }

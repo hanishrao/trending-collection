@@ -2,8 +2,18 @@
   "title": "GitHub Jsonnet Languages Daily Trending",
   "description": "Daily Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 29 Sep 2026 07:48:03 GMT",
+  "pubDate": "Wed, 30 Sep 2026 07:51:04 GMT",
   "items": [
+    {
+      "title": "kubernetes-sigs / kubernetes-mixin",
+      "url": "https://github.com/kubernetes-sigs/kubernetes-mixin",
+      "description": "A set of Grafana dashboards and Prometheus alerts for Kubernetes.",
+      "language": "Jsonnet",
+      "languageColor": "#0064bd",
+      "stars": 2476,
+      "forks": 661,
+      "added_stars": "2 stars this week"
+    },
     {
       "title": "prometheus-operator / kube-prometheus",
       "url": "https://github.com/prometheus-operator/kube-prometheus",
@@ -12,7 +22,7 @@
       "languageColor": "#0064bd",
       "stars": 7736,
       "forks": 2044,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     }
   ]
 }

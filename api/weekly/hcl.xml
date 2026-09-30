@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 29 Sep 2026 07:48:03 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 07:51:04 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
@@ -26,14 +26,9 @@
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-iam</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
-    <description>Manages multiple IAM roles for resources on Google Cloud</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-project-factory</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
@@ -41,14 +36,34 @@
     <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
   </item>
   <item>
-    <title>sidpalas / devops-directive-terraform-course</title>
-    <link>https://github.com/sidpalas/devops-directive-terraform-course</link>
-    <description>Companion repo for complete Terraform course</description>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-project-factory</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-iam</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
+    <description>Manages multiple IAM roles for resources on Google Cloud</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-service-accounts</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
+    <description>Creates one or more service accounts and grants them basic roles</description>
   </item>
   <item>
     <title>cloudposse / terraform-aws-security-group</title>
     <link>https://github.com/cloudposse/terraform-aws-security-group</link>
     <description>Terraform module to provision an AWS Security Group</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-network</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+    <description>Sets up a new VPC network on Google Cloud</description>
   </item>
 </channel>
 </rss>

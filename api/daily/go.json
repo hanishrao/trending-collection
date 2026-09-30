@@ -2,57 +2,47 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 29 Sep 2026 07:46:27 GMT",
+  "pubDate": "Wed, 30 Sep 2026 07:49:34 GMT",
   "items": [
     {
-      "title": "guohuiyuan / go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "title": "rakyll / hey",
+      "url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4975,
-      "forks": 476,
-      "added_stars": "56 stars today"
-    },
-    {
-      "title": "Billionmail / BillionMail",
-      "url": "https://github.com/Billionmail/BillionMail",
-      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15746,
-      "forks": 1727,
-      "added_stars": "55 stars today"
-    },
-    {
-      "title": "dagucloud / dagu",
-      "url": "https://github.com/dagucloud/dagu",
-      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4208,
-      "forks": 352,
+      "stars": 20552,
+      "forks": 1316,
       "added_stars": "34 stars today"
     },
     {
-      "title": "openbao / openbao",
-      "url": "https://github.com/openbao/openbao",
-      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "title": "Gaurav-Gosain / tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8191,
-      "forks": 599,
-      "added_stars": "45 stars today"
+      "stars": 4360,
+      "forks": 186,
+      "added_stars": "147 stars today"
     },
     {
-      "title": "londek / ipadecrypt",
-      "url": "https://github.com/londek/ipadecrypt",
-      "description": "🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 609,
-      "forks": 73,
-      "added_stars": "10 stars today"
+      "stars": 51725,
+      "forks": 6715,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "vllm-project / semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5983,
+      "forks": 990,
+      "added_stars": "18 stars today"
     },
     {
       "title": "ffuf / ffuf",
@@ -60,39 +50,59 @@
       "description": "Fast web fuzzer written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16772,
-      "forks": 1609,
-      "added_stars": "22 stars today"
+      "stars": 16781,
+      "forks": 1611,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 83304,
-      "forks": 4052,
-      "added_stars": "16 stars today"
+      "stars": 91527,
+      "forks": 10865,
+      "added_stars": "75 stars today"
     },
     {
-      "title": "NdoleStudio / httpsms",
-      "url": "https://github.com/NdoleStudio/httpsms",
-      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
+      "title": "temporalio / temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5240,
-      "forks": 962,
-      "added_stars": "14 stars today"
+      "stars": 23379,
+      "forks": 1949,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "daeuniverse / dae",
-      "url": "https://github.com/daeuniverse/dae",
-      "description": "eBPF-based Linux high-performance transparent proxy solution.",
+      "title": "kserve / kserve",
+      "url": "https://github.com/kserve/kserve",
+      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6258,
-      "forks": 410,
-      "added_stars": "13 stars today"
+      "stars": 6051,
+      "forks": 1708,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "trufflesecurity / trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28203,
+      "forks": 2611,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "Billionmail / BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15778,
+      "forks": 1732,
+      "added_stars": "43 stars today"
     },
     {
       "title": "nats-io / nats-server",
@@ -100,29 +110,69 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 20795,
-      "forks": 1978,
-      "added_stars": "8 stars today"
+      "stars": 20812,
+      "forks": 1980,
+      "added_stars": "19 stars today"
     },
     {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
+      "title": "evolution-foundation / evolution-go",
+      "url": "https://github.com/evolution-foundation/evolution-go",
+      "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 139072,
-      "forks": 20865,
-      "added_stars": "21 stars today"
+      "stars": 908,
+      "forks": 481,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "hashicorp / terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "title": "livekit / livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 49786,
-      "forks": 10636,
-      "added_stars": "9 stars today"
+      "stars": 21196,
+      "forks": 2403,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "keploy / keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 18511,
+      "forks": 2375,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "kubernetes-sigs / agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4096,
+      "forks": 539,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35108,
+      "forks": 3022,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "gastownhall / beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 27526,
+      "forks": 1869,
+      "added_stars": "28 stars today"
     },
     {
       "title": "AminMGMT / BackPack",
@@ -130,49 +180,19 @@
       "description": "High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 403,
+      "stars": 412,
       "forks": 96,
-      "added_stars": "13 stars today"
+      "added_stars": "9 stars today"
     },
     {
-      "title": "grafana / k6",
-      "url": "https://github.com/grafana/k6",
-      "description": "A modern load testing tool, using Go and JavaScript",
+      "title": "felinics / Memoh",
+      "url": "https://github.com/felinics/Memoh",
+      "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31698,
-      "forks": 1651,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "fish2018 / pansou",
-      "url": "https://github.com/fish2018/pansou",
-      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14737,
-      "forks": 3578,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29545,
-      "forks": 2254,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "pingcap / tidb",
-      "url": "https://github.com/pingcap/tidb",
-      "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 40607,
-      "forks": 6250,
-      "added_stars": "8 stars today"
+      "stars": 2598,
+      "forks": 252,
+      "added_stars": "12 stars today"
     }
   ]
 }

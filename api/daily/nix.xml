@@ -4,11 +4,21 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 29 Sep 2026 07:46:27 GMT</pubDate>
+  <pubDate>Wed, 30 Sep 2026 07:49:34 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
+  </item>
+  <item>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
   </item>
   <item>
     <title>numtide / llm-agents.nix</title>
@@ -16,34 +26,19 @@
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
+    <title>media-kit / libmpv-darwin-build</title>
+    <link>https://github.com/media-kit/libmpv-darwin-build</link>
+    <description>libmpv for macOS &amp; iOS.</description>
+  </item>
+  <item>
     <title>chaotic-cx / nyx</title>
     <link>https://github.com/chaotic-cx/nyx</link>
     <description>Nix flake for &quot;too much bleeding-edge&quot; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).</description>
   </item>
   <item>
-    <title>Tarow / nix-podman-stacks</title>
-    <link>https://github.com/Tarow/nix-podman-stacks</link>
-    <description>Home Manager Modules for integrated Podman Stacks</description>
-  </item>
-  <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
-  </item>
-  <item>
-    <title>birneee / nixnet</title>
-    <link>https://github.com/birneee/nixnet</link>
-    <description>Reproducible network experiments with a single command, on a single machine with Nix</description>
-  </item>
-  <item>
-    <title>nix-community / nix-wrapper-modules</title>
-    <link>https://github.com/nix-community/nix-wrapper-modules</link>
-    <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules! [maintainer=@BirdeeHub]</description>
-  </item>
-  <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+    <title>finix-community / finix</title>
+    <link>https://github.com/finix-community/finix</link>
+    <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
   </item>
 </channel>
 </rss>
