@@ -2,57 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 30 Sep 2026 07:49:34 GMT",
+  "pubDate": "Thu, 01 Oct 2026 08:09:14 GMT",
   "items": [
     {
-      "title": "rakyll / hey",
-      "url": "https://github.com/rakyll/hey",
-      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 20552,
-      "forks": 1316,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "Gaurav-Gosain / tuios",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4360,
-      "forks": 186,
-      "added_stars": "147 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 51725,
-      "forks": 6715,
-      "added_stars": "112 stars today"
-    },
-    {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5983,
-      "forks": 990,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "ffuf / ffuf",
-      "url": "https://github.com/ffuf/ffuf",
-      "description": "Fast web fuzzer written in Go",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16781,
-      "forks": 1611,
-      "added_stars": "20 stars today"
+      "stars": 38163,
+      "forks": 720,
+      "added_stars": "19 stars today"
     },
     {
       "title": "infiniflow / ragflow",
@@ -60,99 +20,39 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 91527,
-      "forks": 10865,
-      "added_stars": "75 stars today"
+      "stars": 91568,
+      "forks": 10873,
+      "added_stars": "62 stars today"
     },
     {
-      "title": "temporalio / temporal",
-      "url": "https://github.com/temporalio/temporal",
-      "description": "Temporal service",
+      "title": "mikefarah / yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23379,
-      "forks": 1949,
-      "added_stars": "24 stars today"
+      "stars": 16039,
+      "forks": 2163,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "kserve / kserve",
-      "url": "https://github.com/kserve/kserve",
-      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "title": "Gaurav-Gosain / tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6051,
-      "forks": 1708,
-      "added_stars": "9 stars today"
+      "stars": 4429,
+      "forks": 193,
+      "added_stars": "117 stars today"
     },
     {
-      "title": "trufflesecurity / trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
+      "title": "labstack / echo",
+      "url": "https://github.com/labstack/echo",
+      "description": "High performance, minimalist Go web framework",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28203,
-      "forks": 2611,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "Billionmail / BillionMail",
-      "url": "https://github.com/Billionmail/BillionMail",
-      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15778,
-      "forks": 1732,
-      "added_stars": "43 stars today"
-    },
-    {
-      "title": "nats-io / nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20812,
-      "forks": 1980,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "evolution-foundation / evolution-go",
-      "url": "https://github.com/evolution-foundation/evolution-go",
-      "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 908,
-      "forks": 481,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "livekit / livekit",
-      "url": "https://github.com/livekit/livekit",
-      "description": "End-to-end realtime stack for connecting humans and AI",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21196,
-      "forks": 2403,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "keploy / keploy",
-      "url": "https://github.com/keploy/keploy",
-      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 18511,
-      "forks": 2375,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "kubernetes-sigs / agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4096,
-      "forks": 539,
-      "added_stars": "26 stars today"
+      "stars": 32745,
+      "forks": 3717,
+      "added_stars": "4 stars today"
     },
     {
       "title": "seaweedfs / seaweedfs",
@@ -160,9 +60,49 @@
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 35108,
-      "forks": 3022,
-      "added_stars": "38 stars today"
+      "stars": 35160,
+      "forks": 3025,
+      "added_stars": "52 stars today"
+    },
+    {
+      "title": "go-chi / chi",
+      "url": "https://github.com/go-chi/chi",
+      "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22906,
+      "forks": 2430,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "charmbracelet / bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45216,
+      "forks": 2757,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "googleapis / mcp-toolbox",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16544,
+      "forks": 1745,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 49165,
+      "forks": 11813,
+      "added_stars": "65 stars today"
     },
     {
       "title": "gastownhall / beads",
@@ -170,29 +110,99 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27526,
-      "forks": 1869,
-      "added_stars": "28 stars today"
+      "stars": 27559,
+      "forks": 1873,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "AminMGMT / BackPack",
-      "url": "https://github.com/AminMGMT/BackPack",
-      "description": "High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups",
+      "title": "temporalio / temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 412,
-      "forks": 96,
+      "stars": 23397,
+      "forks": 1953,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4963,
+      "forks": 3962,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Billionmail / BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15796,
+      "forks": 1733,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29586,
+      "forks": 2261,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "charmbracelet / lipgloss",
+      "url": "https://github.com/charmbracelet/lipgloss",
+      "description": "Style definitions for nice terminal layouts 👄",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11889,
+      "forks": 401,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23590,
+      "forks": 868,
+      "added_stars": "131 stars today"
+    },
+    {
+      "title": "containerd / containerd",
+      "url": "https://github.com/containerd/containerd",
+      "description": "An open and reliable container runtime",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21364,
+      "forks": 4140,
       "added_stars": "9 stars today"
     },
     {
-      "title": "felinics / Memoh",
-      "url": "https://github.com/felinics/Memoh",
-      "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
+      "title": "ikemen-engine / Ikemen-GO",
+      "url": "https://github.com/ikemen-engine/Ikemen-GO",
+      "description": "An open-source fighting game engine that supports MUGEN resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2598,
-      "forks": 252,
-      "added_stars": "12 stars today"
+      "stars": 1583,
+      "forks": 262,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47256,
+      "forks": 11964,
+      "added_stars": "71 stars today"
     }
   ]
 }

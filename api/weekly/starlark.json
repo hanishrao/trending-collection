@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 30 Sep 2026 07:51:04 GMT",
+  "pubDate": "Thu, 01 Oct 2026 08:10:47 GMT",
   "items": [
     {
       "title": "bazel-contrib / rules_perl",
@@ -35,16 +35,6 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 247,
-      "forks": 200,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "cncf / xds",
       "url": "https://github.com/cncf/xds",
       "description": "xDS API Working Group",
@@ -65,13 +55,33 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 688,
-      "forks": 723,
+      "stars": 23110,
+      "forks": 1438,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "google / fully-homomorphic-encryption",
+      "url": "https://github.com/google/fully-homomorphic-encryption",
+      "description": "Homomorphic Encryption demos",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3772,
+      "forks": 279,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 247,
+      "forks": 200,
       "added_stars": "0 stars this week"
     },
     {
@@ -82,7 +92,17 @@
       "languageColor": "#76d275",
       "stars": 3995,
       "forks": 306,
-      "added_stars": "15 stars this week"
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 688,
+      "forks": 723,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -90,19 +110,9 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 388,
+      "stars": 389,
       "forks": 916,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23109,
-      "forks": 1438,
-      "added_stars": "19 stars this week"
     }
   ]
 }
