@@ -2,47 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 01 Oct 2026 08:12:20 GMT",
+  "pubDate": "Fri, 02 Oct 2026 07:56:39 GMT",
   "items": [
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 130022,
-      "forks": 23952,
-      "added_stars": "3,895 stars this month"
-    },
     {
       "title": "fmtlib / fmt",
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25849,
-      "forks": 3073,
+      "stars": 25860,
+      "forks": 3076,
       "added_stars": "2,130 stars this month"
     },
     {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50180,
-      "forks": 9039,
-      "added_stars": "686 stars this month"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11468,
-      "forks": 506,
-      "added_stars": "1,388 stars this month"
+      "stars": 130113,
+      "forks": 23986,
+      "added_stars": "3,852 stars this month"
     },
     {
       "title": "Neroued / ninfer",
@@ -50,19 +30,9 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2564,
-      "forks": 509,
+      "stars": 2590,
+      "forks": 516,
       "added_stars": "1,362 stars this month"
-    },
-    {
-      "title": "leejet / stable-diffusion.cpp",
-      "url": "https://github.com/leejet/stable-diffusion.cpp",
-      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 7480,
-      "forks": 842,
-      "added_stars": "615 stars this month"
     },
     {
       "title": "audacity / audacity",
@@ -70,49 +40,29 @@
       "description": "Audio Editor",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18618,
-      "forks": 2675,
-      "added_stars": "985 stars this month"
+      "stars": 18629,
+      "forks": 2673,
+      "added_stars": "991 stars this month"
     },
     {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
+      "title": "leejet / stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41846,
-      "forks": 3847,
-      "added_stars": "1,044 stars this month"
+      "stars": 7496,
+      "forks": 846,
+      "added_stars": "615 stars this month"
     },
     {
-      "title": "electron / electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 123357,
-      "forks": 17575,
-      "added_stars": "691 stars this month"
-    },
-    {
-      "title": "prusa3d / PrusaSlicer",
-      "url": "https://github.com/prusa3d/PrusaSlicer",
-      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9378,
-      "forks": 2360,
-      "added_stars": "144 stars this month"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 200644,
-      "forks": 77990,
-      "added_stars": "2,877 stars this month"
+      "stars": 11486,
+      "forks": 509,
+      "added_stars": "1,363 stars this month"
     },
     {
       "title": "LizardByte / Sunshine",
@@ -120,29 +70,39 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41729,
-      "forks": 2171,
-      "added_stars": "1,111 stars this month"
+      "stars": 41754,
+      "forks": 2174,
+      "added_stars": "1,103 stars this month"
     },
     {
-      "title": "aseprite / aseprite",
-      "url": "https://github.com/aseprite/aseprite",
-      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "title": "electron / electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39801,
-      "forks": 9137,
-      "added_stars": "741 stars this month"
+      "stars": 123374,
+      "forks": 17573,
+      "added_stars": "703 stars this month"
     },
     {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 72078,
-      "forks": 16302,
-      "added_stars": "290 stars this month"
+      "stars": 50194,
+      "forks": 9045,
+      "added_stars": "675 stars this month"
+    },
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 200660,
+      "forks": 77997,
+      "added_stars": "2,634 stars this month"
     },
     {
       "title": "google-deepmind / mujoco",
@@ -150,29 +110,19 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15421,
-      "forks": 1794,
-      "added_stars": "606 stars this month"
+      "stars": 15434,
+      "forks": 1796,
+      "added_stars": "596 stars this month"
     },
     {
-      "title": "dragonflydb / dragonfly",
-      "url": "https://github.com/dragonflydb/dragonfly",
-      "description": "A modern replacement for Redis and Memcached",
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31730,
-      "forks": 1273,
-      "added_stars": "710 stars this month"
-    },
-    {
-      "title": "noctalia-dev / noctalia",
-      "url": "https://github.com/noctalia-dev/noctalia",
-      "description": "A sleek, customizable desktop shell crafted for Wayland.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10985,
-      "forks": 846,
-      "added_stars": "993 stars this month"
+      "stars": 41868,
+      "forks": 3849,
+      "added_stars": "1,028 stars this month"
     },
     {
       "title": "aria2 / aria2",
@@ -180,9 +130,9 @@
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 42881,
-      "forks": 3942,
-      "added_stars": "1,050 stars this month"
+      "stars": 42898,
+      "forks": 3943,
+      "added_stars": "1,068 stars this month"
     },
     {
       "title": "jomjol / AI-on-the-edge-device",
@@ -190,9 +140,49 @@
       "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8822,
+      "stars": 8824,
       "forks": 920,
       "added_stars": "194 stars this month"
+    },
+    {
+      "title": "aseprite / aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 39831,
+      "forks": 9146,
+      "added_stars": "742 stars this month"
+    },
+    {
+      "title": "dragonflydb / dragonfly",
+      "url": "https://github.com/dragonflydb/dragonfly",
+      "description": "A modern replacement for Redis and Memcached",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 31737,
+      "forks": 1274,
+      "added_stars": "638 stars this month"
+    },
+    {
+      "title": "noctalia-dev / noctalia",
+      "url": "https://github.com/noctalia-dev/noctalia",
+      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11011,
+      "forks": 848,
+      "added_stars": "981 stars this month"
+    },
+    {
+      "title": "gta-reversed / gta-reversed",
+      "url": "https://github.com/gta-reversed/gta-reversed",
+      "description": "Reimplementation of GTA:SA 1.0 US",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 959,
+      "forks": 235,
+      "added_stars": "132 stars this month"
     }
   ]
 }

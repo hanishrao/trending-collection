@@ -4,16 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 01 Oct 2026 08:09:14 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 07:51:12 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
     <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
@@ -21,9 +16,9 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>ministryofjustice / modernisation-platform</title>
-    <link>https://github.com/ministryofjustice/modernisation-platform</link>
-    <description>A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform</description>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
@@ -31,24 +26,34 @@
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-lambda</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
-    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
-  </item>
-  <item>
     <title>cloudposse / terraform-aws-ecs-container-definition</title>
     <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
     <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-pubsub</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-pubsub</link>
-    <description>Creates Pub/Sub topic and subscriptions associated with the topic</description>
+    <title>terraform-aws-modules / terraform-aws-ecs</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
+    <description>Terraform module to create AWS ECS resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-elasticache</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
+    <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-kms</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
+    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
   </item>
   <item>
     <title>terraform-google-modules / terraform-google-iam</title>
     <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
     <description>Manages multiple IAM roles for resources on Google Cloud</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
   </item>
 </channel>
 </rss>

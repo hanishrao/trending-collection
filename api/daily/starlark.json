@@ -2,18 +2,8 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 01 Oct 2026 08:09:14 GMT",
+  "pubDate": "Fri, 02 Oct 2026 07:51:12 GMT",
   "items": [
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23110,
-      "forks": 1438,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "googleapis / googleapis",
       "url": "https://github.com/googleapis/googleapis",
@@ -21,17 +11,27 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 8766,
-      "forks": 2633,
+      "forks": 2634,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3997,
+      "forks": 306,
       "added_stars": "0 stars today"
     },
     {
-      "title": "uber / hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 404,
-      "forks": 87,
+      "stars": 247,
+      "forks": 200,
       "added_stars": "0 stars today"
     },
     {
@@ -55,6 +55,36 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 404,
+      "forks": 87,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 847,
+      "forks": 660,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23113,
+      "forks": 1439,
+      "added_stars": "2 stars today"
+    },
+    {
       "title": "cncf / xds",
       "url": "https://github.com/cncf/xds",
       "description": "xDS API Working Group",
@@ -65,13 +95,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3995,
-      "forks": 306,
+      "stars": 688,
+      "forks": 725,
       "added_stars": "0 stars today"
     },
     {
@@ -80,8 +110,8 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 389,
-      "forks": 916,
+      "stars": 390,
+      "forks": 917,
       "added_stars": "1 star today"
     }
   ]

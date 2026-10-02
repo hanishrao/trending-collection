@@ -2,17 +2,27 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 01 Oct 2026 08:09:14 GMT",
+  "pubDate": "Fri, 02 Oct 2026 07:51:12 GMT",
   "items": [
     {
       "title": "mvschwarz / openrig",
       "url": "https://github.com/mvschwarz/openrig",
-      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3218,
-      "forks": 221,
-      "added_stars": "624 stars today"
+      "stars": 3893,
+      "forks": 260,
+      "added_stars": "642 stars today"
+    },
+    {
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9364,
+      "forks": 887,
+      "added_stars": "150 stars today"
     },
     {
       "title": "mksglu / context-mode",
@@ -20,19 +30,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24584,
-      "forks": 1773,
-      "added_stars": "90 stars today"
-    },
-    {
-      "title": "openclaw / openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 391075,
-      "forks": 82234,
-      "added_stars": "136 stars today"
+      "stars": 24868,
+      "forks": 1788,
+      "added_stars": "362 stars today"
     },
     {
       "title": "heygen-com / hyperframes",
@@ -40,9 +40,29 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 54918,
-      "forks": 4992,
-      "added_stars": "349 stars today"
+      "stars": 55498,
+      "forks": 5025,
+      "added_stars": "627 stars today"
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 111444,
+      "forks": 14145,
+      "added_stars": "298 stars today"
+    },
+    {
+      "title": "pablostanley / yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3100,
+      "forks": 291,
+      "added_stars": "361 stars today"
     },
     {
       "title": "modelcontextprotocol / servers",
@@ -50,9 +70,39 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 90875,
-      "forks": 11732,
-      "added_stars": "50 stars today"
+      "stars": 90945,
+      "forks": 11749,
+      "added_stars": "190 stars today"
+    },
+    {
+      "title": "garrytan / gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 134730,
+      "forks": 20064,
+      "added_stars": "104 stars today"
+    },
+    {
+      "title": "humanlayer / skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4825,
+      "forks": 154,
+      "added_stars": "66 stars today"
+    },
+    {
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 72176,
+      "forks": 10312,
+      "added_stars": "311 stars today"
     },
     {
       "title": "oblien / openship",
@@ -60,79 +110,49 @@
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 14240,
-      "forks": 1273,
-      "added_stars": "581 stars today"
+      "stars": 14321,
+      "forks": 1277,
+      "added_stars": "111 stars today"
     },
     {
-      "title": "firecrawl / firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 187293,
-      "forks": 9997,
-      "added_stars": "555 stars today"
+      "stars": 95160,
+      "forks": 8428,
+      "added_stars": "99 stars today"
     },
     {
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
+      "title": "nyakang / nyaterm",
+      "url": "https://github.com/nyakang/nyaterm",
+      "description": "A modern remote terminal workspace",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 52826,
-      "forks": 5275,
-      "added_stars": "73 stars today"
+      "stars": 1735,
+      "forks": 167,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "makeplane / plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "title": "ag-ui-protocol / ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 60201,
-      "forks": 5935,
-      "added_stars": "91 stars today"
+      "stars": 16225,
+      "forks": 1480,
+      "added_stars": "67 stars today"
     },
     {
-      "title": "homarr-labs / homarr",
-      "url": "https://github.com/homarr-labs/homarr",
-      "description": "A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.",
+      "title": "cordiverse / cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4936,
-      "forks": 321,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "aipoch / open-science",
-      "url": "https://github.com/aipoch/open-science",
-      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5342,
-      "forks": 491,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "vercel / ai",
-      "url": "https://github.com/vercel/ai",
-      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 27064,
-      "forks": 5232,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 148761,
-      "forks": 25117,
-      "added_stars": "138 stars today"
+      "stars": 8954,
+      "forks": 560,
+      "added_stars": "18 stars today"
     },
     {
       "title": "cloudflare / vinext",
@@ -140,19 +160,9 @@
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9046,
+      "stars": 9067,
       "forks": 427,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "OpenHands / OpenHands",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 89681,
-      "forks": 11839,
-      "added_stars": "115 stars today"
+      "added_stars": "23 stars today"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 01 Oct 2026 08:09:14 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 07:51:12 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -14,31 +14,6 @@
     <title>numtide / llm-agents.nix</title>
     <link>https://github.com/numtide/llm-agents.nix</link>
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
-  </item>
-  <item>
-    <title>supabase / postgres</title>
-    <link>https://github.com/supabase/postgres</link>
-    <description>Unmodified Postgres with some useful extensions</description>
-  </item>
-  <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
-  </item>
-  <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
-  </item>
-  <item>
-    <title>ryantm / agenix</title>
-    <link>https://github.com/ryantm/agenix</link>
-    <description>age-encrypted secrets for NixOS and Home manager</description>
-  </item>
-  <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
     <title>microvm-nix / microvm.nix</title>
@@ -51,14 +26,34 @@
     <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
-    <title>hercules-ci / flake-parts</title>
-    <link>https://github.com/hercules-ci/flake-parts</link>
-    <description>❄️ Simplify Nix Flakes with the module system</description>
+    <title>supabase / postgres</title>
+    <link>https://github.com/supabase/postgres</link>
+    <description>Unmodified Postgres with some useful extensions</description>
   </item>
   <item>
-    <title>numtide / system-manager</title>
-    <link>https://github.com/numtide/system-manager</link>
-    <description>Manage system config using nix on any distro</description>
+    <title>nix-community / infra</title>
+    <link>https://github.com/nix-community/infra</link>
+    <description>nix-community infrastructure [maintainer=@zowoq]</description>
+  </item>
+  <item>
+    <title>finix-community / finix</title>
+    <link>https://github.com/finix-community/finix</link>
+    <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
+  </item>
+  <item>
+    <title>ryoppippi / dotfiles</title>
+    <link>https://github.com/ryoppippi/dotfiles</link>
+    <description>ryoppippi&#x27;s dotfiles</description>
+  </item>
+  <item>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
+  </item>
+  <item>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
   </item>
 </channel>
 </rss>

@@ -2,8 +2,28 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 01 Oct 2026 08:10:47 GMT",
+  "pubDate": "Fri, 02 Oct 2026 07:53:29 GMT",
   "items": [
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8766,
+      "forks": 2634,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23113,
+      "forks": 1439,
+      "added_stars": "21 stars this week"
+    },
     {
       "title": "bazel-contrib / rules_perl",
       "url": "https://github.com/bazel-contrib/rules_perl",
@@ -25,16 +45,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8766,
-      "forks": 2633,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "cncf / xds",
       "url": "https://github.com/cncf/xds",
       "description": "xDS API Working Group",
@@ -43,36 +53,6 @@
       "stars": 272,
       "forks": 85,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 243,
-      "forks": 194,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23110,
-      "forks": 1438,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "google / fully-homomorphic-encryption",
-      "url": "https://github.com/google/fully-homomorphic-encryption",
-      "description": "Homomorphic Encryption demos",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3772,
-      "forks": 279,
-      "added_stars": "6 stars this week"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -85,14 +65,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3995,
-      "forks": 306,
-      "added_stars": "11 stars this week"
+      "stars": 243,
+      "forks": 194,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -101,8 +81,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 688,
-      "forks": 723,
+      "forks": 725,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3997,
+      "forks": 306,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -110,9 +100,19 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 389,
-      "forks": 916,
-      "added_stars": "2 stars this week"
+      "stars": 390,
+      "forks": 917,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "tidbyt / community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 428,
+      "forks": 826,
+      "added_stars": "1 star this week"
     }
   ]
 }

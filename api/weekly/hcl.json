@@ -2,28 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 30 Sep 2026 07:51:04 GMT",
+  "pubDate": "Fri, 02 Oct 2026 07:53:29 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3270,
-      "forks": 4627,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5007,
-      "forks": 4413,
-      "added_stars": "3 stars this week"
-    },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
@@ -33,6 +13,36 @@
       "stars": 585,
       "forks": 3807,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4695,
+      "forks": 3110,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5006,
+      "forks": 4412,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3271,
+      "forks": 4627,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -50,9 +60,19 @@
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 880,
+      "stars": 881,
       "forks": 130,
-      "added_stars": "6 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-ecs",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 676,
+      "forks": 670,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
@@ -60,8 +80,18 @@
       "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 119,
+      "stars": 120,
       "forks": 203,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 964,
+      "forks": 592,
       "added_stars": "0 stars this week"
     },
     {
@@ -71,57 +101,17 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1281,
-      "forks": 1288,
+      "forks": 1289,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 964,
-      "forks": 593,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 242,
-      "forks": 191,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 154,
-      "forks": 119,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "cloudposse / terraform-aws-security-group",
-      "url": "https://github.com/cloudposse/terraform-aws-security-group",
-      "description": "Terraform module to provision an AWS Security Group",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 39,
-      "forks": 38,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1280,
+      "stars": 29,
+      "forks": 72,
       "added_stars": "0 stars this week"
     }
   ]
