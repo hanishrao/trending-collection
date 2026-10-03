@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 02 Oct 2026 07:56:39 GMT",
+  "pubDate": "Sat, 03 Oct 2026 07:30:23 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 43249,
-      "forks": 3115,
-      "added_stars": "21,646 stars this month"
+      "stars": 43407,
+      "forks": 3127,
+      "added_stars": "21,821 stars this month"
     },
     {
       "title": "Tencent / WeKnora",
@@ -20,9 +20,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 31702,
-      "forks": 4232,
-      "added_stars": "10,740 stars this month"
+      "stars": 31810,
+      "forks": 4248,
+      "added_stars": "10,794 stars this month"
     },
     {
       "title": "coder / coder",
@@ -30,9 +30,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16808,
-      "forks": 1604,
-      "added_stars": "2,640 stars this month"
+      "stars": 16819,
+      "forks": 1605,
+      "added_stars": "2,650 stars this month"
     },
     {
       "title": "Gentleman-Programming / gentle-ai",
@@ -40,29 +40,9 @@
       "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7478,
-      "forks": 823,
-      "added_stars": "1,402 stars this month"
-    },
-    {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 25589,
-      "forks": 4121,
-      "added_stars": "692 stars this month"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4138,
-      "forks": 490,
-      "added_stars": "2,393 stars this month"
+      "stars": 7507,
+      "forks": 824,
+      "added_stars": "1,415 stars this month"
     },
     {
       "title": "ollama / ollama",
@@ -70,9 +50,29 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 182038,
-      "forks": 18080,
-      "added_stars": "2,719 stars this month"
+      "stars": 182078,
+      "forks": 18086,
+      "added_stars": "2,699 stars this month"
+    },
+    {
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4163,
+      "forks": 495,
+      "added_stars": "2,453 stars this month"
+    },
+    {
+      "title": "cilium / cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25593,
+      "forks": 4124,
+      "added_stars": "690 stars this month"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -80,9 +80,19 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25192,
-      "forks": 3241,
-      "added_stars": "3,083 stars this month"
+      "stars": 25205,
+      "forks": 3240,
+      "added_stars": "3,094 stars this month"
+    },
+    {
+      "title": "maximhq / bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8528,
+      "forks": 1323,
+      "added_stars": "806 stars this month"
     },
     {
       "title": "Autumn-27 / ARTEX",
@@ -90,19 +100,9 @@
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1338,
-      "forks": 216,
-      "added_stars": "728 stars this month"
-    },
-    {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5835,
-      "forks": 259,
-      "added_stars": "2,351 stars this month"
+      "stars": 1433,
+      "forks": 255,
+      "added_stars": "785 stars this month"
     },
     {
       "title": "urfave / cli",
@@ -111,38 +111,18 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 24274,
-      "forks": 1830,
-      "added_stars": "71 stars this month"
+      "forks": 1833,
+      "added_stars": "73 stars this month"
     },
     {
-      "title": "livekit / livekit",
-      "url": "https://github.com/livekit/livekit",
-      "description": "End-to-end realtime stack for connecting humans and AI",
+      "title": "asciimoo / hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21242,
-      "forks": 2403,
-      "added_stars": "619 stars this month"
-    },
-    {
-      "title": "grpc / grpc-go",
-      "url": "https://github.com/grpc/grpc-go",
-      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23083,
-      "forks": 4777,
-      "added_stars": "139 stars this month"
-    },
-    {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5997,
-      "forks": 996,
-      "added_stars": "537 stars this month"
+      "stars": 5852,
+      "forks": 258,
+      "added_stars": "2,334 stars this month"
     },
     {
       "title": "Gaurav-Gosain / tuios",
@@ -150,19 +130,19 @@
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4484,
-      "forks": 198,
-      "added_stars": "877 stars this month"
+      "stars": 4590,
+      "forks": 202,
+      "added_stars": "971 stars this month"
     },
     {
-      "title": "maximhq / bifrost",
-      "url": "https://github.com/maximhq/bifrost",
-      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
+      "title": "grpc / grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8514,
-      "forks": 1322,
-      "added_stars": "817 stars this month"
+      "stars": 23085,
+      "forks": 4778,
+      "added_stars": "138 stars this month"
     },
     {
       "title": "Gentleman-Programming / engram",
@@ -170,29 +150,9 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6992,
-      "forks": 721,
-      "added_stars": "739 stars this month"
-    },
-    {
-      "title": "trufflesecurity / trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28236,
-      "forks": 2618,
-      "added_stars": "639 stars this month"
-    },
-    {
-      "title": "cloudflare / cloudflared",
-      "url": "https://github.com/cloudflare/cloudflared",
-      "description": "Cloudflare Tunnel client",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 15991,
-      "forks": 1467,
-      "added_stars": "542 stars this month"
+      "stars": 7008,
+      "forks": 722,
+      "added_stars": "742 stars this month"
     },
     {
       "title": "golang / go",
@@ -200,19 +160,59 @@
       "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 139129,
-      "forks": 20972,
-      "added_stars": "2,384 stars this month"
+      "stars": 139133,
+      "forks": 21109,
+      "added_stars": "2,374 stars this month"
     },
     {
-      "title": "putyy / res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "title": "trufflesecurity / trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 20340,
-      "forks": 2524,
-      "added_stars": "737 stars this month"
+      "stars": 28249,
+      "forks": 2619,
+      "added_stars": "646 stars this month"
+    },
+    {
+      "title": "openai / tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 528,
+      "forks": 106,
+      "added_stars": "190 stars this month"
+    },
+    {
+      "title": "cloudflare / cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15996,
+      "forks": 1467,
+      "added_stars": "541 stars this month"
+    },
+    {
+      "title": "vllm-project / semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6002,
+      "forks": 998,
+      "added_stars": "518 stars this month"
+    },
+    {
+      "title": "livekit / livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21255,
+      "forks": 2405,
+      "added_stars": "610 stars this month"
     },
     {
       "title": "e2b-dev / runtime",
@@ -220,19 +220,19 @@
       "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1663,
+      "stars": 1668,
       "forks": 457,
-      "added_stars": "433 stars this month"
+      "added_stars": "439 stars this month"
     },
     {
-      "title": "navidrome / navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧 Your Personal Streaming Service",
+      "title": "kubernetes-sigs / agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23933,
-      "forks": 1735,
-      "added_stars": "701 stars this month"
+      "stars": 4129,
+      "forks": 540,
+      "added_stars": "504 stars this month"
     }
   ]
 }

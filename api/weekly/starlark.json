@@ -2,28 +2,8 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 02 Oct 2026 07:53:29 GMT",
+  "pubDate": "Sat, 03 Oct 2026 07:27:56 GMT",
   "items": [
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8766,
-      "forks": 2634,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23113,
-      "forks": 1439,
-      "added_stars": "21 stars this week"
-    },
     {
       "title": "bazel-contrib / rules_perl",
       "url": "https://github.com/bazel-contrib/rules_perl",
@@ -40,19 +20,19 @@
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 404,
+      "stars": 403,
       "forks": 87,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 272,
-      "forks": 85,
-      "added_stars": "1 star this week"
+      "stars": 8765,
+      "forks": 2633,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -63,6 +43,26 @@
       "stars": 247,
       "forks": 200,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 272,
+      "forks": 85,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "google / fully-homomorphic-encryption",
+      "url": "https://github.com/google/fully-homomorphic-encryption",
+      "description": "Homomorphic Encryption demos",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3772,
+      "forks": 279,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -90,9 +90,19 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3997,
-      "forks": 306,
-      "added_stars": "10 stars this week"
+      "stars": 3999,
+      "forks": 307,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23117,
+      "forks": 1439,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -101,18 +111,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 390,
-      "forks": 917,
+      "forks": 918,
       "added_stars": "3 stars this week"
-    },
-    {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 428,
-      "forks": 826,
-      "added_stars": "1 star this week"
     }
   ]
 }

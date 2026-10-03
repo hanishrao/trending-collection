@@ -2,17 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 02 Oct 2026 07:56:39 GMT",
+  "pubDate": "Sat, 03 Oct 2026 07:30:23 GMT",
   "items": [
+    {
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 27860,
+      "forks": 1964,
+      "added_stars": "5,762 stars this month"
+    },
     {
       "title": "max-sixty / worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8636,
-      "forks": 309,
-      "added_stars": "1,903 stars this month"
+      "stars": 8695,
+      "forks": 310,
+      "added_stars": "1,950 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -20,109 +30,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15572,
-      "forks": 961,
-      "added_stars": "1,786 stars this month"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 34288,
-      "forks": 1544,
-      "added_stars": "2,978 stars this month"
-    },
-    {
-      "title": "clash-verge-rev / clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 148761,
-      "forks": 10679,
-      "added_stars": "7,544 stars this month"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 124978,
-      "forks": 19376,
-      "added_stars": "3,052 stars this month"
-    },
-    {
-      "title": "magnitudedev / magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6207,
-      "forks": 417,
-      "added_stars": "4,512 stars this month"
-    },
-    {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2394,
-      "forks": 251,
-      "added_stars": "1,397 stars this month"
-    },
-    {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8693,
-      "forks": 342,
-      "added_stars": "6,491 stars this month"
-    },
-    {
-      "title": "ankitects / anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31699,
-      "forks": 3294,
-      "added_stars": "1,758 stars this month"
-    },
-    {
-      "title": "mesamirh / MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2383,
-      "forks": 272,
-      "added_stars": "1,058 stars this month"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31871,
-      "forks": 3438,
-      "added_stars": "1,248 stars this month"
-    },
-    {
-      "title": "NVIDIA / OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14164,
-      "forks": 1637,
-      "added_stars": "5,449 stars this month"
+      "stars": 15745,
+      "forks": 971,
+      "added_stars": "1,949 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -130,19 +40,109 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8737,
-      "forks": 607,
-      "added_stars": "3,350 stars this month"
+      "stars": 8778,
+      "forks": 606,
+      "added_stars": "3,370 stars this month"
     },
     {
-      "title": "pnpm / pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36725,
-      "forks": 1899,
-      "added_stars": "429 stars this month"
+      "stars": 34326,
+      "forks": 1544,
+      "added_stars": "2,987 stars this month"
+    },
+    {
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14531,
+      "forks": 1666,
+      "added_stars": "5,918 stars this month"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 125036,
+      "forks": 19386,
+      "added_stars": "3,032 stars this month"
+    },
+    {
+      "title": "clash-verge-rev / clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 148924,
+      "forks": 10687,
+      "added_stars": "7,504 stars this month"
+    },
+    {
+      "title": "magnitudedev / magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6303,
+      "forks": 425,
+      "added_stars": "4,665 stars this month"
+    },
+    {
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2406,
+      "forks": 253,
+      "added_stars": "1,403 stars this month"
+    },
+    {
+      "title": "ankitects / anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31723,
+      "forks": 3295,
+      "added_stars": "1,738 stars this month"
+    },
+    {
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8825,
+      "forks": 345,
+      "added_stars": "6,314 stars this month"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31892,
+      "forks": 3435,
+      "added_stars": "1,244 stars this month"
+    },
+    {
+      "title": "mesamirh / MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2399,
+      "forks": 273,
+      "added_stars": "1,063 stars this month"
     },
     {
       "title": "juspay / hyperswitch",
@@ -151,58 +151,8 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": 45272,
-      "forks": 6422,
-      "added_stars": "2,025 stars this month"
-    },
-    {
-      "title": "CapSoftware / Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 23005,
-      "forks": 1998,
-      "added_stars": "1,657 stars this month"
-    },
-    {
-      "title": "harry0703 / MangoDisk",
-      "url": "https://github.com/harry0703/MangoDisk",
-      "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3553,
-      "forks": 262,
-      "added_stars": "1,678 stars this month"
-    },
-    {
-      "title": "router-for-me / EasyCLIProxyAPI",
-      "url": "https://github.com/router-for-me/EasyCLIProxyAPI",
-      "description": "A desktop GUI for CLIProxyAPI and a tool for automatically configuring popular AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2614,
-      "forks": 215,
-      "added_stars": "900 stars this month"
-    },
-    {
-      "title": "pollen-robotics / microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9059,
-      "forks": 1155,
-      "added_stars": "3,153 stars this month"
-    },
-    {
-      "title": "remorses / gpuix",
-      "url": "https://github.com/remorses/gpuix",
-      "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2505,
-      "forks": 69,
-      "added_stars": "1,105 stars this month"
+      "forks": 6421,
+      "added_stars": "2,017 stars this month"
     },
     {
       "title": "zeronsh / zeron",
@@ -210,19 +160,39 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2718,
-      "forks": 254,
-      "added_stars": "1,393 stars this month"
+      "stars": 2866,
+      "forks": 273,
+      "added_stars": "1,647 stars this month"
     },
     {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "title": "pnpm / pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 119413,
-      "forks": 17264,
-      "added_stars": "3,075 stars this month"
+      "stars": 36734,
+      "forks": 1902,
+      "added_stars": "414 stars this month"
+    },
+    {
+      "title": "CapSoftware / Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 23015,
+      "forks": 1997,
+      "added_stars": "1,637 stars this month"
+    },
+    {
+      "title": "harry0703 / MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk",
+      "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3594,
+      "forks": 262,
+      "added_stars": "1,576 stars this month"
     }
   ]
 }

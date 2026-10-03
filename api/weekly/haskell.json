@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 02 Oct 2026 07:53:29 GMT",
+  "pubDate": "Sat, 03 Oct 2026 07:27:56 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46469,
-      "forks": 5273,
-      "added_stars": "85 stars this week"
+      "stars": 46476,
+      "forks": 5428,
+      "added_stars": "79 stars this week"
     },
     {
       "title": "hadolint / hadolint",
@@ -21,8 +21,18 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 12449,
-      "forks": 504,
-      "added_stars": "25 stars this week"
+      "forks": 505,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40119,
+      "forks": 1956,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "haskell / cabal",
@@ -31,18 +41,8 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 1744,
-      "forks": 753,
+      "forks": 754,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 40113,
-      "forks": 1955,
-      "added_stars": "33 stars this week"
     },
     {
       "title": "digital-asset / daml",
@@ -50,19 +50,9 @@
       "description": "The Daml smart contract language",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 917,
+      "stars": 916,
       "forks": 263,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2934,
-      "forks": 429,
-      "added_stars": "4 stars this week"
     },
     {
       "title": "commercialhaskell / stack",
@@ -80,9 +70,9 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19514,
+      "stars": 19517,
       "forks": 1361,
-      "added_stars": "58 stars this week"
+      "added_stars": "48 stars this week"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -91,18 +81,28 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 2959,
-      "forks": 457,
-      "added_stars": "1 star this week"
+      "forks": 458,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27692,
-      "forks": 1228,
-      "added_stars": "17 stars this week"
+      "stars": 2933,
+      "forks": 429,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3178,
+      "forks": 758,
+      "added_stars": "2 stars this week"
     }
   ]
 }

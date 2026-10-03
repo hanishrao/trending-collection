@@ -2,17 +2,27 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 02 Oct 2026 07:51:12 GMT",
+  "pubDate": "Sat, 03 Oct 2026 07:26:31 GMT",
   "items": [
     {
-      "title": "apache / apisix",
-      "url": "https://github.com/apache/apisix",
-      "description": "The Cloud-Native API Gateway and AI Gateway",
+      "title": "Kong / kong",
+      "url": "https://github.com/Kong/kong",
+      "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 17187,
-      "forks": 2958,
-      "added_stars": "3 stars today"
+      "stars": 44235,
+      "forks": 5222,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "LandSandBoat / server",
+      "url": "https://github.com/LandSandBoat/server",
+      "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 509,
+      "forks": 921,
+      "added_stars": "0 stars today"
     },
     {
       "title": "neovim / nvim-lspconfig",
@@ -20,128 +30,18 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13967,
+      "stars": 13966,
       "forks": 2499,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "koreader / koreader",
-      "url": "https://github.com/koreader/koreader",
-      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 30050,
-      "forks": 1938,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "xmake-io / xmake",
-      "url": "https://github.com/xmake-io/xmake",
-      "description": "🔥 A cross-platform build utility based on Lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 12241,
-      "forks": 961,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 27587,
-      "forks": 1824,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "nvim-telescope / telescope.nvim",
-      "url": "https://github.com/nvim-telescope/telescope.nvim",
-      "description": "Find, Filter, Preview, Pick. All lua, all the time.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 19811,
-      "forks": 968,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "NvChad / NvChad",
-      "url": "https://github.com/NvChad/NvChad",
-      "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 28506,
-      "forks": 2217,
       "added_stars": "1 star today"
     },
     {
-      "title": "EllesmereGaming / EllesmereUI",
-      "url": "https://github.com/EllesmereGaming/EllesmereUI",
-      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
+      "title": "overextended / ox_inventory",
+      "url": "https://github.com/overextended/ox_inventory",
+      "description": "Slot-based inventory with metadata.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 230,
-      "forks": 286,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ntop / ntopng",
-      "url": "https://github.com/ntop/ntopng",
-      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 8220,
-      "forks": 767,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "b0o / SchemaStore.nvim",
-      "url": "https://github.com/b0o/SchemaStore.nvim",
-      "description": "🛍 JSON schemas for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1037,
-      "forks": 21,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "NeogitOrg / neogit",
-      "url": "https://github.com/NeogitOrg/neogit",
-      "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 5644,
-      "forks": 358,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "amzxyz / rime-wanxiang",
-      "url": "https://github.com/amzxyz/rime-wanxiang",
-      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4683,
-      "forks": 174,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "nvim-orgmode / orgmode",
-      "url": "https://github.com/nvim-orgmode/orgmode",
-      "description": "Orgmode clone written in Lua for Neovim 0.11.0+.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3902,
-      "forks": 191,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "forest0xia / dota2bot-OpenHyperAI",
-      "url": "https://github.com/forest0xia/dota2bot-OpenHyperAI",
-      "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 295,
-      "forks": 71,
+      "stars": 565,
+      "forks": 1085,
       "added_stars": "0 stars today"
     },
     {
@@ -150,9 +50,79 @@
       "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5837,
+      "stars": 5838,
       "forks": 219,
-      "added_stars": "3 stars today"
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "id577 / FS25_AdvancedDamageSystem",
+      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
+      "description": "Advanced Damage System mod for Farming Simulator 25",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 278,
+      "forks": 17,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "tarantool / tarantool",
+      "url": "https://github.com/tarantool/tarantool",
+      "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3669,
+      "forks": 423,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "iDvel / rime-ice",
+      "url": "https://github.com/iDvel/rime-ice",
+      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 19591,
+      "forks": 1194,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "FrSkyRC / ETHOS-Feedback-Community",
+      "url": "https://github.com/FrSkyRC/ETHOS-Feedback-Community",
+      "description": "Feedback & suggestions are welcomed here for ETHOS by FrSky",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 250,
+      "forks": 99,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ThePrimeagen / 99",
+      "url": "https://github.com/ThePrimeagen/99",
+      "description": "Neovim AI agent done right",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4744,
+      "forks": 262,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "uzelezz123 / Z-City",
+      "url": "https://github.com/uzelezz123/Z-City",
+      "description": "Z-City is a GMod addon which modifies character damage and controls. Z-City also comes with its own weapon base and a gamemode",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 106,
+      "forks": 132,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "b0o / SchemaStore.nvim",
+      "url": "https://github.com/b0o/SchemaStore.nvim",
+      "description": "🛍 JSON schemas for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1038,
+      "forks": 21,
+      "added_stars": "1 star today"
     }
   ]
 }
