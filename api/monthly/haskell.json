@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 03 Oct 2026 07:30:23 GMT",
+  "pubDate": "Sun, 04 Oct 2026 07:45:46 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46476,
-      "forks": 5428,
-      "added_stars": "427 stars this month"
+      "stars": 46531,
+      "forks": 5549,
+      "added_stars": "445 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,9 +20,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40119,
-      "forks": 1956,
-      "added_stars": "176 stars this month"
+      "stars": 40125,
+      "forks": 1955,
+      "added_stars": "179 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,19 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12449,
+      "stars": 12451,
       "forks": 505,
       "added_stars": "76 stars this month"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7907,
+      "forks": 691,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -55,14 +65,14 @@
       "added_stars": "9 stars this month"
     },
     {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 7906,
-      "forks": 691,
-      "added_stars": "20 stars this month"
+      "stars": 27693,
+      "forks": 1229,
+      "added_stars": "85 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -72,17 +82,7 @@
       "languageColor": "#5e5086",
       "stars": 2959,
       "forks": 458,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27692,
-      "forks": 1228,
-      "added_stars": "83 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-node",
@@ -90,7 +90,7 @@
       "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3178,
+      "stars": 3176,
       "forks": 758,
       "added_stars": "7 stars this month"
     },
@@ -115,6 +115,16 @@
       "added_stars": "61 stars this month"
     },
     {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2933,
+      "forks": 429,
+      "added_stars": "20 stars this month"
+    },
+    {
       "title": "fossas / fossa-cli",
       "url": "https://github.com/fossas/fossa-cli",
       "description": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
@@ -122,7 +132,7 @@
       "languageColor": "#5e5086",
       "stars": 1521,
       "forks": 207,
-      "added_stars": "3 stars this month"
+      "added_stars": "4 stars this month"
     }
   ]
 }

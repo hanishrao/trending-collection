@@ -2,17 +2,37 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 03 Oct 2026 07:26:31 GMT",
+  "pubDate": "Sun, 04 Oct 2026 07:41:05 GMT",
   "items": [
+    {
+      "title": "willfaust / Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1725,
+      "forks": 253,
+      "added_stars": "159 stars today"
+    },
     {
       "title": "colbymchenry / codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 73037,
-      "forks": 4686,
-      "added_stars": "98 stars today"
+      "stars": 73150,
+      "forks": 4695,
+      "added_stars": "248 stars today"
+    },
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12115,
+      "forks": 1602,
+      "added_stars": "5 stars today"
     },
     {
       "title": "JustVugg / colibri",
@@ -20,49 +40,29 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 39154,
-      "forks": 4290,
-      "added_stars": "209 stars today"
+      "stars": 39387,
+      "forks": 4316,
+      "added_stars": "256 stars today"
     },
     {
-      "title": "martanne / vis",
-      "url": "https://github.com/martanne/vis",
-      "description": "A vi-like editor based on Plan 9's structural regular expressions",
+      "title": "ValdikSS / GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4988,
-      "forks": 292,
-      "added_stars": "30 stars today"
+      "stars": 28717,
+      "forks": 2228,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "matz / spinel",
-      "url": "https://github.com/matz/spinel",
-      "description": "Ruby AOT compiler",
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2154,
-      "forks": 134,
-      "added_stars": "55 stars today"
-    },
-    {
-      "title": "lizongying / my-tv",
-      "url": "https://github.com/lizongying/my-tv",
-      "description": "我的电视 电视直播软件，安装即可使用",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31961,
-      "forks": 3588,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "Mbed-TLS / mbedtls",
-      "url": "https://github.com/Mbed-TLS/mbedtls",
-      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6980,
-      "forks": 2980,
-      "added_stars": "0 stars today"
+      "stars": 150965,
+      "forks": 13868,
+      "added_stars": "73 stars today"
     },
     {
       "title": "EpicGames / raddebugger",
@@ -70,29 +70,69 @@
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7574,
-      "forks": 371,
-      "added_stars": "22 stars today"
+      "stars": 7583,
+      "forks": 372,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
+      "title": "portapack-mayhem / mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "The firmware for the HackRF+PortaPack H1/H2/H4/H4M",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30880,
-      "forks": 11503,
-      "added_stars": "4 stars today"
+      "stars": 5444,
+      "forks": 928,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "EchoStretch / kstuff-lite",
-      "url": "https://github.com/EchoStretch/kstuff-lite",
-      "description": "",
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 582,
-      "forks": 38,
-      "added_stars": "19 stars today"
+      "stars": 63590,
+      "forks": 28472,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "xiaojieonly / Ehviewer_CN_SXJ",
+      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+      "description": "ehviewer，用爱发电，快乐前行",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27379,
+      "forks": 720,
+      "added_stars": "42 stars today"
+    },
+    {
+      "title": "Mbed-TLS / mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6981,
+      "forks": 2980,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "moonlight-stream / moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7210,
+      "forks": 1580,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "ExpressLRS / ExpressLRS",
+      "url": "https://github.com/ExpressLRS/ExpressLRS",
+      "description": "High Performance Open Source Radio Control Link",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5373,
+      "forks": 1537,
+      "added_stars": "6 stars today"
     },
     {
       "title": "madler / zlib",
@@ -100,49 +140,9 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7113,
-      "forks": 2862,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "itsPLK / ps5-payload-manager",
-      "url": "https://github.com/itsPLK/ps5-payload-manager",
-      "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 420,
-      "forks": 48,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "asterisk / asterisk",
-      "url": "https://github.com/asterisk/asterisk",
-      "description": "The official Asterisk Project repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3591,
-      "forks": 1322,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "etaHEN / etaHEN",
-      "url": "https://github.com/etaHEN/etaHEN",
-      "description": "AIO HEN payload",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 725,
-      "forks": 63,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15639,
-      "forks": 2663,
-      "added_stars": "22 stars today"
+      "stars": 7120,
+      "forks": 2864,
+      "added_stars": "6 stars today"
     }
   ]
 }

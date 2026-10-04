@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 03 Oct 2026 07:26:31 GMT",
+  "pubDate": "Sun, 04 Oct 2026 07:41:05 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7970,
-      "forks": 1296,
-      "added_stars": "30 stars today"
+      "stars": 7979,
+      "forks": 1302,
+      "added_stars": "12 stars today"
     },
     {
       "title": "flashinfer-ai / flashinfer",
@@ -20,9 +20,19 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6535,
-      "forks": 1527,
-      "added_stars": "5 stars today"
+      "stars": 6539,
+      "forks": 1529,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10238,
+      "forks": 1459,
+      "added_stars": "0 stars today"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -35,6 +45,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 31095,
+      "forks": 3768,
+      "added_stars": "4 stars today"
+    },
+    {
       "title": "NVIDIA / nccl-tests",
       "url": "https://github.com/NVIDIA/nccl-tests",
       "description": "NCCL Tests",
@@ -43,36 +63,6 @@
       "stars": 1671,
       "forks": 411,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 31089,
-      "forks": 3768,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10237,
-      "forks": 1459,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2528,
-      "forks": 260,
-      "added_stars": "2 stars today"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 03 Oct 2026 07:30:23 GMT",
+  "pubDate": "Sun, 04 Oct 2026 07:45:46 GMT",
   "items": [
+    {
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14716,
+      "forks": 1684,
+      "added_stars": "6,209 stars this month"
+    },
     {
       "title": "trycua / cua",
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 27860,
-      "forks": 1964,
-      "added_stars": "5,762 stars this month"
+      "stars": 27974,
+      "forks": 1980,
+      "added_stars": "5,879 stars this month"
     },
     {
       "title": "max-sixty / worktrunk",
@@ -20,9 +30,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8695,
-      "forks": 310,
-      "added_stars": "1,950 stars this month"
+      "stars": 8756,
+      "forks": 315,
+      "added_stars": "1,999 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -30,9 +40,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15745,
-      "forks": 971,
-      "added_stars": "1,949 stars this month"
+      "stars": 15948,
+      "forks": 981,
+      "added_stars": "2,034 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -40,9 +50,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8778,
-      "forks": 606,
-      "added_stars": "3,370 stars this month"
+      "stars": 8813,
+      "forks": 611,
+      "added_stars": "3,259 stars this month"
     },
     {
       "title": "rustfs / rustfs",
@@ -50,19 +60,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34326,
-      "forks": 1544,
-      "added_stars": "2,987 stars this month"
-    },
-    {
-      "title": "NVIDIA / OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14531,
-      "forks": 1666,
-      "added_stars": "5,918 stars this month"
+      "stars": 34365,
+      "forks": 1546,
+      "added_stars": "2,976 stars this month"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -70,9 +70,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 125036,
-      "forks": 19386,
-      "added_stars": "3,032 stars this month"
+      "stars": 125080,
+      "forks": 19406,
+      "added_stars": "3,022 stars this month"
     },
     {
       "title": "clash-verge-rev / clash-verge-rev",
@@ -80,9 +80,9 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 148924,
-      "forks": 10687,
-      "added_stars": "7,504 stars this month"
+      "stars": 149104,
+      "forks": 10699,
+      "added_stars": "7,511 stars this month"
     },
     {
       "title": "magnitudedev / magnitude",
@@ -90,9 +90,9 @@
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6303,
-      "forks": 425,
-      "added_stars": "4,665 stars this month"
+      "stars": 6340,
+      "forks": 427,
+      "added_stars": "4,506 stars this month"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -100,9 +100,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2406,
-      "forks": 253,
-      "added_stars": "1,403 stars this month"
+      "stars": 2436,
+      "forks": 257,
+      "added_stars": "1,399 stars this month"
     },
     {
       "title": "ankitects / anki",
@@ -110,29 +110,19 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31723,
-      "forks": 3295,
-      "added_stars": "1,738 stars this month"
+      "stars": 31737,
+      "forks": 3297,
+      "added_stars": "1,696 stars this month"
     },
     {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8825,
-      "forks": 345,
-      "added_stars": "6,314 stars this month"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31892,
-      "forks": 3435,
-      "added_stars": "1,244 stars this month"
+      "stars": 119503,
+      "forks": 17530,
+      "added_stars": "2,654 stars this month"
     },
     {
       "title": "mesamirh / MovieBox-Tui",
@@ -140,19 +130,39 @@
       "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2399,
-      "forks": 273,
-      "added_stars": "1,063 stars this month"
+      "stars": 2419,
+      "forks": 274,
+      "added_stars": "1,072 stars this month"
     },
     {
-      "title": "juspay / hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 45272,
-      "forks": 6421,
-      "added_stars": "2,017 stars this month"
+      "stars": 31926,
+      "forks": 3441,
+      "added_stars": "1,196 stars this month"
+    },
+    {
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8949,
+      "forks": 350,
+      "added_stars": "6,085 stars this month"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 24431,
+      "forks": 2230,
+      "added_stars": "6,498 stars this month"
     },
     {
       "title": "zeronsh / zeron",
@@ -160,19 +170,19 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2866,
-      "forks": 273,
-      "added_stars": "1,647 stars this month"
+      "stars": 2960,
+      "forks": 278,
+      "added_stars": "1,786 stars this month"
     },
     {
-      "title": "pnpm / pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
+      "title": "juspay / hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36734,
-      "forks": 1902,
-      "added_stars": "414 stars this month"
+      "stars": 45273,
+      "forks": 6420,
+      "added_stars": "2,006 stars this month"
     },
     {
       "title": "CapSoftware / Cap",
@@ -180,19 +190,9 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23015,
-      "forks": 1997,
-      "added_stars": "1,637 stars this month"
-    },
-    {
-      "title": "harry0703 / MangoDisk",
-      "url": "https://github.com/harry0703/MangoDisk",
-      "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3594,
-      "forks": 262,
-      "added_stars": "1,576 stars this month"
+      "stars": 23030,
+      "forks": 1998,
+      "added_stars": "1,516 stars this month"
     }
   ]
 }

@@ -2,18 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 03 Oct 2026 07:30:23 GMT",
+  "pubDate": "Sun, 04 Oct 2026 07:45:46 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 586,
-      "forks": 3807,
-      "added_stars": "3 stars this month"
-    },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
@@ -32,7 +22,17 @@
       "languageColor": "#844FBA",
       "stars": 5006,
       "forks": 4412,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 586,
+      "forks": 3807,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -40,8 +40,8 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3271,
-      "forks": 4627,
+      "stars": 3270,
+      "forks": 4626,
       "added_stars": "15 stars this month"
     },
     {
@@ -55,16 +55,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 964,
-      "forks": 592,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-iam",
       "url": "https://github.com/terraform-google-modules/terraform-google-iam",
       "description": "Manages multiple IAM roles for resources on Google Cloud",
@@ -75,16 +65,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 676,
-      "forks": 670,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-network",
       "url": "https://github.com/terraform-google-modules/terraform-google-network",
       "description": "Sets up a new VPC network on Google Cloud",
@@ -93,6 +73,26 @@
       "stars": 501,
       "forks": 1279,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 964,
+      "forks": 592,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-ecs",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 676,
+      "forks": 670,
+      "added_stars": "2 stars this month"
     }
   ]
 }

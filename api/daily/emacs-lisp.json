@@ -2,8 +2,28 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 03 Oct 2026 07:26:31 GMT",
+  "pubDate": "Sun, 04 Oct 2026 07:41:05 GMT",
   "items": [
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1921,
+      "forks": 241,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 7237,
+      "forks": 883,
+      "added_stars": "1 star today"
+    },
     {
       "title": "doomemacs / core",
       "url": "https://github.com/doomemacs/core",
@@ -15,14 +35,34 @@
       "added_stars": "2 stars today"
     },
     {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3544,
+      "forks": 440,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "melpa / melpa",
       "url": "https://github.com/melpa/melpa",
       "description": "Recipes and build machinery for the biggest Emacs package repo",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2974,
-      "forks": 2824,
-      "added_stars": "1 star today"
+      "forks": 2825,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 24542,
+      "forks": 4830,
+      "added_stars": "0 stars today"
     },
     {
       "title": "emacs-mirror / emacs",
@@ -30,59 +70,9 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5211,
-      "forks": 1406,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "doomemacs / modules",
-      "url": "https://github.com/doomemacs/modules",
-      "description": "Official module library for Doom Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 64,
-      "forks": 43,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1919,
-      "forks": 241,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "emacs-lsp / lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5124,
-      "forks": 984,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2585,
-      "forks": 339,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3543,
-      "forks": 440,
-      "added_stars": "2 stars today"
+      "stars": 5212,
+      "forks": 1407,
+      "added_stars": "0 stars today"
     }
   ]
 }
