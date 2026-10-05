@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 04 Oct 2026 07:43:24 GMT",
+  "pubDate": "Mon, 05 Oct 2026 08:08:10 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46530,
-      "forks": 5547,
-      "added_stars": "102 stars this week"
+      "stars": 46568,
+      "forks": 5635,
+      "added_stars": "157 stars this week"
     },
     {
       "title": "hadolint / hadolint",
@@ -20,9 +20,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12451,
+      "stars": 12455,
       "forks": 505,
-      "added_stars": "24 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
       "title": "koalaman / shellcheck",
@@ -30,9 +30,19 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40124,
+      "stars": 40133,
       "forks": 1955,
-      "added_stars": "41 stars this week"
+      "added_stars": "47 stars this week"
+    },
+    {
+      "title": "rzk-lang / rzk",
+      "url": "https://github.com/rzk-lang/rzk",
+      "description": "An experimental proof assistant based on a type theory for synthetic ∞-categories.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 304,
+      "forks": 33,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "digital-asset / daml",
@@ -51,8 +61,18 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 1744,
-      "forks": 754,
+      "forks": 755,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2931,
+      "forks": 429,
+      "added_stars": "1 star this week"
     },
     {
       "title": "commercialhaskell / stack",
@@ -71,18 +91,8 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 3176,
-      "forks": 758,
+      "forks": 759,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2933,
-      "forks": 429,
-      "added_stars": "3 stars this week"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -93,6 +103,36 @@
       "stars": 2959,
       "forks": 458,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1885,
+      "forks": 79,
+      "added_stars": "47 stars this week"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27692,
+      "forks": 1228,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19521,
+      "forks": 1361,
+      "added_stars": "48 stars this week"
     }
   ]
 }

@@ -2,87 +2,57 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 04 Oct 2026 07:41:05 GMT",
+  "pubDate": "Mon, 05 Oct 2026 08:05:46 GMT",
   "items": [
     {
-      "title": "PrimeIntellect-ai / prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "title": "zerx-lab / FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21522,
-      "forks": 2376,
-      "added_stars": "32 stars today"
+      "stars": 3872,
+      "forks": 232,
+      "added_stars": "299 stars today"
     },
     {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "title": "touchHLE / touchHLE",
+      "url": "https://github.com/touchHLE/touchHLE",
+      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32782,
-      "forks": 3035,
-      "added_stars": "101 stars today"
-    },
-    {
-      "title": "rubys / roundhouse",
-      "url": "https://github.com/rubys/roundhouse",
-      "description": "Rails as a specification; the deployment target is a build flag",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 379,
-      "forks": 24,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "longbridge / gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15943,
-      "forks": 981,
-      "added_stars": "168 stars today"
-    },
-    {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8756,
-      "forks": 315,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "a2x / cs2-dumper",
-      "url": "https://github.com/a2x/cs2-dumper",
-      "description": "Counter-Strike: 2 Offset Dumper",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2394,
-      "forks": 365,
+      "stars": 3975,
+      "forks": 345,
       "added_stars": "4 stars today"
     },
     {
-      "title": "samwhosung / benilla",
-      "url": "https://github.com/samwhosung/benilla",
-      "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 557,
-      "forks": 110,
-      "added_stars": "77 stars today"
+      "stars": 119563,
+      "forks": 17615,
+      "added_stars": "112 stars today"
     },
     {
-      "title": "agentgateway / agentgateway",
-      "url": "https://github.com/agentgateway/agentgateway",
-      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5164,
-      "forks": 912,
-      "added_stars": "16 stars today"
+      "stars": 37611,
+      "forks": 2413,
+      "added_stars": "64 stars today"
+    },
+    {
+      "title": "Nasiko-Labs / nasiko",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "description": "The Open Runtime for AI Agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9409,
+      "forks": 2076,
+      "added_stars": "5 stars today"
     },
     {
       "title": "zeronsh / zeron",
@@ -90,9 +60,9 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2960,
-      "forks": 278,
-      "added_stars": "153 stars today"
+      "stars": 3024,
+      "forks": 285,
+      "added_stars": "81 stars today"
     },
     {
       "title": "FalkorDB / FalkorDB",
@@ -100,29 +70,59 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6795,
-      "forks": 498,
-      "added_stars": "133 stars today"
+      "stars": 7035,
+      "forks": 508,
+      "added_stars": "164 stars today"
     },
     {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "title": "nkaz001 / hftbacktest",
+      "url": "https://github.com/nkaz001/hftbacktest",
+      "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8215,
-      "forks": 1657,
-      "added_stars": "4 stars today"
+      "stars": 4853,
+      "forks": 923,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "title": "samwhosung / benilla",
+      "url": "https://github.com/samwhosung/benilla",
+      "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 82328,
-      "forks": 5237,
-      "added_stars": "89 stars today"
+      "stars": 594,
+      "forks": 113,
+      "added_stars": "50 stars today"
+    },
+    {
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 40649,
+      "forks": 4028,
+      "added_stars": "98 stars today"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32869,
+      "forks": 3046,
+      "added_stars": "84 stars today"
+    },
+    {
+      "title": "clash-verge-rev / clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 149282,
+      "forks": 10713,
+      "added_stars": "191 stars today"
     },
     {
       "title": "tursodatabase / turso",
@@ -130,9 +130,9 @@
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24562,
-      "forks": 1396,
-      "added_stars": "55 stars today"
+      "stars": 24611,
+      "forks": 1404,
+      "added_stars": "46 stars today"
     }
   ]
 }

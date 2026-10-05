@@ -2,57 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 04 Oct 2026 07:41:05 GMT",
+  "pubDate": "Mon, 05 Oct 2026 08:05:46 GMT",
   "items": [
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 76707,
+      "forks": 5054,
+      "added_stars": "24 stars today"
+    },
     {
       "title": "JuliusBrussee / caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 109642,
-      "forks": 6341,
-      "added_stars": "507 stars today"
-    },
-    {
-      "title": "golangci / golangci-lint",
-      "url": "https://github.com/golangci/golangci-lint",
-      "description": "Fast linters runner for Go",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19411,
-      "forks": 1633,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "router-for-me / CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 54067,
-      "forks": 8199,
-      "added_stars": "156 stars today"
-    },
-    {
-      "title": "hashicorp / terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49826,
-      "forks": 10638,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "lharries / whatsapp-mcp",
-      "url": "https://github.com/lharries/whatsapp-mcp",
-      "description": "WhatsApp MCP server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6388,
-      "forks": 1358,
-      "added_stars": "14 stars today"
+      "stars": 109886,
+      "forks": 6359,
+      "added_stars": "433 stars today"
     },
     {
       "title": "Autumn-27 / ARTEX",
@@ -60,9 +30,29 @@
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1478,
-      "forks": 272,
-      "added_stars": "71 stars today"
+      "stars": 1548,
+      "forks": 323,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "NdoleStudio / httpsms",
+      "url": "https://github.com/NdoleStudio/httpsms",
+      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5710,
+      "forks": 1042,
+      "added_stars": "103 stars today"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47436,
+      "forks": 12065,
+      "added_stars": "43 stars today"
     },
     {
       "title": "CarterPerez-dev / Cybersecurity-Projects",
@@ -70,89 +60,9 @@
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7765,
-      "forks": 1134,
-      "added_stars": "72 stars today"
-    },
-    {
-      "title": "avelino / awesome-go",
-      "url": "https://github.com/avelino/awesome-go",
-      "description": "A curated list of awesome Go frameworks, libraries and software",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 186819,
-      "forks": 13605,
-      "added_stars": "172 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-go",
-      "url": "https://github.com/open-telemetry/opentelemetry-go",
-      "description": "OpenTelemetry Go API and SDK",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6572,
-      "forks": 1489,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38215,
-      "forks": 723,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "weave-os / router",
-      "url": "https://github.com/weave-os/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5562,
-      "forks": 152,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 111330,
-      "forks": 15660,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "Armur-Ai / Pentest-Swarm-AI",
-      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
-      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2728,
-      "forks": 496,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4234,
-      "forks": 500,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 33352,
-      "forks": 5079,
-      "added_stars": "19 stars today"
+      "stars": 7844,
+      "forks": 1145,
+      "added_stars": "75 stars today"
     },
     {
       "title": "tailscale / tailcat",
@@ -160,69 +70,119 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8108,
-      "forks": 351,
-      "added_stars": "81 stars today"
+      "stars": 8143,
+      "forks": 352,
+      "added_stars": "53 stars today"
     },
     {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
+      "title": "avelino / awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7708,
-      "forks": 651,
-      "added_stars": "10 stars today"
+      "stars": 187005,
+      "forks": 13604,
+      "added_stars": "165 stars today"
     },
     {
-      "title": "distribution / distribution",
-      "url": "https://github.com/distribution/distribution",
-      "description": "The toolkit to pack, ship, store, and deliver container content",
+      "title": "google / gvisor",
+      "url": "https://github.com/google/gvisor",
+      "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10643,
-      "forks": 2798,
+      "stars": 19542,
+      "forks": 2021,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "router-for-me / CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 54181,
+      "forks": 8232,
+      "added_stars": "129 stars today"
+    },
+    {
+      "title": "v2fly / domain-list-community",
+      "url": "https://github.com/v2fly/domain-list-community",
+      "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9626,
+      "forks": 1442,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7329,
+      "forks": 1537,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "mostlygeek / llama-swap",
+      "url": "https://github.com/mostlygeek/llama-swap",
+      "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5842,
+      "forks": 490,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "vllm-project / semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6034,
+      "forks": 1010,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "ys-ll / uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 693,
+      "forks": 100,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "masterking32 / MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7064,
+      "forks": 793,
       "added_stars": "4 stars today"
     },
     {
-      "title": "urfave / cli",
-      "url": "https://github.com/urfave/cli",
-      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+      "title": "github / github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24276,
-      "forks": 1833,
-      "added_stars": "1 star today"
+      "stars": 33377,
+      "forks": 5087,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "DataDog / datadog-agent",
-      "url": "https://github.com/DataDog/datadog-agent",
-      "description": "Main repository for Datadog Agent",
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3754,
-      "forks": 1500,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-collector-contrib",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-      "description": "Contrib repository for the OpenTelemetry Collector",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4970,
-      "forks": 3971,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 182143,
-      "forks": 18098,
-      "added_stars": "65 stars today"
+      "stars": 139255,
+      "forks": 21319,
+      "added_stars": "77 stars today"
     }
   ]
 }

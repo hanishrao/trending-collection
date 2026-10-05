@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 04 Oct 2026 07:43:24 GMT</pubDate>
+  <pubDate>Mon, 05 Oct 2026 08:08:10 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -26,11 +26,6 @@
     <description>Unmodified Postgres with some useful extensions</description>
   </item>
   <item>
-    <title>finix-community / finix</title>
-    <link>https://github.com/finix-community/finix</link>
-    <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
-  </item>
-  <item>
     <title>Mic92 / sops-nix</title>
     <link>https://github.com/Mic92/sops-nix</link>
     <description>Atomic secret provisioning for NixOS based on sops</description>
@@ -39,6 +34,11 @@
     <title>NixOS / nixos-hardware</title>
     <link>https://github.com/NixOS/nixos-hardware</link>
     <description>A collection of NixOS modules covering hardware quirks.</description>
+  </item>
+  <item>
+    <title>SushyDev / nix-plist-manager</title>
+    <link>https://github.com/SushyDev/nix-plist-manager</link>
+    <description>Your Mac&#x27;s System Settings, declared in Nix: 550+ settings for nix-darwin and home-manager</description>
   </item>
   <item>
     <title>NixOS / nix.dev</title>
@@ -51,16 +51,6 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>numtide / system-manager</title>
-    <link>https://github.com/numtide/system-manager</link>
-    <description>Manage system config using nix on any distro</description>
-  </item>
-  <item>
-    <title>flyingcircusio / fc-nixos</title>
-    <link>https://github.com/flyingcircusio/fc-nixos</link>
-    <description>The Flying Circus platform, based on NixOS.</description>
-  </item>
-  <item>
     <title>nix-community / stylix</title>
     <link>https://github.com/nix-community/stylix</link>
     <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
@@ -69,6 +59,26 @@
     <title>nix-darwin / nix-darwin</title>
     <link>https://github.com/nix-darwin/nix-darwin</link>
     <description>Manage your macOS using Nix</description>
+  </item>
+  <item>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
+  </item>
+  <item>
+    <title>finix-community / finix</title>
+    <link>https://github.com/finix-community/finix</link>
+    <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
+  </item>
+  <item>
+    <title>flyingcircusio / fc-nixos</title>
+    <link>https://github.com/flyingcircusio/fc-nixos</link>
+    <description>The Flying Circus platform, based on NixOS.</description>
   </item>
 </channel>
 </rss>

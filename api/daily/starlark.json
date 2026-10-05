@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 04 Oct 2026 07:41:05 GMT",
+  "pubDate": "Mon, 05 Oct 2026 08:05:46 GMT",
   "items": [
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8765,
+      "forks": 2633,
+      "added_stars": "1 star today"
+    },
     {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
@@ -11,77 +21,17 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 390,
-      "forks": 918,
+      "forks": 921,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 243,
-      "forks": 194,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 247,
-      "forks": 200,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "uber / hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 403,
-      "forks": 87,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8764,
-      "forks": 2634,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23118,
-      "forks": 1439,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "google / fully-homomorphic-encryption",
-      "url": "https://github.com/google/fully-homomorphic-encryption",
-      "description": "Homomorphic Encryption demos",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3772,
-      "forks": 279,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 272,
-      "forks": 85,
+      "stars": 848,
+      "forks": 660,
       "added_stars": "0 stars today"
     },
     {
@@ -90,19 +40,19 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 4002,
+      "stars": 4003,
       "forks": 306,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "bazel-contrib / rules_perl",
-      "url": "https://github.com/bazel-contrib/rules_perl",
-      "description": "Perl rules for Bazel",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 31,
-      "forks": 49,
-      "added_stars": "0 stars today"
+      "stars": 23117,
+      "forks": 1439,
+      "added_stars": "2 stars today"
     }
   ]
 }
