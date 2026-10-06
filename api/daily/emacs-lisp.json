@@ -2,17 +2,37 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 05 Oct 2026 08:05:46 GMT",
+  "pubDate": "Tue, 06 Oct 2026 08:27:28 GMT",
   "items": [
     {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7238,
-      "forks": 883,
-      "added_stars": "2 stars today"
+      "stars": 2977,
+      "forks": 2825,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22726,
+      "forks": 3144,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2584,
+      "forks": 342,
+      "added_stars": "1 star today"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -21,27 +41,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 24541,
-      "forks": 4830,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2976,
-      "forks": 2827,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2585,
-      "forks": 341,
+      "forks": 4829,
       "added_stars": "0 stars today"
     },
     {
@@ -50,9 +50,9 @@
       "description": "Emacs client/library for the Language Server Protocol",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5124,
+      "stars": 5125,
       "forks": 983,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

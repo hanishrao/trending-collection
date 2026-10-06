@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 05 Oct 2026 08:10:27 GMT",
+  "pubDate": "Tue, 06 Oct 2026 08:30:26 GMT",
   "items": [
     {
       "title": "flashinfer-ai / flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6546,
-      "forks": 1531,
-      "added_stars": "222 stars this month"
+      "stars": 6550,
+      "forks": 1537,
+      "added_stars": "220 stars this month"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -20,9 +20,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 8312,
-      "forks": 1330,
-      "added_stars": "223 stars this month"
+      "stars": 8514,
+      "forks": 1359,
+      "added_stars": "723 stars this month"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -30,9 +30,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10243,
-      "forks": 1460,
-      "added_stars": "156 stars this month"
+      "stars": 10245,
+      "forks": 1458,
+      "added_stars": "157 stars this month"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -40,9 +40,59 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3958,
-      "forks": 525,
+      "stars": 3959,
+      "forks": 526,
       "added_stars": "263 stars this month"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2533,
+      "forks": 263,
+      "added_stars": "59 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 860,
+      "forks": 243,
+      "added_stars": "14 stars this month"
+    },
+    {
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3743,
+      "forks": 331,
+      "added_stars": "79 stars this month"
+    },
+    {
+      "title": "rapidsai / cugraph",
+      "url": "https://github.com/rapidsai/cugraph",
+      "description": "cuGraph - RAPIDS Graph Analytics Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2241,
+      "forks": 367,
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1053,
+      "forks": 239,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -60,69 +110,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31098,
-      "forks": 3770,
+      "stars": 31106,
+      "forks": 3772,
       "added_stars": "214 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 859,
-      "forks": 243,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3742,
-      "forks": 331,
-      "added_stars": "77 stars this month"
-    },
-    {
-      "title": "rapidsai / cugraph",
-      "url": "https://github.com/rapidsai/cugraph",
-      "description": "cuGraph - RAPIDS Graph Analytics Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2242,
-      "forks": 367,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1053,
-      "forks": 239,
-      "added_stars": "26 stars this month"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1670,
-      "forks": 411,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2531,
-      "forks": 262,
-      "added_stars": "59 stars this month"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
@@ -130,9 +120,19 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3300,
-      "forks": 294,
-      "added_stars": "57 stars this month"
+      "stars": 3301,
+      "forks": 295,
+      "added_stars": "60 stars this month"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1671,
+      "forks": 411,
+      "added_stars": "24 stars this month"
     }
   ]
 }

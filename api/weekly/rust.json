@@ -2,47 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 05 Oct 2026 08:08:10 GMT",
+  "pubDate": "Tue, 06 Oct 2026 08:28:56 GMT",
   "items": [
-    {
-      "title": "NVIDIA / OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14920,
-      "forks": 1700,
-      "added_stars": "5,996 stars this week"
-    },
     {
       "title": "t8y2 / dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24636,
-      "forks": 2245,
-      "added_stars": "3,600 stars this week"
-    },
-    {
-      "title": "hydra-db / hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13047,
-      "forks": 5509,
-      "added_stars": "2,791 stars this week"
-    },
-    {
-      "title": "timhartmann7 / omnyssh",
-      "url": "https://github.com/timhartmann7/omnyssh",
-      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1143,
-      "forks": 63,
-      "added_stars": "331 stars this week"
+      "stars": 24847,
+      "forks": 2251,
+      "added_stars": "3,359 stars this week"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -50,9 +20,9 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11948,
-      "forks": 869,
-      "added_stars": "568 stars this week"
+      "stars": 12003,
+      "forks": 872,
+      "added_stars": "616 stars this week"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -60,9 +30,19 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16167,
-      "forks": 993,
-      "added_stars": "1,190 stars this week"
+      "stars": 16239,
+      "forks": 1000,
+      "added_stars": "1,310 stars this week"
+    },
+    {
+      "title": "timhartmann7 / omnyssh",
+      "url": "https://github.com/timhartmann7/omnyssh",
+      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1152,
+      "forks": 64,
+      "added_stars": "169 stars this week"
     },
     {
       "title": "zerx-lab / FluxDown",
@@ -70,19 +50,9 @@
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3872,
-      "forks": 232,
-      "added_stars": "584 stars this week"
-    },
-    {
-      "title": "touchHLE / touchHLE",
-      "url": "https://github.com/touchHLE/touchHLE",
-      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3975,
-      "forks": 345,
-      "added_stars": "39 stars this week"
+      "stars": 3961,
+      "forks": 235,
+      "added_stars": "688 stars this week"
     },
     {
       "title": "ruvnet / RuView",
@@ -90,9 +60,29 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 96454,
-      "forks": 12701,
-      "added_stars": "1,254 stars this week"
+      "stars": 96629,
+      "forks": 12713,
+      "added_stars": "1,344 stars this week"
+    },
+    {
+      "title": "touchHLE / touchHLE",
+      "url": "https://github.com/touchHLE/touchHLE",
+      "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3977,
+      "forks": 347,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "hydra-db / hydradb",
+      "url": "https://github.com/hydra-db/hydradb",
+      "description": "HydraDB - fast graph database on object storage",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 13053,
+      "forks": 5495,
+      "added_stars": "1,071 stars this week"
     },
     {
       "title": "helix-editor / helix",
@@ -100,19 +90,9 @@
       "description": "A post-modern modal text editor.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 46468,
-      "forks": 3813,
-      "added_stars": "120 stars this week"
-    },
-    {
-      "title": "JayWebtech / autoshorts",
-      "url": "https://github.com/JayWebtech/autoshorts",
-      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1173,
-      "forks": 221,
-      "added_stars": "283 stars this week"
+      "stars": 46483,
+      "forks": 3814,
+      "added_stars": "125 stars this week"
     },
     {
       "title": "xingkongliang / skills-manager",
@@ -120,9 +100,29 @@
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5483,
-      "forks": 472,
-      "added_stars": "465 stars this week"
+      "stars": 5585,
+      "forks": 479,
+      "added_stars": "360 stars this week"
+    },
+    {
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15030,
+      "forks": 1711,
+      "added_stars": "5,915 stars this week"
+    },
+    {
+      "title": "JayWebtech / autoshorts",
+      "url": "https://github.com/JayWebtech/autoshorts",
+      "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1183,
+      "forks": 223,
+      "added_stars": "291 stars this week"
     },
     {
       "title": "zeronsh / zeron",
@@ -130,9 +130,9 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3024,
-      "forks": 285,
-      "added_stars": "781 stars this week"
+      "stars": 3047,
+      "forks": 287,
+      "added_stars": "801 stars this week"
     },
     {
       "title": "pydantic / monty",
@@ -140,39 +140,39 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8555,
-      "forks": 445,
-      "added_stars": "192 stars this week"
+      "stars": 8565,
+      "forks": 447,
+      "added_stars": "203 stars this week"
     },
     {
-      "title": "tokio-rs / topcoat",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "description": "A batteries-included framework for building web apps",
+      "title": "kitao / pyxel",
+      "url": "https://github.com/kitao/pyxel",
+      "description": "A retro game engine for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5939,
-      "forks": 202,
-      "added_stars": "472 stars this week"
+      "stars": 18398,
+      "forks": 964,
+      "added_stars": "167 stars this week"
     },
     {
-      "title": "magnitudedev / magnitude",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6381,
-      "forks": 433,
-      "added_stars": "1,144 stars this week"
+      "stars": 32966,
+      "forks": 3061,
+      "added_stars": "587 stars this week"
     },
     {
-      "title": "juspay / hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "title": "a2x / cs2-dumper",
+      "url": "https://github.com/a2x/cs2-dumper",
+      "description": "Counter-Strike: 2 Offset Dumper",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 45287,
-      "forks": 6423,
-      "added_stars": "539 stars this week"
+      "stars": 2400,
+      "forks": 367,
+      "added_stars": "30 stars this week"
     }
   ]
 }

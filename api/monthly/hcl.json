@@ -2,8 +2,18 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 05 Oct 2026 08:10:27 GMT",
+  "pubDate": "Tue, 06 Oct 2026 08:30:26 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5008,
+      "forks": 4412,
+      "added_stars": "12 stars this month"
+    },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
@@ -15,23 +25,13 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5007,
-      "forks": 4412,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 586,
-      "forks": 3808,
+      "forks": 3807,
       "added_stars": "3 stars this month"
     },
     {
@@ -40,9 +40,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3271,
-      "forks": 4626,
-      "added_stars": "14 stars this month"
+      "stars": 3273,
+      "forks": 4628,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -65,23 +65,23 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "terraform-aws-modules / terraform-aws-ecs",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 675,
+      "forks": 670,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-network",
       "url": "https://github.com/terraform-google-modules/terraform-google-network",
       "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 502,
-      "forks": 1279,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 676,
-      "forks": 670,
+      "forks": 1280,
       "added_stars": "2 stars this month"
     },
     {
@@ -101,7 +101,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 207,
-      "forks": 607,
+      "forks": 608,
       "added_stars": "0 stars this month"
     }
   ]

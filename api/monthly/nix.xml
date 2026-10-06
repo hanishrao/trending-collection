@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 05 Oct 2026 08:10:27 GMT</pubDate>
+  <pubDate>Tue, 06 Oct 2026 08:30:26 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -41,14 +41,19 @@
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
+  </item>
+  <item>
     <title>nix-community / NixOS-WSL</title>
     <link>https://github.com/nix-community/NixOS-WSL</link>
     <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
   <item>
-    <title>numtide / system-manager</title>
-    <link>https://github.com/numtide/system-manager</link>
-    <description>Manage system config using nix on any distro</description>
+    <title>nix-community / disko</title>
+    <link>https://github.com/nix-community/disko</link>
+    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
     <title>flyingcircusio / fc-nixos</title>
@@ -56,9 +61,9 @@
     <description>The Flying Circus platform, based on NixOS.</description>
   </item>
   <item>
-    <title>nix-community / disko</title>
-    <link>https://github.com/nix-community/disko</link>
-    <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+    <title>cloud-gouv / securix</title>
+    <link>https://github.com/cloud-gouv/securix</link>
+    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
 </channel>
 </rss>

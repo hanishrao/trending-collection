@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 05 Oct 2026 08:08:10 GMT",
+  "pubDate": "Tue, 06 Oct 2026 08:28:56 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,9 +10,19 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8765,
+      "stars": 8766,
       "forks": 2633,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23122,
+      "forks": 1439,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "bazel-contrib / rules_perl",
@@ -22,16 +32,6 @@
       "languageColor": "#76d275",
       "stars": 31,
       "forks": 49,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 247,
-      "forks": 200,
       "added_stars": "0 stars this week"
     },
     {
@@ -45,6 +45,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 247,
+      "forks": 200,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "tilt-dev / tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
@@ -52,6 +62,16 @@
       "languageColor": "#76d275",
       "stars": 243,
       "forks": 194,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 272,
+      "forks": 85,
       "added_stars": "0 stars this week"
     },
     {
@@ -65,42 +85,12 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23117,
-      "forks": 1439,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 272,
-      "forks": 85,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4003,
-      "forks": 306,
-      "added_stars": "11 stars this week"
-    },
-    {
       "title": "google / fully-homomorphic-encryption",
       "url": "https://github.com/google/fully-homomorphic-encryption",
       "description": "Homomorphic Encryption demos",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3773,
+      "stars": 3774,
       "forks": 279,
       "added_stars": "4 stars this week"
     },
@@ -115,14 +105,24 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 4006,
+      "forks": 306,
+      "added_stars": "13 stars this week"
+    },
+    {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 390,
-      "forks": 921,
-      "added_stars": "2 stars this week"
+      "stars": 391,
+      "forks": 926,
+      "added_stars": "3 stars this week"
     }
   ]
 }

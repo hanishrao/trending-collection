@@ -2,47 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 05 Oct 2026 08:10:27 GMT",
+  "pubDate": "Tue, 06 Oct 2026 08:30:26 GMT",
   "items": [
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 200714,
+      "forks": 78441,
+      "added_stars": "2,168 stars this month"
+    },
     {
       "title": "ggml-org / llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 130337,
-      "forks": 24092,
-      "added_stars": "3,680 stars this month"
-    },
-    {
-      "title": "firebase / firebase-ios-sdk",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6924,
-      "forks": 1815,
-      "added_stars": "277 stars this month"
-    },
-    {
-      "title": "leejet / stable-diffusion.cpp",
-      "url": "https://github.com/leejet/stable-diffusion.cpp",
-      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 7531,
-      "forks": 849,
-      "added_stars": "633 stars this month"
-    },
-    {
-      "title": "Neroued / ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2703,
-      "forks": 537,
-      "added_stars": "1,318 stars this month"
+      "stars": 130437,
+      "forks": 24122,
+      "added_stars": "3,668 stars this month"
     },
     {
       "title": "ClickHouse / ClickHouse",
@@ -50,29 +30,29 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50254,
-      "forks": 9061,
-      "added_stars": "680 stars this month"
+      "stars": 50268,
+      "forks": 9067,
+      "added_stars": "689 stars this month"
     },
     {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
+      "title": "firebase / firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 200702,
-      "forks": 78353,
-      "added_stars": "2,196 stars this month"
+      "stars": 6926,
+      "forks": 1816,
+      "added_stars": "282 stars this month"
     },
     {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
+      "title": "leejet / stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41861,
-      "forks": 2189,
-      "added_stars": "1,113 stars this month"
+      "stars": 7538,
+      "forks": 851,
+      "added_stars": "637 stars this month"
     },
     {
       "title": "godotengine / godot",
@@ -80,9 +60,29 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 118137,
-      "forks": 26944,
-      "added_stars": "1,753 stars this month"
+      "stars": 118174,
+      "forks": 26960,
+      "added_stars": "1,740 stars this month"
+    },
+    {
+      "title": "Neroued / ninfer",
+      "url": "https://github.com/Neroued/ninfer",
+      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2742,
+      "forks": 548,
+      "added_stars": "1,308 stars this month"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41903,
+      "forks": 2196,
+      "added_stars": "1,128 stars this month"
     },
     {
       "title": "optiscaler / OptiScaler",
@@ -90,9 +90,9 @@
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11551,
+      "stars": 11571,
       "forks": 510,
-      "added_stars": "1,288 stars this month"
+      "added_stars": "1,251 stars this month"
     },
     {
       "title": "aria2 / aria2",
@@ -100,29 +100,9 @@
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 42957,
-      "forks": 3946,
-      "added_stars": "1,100 stars this month"
-    },
-    {
-      "title": "aseprite / aseprite",
-      "url": "https://github.com/aseprite/aseprite",
-      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 39876,
-      "forks": 9171,
-      "added_stars": "732 stars this month"
-    },
-    {
-      "title": "mamedev / mame",
-      "url": "https://github.com/mamedev/mame",
-      "description": "MAME",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10568,
-      "forks": 2563,
-      "added_stars": "130 stars this month"
+      "stars": 42963,
+      "forks": 3945,
+      "added_stars": "1,102 stars this month"
     },
     {
       "title": "gta-reversed / gta-reversed",
@@ -130,29 +110,19 @@
       "description": "Reimplementation of GTA:SA 1.0 US",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 984,
-      "forks": 236,
+      "stars": 987,
+      "forks": 238,
       "added_stars": "151 stars this month"
     },
     {
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "title": "aseprite / aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15466,
-      "forks": 1801,
-      "added_stars": "557 stars this month"
-    },
-    {
-      "title": "envoyproxy / envoy",
-      "url": "https://github.com/envoyproxy/envoy",
-      "description": "Cloud-native high-performance edge/middle/service proxy",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29039,
-      "forks": 5643,
-      "added_stars": "198 stars this month"
+      "stars": 39900,
+      "forks": 9179,
+      "added_stars": "731 stars this month"
     },
     {
       "title": "apache / arrow",
@@ -160,9 +130,9 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17177,
-      "forks": 4344,
-      "added_stars": "108 stars this month"
+      "stars": 17183,
+      "forks": 4348,
+      "added_stars": "109 stars this month"
     },
     {
       "title": "microsoft / WSL",
@@ -170,29 +140,9 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33951,
-      "forks": 1849,
-      "added_stars": "397 stars this month"
-    },
-    {
-      "title": "ClassicOldSong / Apollo",
-      "url": "https://github.com/ClassicOldSong/Apollo",
-      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11185,
-      "forks": 475,
-      "added_stars": "425 stars this month"
-    },
-    {
-      "title": "react / react-native",
-      "url": "https://github.com/react/react-native",
-      "description": "A framework for building native applications using React",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 126796,
-      "forks": 25301,
-      "added_stars": "444 stars this month"
+      "stars": 33968,
+      "forks": 1850,
+      "added_stars": "410 stars this month"
     },
     {
       "title": "electron / electron",
@@ -200,19 +150,49 @@
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 123388,
-      "forks": 17574,
-      "added_stars": "689 stars this month"
+      "stars": 123405,
+      "forks": 17575,
+      "added_stars": "676 stars this month"
     },
     {
-      "title": "jomjol / AI-on-the-edge-device",
-      "url": "https://github.com/jomjol/AI-on-the-edge-device",
-      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
+      "title": "mamedev / mame",
+      "url": "https://github.com/mamedev/mame",
+      "description": "MAME",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8834,
-      "forks": 920,
-      "added_stars": "195 stars this month"
+      "stars": 10574,
+      "forks": 2565,
+      "added_stars": "136 stars this month"
+    },
+    {
+      "title": "react / react-native",
+      "url": "https://github.com/react/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 126801,
+      "forks": 25298,
+      "added_stars": "436 stars this month"
+    },
+    {
+      "title": "google-deepmind / mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15477,
+      "forks": 1806,
+      "added_stars": "564 stars this month"
+    },
+    {
+      "title": "envoyproxy / envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29042,
+      "forks": 5644,
+      "added_stars": "204 stars this month"
     }
   ]
 }
