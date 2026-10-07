@@ -2,8 +2,48 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 06 Oct 2026 08:28:56 GMT",
+  "pubDate": "Wed, 07 Oct 2026 08:04:05 GMT",
   "items": [
+    {
+      "title": "zigtools / zls",
+      "url": "https://github.com/zigtools/zls",
+      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 5196,
+      "forks": 452,
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 36053,
+      "forks": 1703,
+      "added_stars": "408 stars this week"
+    },
+    {
+      "title": "ziglang / zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 43306,
+      "forks": 3188,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "roc-lang / roc",
+      "url": "https://github.com/roc-lang/roc",
+      "description": "A fast, friendly, functional language.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 6098,
+      "forks": 424,
+      "added_stars": "20 stars this week"
+    },
     {
       "title": "tigerbeetle / tigerbeetle",
       "url": "https://github.com/tigerbeetle/tigerbeetle",
@@ -12,37 +52,7 @@
       "languageColor": "#ec915c",
       "stars": 17143,
       "forks": 914,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "zigtools / zls",
-      "url": "https://github.com/zigtools/zls",
-      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 5182,
-      "forks": 452,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "roc-lang / roc",
-      "url": "https://github.com/roc-lang/roc",
-      "description": "A fast, friendly, functional language.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 6097,
-      "forks": 424,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "ziglang / zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 43307,
-      "forks": 3188,
-      "added_stars": "24 stars this week"
+      "added_stars": "40 stars this week"
     },
     {
       "title": "ddalcu / mlx-serve",
@@ -50,19 +60,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1766,
-      "forks": 178,
-      "added_stars": "122 stars this week"
-    },
-    {
-      "title": "vercel-labs / native",
-      "url": "https://github.com/vercel-labs/native",
-      "description": "Toolkit for building native desktop apps",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 7748,
-      "forks": 324,
-      "added_stars": "33 stars this week"
+      "stars": 1782,
+      "forks": 180,
+      "added_stars": "126 stars this week"
     },
     {
       "title": "zml / zml",
@@ -70,29 +70,9 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 4140,
-      "forks": 191,
-      "added_stars": "55 stars this week"
-    },
-    {
-      "title": "ghostty-org / ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 61879,
-      "forks": 3575,
-      "added_stars": "245 stars this week"
-    },
-    {
-      "title": "lightpanda-io / browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 36014,
-      "forks": 1702,
-      "added_stars": "415 stars this week"
+      "stars": 4147,
+      "forks": 192,
+      "added_stars": "54 stars this week"
     },
     {
       "title": "neurosnap / zmx",
@@ -100,19 +80,29 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2191,
-      "forks": 164,
-      "added_stars": "20 stars this week"
+      "stars": 2193,
+      "forks": 165,
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "Loongphy / codex-auth",
-      "url": "https://github.com/Loongphy/codex-auth",
-      "description": "A CLI tool to switch and manage Codex accounts",
+      "title": "ghostty-org / ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2780,
-      "forks": 164,
-      "added_stars": "24 stars this week"
+      "stars": 61913,
+      "forks": 3593,
+      "added_stars": "245 stars this week"
+    },
+    {
+      "title": "vercel-labs / native",
+      "url": "https://github.com/vercel-labs/native",
+      "description": "Toolkit for building native desktop apps",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 7752,
+      "forks": 323,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "sleep3r / mtproto.zig",
@@ -120,9 +110,29 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2131,
+      "stars": 2147,
       "forks": 102,
-      "added_stars": "46 stars this week"
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "Loongphy / codex-auth",
+      "url": "https://github.com/Loongphy/codex-auth",
+      "description": "A CLI tool to switch and manage Codex accounts",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2783,
+      "forks": 164,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "nullclaw / nullclaw",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 8104,
+      "forks": 942,
+      "added_stars": "8 stars this week"
     }
   ]
 }

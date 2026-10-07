@@ -2,67 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 06 Oct 2026 08:27:28 GMT",
+  "pubDate": "Wed, 07 Oct 2026 08:02:27 GMT",
   "items": [
     {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46595,
-      "forks": 5721,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19521,
-      "forks": 1357,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1888,
-      "forks": 81,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "simplex-chat / simplexmq",
-      "url": "https://github.com/simplex-chat/simplexmq",
-      "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 852,
-      "forks": 112,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hledgerorg / hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4745,
-      "forks": 415,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27696,
-      "forks": 1228,
-      "added_stars": "1 star today"
+      "stars": 12461,
+      "forks": 505,
+      "added_stars": "3 stars today"
     },
     {
       "title": "koalaman / shellcheck",
@@ -70,18 +20,68 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40139,
-      "forks": 1955,
+      "stars": 40142,
+      "forks": 1956,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 46606,
+      "forks": 5821,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19526,
+      "forks": 1357,
       "added_stars": "9 stars today"
     },
     {
-      "title": "actonlang / acton",
-      "url": "https://github.com/actonlang/acton",
-      "description": "Actor-based, safely typed, fast programming language.",
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 189,
-      "forks": 14,
+      "stars": 1890,
+      "forks": 81,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "simplex-chat / simplexmq",
+      "url": "https://github.com/simplex-chat/simplexmq",
+      "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 853,
+      "forks": 112,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27699,
+      "forks": 1228,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "NixOS / nixpkgs-update",
+      "url": "https://github.com/NixOS/nixpkgs-update",
+      "description": "Updating nixpkgs packages since 2018",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 621,
+      "forks": 103,
       "added_stars": "0 stars today"
     },
     {
@@ -92,26 +92,6 @@
       "languageColor": "#5e5086",
       "stars": 916,
       "forks": 263,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "commercialhaskell / stack",
-      "url": "https://github.com/commercialhaskell/stack",
-      "description": "The Haskell Tool Stack",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4077,
-      "forks": 852,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2931,
-      "forks": 429,
       "added_stars": "0 stars today"
     }
   ]

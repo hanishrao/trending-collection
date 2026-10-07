@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 06 Oct 2026 08:28:56 GMT</pubDate>
+  <pubDate>Wed, 07 Oct 2026 08:04:05 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -21,11 +21,6 @@
     <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
   <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
-  </item>
-  <item>
     <title>supabase / postgres</title>
     <link>https://github.com/supabase/postgres</link>
     <description>Unmodified Postgres with some useful extensions</description>
@@ -36,14 +31,19 @@
     <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
   <item>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
+  </item>
+  <item>
     <title>nix-community / stylix</title>
     <link>https://github.com/nix-community/stylix</link>
     <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
   </item>
   <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+    <title>chaotic-cx / nyx</title>
+    <link>https://github.com/chaotic-cx/nyx</link>
+    <description>Nix flake for &quot;too much bleeding-edge&quot; and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).</description>
   </item>
   <item>
     <title>microvm-nix / microvm.nix</title>
@@ -51,24 +51,19 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+  </item>
+  <item>
     <title>NixOS / nix.dev</title>
     <link>https://github.com/NixOS/nix.dev</link>
     <description>Official documentation for getting things done with Nix.</description>
   </item>
   <item>
-    <title>finix-community / finix</title>
-    <link>https://github.com/finix-community/finix</link>
-    <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
-  </item>
-  <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
-  </item>
-  <item>
-    <title>SushyDev / nix-plist-manager</title>
-    <link>https://github.com/SushyDev/nix-plist-manager</link>
-    <description>Your Mac&#x27;s System Settings, declared in Nix: 550+ settings for nix-darwin and home-manager</description>
+    <title>Tarow / nix-podman-stacks</title>
+    <link>https://github.com/Tarow/nix-podman-stacks</link>
+    <description>Home Manager Modules for integrated Podman Stacks</description>
   </item>
   <item>
     <title>numtide / system-manager</title>
@@ -76,9 +71,9 @@
     <description>Manage system config using nix on any distro</description>
   </item>
   <item>
-    <title>flyingcircusio / fc-nixos</title>
-    <link>https://github.com/flyingcircusio/fc-nixos</link>
-    <description>The Flying Circus platform, based on NixOS.</description>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
   </item>
 </channel>
 </rss>

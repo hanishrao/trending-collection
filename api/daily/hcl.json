@@ -2,46 +2,106 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 06 Oct 2026 08:27:28 GMT",
+  "pubDate": "Wed, 07 Oct 2026 08:02:27 GMT",
   "items": [
     {
-      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
-      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
-      "description": "",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 563,
-      "forks": 877,
+      "stars": 5009,
+      "forks": 4412,
       "added_stars": "1 star today"
     },
     {
-      "title": "antonbabenko / terraform-best-practices",
-      "url": "https://github.com/antonbabenko/terraform-best-practices",
-      "description": "Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2552,
-      "forks": 558,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 62,
-      "forks": 112,
+      "stars": 1041,
+      "forks": 780,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ministryofjustice / modernisation-platform",
-      "url": "https://github.com/ministryofjustice/modernisation-platform",
-      "description": "A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform",
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 723,
-      "forks": 283,
+      "stars": 3273,
+      "forks": 4628,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4697,
+      "forks": 3111,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 586,
+      "forks": 3806,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 207,
+      "forks": 608,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 351,
+      "forks": 238,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 241,
+      "forks": 191,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ministryofjustice / cloud-platform-environments",
+      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
+      "description": "Environment configuration for the Cloud Platform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 86,
+      "forks": 38,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 29,
+      "forks": 72,
       "added_stars": "0 stars today"
     }
   ]

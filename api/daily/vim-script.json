@@ -2,27 +2,37 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 06 Oct 2026 08:27:28 GMT",
+  "pubDate": "Wed, 07 Oct 2026 08:02:27 GMT",
   "items": [
-    {
-      "title": "vim / vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 41134,
-      "forks": 6142,
-      "added_stars": "18 stars today"
-    },
     {
       "title": "neovim / neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102861,
-      "forks": 7153,
-      "added_stars": "48 stars today"
+      "stars": 102889,
+      "forks": 7158,
+      "added_stars": "51 stars today"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11689,
+      "forks": 821,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "jbranchaud / til",
+      "url": "https://github.com/jbranchaud/til",
+      "description": "📝 Today I Learned",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14154,
+      "forks": 753,
+      "added_stars": "1 star today"
     },
     {
       "title": "morhetz / gruvbox",
@@ -32,17 +42,7 @@
       "languageColor": "#199f4b",
       "stars": 15777,
       "forks": 1124,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11690,
-      "forks": 822,
-      "added_stars": "3 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "dense-analysis / ale",
@@ -50,9 +50,19 @@
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14019,
+      "stars": 14020,
       "forks": 1486,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "preservim / nerdtree",
+      "url": "https://github.com/preservim/nerdtree",
+      "description": "A tree explorer plugin for vim.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 20086,
+      "forks": 1436,
+      "added_stars": "1 star today"
     }
   ]
 }

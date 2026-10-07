@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 06 Oct 2026 08:27:28 GMT",
+  "pubDate": "Wed, 07 Oct 2026 08:02:27 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,39 +10,49 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26375,
-      "forks": 20305,
-      "added_stars": "17 stars today"
+      "stars": 26383,
+      "forks": 20323,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "nix-community / stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2424,
-      "forks": 370,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3321,
-      "forks": 984,
+      "stars": 5983,
+      "forks": 662,
       "added_stars": "2 stars today"
     },
     {
-      "title": "chaotic-cx / nyx",
-      "url": "https://github.com/chaotic-cx/nyx",
-      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
+      "title": "supabase / postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 782,
-      "forks": 82,
-      "added_stars": "2 stars today"
+      "stars": 1793,
+      "forks": 267,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "NixOS / nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3998,
+      "forks": 342,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nix-community / infra",
+      "url": "https://github.com/nix-community/infra",
+      "description": "nix-community infrastructure [maintainer=@zowoq]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 178,
+      "forks": 156,
+      "added_stars": "0 stars today"
     },
     {
       "title": "nix-community / home-manager",
@@ -50,29 +60,19 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10410,
+      "stars": 10415,
       "forks": 2488,
-      "added_stars": "2 stars today"
+      "added_stars": "5 stars today"
     },
     {
-      "title": "cloud-gouv / securix",
-      "url": "https://github.com/cloud-gouv/securix",
-      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
+      "title": "nix-community / NixOS-WSL",
+      "url": "https://github.com/nix-community/NixOS-WSL",
+      "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1133,
-      "forks": 51,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "finix-community / finix",
-      "url": "https://github.com/finix-community/finix",
-      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 561,
-      "forks": 41,
-      "added_stars": "1 star today"
+      "stars": 3113,
+      "forks": 165,
+      "added_stars": "0 stars today"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -80,39 +80,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2056,
-      "forks": 281,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "R2Northstar / Northstar",
-      "url": "https://github.com/R2Northstar/Northstar",
-      "description": "Repo for packaged Northstar releases",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1786,
-      "forks": 128,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Tarow / nix-podman-stacks",
-      "url": "https://github.com/Tarow/nix-podman-stacks",
-      "description": "Home Manager Modules for integrated Podman Stacks",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 196,
-      "forks": 15,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ryantm / agenix",
-      "url": "https://github.com/ryantm/agenix",
-      "description": "age-encrypted secrets for NixOS and Home manager",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2505,
-      "forks": 157,
-      "added_stars": "0 stars today"
+      "stars": 2065,
+      "forks": 282,
+      "added_stars": "7 stars today"
     }
   ]
 }
