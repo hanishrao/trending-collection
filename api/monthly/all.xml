@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 07 Oct 2026 08:05:41 GMT</pubDate>
+  <pubDate>Thu, 08 Oct 2026 08:19:57 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
@@ -21,11 +21,6 @@
     <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
   </item>
   <item>
-    <title>ayghri / i-have-adhd</title>
-    <link>https://github.com/ayghri/i-have-adhd</link>
-    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
-  </item>
-  <item>
     <title>anthropics / financial-services</title>
     <link>https://github.com/anthropics/financial-services</link>
     <description></description>
@@ -36,9 +31,9 @@
     <description>The open-source app everyone uses to manage agents at work</description>
   </item>
   <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+    <title>ayghri / i-have-adhd</title>
+    <link>https://github.com/ayghri/i-have-adhd</link>
+    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
   </item>
   <item>
     <title>vectorize-io / hindsight</title>
@@ -46,19 +41,19 @@
     <description>Hindsight: Agent Memory That Learns</description>
   </item>
   <item>
+    <title>spotify / portal-ai-plugins</title>
+    <link>https://github.com/spotify/portal-ai-plugins</link>
+    <description></description>
+  </item>
+  <item>
+    <title>Tencent / WeKnora</title>
+    <link>https://github.com/Tencent/WeKnora</link>
+    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+  </item>
+  <item>
     <title>anthropics / claude-code</title>
     <link>https://github.com/anthropics/claude-code</link>
     <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
-  </item>
-  <item>
-    <title>mksglu / context-mode</title>
-    <link>https://github.com/mksglu/context-mode</link>
-    <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
-  </item>
-  <item>
-    <title>heygen-com / hyperframes</title>
-    <link>https://github.com/heygen-com/hyperframes</link>
-    <description>Write HTML. Render video. Built for agents.</description>
   </item>
   <item>
     <title>TencentCloud / Octop</title>
@@ -66,9 +61,14 @@
     <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
   </item>
   <item>
-    <title>tt-a1i / archify</title>
-    <link>https://github.com/tt-a1i/archify</link>
-    <description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</description>
+    <title>mksglu / context-mode</title>
+    <link>https://github.com/mksglu/context-mode</link>
+    <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
+  </item>
+  <item>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
     <title>NVIDIA / OpenShell</title>
@@ -76,9 +76,9 @@
     <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
   </item>
   <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
+    <title>heygen-com / hyperframes</title>
+    <link>https://github.com/heygen-com/hyperframes</link>
+    <description>Write HTML. Render video. Built for agents.</description>
   </item>
   <item>
     <title>DietrichGebert / ponytail</title>
@@ -91,14 +91,14 @@
     <description>Cursor plugin specification and official plugins</description>
   </item>
   <item>
+    <title>JustVugg / colibri</title>
+    <link>https://github.com/JustVugg/colibri</link>
+    <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
+  </item>
+  <item>
     <title>trycua / cua</title>
     <link>https://github.com/trycua/cua</link>
     <description>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</description>
-  </item>
-  <item>
-    <title>anthropics / knowledge-work-plugins</title>
-    <link>https://github.com/anthropics/knowledge-work-plugins</link>
-    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
   </item>
   <item>
     <title>tashfeenahmed / freellmapi</title>
@@ -106,9 +106,19 @@
     <description>7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
   </item>
   <item>
-    <title>JustVugg / colibri</title>
-    <link>https://github.com/JustVugg/colibri</link>
-    <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
+    <title>tt-a1i / archify</title>
+    <link>https://github.com/tt-a1i/archify</link>
+    <description>Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.</description>
+  </item>
+  <item>
+    <title>anthropics / knowledge-work-plugins</title>
+    <link>https://github.com/anthropics/knowledge-work-plugins</link>
+    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+  </item>
+  <item>
+    <title>addyosmani / agent-skills</title>
+    <link>https://github.com/addyosmani/agent-skills</link>
+    <description>Production-grade engineering skills for AI coding agents.</description>
   </item>
   <item>
     <title>max-sixty / worktrunk</title>

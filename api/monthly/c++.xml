@@ -4,12 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 07 Oct 2026 08:05:41 GMT</pubDate>
-  <item>
-    <title>redhat-et / ripwire</title>
-    <link>https://github.com/redhat-et/ripwire</link>
-    <description>The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; every guess labelled, every loss published. Paddle out with a map.</description>
-  </item>
+  <pubDate>Thu, 08 Oct 2026 08:19:57 GMT</pubDate>
   <item>
     <title>ggml-org / llama.cpp</title>
     <link>https://github.com/ggml-org/llama.cpp</link>
@@ -19,6 +14,11 @@
     <title>tensorflow / tensorflow</title>
     <link>https://github.com/tensorflow/tensorflow</link>
     <description>An Open Source Machine Learning Framework for Everyone</description>
+  </item>
+  <item>
+    <title>M-Abozaid / esp32-c3-adblock</title>
+    <link>https://github.com/M-Abozaid/esp32-c3-adblock</link>
+    <description>Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share</description>
   </item>
   <item>
     <title>firebase / firebase-ios-sdk</title>
@@ -41,19 +41,9 @@
     <description>Self-hosted game stream host for Moonlight.</description>
   </item>
   <item>
-    <title>M-Abozaid / esp32-c3-adblock</title>
-    <link>https://github.com/M-Abozaid/esp32-c3-adblock</link>
-    <description>Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share</description>
-  </item>
-  <item>
     <title>godotengine / godot</title>
     <link>https://github.com/godotengine/godot</link>
     <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>ClickHouse / ClickHouse</title>
-    <link>https://github.com/ClickHouse/ClickHouse</link>
-    <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
   <item>
     <title>electron / electron</title>
@@ -61,29 +51,14 @@
     <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
   </item>
   <item>
+    <title>ClickHouse / ClickHouse</title>
+    <link>https://github.com/ClickHouse/ClickHouse</link>
+    <description>ClickHouse® is a real-time analytics database management system</description>
+  </item>
+  <item>
     <title>aria2 / aria2</title>
     <link>https://github.com/aria2/aria2</link>
     <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
-  </item>
-  <item>
-    <title>microsoft / WSL</title>
-    <link>https://github.com/microsoft/WSL</link>
-    <description>Windows Subsystem for Linux</description>
-  </item>
-  <item>
-    <title>gta-reversed / gta-reversed</title>
-    <link>https://github.com/gta-reversed/gta-reversed</link>
-    <description>Reimplementation of GTA:SA 1.0 US</description>
-  </item>
-  <item>
-    <title>mamedev / mame</title>
-    <link>https://github.com/mamedev/mame</link>
-    <description>MAME</description>
-  </item>
-  <item>
-    <title>optiscaler / OptiScaler</title>
-    <link>https://github.com/optiscaler/OptiScaler</link>
-    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
     <title>apache / arrow</title>
@@ -91,14 +66,44 @@
     <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
   </item>
   <item>
-    <title>aseprite / aseprite</title>
-    <link>https://github.com/aseprite/aseprite</link>
-    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
+  </item>
+  <item>
+    <title>microsoft / WSL</title>
+    <link>https://github.com/microsoft/WSL</link>
+    <description>Windows Subsystem for Linux</description>
+  </item>
+  <item>
+    <title>mamedev / mame</title>
+    <link>https://github.com/mamedev/mame</link>
+    <description>MAME</description>
+  </item>
+  <item>
+    <title>shadps4-emu / shadPS4</title>
+    <link>https://github.com/shadps4-emu/shadPS4</link>
+    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
+  </item>
+  <item>
+    <title>windirstat / windirstat</title>
+    <link>https://github.com/windirstat/windirstat</link>
+    <description>Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.</description>
+  </item>
+  <item>
+    <title>keepassxreboot / keepassxc</title>
+    <link>https://github.com/keepassxreboot/keepassxc</link>
+    <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
   </item>
   <item>
     <title>moonlight-stream / moonlight-qt</title>
     <link>https://github.com/moonlight-stream/moonlight-qt</link>
     <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
+  </item>
+  <item>
+    <title>aydencharles / onionHEN</title>
+    <link>https://github.com/aydencharles/onionHEN</link>
+    <description>Yet another HEN enabler for jailbroken PS5</description>
   </item>
   <item>
     <title>react / react-native</title>

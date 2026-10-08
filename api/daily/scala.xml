@@ -4,21 +4,16 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 07 Oct 2026 08:02:27 GMT</pubDate>
+  <pubDate>Thu, 08 Oct 2026 08:17:01 GMT</pubDate>
+  <item>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
+  </item>
   <item>
     <title>apache / spark</title>
     <link>https://github.com/apache/spark</link>
     <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
-  </item>
-  <item>
-    <title>playframework / playframework</title>
-    <link>https://github.com/playframework/playframework</link>
-    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
-  </item>
-  <item>
-    <title>sbt / sbt</title>
-    <link>https://github.com/sbt/sbt</link>
-    <description>sbt, the interactive build tool</description>
   </item>
   <item>
     <title>delta-io / delta</title>
@@ -26,14 +21,9 @@
     <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
-    <title>spotify / scio</title>
-    <link>https://github.com/spotify/scio</link>
-    <description>A Scala API for Apache Beam and Google Cloud Dataflow.</description>
-  </item>
-  <item>
-    <title>guardian / frontend</title>
-    <link>https://github.com/guardian/frontend</link>
-    <description>The Guardian DotCom.</description>
+    <title>canton-network / splice</title>
+    <link>https://github.com/canton-network/splice</link>
+    <description>Splice repository</description>
   </item>
   <item>
     <title>scala / scala3</title>
@@ -41,49 +31,19 @@
     <description>The Scala 3 compiler, also known as Dotty.</description>
   </item>
   <item>
-    <title>delta-io / delta-sharing</title>
-    <link>https://github.com/delta-io/delta-sharing</link>
-    <description>An open protocol for secure data sharing</description>
-  </item>
-  <item>
-    <title>scalameta / metals</title>
-    <link>https://github.com/scalameta/metals</link>
-    <description>Scala language server with rich IDE features 🚀</description>
-  </item>
-  <item>
     <title>apache / datafusion-comet</title>
     <link>https://github.com/apache/datafusion-comet</link>
     <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
-    <title>apache / openwhisk</title>
-    <link>https://github.com/apache/openwhisk</link>
-    <description>Apache OpenWhisk is an open source serverless cloud platform</description>
+    <title>sbt / sbt</title>
+    <link>https://github.com/sbt/sbt</link>
+    <description>sbt, the interactive build tool</description>
   </item>
   <item>
-    <title>snowplow / snowplow</title>
-    <link>https://github.com/snowplow/snowplow</link>
-    <description>The leader in Customer Data Infrastructure</description>
-  </item>
-  <item>
-    <title>TheHive-Project / TheHive</title>
-    <link>https://github.com/TheHive-Project/TheHive</link>
-    <description>TheHive is a Collaborative Case Management Platform, now distributed as a commercial version</description>
-  </item>
-  <item>
-    <title>scalapb / ScalaPB</title>
-    <link>https://github.com/scalapb/ScalaPB</link>
-    <description>Protocol buffer compiler for Scala.</description>
-  </item>
-  <item>
-    <title>orbeon / orbeon-forms</title>
-    <link>https://github.com/orbeon/orbeon-forms</link>
-    <description>Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud.</description>
-  </item>
-  <item>
-    <title>SpinalHDL / SpinalHDL</title>
-    <link>https://github.com/SpinalHDL/SpinalHDL</link>
-    <description>Scala based HDL</description>
+    <title>playframework / playframework</title>
+    <link>https://github.com/playframework/playframework</link>
+    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
   </item>
   <item>
     <title>apache / gluten</title>
@@ -91,24 +51,44 @@
     <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
   </item>
   <item>
+    <title>delta-io / delta-sharing</title>
+    <link>https://github.com/delta-io/delta-sharing</link>
+    <description>An open protocol for secure data sharing</description>
+  </item>
+  <item>
     <title>gitbucket / gitbucket</title>
     <link>https://github.com/gitbucket/gitbucket</link>
     <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
   </item>
   <item>
-    <title>ucb-bar / chipyard</title>
-    <link>https://github.com/ucb-bar/chipyard</link>
-    <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
+    <title>snowplow / snowplow</title>
+    <link>https://github.com/snowplow/snowplow</link>
+    <description>The leader in Customer Data Infrastructure</description>
   </item>
   <item>
-    <title>akka / akka-core</title>
-    <link>https://github.com/akka/akka-core</link>
-    <description>A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</description>
+    <title>OpenXiangShan / XiangShan</title>
+    <link>https://github.com/OpenXiangShan/XiangShan</link>
+    <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
-    <title>NVIDIA / cudf-spark</title>
-    <link>https://github.com/NVIDIA/cudf-spark</link>
-    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
+    <title>com-lihaoyi / mill</title>
+    <link>https://github.com/com-lihaoyi/mill</link>
+    <description>A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools</description>
+  </item>
+  <item>
+    <title>orbeon / orbeon-forms</title>
+    <link>https://github.com/orbeon/orbeon-forms</link>
+    <description>Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud.</description>
+  </item>
+  <item>
+    <title>apache / openwhisk</title>
+    <link>https://github.com/apache/openwhisk</link>
+    <description>Apache OpenWhisk is an open source serverless cloud platform</description>
+  </item>
+  <item>
+    <title>twitter / the-algorithm</title>
+    <link>https://github.com/twitter/the-algorithm</link>
+    <description>Source code for the X Recommendation Algorithm</description>
   </item>
   <item>
     <title>lichess-org / lila</title>
@@ -116,9 +96,19 @@
     <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
   </item>
   <item>
-    <title>twitter / the-algorithm</title>
-    <link>https://github.com/twitter/the-algorithm</link>
-    <description>Source code for the X Recommendation Algorithm</description>
+    <title>NVIDIA / cudf-spark</title>
+    <link>https://github.com/NVIDIA/cudf-spark</link>
+    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
+  </item>
+  <item>
+    <title>MightyPirates / OpenComputers</title>
+    <link>https://github.com/MightyPirates/OpenComputers</link>
+    <description>Home of the OpenComputers mod for Minecraft.</description>
+  </item>
+  <item>
+    <title>d2iq-archive / marathon</title>
+    <link>https://github.com/d2iq-archive/marathon</link>
+    <description>Deploy and manage containers (including Docker) on top of Apache Mesos at scale.</description>
   </item>
 </channel>
 </rss>
