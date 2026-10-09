@@ -4,41 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 08 Oct 2026 08:17:01 GMT</pubDate>
+  <pubDate>Fri, 09 Oct 2026 08:18:47 GMT</pubDate>
   <item>
-    <title>caddyserver / caddy</title>
-    <link>https://github.com/caddyserver/caddy</link>
-    <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
+    <title>docker / docker-agent</title>
+    <link>https://github.com/docker/docker-agent</link>
+    <description>AI Agent Builder and Runtime by Docker Engineering</description>
   </item>
   <item>
-    <title>golang / go</title>
-    <link>https://github.com/golang/go</link>
-    <description>The Go programming language</description>
-  </item>
-  <item>
-    <title>gin-gonic / gin</title>
-    <link>https://github.com/gin-gonic/gin</link>
-    <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
-  </item>
-  <item>
-    <title>Autumn-27 / ARTEX</title>
-    <link>https://github.com/Autumn-27/ARTEX</link>
-    <description>AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目</description>
-  </item>
-  <item>
-    <title>ys-ll / uniterm</title>
-    <link>https://github.com/ys-ll/uniterm</link>
-    <description>All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.</description>
-  </item>
-  <item>
-    <title>gitleaks / gitleaks</title>
-    <link>https://github.com/gitleaks/gitleaks</link>
-    <description>Find secrets with Gitleaks 🔑</description>
-  </item>
-  <item>
-    <title>open-telemetry / opentelemetry-collector-contrib</title>
-    <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
-    <description>Contrib repository for the OpenTelemetry Collector</description>
+    <title>hashicorp / vault</title>
+    <link>https://github.com/hashicorp/vault</link>
+    <description>A tool for secrets management, encryption as a service, and privileged access management</description>
   </item>
   <item>
     <title>ollama / ollama</title>
@@ -46,64 +21,69 @@
     <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
   </item>
   <item>
-    <title>aquasecurity / trivy</title>
-    <link>https://github.com/aquasecurity/trivy</link>
-    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+    <title>argoproj / argo-cd</title>
+    <link>https://github.com/argoproj/argo-cd</link>
+    <description>Declarative Continuous Deployment for Kubernetes</description>
   </item>
   <item>
-    <title>drakkan / sftpgo</title>
-    <link>https://github.com/drakkan/sftpgo</link>
-    <description>Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob</description>
+    <title>go-acme / lego</title>
+    <link>https://github.com/go-acme/lego</link>
+    <description>Let&#x27;s Encrypt/ACME client and library written in Go</description>
   </item>
   <item>
-    <title>spf13 / cobra</title>
-    <link>https://github.com/spf13/cobra</link>
-    <description>A Commander for modern Go CLI interactions</description>
+    <title>llm-d / llm-d-router</title>
+    <link>https://github.com/llm-d/llm-d-router</link>
+    <description>llm-d Router: The intelligent entry point for inference requests</description>
   </item>
   <item>
-    <title>getprobo / probo</title>
-    <link>https://github.com/getprobo/probo</link>
-    <description>Open source solutions for SOC2, GDPR, and ISO27001</description>
+    <title>external-secrets / external-secrets</title>
+    <link>https://github.com/external-secrets/external-secrets</link>
+    <description>External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</description>
   </item>
   <item>
-    <title>maximhq / bifrost</title>
-    <link>https://github.com/maximhq/bifrost</link>
-    <description>Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.</description>
+    <title>open-telemetry / opentelemetry-collector-contrib</title>
+    <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
+    <description>Contrib repository for the OpenTelemetry Collector</description>
   </item>
   <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
+    <title>kai-scheduler / KAI-Scheduler</title>
+    <link>https://github.com/kai-scheduler/KAI-Scheduler</link>
+    <description>KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale</description>
   </item>
   <item>
-    <title>grafana / gcx</title>
-    <link>https://github.com/grafana/gcx</link>
-    <description>A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.</description>
+    <title>ltaoo / wx_channels_download</title>
+    <link>https://github.com/ltaoo/wx_channels_download</link>
+    <description>微信视频号下载器</description>
   </item>
   <item>
-    <title>icereed / paperless-gpt</title>
-    <link>https://github.com/icereed/paperless-gpt</link>
-    <description>Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI</description>
+    <title>kyverno / kyverno</title>
+    <link>https://github.com/kyverno/kyverno</link>
+    <description>Unified Policy as Code</description>
   </item>
   <item>
-    <title>traefik / traefik</title>
-    <link>https://github.com/traefik/traefik</link>
-    <description>The Cloud Native Application Proxy</description>
+    <title>stacklok / toolhive</title>
+    <link>https://github.com/stacklok/toolhive</link>
+    <description>ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.</description>
   </item>
   <item>
-    <title>microsoft / TypeScript</title>
-    <link>https://github.com/microsoft/TypeScript</link>
-    <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+    <title>jesseduffield / lazygit</title>
+    <link>https://github.com/jesseduffield/lazygit</link>
+    <description>simple terminal UI for git commands</description>
   </item>
   <item>
-    <title>kubernetes-sigs / agent-sandbox</title>
-    <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
-    <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).</description>
+    <title>navidrome / navidrome</title>
+    <link>https://github.com/navidrome/navidrome</link>
+    <description>🎧 Your Personal Streaming Service</description>
   </item>
   <item>
-    <title>cilium / cilium</title>
-    <link>https://github.com/cilium/cilium</link>
-    <description>eBPF-based Networking, Security, and Observability</description>
+    <title>gitleaks / gitleaks</title>
+    <link>https://github.com/gitleaks/gitleaks</link>
+    <description>Find secrets with Gitleaks 🔑</description>
+  </item>
+  <item>
+    <title>tailscale / tailscale</title>
+    <link>https://github.com/tailscale/tailscale</link>
+    <description>The easiest, most secure way to use WireGuard and 2FA.</description>
   </item>
 </channel>
 </rss>

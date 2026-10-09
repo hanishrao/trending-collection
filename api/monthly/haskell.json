@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:19:57 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:23:17 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46619,
-      "forks": 5822,
-      "added_stars": "528 stars this month"
+      "stars": 46632,
+      "forks": 5939,
+      "added_stars": "521 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,9 +20,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40150,
+      "stars": 40152,
       "forks": 1955,
-      "added_stars": "176 stars this month"
+      "added_stars": "175 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12462,
+      "stars": 12466,
       "forks": 506,
-      "added_stars": "80 stars this month"
+      "added_stars": "79 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -42,7 +42,17 @@
       "languageColor": "#5e5086",
       "stars": 1744,
       "forks": 756,
-      "added_stars": "2 stars this month"
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2936,
+      "forks": 429,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -51,8 +61,28 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 2961,
-      "forks": 460,
-      "added_stars": "9 stars this month"
+      "forks": 461,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7912,
+      "forks": 690,
+      "added_stars": "27 stars this month"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27703,
+      "forks": 1231,
+      "added_stars": "83 stars this month"
     },
     {
       "title": "digital-asset / daml",
@@ -65,16 +95,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27700,
-      "forks": 1229,
-      "added_stars": "85 stars this month"
-    },
-    {
       "title": "commercialhaskell / stack",
       "url": "https://github.com/commercialhaskell/stack",
       "description": "The Haskell Tool Stack",
@@ -85,34 +105,24 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7912,
-      "forks": 691,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2931,
-      "forks": 429,
-      "added_stars": "14 stars this month"
-    },
-    {
       "title": "IntersectMBO / cardano-node",
       "url": "https://github.com/IntersectMBO/cardano-node",
       "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 3174,
-      "forks": 760,
+      "forks": 761,
       "added_stars": "6 stars this month"
+    },
+    {
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1898,
+      "forks": 81,
+      "added_stars": "169 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -122,27 +132,17 @@
       "languageColor": "#5e5086",
       "stars": 300,
       "forks": 22,
-      "added_stars": "8 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
-      "title": "unisonweb / unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
+      "title": "hledgerorg / hledger",
+      "url": "https://github.com/hledgerorg/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6745,
-      "forks": 310,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1894,
-      "forks": 81,
-      "added_stars": "168 stars this month"
+      "stars": 4754,
+      "forks": 415,
+      "added_stars": "61 stars this month"
     }
   ]
 }

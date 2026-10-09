@@ -2,77 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:17:01 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:18:47 GMT",
   "items": [
     {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "title": "docker / docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 77508,
-      "forks": 5100,
-      "added_stars": "93 stars today"
+      "stars": 4267,
+      "forks": 497,
+      "added_stars": "766 stars today"
     },
     {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
+      "title": "hashicorp / vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 139319,
-      "forks": 21512,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "gin-gonic / gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 89297,
-      "forks": 8734,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "Autumn-27 / ARTEX",
-      "url": "https://github.com/Autumn-27/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2125,
-      "forks": 568,
-      "added_stars": "236 stars today"
-    },
-    {
-      "title": "ys-ll / uniterm",
-      "url": "https://github.com/ys-ll/uniterm",
-      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 780,
-      "forks": 119,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29790,
-      "forks": 2270,
-      "added_stars": "44 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-collector-contrib",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-      "description": "Contrib repository for the OpenTelemetry Collector",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4980,
-      "forks": 3986,
-      "added_stars": "5 stars today"
+      "stars": 36362,
+      "forks": 4782,
+      "added_stars": "7 stars today"
     },
     {
       "title": "ollama / ollama",
@@ -80,129 +30,139 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 182544,
-      "forks": 18148,
-      "added_stars": "130 stars today"
+      "stars": 182446,
+      "forks": 18173,
+      "added_stars": "128 stars today"
     },
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38291,
-      "forks": 744,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "drakkan / sftpgo",
-      "url": "https://github.com/drakkan/sftpgo",
-      "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 12635,
-      "forks": 976,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "spf13 / cobra",
-      "url": "https://github.com/spf13/cobra",
-      "description": "A Commander for modern Go CLI interactions",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44698,
-      "forks": 5149,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "getprobo / probo",
-      "url": "https://github.com/getprobo/probo",
-      "description": "Open source solutions for SOC2, GDPR, and ISO27001",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1440,
-      "forks": 229,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "maximhq / bifrost",
-      "url": "https://github.com/maximhq/bifrost",
-      "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8625,
-      "forks": 1354,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 83439,
-      "forks": 4649,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "grafana / gcx",
-      "url": "https://github.com/grafana/gcx",
-      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 771,
-      "forks": 57,
+      "stars": 24351,
+      "forks": 7929,
       "added_stars": "3 stars today"
     },
     {
-      "title": "icereed / paperless-gpt",
-      "url": "https://github.com/icereed/paperless-gpt",
-      "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+      "title": "go-acme / lego",
+      "url": "https://github.com/go-acme/lego",
+      "description": "Let's Encrypt/ACME client and library written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2744,
-      "forks": 216,
+      "stars": 9918,
+      "forks": 1175,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "llm-d / llm-d-router",
+      "url": "https://github.com/llm-d/llm-d-router",
+      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 386,
+      "forks": 425,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "external-secrets / external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6898,
+      "forks": 1451,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4984,
+      "forks": 3993,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "kai-scheduler / KAI-Scheduler",
+      "url": "https://github.com/kai-scheduler/KAI-Scheduler",
+      "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1559,
+      "forks": 295,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "ltaoo / wx_channels_download",
+      "url": "https://github.com/ltaoo/wx_channels_download",
+      "description": "微信视频号下载器",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9711,
+      "forks": 1608,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "kyverno / kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "description": "Unified Policy as Code",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8233,
+      "forks": 1644,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "stacklok / toolhive",
+      "url": "https://github.com/stacklok/toolhive",
+      "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2259,
+      "forks": 315,
       "added_stars": "8 stars today"
     },
     {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
+      "title": "jesseduffield / lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 65108,
-      "forks": 6229,
-      "added_stars": "23 stars today"
+      "stars": 83036,
+      "forks": 3069,
+      "added_stars": "49 stars today"
     },
     {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "title": "navidrome / navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧 Your Personal Streaming Service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 111394,
-      "forks": 15958,
-      "added_stars": "19 stars today"
+      "stars": 24052,
+      "forks": 1748,
+      "added_stars": "22 stars today"
     },
     {
-      "title": "kubernetes-sigs / agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4185,
-      "forks": 549,
-      "added_stars": "12 stars today"
+      "stars": 29807,
+      "forks": 2271,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25615,
-      "forks": 4135,
-      "added_stars": "4 stars today"
+      "stars": 37300,
+      "forks": 3302,
+      "added_stars": "46 stars today"
     }
   ]
 }

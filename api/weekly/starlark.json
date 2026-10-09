@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:18:29 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:21:02 GMT",
   "items": [
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 688,
+      "forks": 725,
+      "added_stars": "0 stars this week"
+    },
     {
       "title": "bazelbuild / rules_cc",
       "url": "https://github.com/bazelbuild/rules_cc",
@@ -15,14 +25,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 688,
-      "forks": 724,
-      "added_stars": "0 stars this week"
+      "stars": 849,
+      "forks": 666,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -30,9 +40,9 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 392,
-      "forks": 929,
-      "added_stars": "3 stars this week"
+      "stars": 391,
+      "forks": 931,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -40,19 +50,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23125,
+      "stars": 23126,
       "forks": 1439,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "google / fully-homomorphic-encryption",
-      "url": "https://github.com/google/fully-homomorphic-encryption",
-      "description": "Homomorphic Encryption demos",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3777,
-      "forks": 279,
-      "added_stars": "7 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
       "title": "googleapis / googleapis",
@@ -62,47 +62,27 @@
       "languageColor": "#76d275",
       "stars": 8767,
       "forks": 2633,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "bazel-contrib / rules_perl",
-      "url": "https://github.com/bazel-contrib/rules_perl",
-      "description": "Perl rules for Bazel",
+      "title": "google / fully-homomorphic-encryption",
+      "url": "https://github.com/google/fully-homomorphic-encryption",
+      "description": "Homomorphic Encryption demos",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 31,
-      "forks": 49,
-      "added_stars": "0 stars this week"
+      "stars": 3778,
+      "forks": 279,
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
+      "title": "immich-app / immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 4007,
-      "forks": 306,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "tronbyt / apps",
-      "url": "https://github.com/tronbyt/apps",
-      "description": "Hard Fork of Tidbyt Community Repo",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 63,
-      "forks": 149,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 428,
-      "forks": 828,
-      "added_stars": "0 stars this week"
+      "stars": 357,
+      "forks": 115,
+      "added_stars": "2 stars this week"
     }
   ]
 }

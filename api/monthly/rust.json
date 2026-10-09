@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:19:57 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:23:17 GMT",
   "items": [
     {
       "title": "NVIDIA / OpenShell",
@@ -10,9 +10,9 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15381,
-      "forks": 1734,
-      "added_stars": "6,795 stars this month"
+      "stars": 15532,
+      "forks": 1747,
+      "added_stars": "6,997 stars this month"
     },
     {
       "title": "trycua / cua",
@@ -20,9 +20,9 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28916,
-      "forks": 2044,
-      "added_stars": "6,438 stars this month"
+      "stars": 29103,
+      "forks": 2055,
+      "added_stars": "6,777 stars this month"
     },
     {
       "title": "max-sixty / worktrunk",
@@ -30,9 +30,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8987,
-      "forks": 325,
-      "added_stars": "2,196 stars this month"
+      "stars": 9071,
+      "forks": 327,
+      "added_stars": "2,240 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -40,9 +40,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16529,
-      "forks": 1016,
-      "added_stars": "2,418 stars this month"
+      "stars": 16632,
+      "forks": 1023,
+      "added_stars": "2,465 stars this month"
     },
     {
       "title": "rustfs / rustfs",
@@ -50,9 +50,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34548,
-      "forks": 1561,
-      "added_stars": "3,011 stars this month"
+      "stars": 34605,
+      "forks": 1563,
+      "added_stars": "3,041 stars this month"
     },
     {
       "title": "cloudflare / quiche",
@@ -60,9 +60,9 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12750,
+      "stars": 12757,
       "forks": 1170,
-      "added_stars": "970 stars this month"
+      "added_stars": "975 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -70,19 +70,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9012,
-      "forks": 626,
-      "added_stars": "3,036 stars this month"
-    },
-    {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 25152,
-      "forks": 2279,
-      "added_stars": "6,942 stars this month"
+      "stars": 9074,
+      "forks": 631,
+      "added_stars": "3,009 stars this month"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -90,9 +80,19 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 125408,
-      "forks": 19520,
-      "added_stars": "2,978 stars this month"
+      "stars": 125274,
+      "forks": 19542,
+      "added_stars": "2,995 stars this month"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25320,
+      "forks": 2289,
+      "added_stars": "6,998 stars this month"
     },
     {
       "title": "clash-verge-rev / clash-verge-rev",
@@ -100,9 +100,9 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 149876,
-      "forks": 10760,
-      "added_stars": "7,336 stars this month"
+      "stars": 149939,
+      "forks": 10769,
+      "added_stars": "7,342 stars this month"
     },
     {
       "title": "rust-lang / rust",
@@ -110,9 +110,9 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 119699,
-      "forks": 17855,
-      "added_stars": "2,390 stars this month"
+      "stars": 119516,
+      "forks": 17955,
+      "added_stars": "2,384 stars this month"
     },
     {
       "title": "hydra-db / hydradb",
@@ -120,19 +120,9 @@
       "description": "HydraDB - fast graph database on object storage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13026,
-      "forks": 5477,
-      "added_stars": "10,259 stars this month"
-    },
-    {
-      "title": "deeplethe / utopia",
-      "url": "https://github.com/deeplethe/utopia",
-      "description": "World's first open-source enterprise world model.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8154,
-      "forks": 1130,
-      "added_stars": "7,716 stars this month"
+      "stars": 13025,
+      "forks": 5464,
+      "added_stars": "10,119 stars this month"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -140,19 +130,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2524,
-      "forks": 270,
-      "added_stars": "1,393 stars this month"
-    },
-    {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9309,
-      "forks": 363,
-      "added_stars": "6,296 stars this month"
+      "stars": 2575,
+      "forks": 275,
+      "added_stars": "1,374 stars this month"
     },
     {
       "title": "ankitects / anki",
@@ -160,9 +140,29 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31842,
-      "forks": 3312,
-      "added_stars": "1,690 stars this month"
+      "stars": 31859,
+      "forks": 3314,
+      "added_stars": "1,680 stars this month"
+    },
+    {
+      "title": "deeplethe / utopia",
+      "url": "https://github.com/deeplethe/utopia",
+      "description": "World's first open-source enterprise world model.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8185,
+      "forks": 1139,
+      "added_stars": "7,158 stars this month"
+    },
+    {
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9519,
+      "forks": 368,
+      "added_stars": "6,436 stars this month"
     },
     {
       "title": "lbjlaq / Antigravity-Manager",
@@ -170,19 +170,39 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31996,
-      "forks": 3451,
-      "added_stars": "1,152 stars this month"
+      "stars": 32021,
+      "forks": 3455,
+      "added_stars": "1,126 stars this month"
     },
     {
-      "title": "microsoft / tgrep",
-      "url": "https://github.com/microsoft/tgrep",
-      "description": "Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally",
+      "title": "bevyengine / bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3423,
-      "forks": 137,
-      "added_stars": "2,187 stars this month"
+      "stars": 48749,
+      "forks": 4898,
+      "added_stars": "750 stars this month"
+    },
+    {
+      "title": "tauri-apps / tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 111679,
+      "forks": 4046,
+      "added_stars": "983 stars this month"
+    },
+    {
+      "title": "microsoft / mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1899,
+      "forks": 110,
+      "added_stars": "237 stars this month"
     }
   ]
 }

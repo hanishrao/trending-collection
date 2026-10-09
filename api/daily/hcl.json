@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:17:01 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:18:47 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -41,8 +41,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1042,
-      "forks": 779,
-      "added_stars": "1 star today"
+      "forks": 780,
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
@@ -51,17 +51,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 502,
-      "forks": 1279,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 241,
-      "forks": 191,
+      "forks": 1280,
       "added_stars": "0 stars today"
     },
     {
@@ -75,33 +65,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 62,
-      "forks": 112,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 351,
-      "forks": 238,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 675,
-      "forks": 670,
+      "stars": 207,
+      "forks": 608,
       "added_stars": "0 stars today"
     },
     {
@@ -115,13 +85,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 120,
-      "forks": 203,
+      "stars": 351,
+      "forks": 238,
       "added_stars": "0 stars today"
     },
     {
@@ -132,6 +102,36 @@
       "languageColor": "#844FBA",
       "stars": 177,
       "forks": 98,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-ecs",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
+      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 675,
+      "forks": 670,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 120,
+      "forks": 203,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kms",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
+      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 62,
+      "forks": 112,
       "added_stars": "0 stars today"
     }
   ]

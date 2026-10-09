@@ -2,27 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:18:29 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:21:02 GMT",
   "items": [
-    {
-      "title": "mvschwarz / openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5919,
-      "forks": 434,
-      "added_stars": "2,912 stars this week"
-    },
     {
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11933,
-      "forks": 910,
-      "added_stars": "6,075 stars this week"
+      "stars": 17580,
+      "forks": 1400,
+      "added_stars": "10,243 stars this week"
+    },
+    {
+      "title": "mvschwarz / openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6255,
+      "forks": 455,
+      "added_stars": "2,693 stars this week"
     },
     {
       "title": "heygen-com / hyperframes",
@@ -30,9 +30,19 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 58784,
-      "forks": 5232,
-      "added_stars": "3,908 stars this week"
+      "stars": 59397,
+      "forks": 5294,
+      "added_stars": "3,996 stars this week"
+    },
+    {
+      "title": "EpicGames / raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8191,
+      "forks": 392,
+      "added_stars": "448 stars this week"
     },
     {
       "title": "cursor / plugins",
@@ -40,29 +50,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 10302,
-      "forks": 979,
+      "stars": 10462,
+      "forks": 988,
       "added_stars": "1,109 stars this week"
-    },
-    {
-      "title": "NVIDIA / OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15381,
-      "forks": 1734,
-      "added_stars": "3,690 stars this week"
-    },
-    {
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 93669,
-      "forks": 8195,
-      "added_stars": "6,912 stars this week"
     },
     {
       "title": "thedotmack / claude-mem",
@@ -70,19 +60,39 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 97948,
-      "forks": 8613,
-      "added_stars": "2,607 stars this week"
+      "stars": 98759,
+      "forks": 8656,
+      "added_stars": "3,153 stars this week"
     },
     {
-      "title": "pablostanley / yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5220,
-      "forks": 453,
-      "added_stars": "2,732 stars this week"
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 281669,
+      "forks": 23605,
+      "added_stars": "7,448 stars this week"
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 94427,
+      "forks": 8252,
+      "added_stars": "6,987 stars this week"
+    },
+    {
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18572,
+      "forks": 1845,
+      "added_stars": "1,898 stars this week"
     },
     {
       "title": "DuarteSantos8 / openGym",
@@ -90,29 +100,19 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7460,
-      "forks": 964,
-      "added_stars": "4,906 stars this week"
+      "stars": 8242,
+      "forks": 1042,
+      "added_stars": "6,086 stars this week"
     },
     {
-      "title": "tile-ai / tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8505,
-      "forks": 858,
-      "added_stars": "639 stars this week"
-    },
-    {
-      "title": "HunxByts / GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "description": "Useful tool to track location or mobile number",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 17485,
-      "forks": 2361,
-      "added_stars": "1,534 stars this week"
+      "title": "pablostanley / yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5524,
+      "forks": 466,
+      "added_stars": "2,706 stars this week"
     }
   ]
 }

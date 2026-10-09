@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 08 Oct 2026 08:19:57 GMT",
+  "pubDate": "Fri, 09 Oct 2026 08:23:17 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -12,17 +12,7 @@
       "languageColor": "#844FBA",
       "stars": 586,
       "forks": 3808,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2111,
-      "forks": 1268,
-      "added_stars": "22 stars this month"
+      "added_stars": "1 star this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -33,6 +23,16 @@
       "stars": 1280,
       "forks": 1290,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2111,
+      "forks": 1268,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -51,7 +51,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1042,
-      "forks": 779,
+      "forks": 780,
       "added_stars": "1 star this month"
     },
     {
@@ -61,18 +61,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 502,
-      "forks": 1279,
+      "forks": 1280,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 241,
-      "forks": 191,
-      "added_stars": "0 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-ecs",
@@ -82,6 +72,16 @@
       "languageColor": "#844FBA",
       "stars": 675,
       "forks": 670,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 29,
+      "forks": 72,
       "added_stars": "1 star this month"
     },
     {
@@ -95,14 +95,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 29,
-      "forks": 72,
-      "added_stars": "1 star this month"
+      "stars": 241,
+      "forks": 191,
+      "added_stars": "0 stars this month"
     }
   ]
 }
