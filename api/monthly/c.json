@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 09 Oct 2026 08:23:17 GMT",
+  "pubDate": "Sat, 10 Oct 2026 08:05:23 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,9 +10,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 40649,
-      "forks": 4467,
-      "added_stars": "13,653 stars this month"
+      "stars": 40879,
+      "forks": 4486,
+      "added_stars": "13,755 stars this month"
     },
     {
       "title": "Genymobile / scrcpy",
@@ -20,19 +20,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 151641,
-      "forks": 13909,
-      "added_stars": "2,817 stars this month"
-    },
-    {
-      "title": "hathach / tinyusb",
-      "url": "https://github.com/hathach/tinyusb",
-      "description": "An open source cross-platform USB stack for embedded system",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7185,
-      "forks": 1550,
-      "added_stars": "112 stars this month"
+      "stars": 151733,
+      "forks": 13922,
+      "added_stars": "2,887 stars this month"
     },
     {
       "title": "libsdl-org / SDL",
@@ -40,9 +30,19 @@
       "description": "Simple DirectMedia Layer",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16761,
-      "forks": 3051,
-      "added_stars": "270 stars this month"
+      "stars": 16765,
+      "forks": 3054,
+      "added_stars": "269 stars this month"
+    },
+    {
+      "title": "hathach / tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7187,
+      "forks": 1551,
+      "added_stars": "112 stars this month"
     },
     {
       "title": "armory3d / armorpaint",
@@ -50,29 +50,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5341,
-      "forks": 613,
-      "added_stars": "1,236 stars this month"
-    },
-    {
-      "title": "HarbourMasters / Shipwright",
-      "url": "https://github.com/HarbourMasters/Shipwright",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5548,
-      "forks": 896,
-      "added_stars": "240 stars this month"
-    },
-    {
-      "title": "skeeto / w64devkit",
-      "url": "https://github.com/skeeto/w64devkit",
-      "description": "Portable C and C++ Development Kit for x64 (and x86) Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4895,
-      "forks": 392,
-      "added_stars": "132 stars this month"
+      "stars": 5350,
+      "forks": 615,
+      "added_stars": "1,179 stars this month"
     },
     {
       "title": "EpicGames / raddebugger",
@@ -80,9 +60,19 @@
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8191,
-      "forks": 392,
-      "added_stars": "565 stars this month"
+      "stars": 8295,
+      "forks": 395,
+      "added_stars": "781 stars this month"
+    },
+    {
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5553,
+      "forks": 897,
+      "added_stars": "229 stars this month"
     },
     {
       "title": "curl / curl",
@@ -90,19 +80,29 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 43134,
-      "forks": 7413,
-      "added_stars": "451 stars this month"
+      "stars": 43145,
+      "forks": 7418,
+      "added_stars": "446 stars this month"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "skeeto / w64devkit",
+      "url": "https://github.com/skeeto/w64devkit",
+      "description": "Portable C and C++ Development Kit for x64 (and x86) Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63758,
-      "forks": 28497,
-      "added_stars": "810 stars this month"
+      "stars": 4896,
+      "forks": 394,
+      "added_stars": "128 stars this month"
+    },
+    {
+      "title": "rexglue / rexglue-sdk",
+      "url": "https://github.com/rexglue/rexglue-sdk",
+      "description": "Xbox 360 Recompilation Runtime and Toolkit",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1013,
+      "forks": 162,
+      "added_stars": "157 stars this month"
     },
     {
       "title": "willfaust / Madeira",
@@ -110,39 +110,9 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1888,
-      "forks": 279,
-      "added_stars": "1,824 stars this month"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1188,
-      "forks": 303,
-      "added_stars": "373 stars this month"
-    },
-    {
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12129,
-      "forks": 1605,
-      "added_stars": "88 stars this month"
-    },
-    {
-      "title": "EchoStretch / kstuff-lite",
-      "url": "https://github.com/EchoStretch/kstuff-lite",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 653,
-      "forks": 48,
-      "added_stars": "255 stars this month"
+      "stars": 1914,
+      "forks": 288,
+      "added_stars": "1,809 stars this month"
     },
     {
       "title": "raysan5 / raylib",
@@ -150,29 +120,29 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 35069,
-      "forks": 3327,
-      "added_stars": "491 stars this month"
+      "stars": 35136,
+      "forks": 3326,
+      "added_stars": "508 stars this month"
     },
     {
-      "title": "ValdikSS / GoodbyeDPI",
-      "url": "https://github.com/ValdikSS/GoodbyeDPI",
-      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28752,
-      "forks": 2232,
-      "added_stars": "186 stars this month"
+      "stars": 12131,
+      "forks": 1605,
+      "added_stars": "86 stars this month"
     },
     {
-      "title": "yugabyte / yugabyte-db",
-      "url": "https://github.com/yugabyte/yugabyte-db",
-      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "title": "EchoStretch / kstuff-lite",
+      "url": "https://github.com/EchoStretch/kstuff-lite",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10584,
-      "forks": 1334,
-      "added_stars": "73 stars this month"
+      "stars": 665,
+      "forks": 48,
+      "added_stars": "272 stars this month"
     },
     {
       "title": "libuv / libuv",
@@ -180,19 +150,89 @@
       "description": "Cross-platform asynchronous I/O",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27232,
-      "forks": 3946,
-      "added_stars": "104 stars this month"
+      "stars": 27236,
+      "forks": 3945,
+      "added_stars": "106 stars this month"
     },
     {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 77173,
-      "forks": 10528,
-      "added_stars": "1,311 stars this month"
+      "stars": 1194,
+      "forks": 305,
+      "added_stars": "366 stars this month"
+    },
+    {
+      "title": "CTCaer / hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8866,
+      "forks": 689,
+      "added_stars": "224 stars this month"
+    },
+    {
+      "title": "moonlight-stream / moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7253,
+      "forks": 1617,
+      "added_stars": "193 stars this month"
+    },
+    {
+      "title": "ValdikSS / GoodbyeDPI",
+      "url": "https://github.com/ValdikSS/GoodbyeDPI",
+      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28759,
+      "forks": 2231,
+      "added_stars": "183 stars this month"
+    },
+    {
+      "title": "FoloToy / ai-passport",
+      "url": "https://github.com/FoloToy/ai-passport",
+      "description": "FOLOTOY AI Passport develop resources for Agent",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 590,
+      "forks": 233,
+      "added_stars": "308 stars this month"
+    },
+    {
+      "title": "systemd / systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16807,
+      "forks": 4737,
+      "added_stars": "168 stars this month"
+    },
+    {
+      "title": "stackia / rtp2httpd",
+      "url": "https://github.com/stackia/rtp2httpd",
+      "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2238,
+      "forks": 358,
+      "added_stars": "211 stars this month"
+    },
+    {
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22483,
+      "forks": 1959,
+      "added_stars": "316 stars this month"
     }
   ]
 }

@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 09 Oct 2026 08:18:47 GMT",
+  "pubDate": "Sat, 10 Oct 2026 07:59:38 GMT",
   "items": [
     {
-      "title": "docker / docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4267,
-      "forks": 497,
-      "added_stars": "766 stars today"
-    },
-    {
-      "title": "hashicorp / vault",
-      "url": "https://github.com/hashicorp/vault",
-      "description": "A tool for secrets management, encryption as a service, and privileged access management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36362,
-      "forks": 4782,
-      "added_stars": "7 stars today"
+      "stars": 45571,
+      "forks": 3289,
+      "added_stars": "326 stars today"
     },
     {
       "title": "ollama / ollama",
@@ -30,139 +20,159 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 182446,
-      "forks": 18173,
-      "added_stars": "128 stars today"
+      "stars": 182579,
+      "forks": 18180,
+      "added_stars": "151 stars today"
     },
     {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24351,
-      "forks": 7929,
-      "added_stars": "3 stars today"
+      "stars": 43615,
+      "forks": 9360,
+      "added_stars": "89 stars today"
     },
     {
-      "title": "go-acme / lego",
-      "url": "https://github.com/go-acme/lego",
-      "description": "Let's Encrypt/ACME client and library written in Go",
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9918,
-      "forks": 1175,
-      "added_stars": "2 stars today"
+      "stars": 91940,
+      "forks": 10941,
+      "added_stars": "81 stars today"
     },
     {
-      "title": "llm-d / llm-d-router",
-      "url": "https://github.com/llm-d/llm-d-router",
-      "description": "llm-d Router: The intelligent entry point for inference requests",
+      "title": "hashicorp / vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 386,
-      "forks": 425,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "external-secrets / external-secrets",
-      "url": "https://github.com/external-secrets/external-secrets",
-      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6898,
-      "forks": 1451,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-collector-contrib",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-      "description": "Contrib repository for the OpenTelemetry Collector",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4984,
-      "forks": 3993,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "kai-scheduler / KAI-Scheduler",
-      "url": "https://github.com/kai-scheduler/KAI-Scheduler",
-      "description": "KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1559,
-      "forks": 295,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ltaoo / wx_channels_download",
-      "url": "https://github.com/ltaoo/wx_channels_download",
-      "description": "微信视频号下载器",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9711,
-      "forks": 1608,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "kyverno / kyverno",
-      "url": "https://github.com/kyverno/kyverno",
-      "description": "Unified Policy as Code",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8233,
-      "forks": 1644,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "stacklok / toolhive",
-      "url": "https://github.com/stacklok/toolhive",
-      "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2259,
-      "forks": 315,
+      "stars": 36375,
+      "forks": 4782,
       "added_stars": "8 stars today"
     },
     {
-      "title": "jesseduffield / lazygit",
-      "url": "https://github.com/jesseduffield/lazygit",
-      "description": "simple terminal UI for git commands",
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 83036,
-      "forks": 3069,
-      "added_stars": "49 stars today"
+      "stars": 49594,
+      "forks": 11919,
+      "added_stars": "102 stars today"
     },
     {
-      "title": "navidrome / navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧 Your Personal Streaming Service",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24052,
-      "forks": 1748,
-      "added_stars": "22 stars today"
+      "stars": 52359,
+      "forks": 6817,
+      "added_stars": "100 stars today"
     },
     {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "title": "docker / docker-agent",
+      "url": "https://github.com/docker/docker-agent",
+      "description": "AI Agent Builder and Runtime by Docker Engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29807,
-      "forks": 2271,
+      "stars": 4333,
+      "forks": 503,
+      "added_stars": "144 stars today"
+    },
+    {
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 12861,
+      "forks": 1185,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32937,
+      "forks": 4379,
+      "added_stars": "217 stars today"
+    },
+    {
+      "title": "fish2018 / pansou",
+      "url": "https://github.com/fish2018/pansou",
+      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14860,
+      "forks": 3606,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "XTLS / Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 42030,
+      "forks": 5962,
       "added_stars": "24 stars today"
     },
     {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "title": "grafana / mcp-grafana",
+      "url": "https://github.com/grafana/mcp-grafana",
+      "description": "MCP server for Grafana",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37300,
-      "forks": 3302,
-      "added_stars": "46 stars today"
+      "stars": 3546,
+      "forks": 461,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25423,
+      "forks": 3273,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "Agent-Field / CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "description": "Open-Source Software factory for Open Models",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 377,
+      "forks": 48,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47731,
+      "forks": 12228,
+      "added_stars": "73 stars today"
+    },
+    {
+      "title": "trufflesecurity / trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28406,
+      "forks": 2627,
+      "added_stars": "41 stars today"
     }
   ]
 }

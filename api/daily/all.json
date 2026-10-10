@@ -2,37 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 09 Oct 2026 08:18:47 GMT",
+  "pubDate": "Sat, 10 Oct 2026 07:59:38 GMT",
   "items": [
-    {
-      "title": "boykopovar / AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17572,
-      "forks": 1399,
-      "added_stars": "4,669 stars today"
-    },
-    {
-      "title": "cathrynlavery / diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 47006,
-      "forks": 2987,
-      "added_stars": "1,160 stars today"
-    },
     {
       "title": "morluto / rea",
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31967,
-      "forks": 3860,
-      "added_stars": "7,738 stars today"
+      "stars": 55500,
+      "forks": 10643,
+      "added_stars": "14,927 stars today"
+    },
+    {
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 23537,
+      "forks": 1944,
+      "added_stars": "5,868 stars today"
     },
     {
       "title": "mattpocock / skills",
@@ -40,29 +30,29 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 281667,
-      "forks": 23605,
-      "added_stars": "1,774 stars today"
+      "stars": 283296,
+      "forks": 23728,
+      "added_stars": "1,687 stars today"
     },
     {
-      "title": "thedotmack / claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 98758,
-      "forks": 8656,
-      "added_stars": "670 stars today"
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 48258,
+      "forks": 3053,
+      "added_stars": "1,739 stars today"
     },
     {
-      "title": "EpicGames / raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8191,
-      "forks": 392,
-      "added_stars": "279 stars today"
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45571,
+      "forks": 3289,
+      "added_stars": "326 stars today"
     },
     {
       "title": "anthropics / knowledge-work-plugins",
@@ -70,9 +60,29 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27879,
-      "forks": 3225,
-      "added_stars": "392 stars today"
+      "stars": 28460,
+      "forks": 3258,
+      "added_stars": "709 stars today"
+    },
+    {
+      "title": "BerriAI / litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 60810,
+      "forks": 12201,
+      "added_stars": "95 stars today"
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 104212,
+      "forks": 10879,
+      "added_stars": "436 stars today"
     },
     {
       "title": "storytold / artcraft",
@@ -80,19 +90,29 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9148,
-      "forks": 1352,
-      "added_stars": "2,103 stars today"
+      "stars": 12351,
+      "forks": 1883,
+      "added_stars": "3,752 stars today"
     },
     {
-      "title": "liquidslr / system-design-notes",
-      "url": "https://github.com/liquidslr/system-design-notes",
-      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "title": "Robbyant / lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17831,
+      "forks": 1960,
+      "added_stars": "110 stars today"
+    },
+    {
+      "title": "twostraws / SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": "all",
       "languageColor": null,
-      "stars": 25022,
-      "forks": 4644,
-      "added_stars": "393 stars today"
+      "stars": 5595,
+      "forks": 197,
+      "added_stars": "65 stars today"
     }
   ]
 }

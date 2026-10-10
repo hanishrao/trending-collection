@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 09 Oct 2026 08:23:17 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 08:05:23 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -16,19 +16,14 @@
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
-    <title>NixOS / nixos-hardware</title>
-    <link>https://github.com/NixOS/nixos-hardware</link>
-    <description>A collection of NixOS modules covering hardware quirks.</description>
-  </item>
-  <item>
     <title>finix-community / finix</title>
     <link>https://github.com/finix-community/finix</link>
     <description>A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space</description>
   </item>
   <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>nix-community / stylix</title>
+    <link>https://github.com/nix-community/stylix</link>
+    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
   </item>
   <item>
     <title>microvm-nix / microvm.nix</title>
@@ -36,9 +31,24 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
     <title>numtide / system-manager</title>
     <link>https://github.com/numtide/system-manager</link>
     <description>Manage system config using nix on any distro</description>
+  </item>
+  <item>
+    <title>NixOS / nixos-hardware</title>
+    <link>https://github.com/NixOS/nixos-hardware</link>
+    <description>A collection of NixOS modules covering hardware quirks.</description>
+  </item>
+  <item>
+    <title>flyingcircusio / fc-nixos</title>
+    <link>https://github.com/flyingcircusio/fc-nixos</link>
+    <description>The Flying Circus platform, based on NixOS.</description>
   </item>
   <item>
     <title>nix-community / home-manager</title>
@@ -46,9 +56,9 @@
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
-    <title>flyingcircusio / fc-nixos</title>
-    <link>https://github.com/flyingcircusio/fc-nixos</link>
-    <description>The Flying Circus platform, based on NixOS.</description>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
     <title>nix-community / NixOS-WSL</title>

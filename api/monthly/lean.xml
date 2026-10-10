@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 09 Oct 2026 08:23:17 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 08:05:23 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
@@ -41,6 +41,11 @@
     <description>Tool to analyse the import structure of lean projects.</description>
   </item>
   <item>
+    <title>leanprover / lean4-cli</title>
+    <link>https://github.com/leanprover/lean4-cli</link>
+    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
+  </item>
+  <item>
     <title>leanprover-community / ProofWidgets4</title>
     <link>https://github.com/leanprover-community/ProofWidgets4</link>
     <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
@@ -51,19 +56,9 @@
     <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
   </item>
   <item>
-    <title>leanprover / lean4-cli</title>
-    <link>https://github.com/leanprover/lean4-cli</link>
-    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
-  </item>
-  <item>
     <title>leanprover-community / plausible</title>
     <link>https://github.com/leanprover-community/plausible</link>
     <description></description>
-  </item>
-  <item>
-    <title>leanprover / cslib</title>
-    <link>https://github.com/leanprover/cslib</link>
-    <description>The Lean Computer Science Library (CSLib)</description>
   </item>
   <item>
     <title>leanprover-community / mathlib3</title>
@@ -71,9 +66,19 @@
     <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
   </item>
   <item>
-    <title>google-deepmind / formal-conjectures</title>
-    <link>https://github.com/google-deepmind/formal-conjectures</link>
-    <description>A collection of formalized statements of conjectures in Lean.</description>
+    <title>teorth / analysis</title>
+    <link>https://github.com/teorth/analysis</link>
+    <description>A Lean companion to Analysis I</description>
+  </item>
+  <item>
+    <title>leanprover / cslib</title>
+    <link>https://github.com/leanprover/cslib</link>
+    <description>The Lean Computer Science Library (CSLib)</description>
+  </item>
+  <item>
+    <title>leanprover-community / physlib</title>
+    <link>https://github.com/leanprover-community/physlib</link>
+    <description>A project to digitalise results from physics into Lean.</description>
   </item>
 </channel>
 </rss>
