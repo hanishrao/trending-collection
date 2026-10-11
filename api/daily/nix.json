@@ -2,8 +2,28 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 10 Oct 2026 07:59:38 GMT",
+  "pubDate": "Sun, 11 Oct 2026 08:09:40 GMT",
   "items": [
+    {
+      "title": "NixOS / nixpkgs",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "description": "Nix Packages collection & NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 26425,
+      "forks": 20360,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10422,
+      "forks": 2488,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "supabase / postgres",
       "url": "https://github.com/supabase/postgres",
@@ -15,34 +35,54 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "NixOS / nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "description": "Nix Packages collection & NixOS",
+      "title": "ryoppippi / dotfiles",
+      "url": "https://github.com/ryoppippi/dotfiles",
+      "description": "ryoppippi's dotfiles",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26414,
-      "forks": 20349,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3217,
-      "forks": 236,
+      "stars": 268,
+      "forks": 5,
       "added_stars": "2 stars today"
     },
     {
-      "title": "numtide / system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1765,
-      "forks": 66,
+      "stars": 2095,
+      "forks": 287,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "microvm-nix / microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3000,
+      "forks": 239,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "NixOS / nix.dev",
+      "url": "https://github.com/NixOS/nix.dev",
+      "description": "Official documentation for getting things done with Nix.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 4005,
+      "forks": 342,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "chaotic-cx / nyx",
+      "url": "https://github.com/chaotic-cx/nyx",
+      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 780,
+      "forks": 82,
+      "added_stars": "0 stars today"
     }
   ]
 }

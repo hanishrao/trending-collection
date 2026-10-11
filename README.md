@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3463-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3464-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-10-10
-_Top 3 per language · [view full day →](./2026/2026-10-10.md)_
+## 🔥 Today's Trending — 2026-10-11
+_Top 3 per language · [view full day →](./2026/2026-10-11.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🐍 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 🐍 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🐍 | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🐍 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 🐍 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 🐍 | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. |
 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🦀 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 | [microsoft/mxc](https://github.com/microsoft/mxc) | 🦀 | Policy-driven, layered isolation and containment |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🦀 | Browser automation CLI for AI agents |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 🦀 | A refreshingly simple data-driven game engine built in Rust |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⚡ | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| [vercel/next.js](https://github.com/vercel/next.js) | ⚡ | The React Framework |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
-| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | ⚡ | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | ⚡ | Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| [ollama/ollama](https://github.com/ollama/ollama) | 🐹 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🐹 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 🍎 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 🐹 | Production-Grade Container Scheduling and Management |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🐹 | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 🍎 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
 | [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) | 🍎 | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 |
-| [cshariq/Sapphire](https://github.com/cshariq/Sapphire) | 🍎 | The all in one mac app that redefines the notch |
+| [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 🍎 | Community fork of PlayCover |
 | [morluto/rea](https://github.com/morluto/rea) | 🔷 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔷 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template |
-| [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | 🔷 | The next-generation file converter. Open source, fully local* and free forever. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔷 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [angular/angular](https://github.com/angular/angular) | 🔷 | Deliver web apps with confidence 🚀 |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-10-10.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-10-11](./2026/2026-10-11.md) | [ppt-master](https://github.com/hugohe3/ppt-master) | [artcraft](https://github.com/storytold/artcraft) | [archify](https://github.com/tt-a1i/archify) | [open-code-review](https://github.com/alibaba/open-code-review) | [xtool](https://github.com/xtool-org/xtool) | [rea](https://github.com/morluto/rea) |
 | [2026-10-10](./2026/2026-10-10.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [artcraft](https://github.com/storytold/artcraft) | [agent-skills](https://github.com/addyosmani/agent-skills) | [open-code-review](https://github.com/alibaba/open-code-review) | [cmux](https://github.com/manaflow-ai/cmux) | [rea](https://github.com/morluto/rea) |
 | [2026-10-09](./2026/2026-10-09.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [artcraft](https://github.com/storytold/artcraft) | [agent-skills](https://github.com/addyosmani/agent-skills) | [docker-agent](https://github.com/docker/docker-agent) | [cmux](https://github.com/manaflow-ai/cmux) | [rea](https://github.com/morluto/rea) |
 | [2026-10-08](./2026/2026-10-08.md) | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | [cua](https://github.com/trycua/cua) | [agent-skills](https://github.com/addyosmani/agent-skills) | [caddy](https://github.com/caddyserver/caddy) | [cmux](https://github.com/manaflow-ai/cmux) | [rea](https://github.com/morluto/rea) |
 | [2026-10-07](./2026/2026-10-07.md) | [text-to-cad](https://github.com/earthtojake/text-to-cad) | [rtk](https://github.com/rtk-ai/rtk) | [impeccable](https://github.com/pbakaus/impeccable) | [caddy](https://github.com/caddyserver/caddy) | [bitchat](https://github.com/permissionlesstech/bitchat) | [e2e](https://github.com/tester-army/e2e) |
 | [2026-10-06](./2026/2026-10-06.md) | [text-to-cad](https://github.com/earthtojake/text-to-cad) | [RuView](https://github.com/ruvnet/RuView) | [openGym](https://github.com/DuarteSantos8/openGym) | [caddy](https://github.com/caddyserver/caddy) | [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | [e2e](https://github.com/tester-army/e2e) |
 | [2026-10-05](./2026/2026-10-05.md) | [text-to-cad](https://github.com/earthtojake/text-to-cad) | [FluxDown](https://github.com/zerx-lab/FluxDown) | [impeccable](https://github.com/pbakaus/impeccable) | [caddy](https://github.com/caddyserver/caddy) | [opendisplay](https://github.com/peetzweg/opendisplay) | [e2e](https://github.com/tester-army/e2e) |
-| [2026-10-04](./2026/2026-10-04.md) | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | [ponytail](https://github.com/DietrichGebert/ponytail) | [caveman](https://github.com/JuliusBrussee/caveman) | [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | [effect](https://github.com/Effect-TS/effect) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -52,7 +52,7 @@ _Most days on trending, all time_
 
 | Repository | Days on Trending |
 |---|---|
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2253 |
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2254 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2014 |
 | [vapor/vapor](https://github.com/vapor/vapor) | 1737 |
 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1502 |
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) | 🐍 | 2026-10-11 | Autonomous Hacking Agent for Red Team |
+| [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot) | 🦀 | 2026-10-11 | A bespoke, Game Boy-centric CFW for the RG SP. |
+| [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) | 🦀 | 2026-10-11 | Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView. |
+| [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 🐹 | 2026-10-11 | ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 🔷 | 2026-10-11 | Teams-first Multi-agent orchestration for Claude Code |
 | [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) | 🐍 | 2026-10-10 |  |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 🐍 | 2026-10-10 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. |
 | [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) | ⚡ | 2026-10-10 | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
 | [chaolucky18/xuexitongScript](https://github.com/chaolucky18/xuexitongScript) | ⚡ | 2026-10-10 | 学习通自动刷课脚本 |
 | [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) | 🐹 | 2026-10-10 | Open-Source Software factory for Open Models |
-| [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | 🔷 | 2026-10-10 | The next-generation file converter. Open source, fully local* and free forever. |
-| [cartesiancs/map3d](https://github.com/cartesiancs/map3d) | 🔷 | 2026-10-10 | 🗺️ Generate City 3D map with R3F. Include building and road information. |
-| [makecindy/cindy](https://github.com/makecindy/cindy) | 🔷 | 2026-10-10 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
-| [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) | 🐍 | 2026-10-09 | Android Logs Events And Protobuf Parser |
-| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | 🐍 | 2026-10-09 | MCP Server for Computer Use in Windows |
 
 ---
 

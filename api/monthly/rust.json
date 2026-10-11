@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 10 Oct 2026 08:05:23 GMT",
+  "pubDate": "Sun, 11 Oct 2026 08:13:19 GMT",
   "items": [
     {
       "title": "NVIDIA / OpenShell",
@@ -10,9 +10,9 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15646,
-      "forks": 1751,
-      "added_stars": "7,118 stars this month"
+      "stars": 15761,
+      "forks": 1760,
+      "added_stars": "7,234 stars this month"
     },
     {
       "title": "trycua / cua",
@@ -20,19 +20,9 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 29226,
-      "forks": 2066,
-      "added_stars": "6,877 stars this month"
-    },
-    {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9155,
-      "forks": 328,
-      "added_stars": "2,301 stars this month"
+      "stars": 29319,
+      "forks": 2080,
+      "added_stars": "6,950 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -40,9 +30,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16706,
-      "forks": 1029,
-      "added_stars": "2,526 stars this month"
+      "stars": 16880,
+      "forks": 1039,
+      "added_stars": "2,544 stars this month"
     },
     {
       "title": "rustfs / rustfs",
@@ -50,9 +40,19 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34656,
-      "forks": 1568,
-      "added_stars": "3,057 stars this month"
+      "stars": 34704,
+      "forks": 1575,
+      "added_stars": "3,064 stars this month"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9181,
+      "forks": 328,
+      "added_stars": "2,364 stars this month"
     },
     {
       "title": "cloudflare / quiche",
@@ -60,9 +60,9 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12760,
-      "forks": 1171,
-      "added_stars": "975 stars this month"
+      "stars": 12767,
+      "forks": 1173,
+      "added_stars": "979 stars this month"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -70,9 +70,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 125358,
-      "forks": 19567,
-      "added_stars": "3,022 stars this month"
+      "stars": 125459,
+      "forks": 19594,
+      "added_stars": "3,027 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -80,19 +80,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9096,
-      "forks": 633,
-      "added_stars": "2,958 stars this month"
-    },
-    {
-      "title": "alphaXiv / OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6821,
-      "forks": 441,
-      "added_stars": "6,349 stars this month"
+      "stars": 9128,
+      "forks": 640,
+      "added_stars": "2,712 stars this month"
     },
     {
       "title": "clash-verge-rev / clash-verge-rev",
@@ -100,99 +90,29 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 150245,
-      "forks": 10796,
-      "added_stars": "7,407 stars this month"
+      "stars": 150478,
+      "forks": 10805,
+      "added_stars": "7,489 stars this month"
     },
     {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 25487,
-      "forks": 2312,
-      "added_stars": "6,879 stars this month"
+      "stars": 6866,
+      "forks": 443,
+      "added_stars": "6,178 stars this month"
     },
     {
-      "title": "hydra-db / hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
+      "title": "lexmount / moli",
+      "url": "https://github.com/lexmount/moli",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13023,
-      "forks": 5455,
-      "added_stars": "10,063 stars this month"
-    },
-    {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9580,
-      "forks": 369,
-      "added_stars": "6,560 stars this month"
-    },
-    {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2665,
-      "forks": 286,
-      "added_stars": "1,343 stars this month"
-    },
-    {
-      "title": "microsoft / mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2483,
-      "forks": 123,
-      "added_stars": "894 stars this month"
-    },
-    {
-      "title": "ankitects / anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31885,
-      "forks": 3315,
-      "added_stars": "1,684 stars this month"
-    },
-    {
-      "title": "zeronsh / zeron",
-      "url": "https://github.com/zeronsh/zeron",
-      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3144,
-      "forks": 306,
-      "added_stars": "2,003 stars this month"
-    },
-    {
-      "title": "deeplethe / utopia",
-      "url": "https://github.com/deeplethe/utopia",
-      "description": "World's first open-source enterprise world model.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8218,
-      "forks": 1144,
-      "added_stars": "6,572 stars this month"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32042,
-      "forks": 3461,
-      "added_stars": "1,114 stars this month"
+      "stars": 15882,
+      "forks": 383,
+      "added_stars": "13,847 stars this month"
     },
     {
       "title": "bevyengine / bevy",
@@ -200,9 +120,109 @@
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 48821,
-      "forks": 4904,
-      "added_stars": "792 stars this month"
+      "stars": 48859,
+      "forks": 4911,
+      "added_stars": "855 stars this month"
+    },
+    {
+      "title": "hydra-db / hydradb",
+      "url": "https://github.com/hydra-db/hydradb",
+      "description": "HydraDB - fast graph database on object storage",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 13016,
+      "forks": 5444,
+      "added_stars": "10,046 stars this month"
+    },
+    {
+      "title": "microsoft / mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2603,
+      "forks": 131,
+      "added_stars": "1,234 stars this month"
+    },
+    {
+      "title": "yyjeqhc / webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2236,
+      "forks": 295,
+      "added_stars": "1,641 stars this month"
+    },
+    {
+      "title": "ankitects / anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31912,
+      "forks": 3319,
+      "added_stars": "1,698 stars this month"
+    },
+    {
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9586,
+      "forks": 371,
+      "added_stars": "6,589 stars this month"
+    },
+    {
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2744,
+      "forks": 301,
+      "added_stars": "1,282 stars this month"
+    },
+    {
+      "title": "zeronsh / zeron",
+      "url": "https://github.com/zeronsh/zeron",
+      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3156,
+      "forks": 309,
+      "added_stars": "1,810 stars this month"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32072,
+      "forks": 3464,
+      "added_stars": "1,116 stars this month"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25723,
+      "forks": 2335,
+      "added_stars": "6,850 stars this month"
+    },
+    {
+      "title": "deeplethe / utopia",
+      "url": "https://github.com/deeplethe/utopia",
+      "description": "World's first open-source enterprise world model.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8248,
+      "forks": 1147,
+      "added_stars": "6,028 stars this month"
     }
   ]
 }

@@ -4,16 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 10 Oct 2026 07:59:38 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 08:09:40 GMT</pubDate>
   <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-    <description>Configures opinionated GKE clusters</description>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
@@ -21,14 +16,9 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-lambda</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
-    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-network</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
-    <description>Sets up a new VPC network on Google Cloud</description>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-ecs</title>
@@ -36,34 +26,29 @@
     <description>Terraform module to create AWS ECS resources 🇺🇦</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-eventbridge</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eventbridge</link>
+    <description>Terraform module to create AWS EventBridge resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-iam</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
+    <description>Manages multiple IAM roles for resources on Google Cloud</description>
+  </item>
+  <item>
     <title>cloudposse / terraform-aws-ecs-container-definition</title>
     <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
     <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
+    <title>terraform-google-modules / terraform-google-network</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+    <description>Sets up a new VPC network on Google Cloud</description>
+  </item>
+  <item>
     <title>terraform-google-modules / terraform-google-project-factory</title>
     <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
     <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-  </item>
-  <item>
-    <title>alphagov / govuk-infrastructure</title>
-    <link>https://github.com/alphagov/govuk-infrastructure</link>
-    <description>This repository contains all the code and infrastructure to run the GOV.UK Platform. See https://github.com/alphagov/govuk-helm-charts for application config. Issues created in this repository are for all of GOV.UK Platform Engineering (not just infrastructure)..</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-security-group</title>
-    <link>https://github.com/cloudposse/terraform-aws-security-group</link>
-    <description>Terraform module to provision an AWS Security Group</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-service-accounts</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
-    <description>Creates one or more service accounts and grants them basic roles</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eventbridge</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eventbridge</link>
-    <description>Terraform module to create AWS EventBridge resources 🇺🇦</description>
   </item>
 </channel>
 </rss>

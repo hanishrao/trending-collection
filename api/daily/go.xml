@@ -4,31 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 10 Oct 2026 07:59:38 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 08:09:40 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
     <description>Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
   </item>
   <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
-  </item>
-  <item>
-    <title>Wei-Shaw / sub2api</title>
-    <link>https://github.com/Wei-Shaw/sub2api</link>
-    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
-  </item>
-  <item>
-    <title>infiniflow / ragflow</title>
-    <link>https://github.com/infiniflow/ragflow</link>
-    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
-  </item>
-  <item>
-    <title>hashicorp / vault</title>
-    <link>https://github.com/hashicorp/vault</link>
-    <description>A tool for secrets management, encryption as a service, and privileged access management</description>
+    <title>kubernetes / kubernetes</title>
+    <link>https://github.com/kubernetes/kubernetes</link>
+    <description>Production-Grade Container Scheduling and Management</description>
   </item>
   <item>
     <title>QuantumNous / new-api</title>
@@ -36,39 +21,19 @@
     <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
   </item>
   <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+    <title>Autumn-27 / ScopeSentry</title>
+    <link>https://github.com/Autumn-27/ScopeSentry</link>
+    <description>ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes</description>
   </item>
   <item>
-    <title>docker / docker-agent</title>
-    <link>https://github.com/docker/docker-agent</link>
-    <description>AI Agent Builder and Runtime by Docker Engineering</description>
+    <title>docker / compose</title>
+    <link>https://github.com/docker/compose</link>
+    <description>Define and run multi-container applications with Docker</description>
   </item>
   <item>
-    <title>TencentCloud / CubeSandbox</title>
-    <link>https://github.com/TencentCloud/CubeSandbox</link>
-    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
-  </item>
-  <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-  </item>
-  <item>
-    <title>fish2018 / pansou</title>
-    <link>https://github.com/fish2018/pansou</link>
-    <description>PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv</description>
-  </item>
-  <item>
-    <title>XTLS / Xray-core</title>
-    <link>https://github.com/XTLS/Xray-core</link>
-    <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
-  </item>
-  <item>
-    <title>grafana / mcp-grafana</title>
-    <link>https://github.com/grafana/mcp-grafana</link>
-    <description>MCP server for Grafana</description>
+    <title>charmbracelet / bubbletea</title>
+    <link>https://github.com/charmbracelet/bubbletea</link>
+    <description>A powerful little TUI framework 🏗</description>
   </item>
   <item>
     <title>vxcontrol / pentagi</title>
@@ -76,19 +41,59 @@
     <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
   </item>
   <item>
-    <title>Agent-Field / CodeAF</title>
-    <link>https://github.com/Agent-Field/CodeAF</link>
-    <description>Open-Source Software factory for Open Models</description>
+    <title>infiniflow / ragflow</title>
+    <link>https://github.com/infiniflow/ragflow</link>
+    <description>RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs</description>
   </item>
   <item>
-    <title>MHSanaei / 3x-ui</title>
-    <link>https://github.com/MHSanaei/3x-ui</link>
-    <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+    <title>gin-gonic / gin</title>
+    <link>https://github.com/gin-gonic/gin</link>
+    <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
   </item>
   <item>
-    <title>trufflesecurity / trufflehog</title>
-    <link>https://github.com/trufflesecurity/trufflehog</link>
-    <description>Find, verify, and analyze leaked credentials</description>
+    <title>junegunn / fzf</title>
+    <link>https://github.com/junegunn/fzf</link>
+    <description>🌸 A command-line fuzzy finder</description>
+  </item>
+  <item>
+    <title>larksuite / cli</title>
+    <link>https://github.com/larksuite/cli</link>
+    <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
+  </item>
+  <item>
+    <title>higress-group / higress</title>
+    <link>https://github.com/higress-group/higress</link>
+    <description>🤖 AI Gateway | AI Native API Gateway</description>
+  </item>
+  <item>
+    <title>Tencent / WeKnora</title>
+    <link>https://github.com/Tencent/WeKnora</link>
+    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+  </item>
+  <item>
+    <title>Wei-Shaw / sub2api</title>
+    <link>https://github.com/Wei-Shaw/sub2api</link>
+    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+  </item>
+  <item>
+    <title>casdoor / casdoor</title>
+    <link>https://github.com/casdoor/casdoor</link>
+    <description>An open-source Agent-first Identity and Access Management (IAM) /LLM MCP &amp; agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD</description>
+  </item>
+  <item>
+    <title>golang / go</title>
+    <link>https://github.com/golang/go</link>
+    <description>The Go programming language</description>
+  </item>
+  <item>
+    <title>llm-d / llm-d-router</title>
+    <link>https://github.com/llm-d/llm-d-router</link>
+    <description>llm-d Router: The intelligent entry point for inference requests</description>
+  </item>
+  <item>
+    <title>dexidp / dex</title>
+    <link>https://github.com/dexidp/dex</link>
+    <description>OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors</description>
   </item>
 </channel>
 </rss>

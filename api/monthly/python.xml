@@ -4,7 +4,7 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 10 Oct 2026 08:05:23 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 08:13:19 GMT</pubDate>
   <item>
     <title>debpalash / VoiceStudio</title>
     <link>https://github.com/debpalash/VoiceStudio</link>
@@ -21,14 +21,14 @@
     <description>Hindsight: Agent Memory That Learns</description>
   </item>
   <item>
-    <title>TencentCloud / Octop</title>
-    <link>https://github.com/TencentCloud/Octop</link>
-    <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
-  </item>
-  <item>
     <title>anthropics / knowledge-work-plugins</title>
     <link>https://github.com/anthropics/knowledge-work-plugins</link>
     <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+  </item>
+  <item>
+    <title>TencentCloud / Octop</title>
+    <link>https://github.com/TencentCloud/Octop</link>
+    <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
   </item>
   <item>
     <title>Panniantong / Agent-Reach</title>
@@ -38,7 +38,12 @@
   <item>
     <title>rohitg00 / ai-engineering-from-scratch</title>
     <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-    <description>Learn it. Build it. Ship it for others.</description>
+    <description>Learn AI Engineering! Learn it. Build it. Ship it for others.</description>
+  </item>
+  <item>
+    <title>coji / natural-japanese</title>
+    <link>https://github.com/coji/natural-japanese</link>
+    <description>仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。</description>
   </item>
   <item>
     <title>D4Vinci / Scrapling</title>
@@ -51,6 +56,16 @@
     <description>📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG</description>
   </item>
   <item>
+    <title>davila7 / claude-code-templates</title>
+    <link>https://github.com/davila7/claude-code-templates</link>
+    <description>CLI tool for configuring and monitoring Claude Code</description>
+  </item>
+  <item>
+    <title>NVIDIA / SkillSpector</title>
+    <link>https://github.com/NVIDIA/SkillSpector</link>
+    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
+  </item>
+  <item>
     <title>superdesigndev / treg</title>
     <link>https://github.com/superdesigndev/treg</link>
     <description>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</description>
@@ -59,16 +74,6 @@
     <title>asgeirtj / system_prompts_leaks</title>
     <link>https://github.com/asgeirtj/system_prompts_leaks</link>
     <description>Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.</description>
-  </item>
-  <item>
-    <title>NVIDIA / SkillSpector</title>
-    <link>https://github.com/NVIDIA/SkillSpector</link>
-    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
-  </item>
-  <item>
-    <title>davila7 / claude-code-templates</title>
-    <link>https://github.com/davila7/claude-code-templates</link>
-    <description>CLI tool for configuring and monitoring Claude Code</description>
   </item>
   <item>
     <title>pytorch / pytorch</title>
@@ -81,19 +86,24 @@
     <description>🏡 Open source home automation that puts local control and privacy first.</description>
   </item>
   <item>
-    <title>NVIDIA / Model-Optimizer</title>
-    <link>https://github.com/NVIDIA/Model-Optimizer</link>
-    <description>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.</description>
-  </item>
-  <item>
     <title>danyuchn / asd-ste100-skill</title>
     <link>https://github.com/danyuchn/asd-ste100-skill</link>
     <description>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.</description>
   </item>
   <item>
+    <title>NVIDIA / Model-Optimizer</title>
+    <link>https://github.com/NVIDIA/Model-Optimizer</link>
+    <description>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.</description>
+  </item>
+  <item>
     <title>docling-project / docling</title>
     <link>https://github.com/docling-project/docling</link>
     <description>Get your documents ready for gen AI</description>
+  </item>
+  <item>
+    <title>BerriAI / litellm</title>
+    <link>https://github.com/BerriAI/litellm</link>
+    <description>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]</description>
   </item>
   <item>
     <title>tile-ai / tilelang</title>

@@ -2,8 +2,28 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 10 Oct 2026 08:03:00 GMT",
+  "pubDate": "Sun, 11 Oct 2026 08:11:40 GMT",
   "items": [
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 850,
+      "forks": 666,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "aspect-build / aspect-cli",
+      "url": "https://github.com/aspect-build/aspect-cli",
+      "description": "{ Correct, Fast, Usable } -- Choose three",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 169,
+      "forks": 46,
+      "added_stars": "0 stars this week"
+    },
     {
       "title": "bazelbuild / rules_cc",
       "url": "https://github.com/bazelbuild/rules_cc",
@@ -25,34 +45,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 850,
-      "forks": 666,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 391,
-      "forks": 935,
+      "forks": 936,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "google / fully-homomorphic-encryption",
-      "url": "https://github.com/google/fully-homomorphic-encryption",
-      "description": "Homomorphic Encryption demos",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3779,
-      "forks": 279,
-      "added_stars": "8 stars this week"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -62,17 +62,7 @@
       "languageColor": "#76d275",
       "stars": 4008,
       "forks": 307,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23124,
-      "forks": 1438,
-      "added_stars": "15 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "googleapis / googleapis",
@@ -80,19 +70,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8769,
+      "stars": 8772,
       "forks": 2633,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 357,
-      "forks": 115,
-      "added_stars": "2 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
