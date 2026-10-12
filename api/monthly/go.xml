@@ -4,7 +4,7 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 11 Oct 2026 08:13:19 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 08:29:21 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
@@ -46,29 +46,14 @@
     <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
   </item>
   <item>
-    <title>trufflesecurity / trufflehog</title>
-    <link>https://github.com/trufflesecurity/trufflehog</link>
-    <description>Find, verify, and analyze leaked credentials</description>
-  </item>
-  <item>
-    <title>vxcontrol / pentagi</title>
-    <link>https://github.com/vxcontrol/pentagi</link>
-    <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-  </item>
-  <item>
     <title>usememos / memos</title>
     <link>https://github.com/usememos/memos</link>
     <description>A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.</description>
   </item>
   <item>
-    <title>p1neappleXpress / OpenFlux</title>
-    <link>https://github.com/p1neappleXpress/OpenFlux</link>
-    <description>Network stack research tool. TCP tunnel with pluggable transports.</description>
-  </item>
-  <item>
-    <title>asciimoo / hister</title>
-    <link>https://github.com/asciimoo/hister</link>
-    <description>Your own search engine</description>
+    <title>trufflesecurity / trufflehog</title>
+    <link>https://github.com/trufflesecurity/trufflehog</link>
+    <description>Find, verify, and analyze leaked credentials</description>
   </item>
   <item>
     <title>urfave / cli</title>
@@ -76,9 +61,24 @@
     <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
   </item>
   <item>
+    <title>asciimoo / hister</title>
+    <link>https://github.com/asciimoo/hister</link>
+    <description>Your own search engine</description>
+  </item>
+  <item>
+    <title>vxcontrol / pentagi</title>
+    <link>https://github.com/vxcontrol/pentagi</link>
+    <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+  </item>
+  <item>
     <title>grpc / grpc-go</title>
     <link>https://github.com/grpc/grpc-go</link>
     <description>The Go language implementation of gRPC. HTTP/2 based RPC</description>
+  </item>
+  <item>
+    <title>gosom / google-maps-scraper</title>
+    <link>https://github.com/gosom/google-maps-scraper</link>
+    <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
   </item>
   <item>
     <title>e2b-dev / runtime</title>
@@ -86,9 +86,9 @@
     <description>The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.</description>
   </item>
   <item>
-    <title>qax-os / excelize</title>
-    <link>https://github.com/qax-os/excelize</link>
-    <description>Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</description>
+    <title>aquasecurity / trivy</title>
+    <link>https://github.com/aquasecurity/trivy</link>
+    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
     <title>golang / go</title>
@@ -96,34 +96,29 @@
     <description>The Go programming language</description>
   </item>
   <item>
+    <title>docker / docker-agent</title>
+    <link>https://github.com/docker/docker-agent</link>
+    <description>AI Agent Builder and Runtime by Docker Engineering</description>
+  </item>
+  <item>
+    <title>zitadel / zitadel</title>
+    <link>https://github.com/zitadel/zitadel</link>
+    <description>ZITADEL - Identity infrastructure, simplified for you.</description>
+  </item>
+  <item>
+    <title>openai / tunnel-client</title>
+    <link>https://github.com/openai/tunnel-client</link>
+    <description>Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.</description>
+  </item>
+  <item>
     <title>seaweedfs / seaweedfs</title>
     <link>https://github.com/seaweedfs/seaweedfs</link>
     <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
   </item>
   <item>
-    <title>kubernetes / kubernetes</title>
-    <link>https://github.com/kubernetes/kubernetes</link>
-    <description>Production-Grade Container Scheduling and Management</description>
-  </item>
-  <item>
-    <title>openbao / openbao</title>
-    <link>https://github.com/openbao/openbao</link>
-    <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
-  </item>
-  <item>
-    <title>aquasecurity / trivy</title>
-    <link>https://github.com/aquasecurity/trivy</link>
-    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-  </item>
-  <item>
     <title>Armur-Ai / Pentest-Swarm-AI</title>
     <link>https://github.com/Armur-Ai/Pentest-Swarm-AI</link>
     <description>Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.</description>
-  </item>
-  <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
   </item>
 </channel>
 </rss>

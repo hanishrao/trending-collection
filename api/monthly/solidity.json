@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 11 Oct 2026 08:13:19 GMT",
+  "pubDate": "Mon, 12 Oct 2026 08:29:21 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,19 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27267,
-      "forks": 12388,
-      "added_stars": "60 stars this month"
+      "stars": 27270,
+      "forks": 12387,
+      "added_stars": "57 stars this month"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1058,
+      "forks": 528,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -25,14 +35,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "title": "defisaver / defisaver-v3-contracts",
+      "url": "https://github.com/defisaver/defisaver-v3-contracts",
+      "description": "All the contracts related to the Defi Saver ecosystem",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1058,
-      "forks": 527,
-      "added_stars": "6 stars this month"
+      "stars": 379,
+      "forks": 175,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "dapphub / ds-test",
@@ -45,16 +55,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 3380,
-      "forks": 494,
-      "added_stars": "16 stars this month"
-    },
-    {
       "title": "transmissions11 / solmate",
       "url": "https://github.com/transmissions11/solmate",
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
@@ -65,24 +65,14 @@
       "added_stars": "6 stars this month"
     },
     {
-      "title": "SunWeb3Sec / DeFiHackLabs",
-      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
-      "description": "Reproduce DeFi hacked incidents using Foundry.",
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 6805,
-      "forks": 1487,
-      "added_stars": "38 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2537,
-      "forks": 1332,
-      "added_stars": "10 stars this month"
+      "stars": 3380,
+      "forks": 494,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "Uniswap / permit2",
@@ -93,6 +83,16 @@
       "stars": 945,
       "forks": 302,
       "added_stars": "5 stars this month"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2537,
+      "forks": 1332,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "celo-org / celo-monorepo",

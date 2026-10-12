@@ -2,17 +2,37 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 11 Oct 2026 08:09:40 GMT",
+  "pubDate": "Mon, 12 Oct 2026 08:25:41 GMT",
   "items": [
+    {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2963,
+      "forks": 469,
+      "added_stars": "1 star today"
+    },
     {
       "title": "jgm / pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46648,
-      "forks": 6203,
-      "added_stars": "11 stars today"
+      "stars": 46661,
+      "forks": 6372,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "flora-pm / flora-server",
+      "url": "https://github.com/flora-pm/flora-server",
+      "description": "A modern package index for the Haskell ecosystem",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 158,
+      "forks": 50,
+      "added_stars": "0 stars today"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,59 +40,29 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40159,
+      "stars": 40163,
       "forks": 1958,
-      "added_stars": "8 stars today"
+      "added_stars": "6 stars today"
     },
     {
-      "title": "haskell / cabal",
-      "url": "https://github.com/haskell/cabal",
-      "description": "Official upstream development repository for Cabal and cabal-install",
+      "title": "mtolly / onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1745,
-      "forks": 758,
+      "stars": 302,
+      "forks": 23,
       "added_stars": "1 star today"
     },
     {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2961,
-      "forks": 467,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27702,
-      "forks": 1231,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12467,
-      "forks": 507,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hledgerorg / hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4758,
-      "forks": 415,
-      "added_stars": "0 stars today"
+      "stars": 19545,
+      "forks": 1364,
+      "added_stars": "7 stars today"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 11 Oct 2026 08:13:19 GMT",
+  "pubDate": "Mon, 12 Oct 2026 08:29:21 GMT",
   "items": [
+    {
+      "title": "ROCm / rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 450,
+      "forks": 434,
+      "added_stars": "29 stars this month"
+    },
     {
       "title": "openhwfoundation / cva6",
       "url": "https://github.com/openhwfoundation/cva6",
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3153,
+      "stars": 3156,
       "forks": 1036,
-      "added_stars": "52 stars this month"
+      "added_stars": "51 stars this month"
     },
     {
       "title": "leachim6 / hello-world",
@@ -20,19 +30,9 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11990,
-      "forks": 2116,
+      "stars": 11994,
+      "forks": 2114,
       "added_stars": "60 stars this month"
-    },
-    {
-      "title": "ROCm / rocm-libraries",
-      "url": "https://github.com/ROCm/rocm-libraries",
-      "description": "super repo for rocm libraries",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 448,
-      "forks": 433,
-      "added_stars": "26 stars this month"
     },
     {
       "title": "pret / pokered",
@@ -40,7 +40,7 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4977,
+      "stars": 4981,
       "forks": 1329,
       "added_stars": "73 stars this month"
     },
@@ -50,9 +50,9 @@
       "description": "Decompilation of Pokémon Diamond/Pearl",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 535,
-      "forks": 103,
-      "added_stars": "15 stars this month"
+      "stars": 536,
+      "forks": 104,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "pret / pokeheartgold",
@@ -60,8 +60,8 @@
       "description": "Decompilation of Pokemon HeartGold/SoulSilver",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 613,
-      "forks": 212,
+      "stars": 615,
+      "forks": 214,
       "added_stars": "29 stars this month"
     },
     {
@@ -92,7 +92,7 @@
       "languageColor": "#6E4C13",
       "stars": 5395,
       "forks": 431,
-      "added_stars": "45 stars this month"
+      "added_stars": "43 stars this month"
     },
     {
       "title": "SheerSt / pokewilds",
@@ -105,34 +105,14 @@
       "added_stars": "28 stars this month"
     },
     {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "PRoX2011 / x16-PRos",
+      "url": "https://github.com/PRoX2011/x16-PRos",
+      "description": "Simple 16 bit (real mode) operating system writen in NASM from scratch",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4016,
-      "forks": 135,
-      "added_stars": "102 stars this month"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18798,
-      "forks": 2106,
-      "added_stars": "117 stars this month"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2518,
-      "forks": 984,
-      "added_stars": "26 stars this month"
+      "stars": 718,
+      "forks": 56,
+      "added_stars": "100 stars this month"
     },
     {
       "title": "kanaka / mal",
@@ -140,49 +120,59 @@
       "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 10743,
-      "forks": 2712,
-      "added_stars": "32 stars this month"
+      "stars": 10742,
+      "forks": 2713,
+      "added_stars": "33 stars this month"
     },
     {
-      "title": "hiteshchoudhary / open-source-contribution",
-      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
-      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 546,
-      "forks": 1730,
-      "added_stars": "6 stars this month"
+      "stars": 4017,
+      "forks": 135,
+      "added_stars": "98 stars this month"
     },
     {
-      "title": "cemu-project / cemu_graphic_packs",
-      "url": "https://github.com/cemu-project/cemu_graphic_packs",
-      "description": "Community Graphic Packs for Cemu",
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1468,
-      "forks": 600,
-      "added_stars": "4 stars this month"
+      "stars": 18806,
+      "forks": 2107,
+      "added_stars": "119 stars this month"
     },
     {
-      "title": "bitdump / BLHeli",
-      "url": "https://github.com/bitdump/BLHeli",
-      "description": "BLHeli for brushless ESC firmware",
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2235,
-      "forks": 1152,
-      "added_stars": "9 stars this month"
+      "stars": 74464,
+      "forks": 8118,
+      "added_stars": "1,938 stars this month"
     },
     {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 6470,
-      "forks": 492,
-      "added_stars": "58 stars this month"
+      "stars": 2520,
+      "forks": 984,
+      "added_stars": "24 stars this month"
+    },
+    {
+      "title": "virtualagc / virtualagc",
+      "url": "https://github.com/virtualagc/virtualagc",
+      "description": "Virtual Apollo Guidance Computer (AGC) software",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3290,
+      "forks": 415,
+      "added_stars": "57 stars this month"
     }
   ]
 }

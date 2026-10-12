@@ -2,18 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 11 Oct 2026 08:13:19 GMT",
+  "pubDate": "Mon, 12 Oct 2026 08:29:21 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 587,
-      "forks": 3806,
-      "added_stars": "2 stars this month"
-    },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
@@ -22,7 +12,7 @@
       "languageColor": "#844FBA",
       "stars": 2113,
       "forks": 1269,
-      "added_stars": "19 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -30,8 +20,8 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3273,
-      "forks": 4628,
+      "stars": 3274,
+      "forks": 4627,
       "added_stars": "16 stars this month"
     },
     {
@@ -65,16 +55,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 675,
-      "forks": 669,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-project-factory",
       "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
@@ -85,16 +65,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 241,
-      "forks": 191,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-elasticache",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
       "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
@@ -103,6 +73,16 @@
       "stars": 29,
       "forks": 72,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 241,
+      "forks": 191,
+      "added_stars": "0 stars this month"
     }
   ]
 }

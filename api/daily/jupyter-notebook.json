@@ -2,17 +2,27 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 11 Oct 2026 08:09:40 GMT",
+  "pubDate": "Mon, 12 Oct 2026 08:25:41 GMT",
   "items": [
+    {
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 36840,
+      "forks": 3834,
+      "added_stars": "548 stars today"
+    },
     {
       "title": "Lordog / dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 56270,
-      "forks": 6726,
-      "added_stars": "145 stars today"
+      "stars": 56490,
+      "forks": 6753,
+      "added_stars": "260 stars today"
     },
     {
       "title": "NirDiamant / agents-towards-production",
@@ -20,49 +30,9 @@
       "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 21623,
+      "stars": 21655,
       "forks": 2873,
       "added_stars": "45 stars today"
-    },
-    {
-      "title": "xiaolai / the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-      "description": "One has no future if one couldn't teach themself.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17642,
-      "forks": 17751,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "QwenLM / Qwen3-VL",
-      "url": "https://github.com/QwenLM/Qwen3-VL",
-      "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 20056,
-      "forks": 1863,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "OpenBMB / MiniCPM",
-      "url": "https://github.com/OpenBMB/MiniCPM",
-      "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 11519,
-      "forks": 791,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "microsoft / OmniParser",
-      "url": "https://github.com/microsoft/OmniParser",
-      "description": "A simple screen parsing tool towards pure vision based GUI agent",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 25511,
-      "forks": 2237,
-      "added_stars": "7 stars today"
     },
     {
       "title": "higgsfield-ai / higgsfield",
@@ -70,49 +40,9 @@
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 5944,
-      "forks": 1067,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "datawhalechina / deepagents-in-action",
-      "url": "https://github.com/datawhalechina/deepagents-in-action",
-      "description": "📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 2662,
-      "forks": 275,
+      "stars": 5957,
+      "forks": 1070,
       "added_stars": "11 stars today"
-    },
-    {
-      "title": "datawhalechina / happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
-      "description": "📚 从零开始构建大模型",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 34288,
-      "forks": 3229,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "jackfrued / Python-100-Days",
-      "url": "https://github.com/jackfrued/Python-100-Days",
-      "description": "Python - 100天从新手到大师",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 187013,
-      "forks": 55754,
-      "added_stars": "41 stars today"
-    },
-    {
-      "title": "datawhalechina / self-llm",
-      "url": "https://github.com/datawhalechina/self-llm",
-      "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 32433,
-      "forks": 3128,
-      "added_stars": "15 stars today"
     },
     {
       "title": "NirDiamant / RAG_Techniques",
@@ -120,29 +50,39 @@
       "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29783,
-      "forks": 3649,
-      "added_stars": "45 stars today"
+      "stars": 29816,
+      "forks": 3648,
+      "added_stars": "34 stars today"
     },
     {
-      "title": "openai / CLIP",
-      "url": "https://github.com/openai/CLIP",
-      "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+      "title": "datawhalechina / happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "description": "📚 从零开始构建大模型",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 34439,
-      "forks": 4058,
+      "stars": 34301,
+      "forks": 3231,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "anthropics / prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 38474,
+      "forks": 4271,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "datawhalechina / deepagents-in-action",
+      "url": "https://github.com/datawhalechina/deepagents-in-action",
+      "description": "📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2673,
+      "forks": 277,
       "added_stars": "8 stars today"
-    },
-    {
-      "title": "jupyter / notebook",
-      "url": "https://github.com/jupyter/notebook",
-      "description": "Jupyter Interactive Notebook",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 13430,
-      "forks": 5788,
-      "added_stars": "7 stars today"
     },
     {
       "title": "unslothai / notebooks",
@@ -150,29 +90,29 @@
       "description": "250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 5734,
+      "stars": 5736,
       "forks": 951,
-      "added_stars": "11 stars today"
+      "added_stars": "5 stars today"
     },
     {
-      "title": "NVIDIA / cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "title": "NirDiamant / GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 12009,
-      "forks": 908,
-      "added_stars": "7 stars today"
+      "stars": 24554,
+      "forks": 4141,
+      "added_stars": "25 stars today"
     },
     {
-      "title": "FinanceFlash / unvibecode",
-      "url": "https://github.com/FinanceFlash/unvibecode",
-      "description": "Complex code hides connections, workflows, and business risks.Unvibe complex code. Trace business workflows.",
+      "title": "datawhalechina / self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
+      "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 240,
-      "forks": 72,
-      "added_stars": "13 stars today"
+      "stars": 32440,
+      "forks": 3131,
+      "added_stars": "10 stars today"
     },
     {
       "title": "ShuhongLL / SGS-SLAM",
@@ -180,19 +120,49 @@
       "description": "[ECCV 2024] SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 609,
-      "forks": 55,
+      "stars": 626,
+      "forks": 59,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "CompVis / stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "description": "A latent text-to-image diffusion model",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 73489,
+      "forks": 10565,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "jackfrued / Python-100-Days",
+      "url": "https://github.com/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 187053,
+      "forks": 55781,
+      "added_stars": "51 stars today"
+    },
+    {
+      "title": "OpenBMB / MiniCPM",
+      "url": "https://github.com/OpenBMB/MiniCPM",
+      "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 11531,
+      "forks": 793,
       "added_stars": "13 stars today"
     },
     {
-      "title": "hemansnation / AI-Engineer-Headquarters",
-      "url": "https://github.com/hemansnation/AI-Engineer-Headquarters",
-      "description": "A collection of scientific methods, processes, algorithms, and systems to build stories & models.",
+      "title": "Infrasys-AI / AIInfra",
+      "url": "https://github.com/Infrasys-AI/AIInfra",
+      "description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 3764,
-      "forks": 704,
-      "added_stars": "6 stars today"
+      "stars": 8390,
+      "forks": 1066,
+      "added_stars": "5 stars today"
     }
   ]
 }

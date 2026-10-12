@@ -2,17 +2,37 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 11 Oct 2026 08:09:40 GMT",
+  "pubDate": "Mon, 12 Oct 2026 08:25:41 GMT",
   "items": [
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1043,
-      "forks": 779,
-      "added_stars": "1 star today"
+      "stars": 2378,
+      "forks": 1609,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 695,
+      "forks": 177,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "zimmertr / Kubernetes-Manifests",
+      "url": "https://github.com/zimmertr/Kubernetes-Manifests",
+      "description": "A collection of my Kubernetes Manifests managed by Kustomize & ArgoCD",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 118,
+      "forks": 25,
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -20,78 +40,28 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3273,
-      "forks": 4628,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 587,
-      "forks": 3806,
+      "stars": 3274,
+      "forks": 4627,
       "added_stars": "1 star today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "title": "zealvora / terraform-beginner-to-advanced-resource",
+      "url": "https://github.com/zealvora/terraform-beginner-to-advanced-resource",
+      "description": "HashiCorp Certified Terraform Associate 2026",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 675,
-      "forks": 669,
-      "added_stars": "0 stars today"
+      "stars": 2519,
+      "forks": 6361,
+      "added_stars": "1 star today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
+      "title": "iam-veeramalla / ultimate-devops-project-aws",
+      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
+      "description": "End to End DevOps project",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 177,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 241,
-      "forks": 191,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 238,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1280,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 964,
-      "forks": 591,
+      "stars": 975,
+      "forks": 2514,
       "added_stars": "0 stars today"
     }
   ]
