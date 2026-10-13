@@ -2,8 +2,18 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 12 Oct 2026 08:29:21 GMT",
+  "pubDate": "Tue, 13 Oct 2026 08:53:34 GMT",
   "items": [
+    {
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 74837,
+      "forks": 8148,
+      "added_stars": "2,452 stars this month"
+    },
     {
       "title": "ROCm / rocm-libraries",
       "url": "https://github.com/ROCm/rocm-libraries",
@@ -11,18 +21,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 450,
-      "forks": 434,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "openhwfoundation / cva6",
-      "url": "https://github.com/openhwfoundation/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3156,
-      "forks": 1036,
-      "added_stars": "51 stars this month"
+      "forks": 435,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "leachim6 / hello-world",
@@ -31,7 +31,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 11994,
-      "forks": 2114,
+      "forks": 2112,
       "added_stars": "60 stars this month"
     },
     {
@@ -40,9 +40,9 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4981,
-      "forks": 1329,
-      "added_stars": "73 stars this month"
+      "stars": 4982,
+      "forks": 1331,
+      "added_stars": "74 stars this month"
     },
     {
       "title": "pret / pokediamond",
@@ -60,9 +60,9 @@
       "description": "Decompilation of Pokemon HeartGold/SoulSilver",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 615,
-      "forks": 214,
-      "added_stars": "29 stars this month"
+      "stars": 616,
+      "forks": 215,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "z88dk / z88dk",
@@ -81,28 +81,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 1731,
-      "forks": 232,
+      "forks": 233,
       "added_stars": "14 stars this month"
-    },
-    {
-      "title": "cirosantilli / x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 5395,
-      "forks": 431,
-      "added_stars": "43 stars this month"
-    },
-    {
-      "title": "SheerSt / pokewilds",
-      "url": "https://github.com/SheerSt/pokewilds",
-      "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2907,
-      "forks": 223,
-      "added_stars": "28 stars this month"
     },
     {
       "title": "PRoX2011 / x16-PRos",
@@ -110,9 +90,19 @@
       "description": "Simple 16 bit (real mode) operating system writen in NASM from scratch",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 718,
-      "forks": 56,
-      "added_stars": "100 stars this month"
+      "stars": 733,
+      "forks": 55,
+      "added_stars": "117 stars this month"
+    },
+    {
+      "title": "SheerSt / pokewilds",
+      "url": "https://github.com/SheerSt/pokewilds",
+      "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2911,
+      "forks": 223,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "kanaka / mal",
@@ -120,19 +110,19 @@
       "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 10742,
-      "forks": 2713,
-      "added_stars": "33 stars this month"
+      "stars": 10741,
+      "forks": 2714,
+      "added_stars": "31 stars this month"
     },
     {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "openhwfoundation / cva6",
+      "url": "https://github.com/openhwfoundation/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4017,
-      "forks": 135,
-      "added_stars": "98 stars this month"
+      "stars": 3157,
+      "forks": 1038,
+      "added_stars": "53 stars this month"
     },
     {
       "title": "vxunderground / MalwareSourceCode",
@@ -140,29 +130,29 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18806,
+      "stars": 18809,
       "forks": 2107,
-      "added_stars": "119 stars this month"
+      "added_stars": "124 stars this month"
     },
     {
-      "title": "chrislgarry / Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 74464,
-      "forks": 8118,
-      "added_stars": "1,938 stars this month"
+      "stars": 4022,
+      "forks": 135,
+      "added_stars": "91 stars this month"
     },
     {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
+      "title": "cirosantilli / x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2520,
-      "forks": 984,
-      "added_stars": "24 stars this month"
+      "stars": 5396,
+      "forks": 431,
+      "added_stars": "40 stars this month"
     },
     {
       "title": "virtualagc / virtualagc",
@@ -170,9 +160,29 @@
       "description": "Virtual Apollo Guidance Computer (AGC) software",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3290,
-      "forks": 415,
-      "added_stars": "57 stars this month"
+      "stars": 3295,
+      "forks": 417,
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "hiteshchoudhary / open-source-contribution",
+      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
+      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 546,
+      "forks": 1731,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2521,
+      "forks": 983,
+      "added_stars": "26 stars this month"
     }
   ]
 }

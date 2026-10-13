@@ -2,8 +2,28 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 12 Oct 2026 08:27:22 GMT",
+  "pubDate": "Tue, 13 Oct 2026 08:51:47 GMT",
   "items": [
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 850,
+      "forks": 668,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 391,
+      "forks": 940,
+      "added_stars": "1 star this week"
+    },
     {
       "title": "aspect-build / aspect-cli",
       "url": "https://github.com/aspect-build/aspect-cli",
@@ -25,16 +45,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 850,
-      "forks": 668,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "bazelbuild / rules_cc",
       "url": "https://github.com/bazelbuild/rules_cc",
       "description": "C++ Rules for Bazel",
@@ -43,16 +53,6 @@
       "stars": 247,
       "forks": 201,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 391,
-      "forks": 938,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "immich-app / immich-charts",
@@ -73,16 +73,6 @@
       "stars": 404,
       "forks": 88,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4011,
-      "forks": 307,
-      "added_stars": "8 stars this week"
     }
   ]
 }

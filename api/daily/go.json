@@ -2,127 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 12 Oct 2026 08:25:41 GMT",
+  "pubDate": "Tue, 13 Oct 2026 08:50:17 GMT",
   "items": [
     {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "title": "Armur-Ai / Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 46341,
-      "forks": 3367,
-      "added_stars": "294 stars today"
-    },
-    {
-      "title": "QuantumNous / new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49759,
-      "forks": 11966,
-      "added_stars": "71 stars today"
-    },
-    {
-      "title": "Autumn-27 / ScopeSentry",
-      "url": "https://github.com/Autumn-27/ScopeSentry",
-      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1808,
-      "forks": 351,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "BishopFox / sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 12097,
-      "forks": 1621,
-      "added_stars": "47 stars today"
-    },
-    {
-      "title": "majd / ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11640,
-      "forks": 975,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 33371,
-      "forks": 4448,
-      "added_stars": "129 stars today"
-    },
-    {
-      "title": "larksuite / cli",
-      "url": "https://github.com/larksuite/cli",
-      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17636,
-      "forks": 1391,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "Project-HAMi / HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "description": "Heterogeneous GPU Sharing on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4705,
-      "forks": 858,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 52549,
-      "forks": 6848,
-      "added_stars": "70 stars today"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8663,
-      "forks": 470,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "0xJacky / nginx-ui",
-      "url": "https://github.com/0xJacky/nginx-ui",
-      "description": "Yet another WebUI for Nginx",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11602,
-      "forks": 897,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 43770,
-      "forks": 9388,
-      "added_stars": "75 stars today"
+      "stars": 2898,
+      "forks": 531,
+      "added_stars": "50 stars today"
     },
     {
       "title": "lharries / whatsapp-mcp",
@@ -130,29 +20,109 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6546,
-      "forks": 1386,
-      "added_stars": "59 stars today"
+      "stars": 6564,
+      "forks": 1395,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "title": "BishopFox / sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12888,
-      "forks": 1190,
-      "added_stars": "9 stars today"
+      "stars": 12104,
+      "forks": 1621,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "fish2018 / pansou",
-      "url": "https://github.com/fish2018/pansou",
-      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv",
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14885,
-      "forks": 3613,
-      "added_stars": "11 stars today"
+      "stars": 8690,
+      "forks": 473,
+      "added_stars": "64 stars today"
+    },
+    {
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7359,
+      "forks": 1553,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "jaegertracing / jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23288,
+      "forks": 3160,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "p1neappleXpress / OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2091,
+      "forks": 183,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "YouROK / TorrServer",
+      "url": "https://github.com/YouROK/TorrServer",
+      "description": "Torrent stream server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3121,
+      "forks": 371,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "0xJacky / nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "description": "Yet another WebUI for Nginx",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11604,
+      "forks": 899,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 182970,
+      "forks": 18244,
+      "added_stars": "133 stars today"
+    },
+    {
+      "title": "Bennettxai / FounderOS",
+      "url": "https://github.com/Bennettxai/FounderOS",
+      "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1102,
+      "forks": 311,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "HEXUXIU / M365-Copilot2API",
+      "url": "https://github.com/HEXUXIU/M365-Copilot2API",
+      "description": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 559,
+      "forks": 190,
+      "added_stars": "15 stars today"
     }
   ]
 }

@@ -2,36 +2,16 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 12 Oct 2026 08:25:41 GMT",
+  "pubDate": "Tue, 13 Oct 2026 08:50:17 GMT",
   "items": [
     {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "title": "NixOS / infra",
+      "url": "https://github.com/NixOS/infra",
+      "description": "Infrastructure as Code for the NixOS.org ecosystem [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2103,
-      "forks": 287,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "chaotic-cx / nyx",
-      "url": "https://github.com/chaotic-cx/nyx",
-      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 779,
-      "forks": 82,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3220,
-      "forks": 236,
+      "stars": 385,
+      "forks": 153,
       "added_stars": "0 stars today"
     },
     {
@@ -40,9 +20,29 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26436,
-      "forks": 20365,
+      "stars": 26443,
+      "forks": 20372,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2115,
+      "forks": 289,
       "added_stars": "11 stars today"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3327,
+      "forks": 984,
+      "added_stars": "2 stars today"
     }
   ]
 }
