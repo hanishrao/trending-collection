@@ -2,37 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 13 Oct 2026 08:51:47 GMT",
+  "pubDate": "Wed, 14 Oct 2026 07:02:53 GMT",
   "items": [
     {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 77888,
-      "forks": 5131,
-      "added_stars": "1,004 stars this week"
-    },
-    {
-      "title": "ys-ll / uniterm",
-      "url": "https://github.com/ys-ll/uniterm",
-      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 837,
-      "forks": 124,
-      "added_stars": "124 stars this week"
-    },
-    {
-      "title": "Gaurav-Gosain / tuios",
-      "url": "https://github.com/Gaurav-Gosain/tuios",
-      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5248,
-      "forks": 243,
-      "added_stars": "481 stars this week"
+      "stars": 28472,
+      "forks": 4266,
+      "added_stars": "2,697 stars this week"
     },
     {
       "title": "Bennettxai / FounderOS",
@@ -40,9 +20,29 @@
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1102,
-      "forks": 311,
-      "added_stars": "102 stars this week"
+      "stars": 1129,
+      "forks": 317,
+      "added_stars": "127 stars this week"
+    },
+    {
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8702,
+      "forks": 477,
+      "added_stars": "164 stars this week"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 77938,
+      "forks": 5135,
+      "added_stars": "577 stars this week"
     },
     {
       "title": "docker / docker-agent",
@@ -50,59 +50,9 @@
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4459,
-      "forks": 517,
-      "added_stars": "1,073 stars this week"
-    },
-    {
-      "title": "llm-d / llm-d-router",
-      "url": "https://github.com/llm-d/llm-d-router",
-      "description": "llm-d Router: The intelligent entry point for inference requests",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 399,
-      "forks": 441,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "palemoky / chinese-poetry-api",
-      "url": "https://github.com/palemoky/chinese-poetry-api",
-      "description": "📜 诗泉：高性能中国古诗词 API 服务",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3365,
-      "forks": 445,
-      "added_stars": "441 stars this week"
-    },
-    {
-      "title": "Agent-Field / CodeAF",
-      "url": "https://github.com/Agent-Field/CodeAF",
-      "description": "Open-Source Software factory for Open Models",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 405,
-      "forks": 51,
-      "added_stars": "119 stars this week"
-    },
-    {
-      "title": "pocket-id / pocket-id",
-      "url": "https://github.com/pocket-id/pocket-id",
-      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9567,
-      "forks": 330,
-      "added_stars": "168 stars this week"
-    },
-    {
-      "title": "charmbracelet / bubbletea",
-      "url": "https://github.com/charmbracelet/bubbletea",
-      "description": "A powerful little TUI framework 🏗",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45451,
-      "forks": 3892,
-      "added_stars": "188 stars this week"
+      "stars": 4483,
+      "forks": 519,
+      "added_stars": "1,099 stars this week"
     },
     {
       "title": "ollama / ollama",
@@ -110,19 +60,39 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 182970,
-      "forks": 18244,
-      "added_stars": "966 stars this week"
+      "stars": 183085,
+      "forks": 18274,
+      "added_stars": "1,008 stars this week"
     },
     {
-      "title": "BishopFox / sliver",
-      "url": "https://github.com/BishopFox/sliver",
-      "description": "Adversary Emulation Framework",
+      "title": "Gaurav-Gosain / tuios",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12104,
-      "forks": 1621,
-      "added_stars": "142 stars this week"
+      "stars": 5263,
+      "forks": 245,
+      "added_stars": "346 stars this week"
+    },
+    {
+      "title": "palemoky / chinese-poetry-api",
+      "url": "https://github.com/palemoky/chinese-poetry-api",
+      "description": "📜 诗泉：高性能中国古诗词 API 服务",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3374,
+      "forks": 445,
+      "added_stars": "451 stars this week"
+    },
+    {
+      "title": "Armur-Ai / Pentest-Swarm-AI",
+      "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+      "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2948,
+      "forks": 540,
+      "added_stars": "191 stars this week"
     },
     {
       "title": "oauth2-proxy / oauth2-proxy",
@@ -130,39 +100,69 @@
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15160,
-      "forks": 2223,
-      "added_stars": "116 stars this week"
+      "stars": 15173,
+      "forks": 2226,
+      "added_stars": "122 stars this week"
     },
     {
-      "title": "go-gitea / gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "title": "BishopFox / sliver",
+      "url": "https://github.com/BishopFox/sliver",
+      "description": "Adversary Emulation Framework",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 58465,
-      "forks": 7254,
-      "added_stars": "183 stars this week"
+      "stars": 12115,
+      "forks": 1625,
+      "added_stars": "146 stars this week"
     },
     {
-      "title": "Christ9038 / Ydisks-Xianyu-Helper",
-      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
-      "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
+      "title": "pocket-id / pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1831,
-      "forks": 548,
-      "added_stars": "108 stars this week"
+      "stars": 9581,
+      "forks": 331,
+      "added_stars": "176 stars this week"
     },
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "Agent-Field / CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "description": "Open-Source Software factory for Open Models",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38382,
-      "forks": 759,
-      "added_stars": "151 stars this week"
+      "stars": 420,
+      "forks": 53,
+      "added_stars": "117 stars this week"
+    },
+    {
+      "title": "ys-ll / uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 845,
+      "forks": 124,
+      "added_stars": "106 stars this week"
+    },
+    {
+      "title": "lharries / whatsapp-mcp",
+      "url": "https://github.com/lharries/whatsapp-mcp",
+      "description": "WhatsApp MCP server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6595,
+      "forks": 1403,
+      "added_stars": "172 stars this week"
+    },
+    {
+      "title": "charmbracelet / bubbletea",
+      "url": "https://github.com/charmbracelet/bubbletea",
+      "description": "A powerful little TUI framework 🏗",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45461,
+      "forks": 4057,
+      "added_stars": "179 stars this week"
     }
   ]
 }

@@ -2,27 +2,37 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 13 Oct 2026 08:50:17 GMT",
+  "pubDate": "Wed, 14 Oct 2026 07:00:07 GMT",
   "items": [
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11695,
+      "forks": 824,
+      "added_stars": "6 stars today"
+    },
     {
       "title": "neovim / neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 103051,
-      "forks": 7175,
-      "added_stars": "85 stars today"
+      "stars": 103133,
+      "forks": 7185,
+      "added_stars": "106 stars today"
     },
     {
-      "title": "vim / vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 41216,
-      "forks": 6159,
-      "added_stars": "83 stars today"
+      "stars": 35775,
+      "forks": 1930,
+      "added_stars": "2 stars today"
     },
     {
       "title": "tpope / vim-fugitive",
@@ -31,8 +41,8 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 21804,
-      "forks": 1081,
-      "added_stars": "2 stars today"
+      "forks": 1080,
+      "added_stars": "0 stars today"
     }
   ]
 }

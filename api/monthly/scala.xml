@@ -4,16 +4,11 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 13 Oct 2026 08:53:34 GMT</pubDate>
+  <pubDate>Wed, 14 Oct 2026 07:04:37 GMT</pubDate>
   <item>
     <title>apache / spark</title>
     <link>https://github.com/apache/spark</link>
     <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
-  </item>
-  <item>
-    <title>joernio / joern</title>
-    <link>https://github.com/joernio/joern</link>
-    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
     <title>lichess-org / lila</title>
@@ -31,14 +26,24 @@
     <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
-    <title>playframework / playframework</title>
-    <link>https://github.com/playframework/playframework</link>
-    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
     <title>scalapb / ScalaPB</title>
     <link>https://github.com/scalapb/ScalaPB</link>
     <description>Protocol buffer compiler for Scala.</description>
+  </item>
+  <item>
+    <title>playframework / playframework</title>
+    <link>https://github.com/playframework/playframework</link>
+    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
+  </item>
+  <item>
+    <title>scala / scala3</title>
+    <link>https://github.com/scala/scala3</link>
+    <description>The Scala 3 compiler, also known as Dotty.</description>
   </item>
   <item>
     <title>scalameta / metals</title>
@@ -61,6 +66,11 @@
     <description>A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</description>
   </item>
   <item>
+    <title>com-lihaoyi / mill</title>
+    <link>https://github.com/com-lihaoyi/mill</link>
+    <description>A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools</description>
+  </item>
+  <item>
     <title>snowplow / snowplow</title>
     <link>https://github.com/snowplow/snowplow</link>
     <description>The leader in Customer Data Infrastructure</description>
@@ -71,19 +81,9 @@
     <description>The Guardian DotCom.</description>
   </item>
   <item>
-    <title>com-lihaoyi / mill</title>
-    <link>https://github.com/com-lihaoyi/mill</link>
-    <description>A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools</description>
-  </item>
-  <item>
-    <title>scala / scala3</title>
-    <link>https://github.com/scala/scala3</link>
-    <description>The Scala 3 compiler, also known as Dotty.</description>
-  </item>
-  <item>
-    <title>http4s / http4s</title>
-    <link>https://github.com/http4s/http4s</link>
-    <description>A minimal, idiomatic Scala interface for HTTP</description>
+    <title>apache / predictionio</title>
+    <link>https://github.com/apache/predictionio</link>
+    <description>PredictionIO, a machine learning server for developers and ML engineers.</description>
   </item>
   <item>
     <title>chipsalliance / chisel</title>
@@ -96,24 +96,24 @@
     <description>TheHive is a Collaborative Case Management Platform, now distributed as a commercial version</description>
   </item>
   <item>
+    <title>http4s / http4s</title>
+    <link>https://github.com/http4s/http4s</link>
+    <description>A minimal, idiomatic Scala interface for HTTP</description>
+  </item>
+  <item>
     <title>gatling / gatling</title>
     <link>https://github.com/gatling/gatling</link>
     <description>Modern Load Testing as Code</description>
   </item>
   <item>
-    <title>sbt / sbt</title>
-    <link>https://github.com/sbt/sbt</link>
-    <description>sbt, the interactive build tool</description>
+    <title>MightyPirates / OpenComputers</title>
+    <link>https://github.com/MightyPirates/OpenComputers</link>
+    <description>Home of the OpenComputers mod for Minecraft.</description>
   </item>
   <item>
     <title>apache / kyuubi</title>
     <link>https://github.com/apache/kyuubi</link>
     <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
-  </item>
-  <item>
-    <title>MightyPirates / OpenComputers</title>
-    <link>https://github.com/MightyPirates/OpenComputers</link>
-    <description>Home of the OpenComputers mod for Minecraft.</description>
   </item>
   <item>
     <title>apache / gluten</title>
@@ -124,6 +124,11 @@
     <title>twitter / the-algorithm</title>
     <link>https://github.com/twitter/the-algorithm</link>
     <description>Source code for the X Recommendation Algorithm</description>
+  </item>
+  <item>
+    <title>sbt / sbt</title>
+    <link>https://github.com/sbt/sbt</link>
+    <description>sbt, the interactive build tool</description>
   </item>
 </channel>
 </rss>

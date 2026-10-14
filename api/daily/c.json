@@ -2,27 +2,17 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 13 Oct 2026 08:50:17 GMT",
+  "pubDate": "Wed, 14 Oct 2026 07:00:07 GMT",
   "items": [
     {
-      "title": "brunodev85 / winlator",
-      "url": "https://github.com/brunodev85/winlator",
-      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "title": "Cyan4973 / xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19438,
-      "forks": 1837,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "tarwin / tinyjsapp",
-      "url": "https://github.com/tarwin/tinyjsapp",
-      "description": "Build native apps in JS. Backend, frontend. ~5Mb.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 986,
-      "forks": 32,
-      "added_stars": "72 stars today"
+      "stars": 11340,
+      "forks": 928,
+      "added_stars": "14 stars today"
     },
     {
       "title": "willfaust / Madeira",
@@ -30,89 +20,29 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2344,
-      "forks": 308,
-      "added_stars": "294 stars today"
+      "stars": 2416,
+      "forks": 311,
+      "added_stars": "109 stars today"
     },
     {
-      "title": "mbm110 / MSN-GUARD",
-      "url": "https://github.com/mbm110/MSN-GUARD",
-      "description": "High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.",
+      "title": "tarwin / tinyjsapp",
+      "url": "https://github.com/tarwin/tinyjsapp",
+      "description": "Build native apps in JS. Backend, frontend. ~5Mb.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 641,
-      "forks": 104,
-      "added_stars": "8 stars today"
+      "stars": 1017,
+      "forks": 34,
+      "added_stars": "48 stars today"
     },
     {
-      "title": "libsdl-org / SDL",
-      "url": "https://github.com/libsdl-org/SDL",
-      "description": "Simple DirectMedia Layer",
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16787,
-      "forks": 3060,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "arendst / Tasmota",
-      "url": "https://github.com/arendst/Tasmota",
-      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 24824,
-      "forks": 5188,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "armel / uv-k1-k5v3-firmware-custom",
-      "url": "https://github.com/armel/uv-k1-k5v3-firmware-custom",
-      "description": "This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 753,
-      "forks": 203,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "capstone-engine / capstone",
-      "url": "https://github.com/capstone-engine/capstone",
-      "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 9083,
-      "forks": 1739,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "SlickAmogus / silent-hill-decomp",
-      "url": "https://github.com/SlickAmogus/silent-hill-decomp",
-      "description": "Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 668,
-      "forks": 44,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "opa334 / Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6891,
-      "forks": 6327,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "rexglue / rexglue-sdk",
-      "url": "https://github.com/rexglue/rexglue-sdk",
-      "description": "Xbox 360 Recompilation Runtime and Toolkit",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1041,
-      "forks": 172,
-      "added_stars": "11 stars today"
+      "stars": 23354,
+      "forks": 1348,
+      "added_stars": "16 stars today"
     },
     {
       "title": "HarbourMasters / PaperBoat",
@@ -120,19 +50,79 @@
       "description": "Paper Mario 64 port based on the Paper Mario DX decompilation",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 457,
-      "forks": 41,
-      "added_stars": "8 stars today"
+      "stars": 467,
+      "forks": 40,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+      "title": "Zelda64Recomp / Zelda64Recomp",
+      "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+      "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15886,
-      "forks": 2707,
-      "added_stars": "26 stars today"
+      "stars": 7401,
+      "forks": 342,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "espressif / esp-claw",
+      "url": "https://github.com/espressif/esp-claw",
+      "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2236,
+      "forks": 496,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "cboxdoerfer / fsearch",
+      "url": "https://github.com/cboxdoerfer/fsearch",
+      "description": "A fast file search utility for Unix-like systems based on GTK3",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4469,
+      "forks": 293,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "dorianborian / sesame-robot",
+      "url": "https://github.com/dorianborian/sesame-robot",
+      "description": "An open and affordable mini quadruped robot based on ESP32.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4660,
+      "forks": 623,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "rogerbinns / apsw",
+      "url": "https://github.com/rogerbinns/apsw",
+      "description": "Another Python SQLite wrapper",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 941,
+      "forks": 109,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 43211,
+      "forks": 7425,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "SchedMD / slurm",
+      "url": "https://github.com/SchedMD/slurm",
+      "description": "Slurm: A Highly Scalable Workload Manager",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4437,
+      "forks": 898,
+      "added_stars": "2 stars today"
     }
   ]
 }
