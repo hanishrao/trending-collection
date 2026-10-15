@@ -2,17 +2,27 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:00:07 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:52:03 GMT",
   "items": [
     {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2106,
-      "forks": 818,
-      "added_stars": "3 stars today"
+      "stars": 3701,
+      "forks": 1139,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 4015,
+      "forks": 938,
+      "added_stars": "5 stars today"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -25,16 +35,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3698,
-      "forks": 1139,
-      "added_stars": "7 stars today"
-    },
-    {
       "title": "chipsalliance / caliptra-rtl",
       "url": "https://github.com/chipsalliance/caliptra-rtl",
       "description": "HW Design Collateral for Caliptra RoT IP",
@@ -45,14 +45,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "fpgasystems / Coyote",
-      "url": "https://github.com/fpgasystems/Coyote",
-      "description": "Framework providing operating system abstractions and a range of shared networking and memory services for common modern heterogeneous platforms.",
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 461,
-      "forks": 132,
+      "stars": 2107,
+      "forks": 820,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 13092,
+      "forks": 1259,
+      "added_stars": "3 stars today"
     }
   ]
 }

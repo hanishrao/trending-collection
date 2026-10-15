@@ -2,8 +2,18 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:00:07 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:52:03 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3276,
+      "forks": 4628,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
@@ -12,7 +22,7 @@
       "languageColor": "#844FBA",
       "stars": 1281,
       "forks": 1292,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -22,56 +32,6 @@
       "languageColor": "#844FBA",
       "stars": 1043,
       "forks": 779,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3276,
-      "forks": 4627,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 117,
-      "forks": 203,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 29,
-      "forks": 72,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 178,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 238,
       "added_stars": "0 stars today"
     },
     {
@@ -85,6 +45,26 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 207,
+      "forks": 608,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 117,
+      "forks": 203,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-project-factory",
       "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
@@ -92,7 +72,7 @@
       "languageColor": "#844FBA",
       "stars": 965,
       "forks": 591,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     }
   ]
 }

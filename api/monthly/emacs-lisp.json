@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:04:37 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:56:46 GMT",
   "items": [
     {
       "title": "doomemacs / core",
@@ -10,8 +10,18 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22739,
+      "stars": 22745,
       "forks": 3145,
+      "added_stars": "101 stars this month"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1953,
+      "forks": 249,
       "added_stars": "100 stars this month"
     },
     {
@@ -20,29 +30,9 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3547,
+      "stars": 3549,
       "forks": 443,
-      "added_stars": "26 stars this month"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1948,
-      "forks": 246,
-      "added_stars": "101 stars this month"
-    },
-    {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 24545,
-      "forks": 4827,
-      "added_stars": "23 stars this month"
+      "added_stars": "28 stars this month"
     },
     {
       "title": "emacs-lsp / lsp-mode",
@@ -55,14 +45,24 @@
       "added_stars": "8 stars this month"
     },
     {
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 24544,
+      "forks": 4827,
+      "added_stars": "23 stars this month"
+    },
+    {
       "title": "google-coral / coralnpu",
       "url": "https://github.com/google-coral/coralnpu",
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2598,
-      "forks": 347,
-      "added_stars": "48 stars this month"
+      "stars": 2601,
+      "forks": 349,
+      "added_stars": "51 stars this month"
     },
     {
       "title": "magit / magit",
@@ -72,7 +72,7 @@
       "languageColor": "#c065db",
       "stars": 7238,
       "forks": 880,
-      "added_stars": "26 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
       "title": "doomemacs / modules",
@@ -80,9 +80,29 @@
       "description": "Official module library for Doom Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 65,
+      "stars": 66,
       "forks": 42,
       "added_stars": "5 stars this month"
+    },
+    {
+      "title": "clojure-emacs / clojure-mode",
+      "url": "https://github.com/clojure-emacs/clojure-mode",
+      "description": "Emacs support for the Clojure(Script) programming language",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1002,
+      "forks": 249,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "abo-abo / avy",
+      "url": "https://github.com/abo-abo/avy",
+      "description": "Jump to things in Emacs tree-style",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1958,
+      "forks": 118,
+      "added_stars": "3 stars this month"
     }
   ]
 }

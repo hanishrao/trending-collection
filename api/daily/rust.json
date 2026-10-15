@@ -2,17 +2,37 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:00:07 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:52:03 GMT",
   "items": [
     {
-      "title": "storytold / artcraft",
-      "url": "https://github.com/storytold/artcraft",
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 26454,
-      "forks": 4132,
-      "added_stars": "4,081 stars today"
+      "stars": 120168,
+      "forks": 18708,
+      "added_stars": "207 stars today"
+    },
+    {
+      "title": "astral-sh / ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 50098,
+      "forks": 2516,
+      "added_stars": "57 stars today"
+    },
+    {
+      "title": "vosen / ZLUDA",
+      "url": "https://github.com/vosen/ZLUDA",
+      "description": "CUDA on non-NVIDIA GPUs",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15058,
+      "forks": 955,
+      "added_stars": "51 stars today"
     },
     {
       "title": "ruvnet / RuView",
@@ -20,59 +40,79 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 97872,
-      "forks": 12828,
-      "added_stars": "261 stars today"
+      "stars": 98034,
+      "forks": 12849,
+      "added_stars": "197 stars today"
     },
     {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 83264,
-      "forks": 5287,
-      "added_stars": "124 stars today"
+      "stars": 28268,
+      "forks": 4463,
+      "added_stars": "2,909 stars today"
     },
     {
-      "title": "1jehuang / jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "High performance coding agent harness written in rust",
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20695,
-      "forks": 2405,
-      "added_stars": "102 stars today"
+      "stars": 26747,
+      "forks": 2420,
+      "added_stars": "295 stars today"
     },
     {
-      "title": "raphaelmansuy / edgequake",
-      "url": "https://github.com/raphaelmansuy/edgequake",
-      "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
+      "title": "tauri-apps / tauri",
+      "url": "https://github.com/tauri-apps/tauri",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2251,
-      "forks": 267,
-      "added_stars": "28 stars today"
+      "stars": 111907,
+      "forks": 4084,
+      "added_stars": "62 stars today"
     },
     {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "title": "tokio-rs / tokio",
+      "url": "https://github.com/tokio-rs/tokio",
+      "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31478,
-      "forks": 1891,
-      "added_stars": "48 stars today"
+      "stars": 33417,
+      "forks": 5957,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "title": "astral-sh / uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2997,
-      "forks": 330,
-      "added_stars": "84 stars today"
+      "stars": 90787,
+      "forks": 3664,
+      "added_stars": "88 stars today"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 129287,
+      "forks": 20322,
+      "added_stars": "209 stars today"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32231,
+      "forks": 3480,
+      "added_stars": "64 stars today"
     }
   ]
 }

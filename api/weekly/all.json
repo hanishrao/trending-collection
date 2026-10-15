@@ -2,17 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:02:53 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:54:23 GMT",
   "items": [
+    {
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 251109,
+      "forks": 63060,
+      "added_stars": "214,837 stars this week"
+    },
     {
       "title": "boykopovar / AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 35801,
-      "forks": 3114,
-      "added_stars": "28,663 stars this week"
+      "stars": 37492,
+      "forks": 3315,
+      "added_stars": "28,240 stars this week"
     },
     {
       "title": "mattpocock / skills",
@@ -20,29 +30,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 290122,
-      "forks": 24350,
-      "added_stars": "11,955 stars this week"
-    },
-    {
-      "title": "tester-army / e2e",
-      "url": "https://github.com/tester-army/e2e",
-      "description": "Next generation e2e testing framework for web and mobile apps.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 10233,
-      "forks": 495,
-      "added_stars": "4,426 stars this week"
-    },
-    {
-      "title": "EpicGames / raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8494,
-      "forks": 414,
-      "added_stars": "857 stars this week"
+      "stars": 291688,
+      "forks": 24456,
+      "added_stars": "12,292 stars this week"
     },
     {
       "title": "heygen-com / hyperframes",
@@ -50,9 +40,29 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 63060,
-      "forks": 5658,
-      "added_stars": "4,732 stars this week"
+      "stars": 63915,
+      "forks": 5737,
+      "added_stars": "5,123 stars this week"
+    },
+    {
+      "title": "EpicGames / raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8553,
+      "forks": 415,
+      "added_stars": "814 stars this week"
+    },
+    {
+      "title": "tester-army / e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 10607,
+      "forks": 514,
+      "added_stars": "3,505 stars this week"
     },
     {
       "title": "thedotmack / claude-mem",
@@ -60,39 +70,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 100535,
-      "forks": 8811,
-      "added_stars": "3,587 stars this week"
-    },
-    {
-      "title": "cursor / plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11263,
-      "forks": 1095,
-      "added_stars": "1,141 stars this week"
-    },
-    {
-      "title": "earthtojake / text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 20097,
-      "forks": 1980,
-      "added_stars": "2,173 stars this week"
-    },
-    {
-      "title": "flutter / flutter",
-      "url": "https://github.com/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 180140,
-      "forks": 34051,
-      "added_stars": "967 stars this week"
+      "stars": 100834,
+      "forks": 8834,
+      "added_stars": "3,371 stars this week"
     },
     {
       "title": "cathrynlavery / diagram-design",
@@ -100,9 +80,49 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": 54629,
-      "forks": 3453,
-      "added_stars": "9,867 stars this week"
+      "stars": 55508,
+      "forks": 3505,
+      "added_stars": "10,706 stars this week"
+    },
+    {
+      "title": "twostraws / SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "language": "all",
+      "languageColor": null,
+      "stars": 6006,
+      "forks": 218,
+      "added_stars": "930 stars this week"
+    },
+    {
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20479,
+      "forks": 2022,
+      "added_stars": "1,994 stars this week"
+    },
+    {
+      "title": "flutter / flutter",
+      "url": "https://github.com/flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 180195,
+      "forks": 34107,
+      "added_stars": "1,117 stars this week"
+    },
+    {
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 87866,
+      "forks": 9801,
+      "added_stars": "5,613 stars this week"
     }
   ]
 }

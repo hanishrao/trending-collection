@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:04:37 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:56:46 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26453,
-      "forks": 20378,
+      "stars": 26468,
+      "forks": 20394,
       "added_stars": "396 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2126,
+      "stars": 2133,
       "forks": 291,
-      "added_stars": "189 stars this month"
+      "added_stars": "199 stars this month"
     },
     {
       "title": "supabase / postgres",
@@ -30,7 +30,7 @@
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1793,
+      "stars": 1794,
       "forks": 268,
       "added_stars": "11 stars this month"
     },
@@ -40,29 +40,9 @@
       "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 565,
+      "stars": 566,
       "forks": 41,
       "added_stars": "56 stars this month"
-    },
-    {
-      "title": "numtide / system-manager",
-      "url": "https://github.com/numtide/system-manager",
-      "description": "Manage system config using nix on any distro",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1770,
-      "forks": 68,
-      "added_stars": "50 stars this month"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3329,
-      "forks": 984,
-      "added_stars": "34 stars this month"
     },
     {
       "title": "NixOS / nix.dev",
@@ -70,9 +50,9 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 4012,
+      "stars": 4016,
       "forks": 343,
-      "added_stars": "56 stars this month"
+      "added_stars": "60 stars this month"
     },
     {
       "title": "flyingcircusio / fc-nixos",
@@ -90,29 +70,19 @@
       "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1141,
+      "stars": 1142,
       "forks": 54,
-      "added_stars": "102 stars this month"
+      "added_stars": "103 stars this month"
     },
     {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
+      "title": "numtide / system-manager",
+      "url": "https://github.com/numtide/system-manager",
+      "description": "Manage system config using nix on any distro",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3005,
-      "forks": 239,
-      "added_stars": "89 stars this month"
-    },
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10430,
-      "forks": 2488,
-      "added_stars": "107 stars this month"
+      "stars": 1770,
+      "forks": 68,
+      "added_stars": "49 stars this month"
     },
     {
       "title": "nix-community / NixOS-WSL",
@@ -120,19 +90,39 @@
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3125,
+      "stars": 3126,
       "forks": 164,
-      "added_stars": "48 stars this month"
+      "added_stars": "44 stars this month"
     },
     {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3226,
-      "forks": 237,
-      "added_stars": "71 stars this month"
+      "stars": 3331,
+      "forks": 985,
+      "added_stars": "35 stars this month"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10433,
+      "forks": 2487,
+      "added_stars": "106 stars this month"
+    },
+    {
+      "title": "microvm-nix / microvm.nix",
+      "url": "https://github.com/microvm-nix/microvm.nix",
+      "description": "NixOS MicroVMs",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3010,
+      "forks": 239,
+      "added_stars": "85 stars this month"
     }
   ]
 }

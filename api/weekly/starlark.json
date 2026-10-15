@@ -2,18 +2,8 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:02:53 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:54:23 GMT",
   "items": [
-    {
-      "title": "aspect-build / aspect-cli",
-      "url": "https://github.com/aspect-build/aspect-cli",
-      "description": "{ Correct, Fast, Usable } -- Choose three",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 169,
-      "forks": 46,
-      "added_stars": "0 stars this week"
-    },
     {
       "title": "bazel-contrib / rules_python",
       "url": "https://github.com/bazel-contrib/rules_python",
@@ -22,16 +12,6 @@
       "languageColor": "#76d275",
       "stars": 687,
       "forks": 726,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 247,
-      "forks": 202,
       "added_stars": "0 stars this week"
     },
     {
@@ -45,24 +25,24 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 850,
-      "forks": 669,
+      "stars": 248,
+      "forks": 203,
       "added_stars": "1 star this week"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "aspect-build / aspect-cli",
+      "url": "https://github.com/aspect-build/aspect-cli",
+      "description": "{ Correct, Fast, Usable } -- Choose three",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 392,
-      "forks": 940,
-      "added_stars": "1 star this week"
+      "stars": 169,
+      "forks": 46,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -73,6 +53,16 @@
       "stars": 404,
       "forks": 88,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 392,
+      "forks": 942,
+      "added_stars": "1 star this week"
     }
   ]
 }

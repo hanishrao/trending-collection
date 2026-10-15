@@ -2,47 +2,67 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 14 Oct 2026 07:00:07 GMT",
+  "pubDate": "Thu, 15 Oct 2026 06:52:03 GMT",
   "items": [
+    {
+      "title": "redis / redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 76821,
+      "forks": 24856,
+      "added_stars": "59 stars today"
+    },
     {
       "title": "Cyan4973 / xxHash",
       "url": "https://github.com/Cyan4973/xxHash",
       "description": "Extremely fast non-cryptographic hash algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11340,
-      "forks": 928,
+      "stars": 11345,
+      "forks": 929,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "sp00nznet / ps3recomp",
+      "url": "https://github.com/sp00nznet/ps3recomp",
+      "description": "Static recompilation runtime libraries for PlayStation 3 titles.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 435,
+      "forks": 53,
       "added_stars": "14 stars today"
     },
     {
-      "title": "willfaust / Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "title": "ventoy / Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2416,
-      "forks": 311,
-      "added_stars": "109 stars today"
+      "stars": 80048,
+      "forks": 4987,
+      "added_stars": "64 stars today"
     },
     {
-      "title": "tarwin / tinyjsapp",
-      "url": "https://github.com/tarwin/tinyjsapp",
-      "description": "Build native apps in JS. Backend, frontend. ~5Mb.",
+      "title": "opa334 / Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1017,
-      "forks": 34,
-      "added_stars": "48 stars today"
+      "stars": 6929,
+      "forks": 6336,
+      "added_stars": "22 stars today"
     },
     {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
+      "title": "sp00nznet / xboxrecomp",
+      "url": "https://github.com/sp00nznet/xboxrecomp",
+      "description": "Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 23354,
-      "forks": 1348,
-      "added_stars": "16 stars today"
+      "stars": 214,
+      "forks": 56,
+      "added_stars": "15 stars today"
     },
     {
       "title": "HarbourMasters / PaperBoat",
@@ -50,79 +70,39 @@
       "description": "Paper Mario 64 port based on the Paper Mario DX decompilation",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 467,
+      "stars": 470,
       "forks": 40,
-      "added_stars": "7 stars today"
+      "added_stars": "9 stars today"
     },
     {
-      "title": "Zelda64Recomp / Zelda64Recomp",
-      "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
-      "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7401,
-      "forks": 342,
-      "added_stars": "11 stars today"
+      "stars": 4568,
+      "forks": 1627,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "espressif / esp-claw",
-      "url": "https://github.com/espressif/esp-claw",
-      "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+      "title": "jqlang / jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2236,
-      "forks": 496,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "cboxdoerfer / fsearch",
-      "url": "https://github.com/cboxdoerfer/fsearch",
-      "description": "A fast file search utility for Unix-like systems based on GTK3",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4469,
-      "forks": 293,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "dorianborian / sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4660,
-      "forks": 623,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "rogerbinns / apsw",
-      "url": "https://github.com/rogerbinns/apsw",
-      "description": "Another Python SQLite wrapper",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 941,
-      "forks": 109,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 43211,
-      "forks": 7425,
+      "stars": 35817,
+      "forks": 4569,
       "added_stars": "15 stars today"
     },
     {
-      "title": "SchedMD / slurm",
-      "url": "https://github.com/SchedMD/slurm",
-      "description": "Slurm: A Highly Scalable Workload Manager",
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4437,
-      "forks": 898,
-      "added_stars": "2 stars today"
+      "stars": 28022,
+      "forks": 2631,
+      "added_stars": "7 stars today"
     }
   ]
 }
