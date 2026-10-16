@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 15 Oct 2026 06:52:03 GMT",
+  "pubDate": "Fri, 16 Oct 2026 06:39:12 GMT",
   "items": [
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8778,
+      "forks": 2632,
+      "added_stars": "1 star today"
+    },
     {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
@@ -15,14 +25,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8778,
-      "forks": 2634,
-      "added_stars": "1 star today"
+      "stars": 249,
+      "forks": 203,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cncf / xds",
@@ -50,9 +60,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 4014,
+      "stars": 4016,
       "forks": 307,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -60,9 +70,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23135,
+      "stars": 23140,
       "forks": 1439,
-      "added_stars": "3 stars today"
+      "added_stars": "5 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -70,38 +80,8 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 392,
-      "forks": 942,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "eclipse-score / score",
-      "url": "https://github.com/eclipse-score/score",
-      "description": "Score project main repository",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 110,
-      "forks": 108,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 360,
-      "forks": 115,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 850,
-      "forks": 669,
+      "stars": 391,
+      "forks": 943,
       "added_stars": "0 stars today"
     }
   ]

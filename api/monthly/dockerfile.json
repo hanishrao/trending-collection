@@ -2,18 +2,8 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 15 Oct 2026 06:56:46 GMT",
+  "pubDate": "Fri, 16 Oct 2026 06:42:32 GMT",
   "items": [
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21359,
-      "forks": 4818,
-      "added_stars": "155 stars this month"
-    },
     {
       "title": "TristanCage / CypherX",
       "url": "https://github.com/TristanCage/CypherX",
@@ -21,8 +11,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 261,
-      "forks": 693,
-      "added_stars": "21 stars this month"
+      "forks": 700,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "render-examples / mysql",
@@ -31,8 +21,18 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 46,
-      "forks": 1165,
+      "forks": 1166,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21362,
+      "forks": 4818,
+      "added_stars": "156 stars this month"
     },
     {
       "title": "kagisearch / kagi-docs",
@@ -42,17 +42,7 @@
       "languageColor": "#384d54",
       "stars": 418,
       "forks": 742,
-      "added_stars": "8 stars this month"
-    },
-    {
-      "title": "freeCodeCamp / rdb-alpha",
-      "url": "https://github.com/freeCodeCamp/rdb-alpha",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 174,
-      "forks": 1221,
-      "added_stars": "1 star this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "jaywcjlove / reference",
@@ -60,19 +50,9 @@
       "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 15248,
+      "stars": 15245,
       "forks": 2226,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "MicrosoftDocs / windows-powershell-docs",
-      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
-      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 507,
-      "forks": 637,
-      "added_stars": "5 stars this month"
+      "added_stars": "34 stars this month"
     },
     {
       "title": "redhat-openshift-ecosystem / certified-operators",
@@ -85,6 +65,16 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "freeCodeCamp / rdb-alpha",
+      "url": "https://github.com/freeCodeCamp/rdb-alpha",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 175,
+      "forks": 1226,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "microsoft / mssql-docker",
       "url": "https://github.com/microsoft/mssql-docker",
       "description": "Official Microsoft repository for SQL Server in Docker resources",
@@ -92,7 +82,17 @@
       "languageColor": "#384d54",
       "stars": 1891,
       "forks": 763,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "MicrosoftDocs / windows-powershell-docs",
+      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
+      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 507,
+      "forks": 637,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "aws-amplify / amplify-hosting",
@@ -115,14 +115,14 @@
       "added_stars": "14 stars this month"
     },
     {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 291,
-      "forks": 2141,
-      "added_stars": "7 stars this month"
+      "stars": 12674,
+      "forks": 4331,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -130,19 +130,9 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12158,
+      "stars": 12160,
       "forks": 3730,
-      "added_stars": "111 stars this month"
-    },
-    {
-      "title": "compose-spec / compose-spec",
-      "url": "https://github.com/compose-spec/compose-spec",
-      "description": "The Compose specification",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2736,
-      "forks": 786,
-      "added_stars": "10 stars this month"
+      "added_stars": "112 stars this month"
     }
   ]
 }

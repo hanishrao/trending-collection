@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 15 Oct 2026 06:56:46 GMT",
+  "pubDate": "Fri, 16 Oct 2026 06:42:32 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46590,
-      "forks": 6641,
-      "added_stars": "513 stars this month"
+      "stars": 46607,
+      "forks": 6758,
+      "added_stars": "512 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,9 +20,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40172,
-      "forks": 1958,
-      "added_stars": "176 stars this month"
+      "stars": 40179,
+      "forks": 1959,
+      "added_stars": "174 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,49 +30,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12477,
-      "forks": 508,
+      "stars": 12481,
+      "forks": 510,
       "added_stars": "84 stars this month"
-    },
-    {
-      "title": "haskell / cabal",
-      "url": "https://github.com/haskell/cabal",
-      "description": "Official upstream development repository for Cabal and cabal-install",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1745,
-      "forks": 760,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2941,
-      "forks": 431,
-      "added_stars": "20 stars this month"
-    },
-    {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7913,
-      "forks": 690,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2964,
-      "forks": 470,
-      "added_stars": "13 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-node",
@@ -85,14 +45,44 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27717,
-      "forks": 1232,
-      "added_stars": "83 stars this month"
+      "stars": 2941,
+      "forks": 431,
+      "added_stars": "20 stars this month"
+    },
+    {
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1745,
+      "forks": 760,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7914,
+      "forks": 690,
+      "added_stars": "28 stars this month"
+    },
+    {
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2965,
+      "forks": 469,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "commercialhaskell / stack",
@@ -103,6 +93,16 @@
       "stars": 4077,
       "forks": 855,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27721,
+      "forks": 1233,
+      "added_stars": "83 stars this month"
     },
     {
       "title": "digital-asset / daml",
@@ -121,8 +121,18 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 4766,
-      "forks": 416,
-      "added_stars": "67 stars this month"
+      "forks": 417,
+      "added_stars": "66 stars this month"
+    },
+    {
+      "title": "lolepezy / rpki-prover",
+      "url": "https://github.com/lolepezy/rpki-prover",
+      "description": "Yet another RPKI validator",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 21,
+      "forks": 7,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -130,9 +140,9 @@
       "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 303,
+      "stars": 304,
       "forks": 24,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "unisonweb / unison",
@@ -140,7 +150,7 @@
       "description": "A friendly programming language from the future",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6758,
+      "stars": 6760,
       "forks": 311,
       "added_stars": "34 stars this month"
     }
