@@ -2,17 +2,27 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 16 Oct 2026 06:40:56 GMT",
+  "pubDate": "Sat, 17 Oct 2026 06:31:07 GMT",
   "items": [
+    {
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 40862,
+      "forks": 4417,
+      "added_stars": "2,328 stars this week"
+    },
     {
       "title": "earthtojake / text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20783,
-      "forks": 2052,
-      "added_stars": "2,244 stars this week"
+      "stars": 21067,
+      "forks": 2078,
+      "added_stars": "2,286 stars this week"
     },
     {
       "title": "Alishahryar1 / free-claude-code",
@@ -20,49 +30,19 @@
       "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60845,
-      "forks": 9523,
-      "added_stars": "3,953 stars this week"
+      "stars": 61076,
+      "forks": 9568,
+      "added_stars": "4,078 stars this week"
     },
     {
-      "title": "Tencent-Hunyuan / Hy-MT2",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
-      "description": "",
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1299,
-      "forks": 125,
-      "added_stars": "214 stars this week"
-    },
-    {
-      "title": "anthropics / knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29825,
-      "forks": 3373,
-      "added_stars": "2,402 stars this week"
-    },
-    {
-      "title": "KittenML / KittenTTS",
-      "url": "https://github.com/KittenML/KittenTTS",
-      "description": "Open-source State-of-the-art TTS model which runs on a CPU 😻",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 16048,
-      "forks": 947,
-      "added_stars": "449 stars this week"
-    },
-    {
-      "title": "p-e-w / heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 35463,
-      "forks": 4012,
-      "added_stars": "1,402 stars this week"
+      "stars": 51697,
+      "forks": 4578,
+      "added_stars": "3,170 stars this week"
     },
     {
       "title": "ifixai-ai / iFixAi",
@@ -70,9 +50,39 @@
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28424,
-      "forks": 1541,
-      "added_stars": "6,837 stars this week"
+      "stars": 28837,
+      "forks": 1565,
+      "added_stars": "6,913 stars this week"
+    },
+    {
+      "title": "BitterSecurity / Decepticon",
+      "url": "https://github.com/BitterSecurity/Decepticon",
+      "description": "Autonomous Hacking Agent for Red Team",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6175,
+      "forks": 1193,
+      "added_stars": "416 stars this week"
+    },
+    {
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 71666,
+      "forks": 7836,
+      "added_stars": "14,708 stars this week"
+    },
+    {
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 48822,
+      "forks": 16693,
+      "added_stars": "2,752 stars this week"
     },
     {
       "title": "repowise-dev / repowise",
@@ -80,19 +90,19 @@
       "description": "Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7800,
-      "forks": 897,
-      "added_stars": "544 stars this week"
+      "stars": 7821,
+      "forks": 898,
+      "added_stars": "454 stars this week"
     },
     {
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "title": "lightseekorg / tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 68682,
-      "forks": 8801,
-      "added_stars": "3,263 stars this week"
+      "stars": 2674,
+      "forks": 352,
+      "added_stars": "464 stars this week"
     },
     {
       "title": "mrexodia / ida-pro-mcp",
@@ -100,19 +110,9 @@
       "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12928,
-      "forks": 1573,
-      "added_stars": "407 stars this week"
-    },
-    {
-      "title": "666ghj / MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 79553,
-      "forks": 12076,
-      "added_stars": "2,377 stars this week"
+      "stars": 12964,
+      "forks": 1599,
+      "added_stars": "404 stars this week"
     },
     {
       "title": "rommapp / romm",
@@ -120,9 +120,49 @@
       "description": "A beautiful, powerful, self-hosted ROM manager and player.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13792,
-      "forks": 793,
-      "added_stars": "483 stars this week"
+      "stars": 13849,
+      "forks": 796,
+      "added_stars": "547 stars this week"
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 29912,
+      "forks": 3380,
+      "added_stars": "1,817 stars this week"
+    },
+    {
+      "title": "p-e-w / heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 35569,
+      "forks": 4027,
+      "added_stars": "1,314 stars this week"
+    },
+    {
+      "title": "ShawnPana / phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3741,
+      "forks": 385,
+      "added_stars": "522 stars this week"
+    },
+    {
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 68958,
+      "forks": 8860,
+      "added_stars": "3,228 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 16 Oct 2026 06:42:32 GMT",
+  "pubDate": "Sat, 17 Oct 2026 06:33:25 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 8974,
-      "forks": 1415,
-      "added_stars": "1,171 stars this month"
+      "stars": 8977,
+      "forks": 1420,
+      "added_stars": "1,167 stars this month"
     },
     {
       "title": "flashinfer-ai / flashinfer",
@@ -20,9 +20,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6630,
-      "forks": 1593,
-      "added_stars": "221 stars this month"
+      "stars": 6656,
+      "forks": 1596,
+      "added_stars": "230 stars this month"
     },
     {
       "title": "thu-ml / SpargeAttn",
@@ -32,7 +32,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1262,
       "forks": 110,
-      "added_stars": "178 stars this month"
+      "added_stars": "153 stars this month"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -41,8 +41,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 3970,
-      "forks": 530,
-      "added_stars": "218 stars this month"
+      "forks": 531,
+      "added_stars": "203 stars this month"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -50,19 +50,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10284,
-      "forks": 1475,
-      "added_stars": "155 stars this month"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2556,
-      "forks": 265,
-      "added_stars": "66 stars this month"
+      "stars": 10285,
+      "forks": 1477,
+      "added_stars": "149 stars this month"
     },
     {
       "title": "rapidsai / cugraph",
@@ -70,9 +60,19 @@
       "description": "cuGraph - RAPIDS Graph Analytics Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2246,
-      "forks": 368,
+      "stars": 2247,
+      "forks": 369,
       "added_stars": "15 stars this month"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2560,
+      "forks": 266,
+      "added_stars": "68 stars this month"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -80,9 +80,19 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1059,
+      "stars": 1061,
       "forks": 244,
-      "added_stars": "24 stars this month"
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 871,
+      "forks": 246,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -92,27 +102,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1675,
       "forks": 412,
-      "added_stars": "21 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 870,
-      "forks": 244,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "NVlabs / instant-ngp",
-      "url": "https://github.com/NVlabs/instant-ngp",
-      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 17576,
-      "forks": 2063,
-      "added_stars": "38 stars this month"
+      "added_stars": "20 stars this month"
     }
   ]
 }

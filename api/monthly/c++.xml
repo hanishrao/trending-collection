@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 16 Oct 2026 06:42:32 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 06:33:25 GMT</pubDate>
   <item>
     <title>Atmosphere-NX / Atmosphere</title>
     <link>https://github.com/Atmosphere-NX/Atmosphere</link>
@@ -16,9 +16,9 @@
     <description>Official inference framework for 1-bit LLMs</description>
   </item>
   <item>
-    <title>leejet / stable-diffusion.cpp</title>
-    <link>https://github.com/leejet/stable-diffusion.cpp</link>
-    <description>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</description>
+    <title>shadps4-emu / shadPS4</title>
+    <link>https://github.com/shadps4-emu/shadPS4</link>
+    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
   </item>
   <item>
     <title>firebase / firebase-ios-sdk</title>
@@ -26,14 +26,24 @@
     <description>Firebase SDK for Apple App Development</description>
   </item>
   <item>
-    <title>shadps4-emu / shadPS4</title>
-    <link>https://github.com/shadps4-emu/shadPS4</link>
-    <description>PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++</description>
+    <title>leejet / stable-diffusion.cpp</title>
+    <link>https://github.com/leejet/stable-diffusion.cpp</link>
+    <description>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</description>
   </item>
   <item>
     <title>dsp56300 / gearmulator</title>
     <link>https://github.com/dsp56300/gearmulator</link>
     <description>Low Level Emulation of classic VA synths &amp; effects of the late 90s/2000s by emulating the used ICs</description>
+  </item>
+  <item>
+    <title>78 / xiaozhi-esp32</title>
+    <link>https://github.com/78/xiaozhi-esp32</link>
+    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
+  </item>
+  <item>
+    <title>luau-lang / luau</title>
+    <link>https://github.com/luau-lang/luau</link>
+    <description>A small, fast, and embeddable programming language based on Lua with a gradual type system.</description>
   </item>
   <item>
     <title>tensorflow / tensorflow</title>
@@ -46,49 +56,9 @@
     <description>Self-hosted game stream host for Moonlight.</description>
   </item>
   <item>
-    <title>luau-lang / luau</title>
-    <link>https://github.com/luau-lang/luau</link>
-    <description>A small, fast, and embeddable programming language based on Lua with a gradual type system.</description>
-  </item>
-  <item>
     <title>ran-j / PS2Recomp</title>
     <link>https://github.com/ran-j/PS2Recomp</link>
     <description>Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC ports</description>
-  </item>
-  <item>
-    <title>gta-reversed / gta-reversed</title>
-    <link>https://github.com/gta-reversed/gta-reversed</link>
-    <description>Reimplementation of GTA:SA 1.0 US</description>
-  </item>
-  <item>
-    <title>google-deepmind / mujoco</title>
-    <link>https://github.com/google-deepmind/mujoco</link>
-    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
-  </item>
-  <item>
-    <title>78 / xiaozhi-esp32</title>
-    <link>https://github.com/78/xiaozhi-esp32</link>
-    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
-  </item>
-  <item>
-    <title>deskflow / deskflow</title>
-    <link>https://github.com/deskflow/deskflow</link>
-    <description>Share a single keyboard and mouse between multiple computers.</description>
-  </item>
-  <item>
-    <title>qgis / QGIS</title>
-    <link>https://github.com/qgis/QGIS</link>
-    <description>QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)</description>
-  </item>
-  <item>
-    <title>moonlight-stream / moonlight-qt</title>
-    <link>https://github.com/moonlight-stream/moonlight-qt</link>
-    <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
-  </item>
-  <item>
-    <title>microsoft / WSL</title>
-    <link>https://github.com/microsoft/WSL</link>
-    <description>Windows Subsystem for Linux</description>
   </item>
   <item>
     <title>keepassxreboot / keepassxc</title>
@@ -96,19 +66,49 @@
     <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
   </item>
   <item>
+    <title>microsoft / WSL</title>
+    <link>https://github.com/microsoft/WSL</link>
+    <description>Windows Subsystem for Linux</description>
+  </item>
+  <item>
+    <title>gta-reversed / gta-reversed</title>
+    <link>https://github.com/gta-reversed/gta-reversed</link>
+    <description>Reimplementation of GTA:SA 1.0 US</description>
+  </item>
+  <item>
+    <title>qgis / QGIS</title>
+    <link>https://github.com/qgis/QGIS</link>
+    <description>QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)</description>
+  </item>
+  <item>
+    <title>deskflow / deskflow</title>
+    <link>https://github.com/deskflow/deskflow</link>
+    <description>Share a single keyboard and mouse between multiple computers.</description>
+  </item>
+  <item>
+    <title>moonlight-stream / moonlight-qt</title>
+    <link>https://github.com/moonlight-stream/moonlight-qt</link>
+    <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
+  </item>
+  <item>
     <title>windirstat / windirstat</title>
     <link>https://github.com/windirstat/windirstat</link>
     <description>Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.</description>
   </item>
   <item>
-    <title>openvinotoolkit / openvino</title>
-    <link>https://github.com/openvinotoolkit/openvino</link>
-    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
+    <title>google-deepmind / mujoco</title>
+    <link>https://github.com/google-deepmind/mujoco</link>
+    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
   </item>
   <item>
-    <title>mamedev / mame</title>
-    <link>https://github.com/mamedev/mame</link>
-    <description>MAME</description>
+    <title>dyang886 / Game-Cheats-Manager</title>
+    <link>https://github.com/dyang886/Game-Cheats-Manager</link>
+    <description>Easily download and manage single-player game cheats for your convenience</description>
+  </item>
+  <item>
+    <title>WerWolv / ImHex</title>
+    <link>https://github.com/WerWolv/ImHex</link>
+    <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
   </item>
 </channel>
 </rss>
