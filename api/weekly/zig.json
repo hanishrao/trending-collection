@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 17 Oct 2026 06:31:07 GMT",
+  "pubDate": "Sun, 18 Oct 2026 06:55:11 GMT",
   "items": [
     {
       "title": "lightpanda-io / browser",
@@ -10,9 +10,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 36605,
-      "forks": 1755,
-      "added_stars": "453 stars this week"
+      "stars": 36653,
+      "forks": 1762,
+      "added_stars": "457 stars this week"
     },
     {
       "title": "zigtools / zls",
@@ -20,9 +20,19 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5252,
+      "stars": 5257,
       "forks": 461,
-      "added_stars": "40 stars this week"
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "tonybanters / oxwm",
+      "url": "https://github.com/tonybanters/oxwm",
+      "description": "",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1007,
+      "forks": 78,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "if-not-nil / revo",
@@ -30,39 +40,19 @@
       "description": "a dynamic language for the joy of programming",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 548,
+      "stars": 555,
       "forks": 22,
-      "added_stars": "71 stars this week"
+      "added_stars": "77 stars this week"
     },
     {
-      "title": "zml / zml",
-      "url": "https://github.com/zml/zml",
-      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "title": "ashhart / TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal and CUDA.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 4184,
-      "forks": 196,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "ghostty-org / ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 62306,
-      "forks": 3658,
-      "added_stars": "322 stars this week"
-    },
-    {
-      "title": "nullclaw / nullclaw",
-      "url": "https://github.com/nullclaw/nullclaw",
-      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 8130,
-      "forks": 947,
-      "added_stars": "26 stars this week"
+      "stars": 1366,
+      "forks": 260,
+      "added_stars": "154 stars this week"
     },
     {
       "title": "ddalcu / mlx-serve",
@@ -70,19 +60,19 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1962,
-      "forks": 203,
-      "added_stars": "148 stars this week"
+      "stars": 1970,
+      "forks": 204,
+      "added_stars": "143 stars this week"
     },
     {
-      "title": "vercel-labs / native",
-      "url": "https://github.com/vercel-labs/native",
-      "description": "Toolkit for building native desktop apps",
+      "title": "nullclaw / nullclaw",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 7781,
-      "forks": 326,
-      "added_stars": "29 stars this week"
+      "stars": 8131,
+      "forks": 947,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "PixelGuys / Cubyz",
@@ -90,9 +80,49 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 3724,
+      "stars": 3726,
       "forks": 247,
-      "added_stars": "22 stars this week"
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "vercel-labs / native",
+      "url": "https://github.com/vercel-labs/native",
+      "description": "Toolkit for building native desktop apps",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 7782,
+      "forks": 326,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "Seafoam-Labs / Shelly-ALPM",
+      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1200,
+      "forks": 96,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "neurosnap / zmx",
+      "url": "https://github.com/neurosnap/zmx",
+      "description": "Session attach/detach for the terminal",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2214,
+      "forks": 169,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "zml / zml",
+      "url": "https://github.com/zml/zml",
+      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 4186,
+      "forks": 196,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "tigerbeetle / tigerbeetle",
@@ -100,9 +130,19 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 17210,
-      "forks": 922,
-      "added_stars": "56 stars this week"
+      "stars": 17209,
+      "forks": 923,
+      "added_stars": "49 stars this week"
+    },
+    {
+      "title": "ghostty-org / ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 62336,
+      "forks": 3661,
+      "added_stars": "325 stars this week"
     }
   ]
 }

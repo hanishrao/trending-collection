@@ -4,46 +4,26 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 17 Oct 2026 06:27:52 GMT</pubDate>
-  <item>
-    <title>xerj-org / xerj</title>
-    <link>https://github.com/xerj-org/xerj</link>
-    <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.</description>
-  </item>
-  <item>
-    <title>ruvnet / RuView</title>
-    <link>https://github.com/ruvnet/RuView</link>
-    <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-  </item>
+  <pubDate>Sun, 18 Oct 2026 06:52:47 GMT</pubDate>
   <item>
     <title>akitaonrails / ai-memory</title>
     <link>https://github.com/akitaonrails/ai-memory</link>
     <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
-    <title>cloud-hypervisor / cloud-hypervisor</title>
-    <link>https://github.com/cloud-hypervisor/cloud-hypervisor</link>
-    <description>A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.</description>
+    <title>xerj-org / xerj</title>
+    <link>https://github.com/xerj-org/xerj</link>
+    <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
   </item>
   <item>
-    <title>hydra-db / hydradb</title>
-    <link>https://github.com/hydra-db/hydradb</link>
-    <description>HydraDB - fast graph database on object storage</description>
+    <title>magnitudedev / magnitude</title>
+    <link>https://github.com/magnitudedev/magnitude</link>
+    <description>Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.</description>
   </item>
   <item>
-    <title>rtk-ai / rtk</title>
-    <link>https://github.com/rtk-ai/rtk</link>
-    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
-  </item>
-  <item>
-    <title>pollen-robotics / microduck</title>
-    <link>https://github.com/pollen-robotics/microduck</link>
-    <description>A Tiny biped duck robot 🦆</description>
-  </item>
-  <item>
-    <title>voidzero-dev / vite-plus</title>
-    <link>https://github.com/voidzero-dev/vite-plus</link>
-    <description>The unified toolchain and entry point for web development.</description>
+    <title>zed-industries / zed</title>
+    <link>https://github.com/zed-industries/zed</link>
+    <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
   </item>
   <item>
     <title>ai-dynamo / dynamo</title>
@@ -51,9 +31,19 @@
     <description>A Datacenter Scale Distributed Inference Serving Framework</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+    <title>mixelpixx / Konnect</title>
+    <link>https://github.com/mixelpixx/Konnect</link>
+    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+  </item>
+  <item>
+    <title>GCWing / OpenBitFun</title>
+    <link>https://github.com/GCWing/OpenBitFun</link>
+    <description>OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.</description>
+  </item>
+  <item>
+    <title>nautechsystems / nautilus_trader</title>
+    <link>https://github.com/nautechsystems/nautilus_trader</link>
+    <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
   </item>
   <item>
     <title>Automattic / harper</title>
@@ -61,9 +51,39 @@
     <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
   </item>
   <item>
-    <title>magnitudedev / magnitude</title>
-    <link>https://github.com/magnitudedev/magnitude</link>
-    <description>Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.</description>
+    <title>surrealdb / surrealdb</title>
+    <link>https://github.com/surrealdb/surrealdb</link>
+    <description>A scalable, distributed, collaborative, document-graph database, for the realtime web</description>
+  </item>
+  <item>
+    <title>jdx / mise</title>
+    <link>https://github.com/jdx/mise</link>
+    <description>dev tools, env vars, task runner</description>
+  </item>
+  <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+  </item>
+  <item>
+    <title>voidzero-dev / vite-plus</title>
+    <link>https://github.com/voidzero-dev/vite-plus</link>
+    <description>The unified toolchain and entry point for web development.</description>
+  </item>
+  <item>
+    <title>pydantic / monty</title>
+    <link>https://github.com/pydantic/monty</link>
+    <description>A secure Python sandbox, written in Rust, for code written by AI.</description>
+  </item>
+  <item>
+    <title>foundry-rs / foundry</title>
+    <link>https://github.com/foundry-rs/foundry</link>
+    <description>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</description>
+  </item>
+  <item>
+    <title>maddada / Ghostex</title>
+    <link>https://github.com/maddada/Ghostex</link>
+    <description>The Best &amp; Most Powerful Native Agents Workspace. Fully Rust &amp; GPUI based. Mobile apps. 20+ agents. Ghostty.</description>
   </item>
 </channel>
 </rss>

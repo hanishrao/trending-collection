@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 17 Oct 2026 06:27:52 GMT",
+  "pubDate": "Sun, 18 Oct 2026 06:52:47 GMT",
   "items": [
     {
       "title": "plausible / analytics",
@@ -10,9 +10,9 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 29507,
-      "forks": 1905,
-      "added_stars": "75 stars today"
+      "stars": 29536,
+      "forks": 1913,
+      "added_stars": "26 stars today"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -20,9 +20,19 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9131,
-      "forks": 1014,
+      "stars": 9134,
+      "forks": 1015,
       "added_stars": "6 stars today"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23188,
+      "forks": 3119,
+      "added_stars": "3 stars today"
     },
     {
       "title": "openai / symphony",
@@ -30,19 +40,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27718,
-      "forks": 2881,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4746,
-      "forks": 3205,
-      "added_stars": "2 stars today"
+      "stars": 27724,
+      "forks": 2880,
+      "added_stars": "10 stars today"
     },
     {
       "title": "elixir-lang / elixir",
@@ -50,19 +50,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26701,
-      "forks": 3667,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Blazing-fast remote access",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9117,
-      "forks": 463,
-      "added_stars": "0 stars today"
+      "stars": 26700,
+      "forks": 3668,
+      "added_stars": "3 stars today"
     },
     {
       "title": "tuist / tuist",
@@ -75,24 +65,64 @@
       "added_stars": "1 star today"
     },
     {
+      "title": "Spectral-Finance / lux",
+      "url": "https://github.com/Spectral-Finance/lux",
+      "description": "Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 131,
+      "forks": 146,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "elixir-lsp / elixir_sense",
       "url": "https://github.com/elixir-lsp/elixir_sense",
       "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 341,
+      "stars": 342,
       "forks": 44,
       "added_stars": "0 stars today"
     },
     {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
+      "title": "ash-project / ash",
+      "url": "https://github.com/ash-project/ash",
+      "description": "A declarative, extensible framework for building Elixir applications.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23186,
-      "forks": 3119,
+      "stars": 2538,
+      "forks": 457,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4746,
+      "forks": 3205,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "nerves-hub / nerves_hub_web",
+      "url": "https://github.com/nerves-hub/nerves_hub_web",
+      "description": "Manage your Nerves device fleet, including firmware updates, health reports, and interactive device consoles.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 273,
+      "forks": 98,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Blazing-fast remote access",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9121,
+      "forks": 464,
+      "added_stars": "5 stars today"
     }
   ]
 }

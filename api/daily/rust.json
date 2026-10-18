@@ -2,117 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 17 Oct 2026 06:27:52 GMT",
+  "pubDate": "Sun, 18 Oct 2026 06:52:47 GMT",
   "items": [
-    {
-      "title": "xerj-org / xerj",
-      "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7137,
-      "forks": 365,
-      "added_stars": "1,648 stars today"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 98379,
-      "forks": 12895,
-      "added_stars": "210 stars today"
-    },
     {
       "title": "akitaonrails / ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9640,
-      "forks": 691,
-      "added_stars": "159 stars today"
+      "stars": 10074,
+      "forks": 727,
+      "added_stars": "178 stars today"
     },
     {
-      "title": "cloud-hypervisor / cloud-hypervisor",
-      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
-      "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+      "title": "xerj-org / xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6380,
-      "forks": 802,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "hydra-db / hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13048,
-      "forks": 5432,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 83646,
-      "forks": 5313,
-      "added_stars": "149 stars today"
-    },
-    {
-      "title": "pollen-robotics / microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9502,
-      "forks": 1233,
-      "added_stars": "41 stars today"
-    },
-    {
-      "title": "voidzero-dev / vite-plus",
-      "url": "https://github.com/voidzero-dev/vite-plus",
-      "description": "The unified toolchain and entry point for web development.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6331,
-      "forks": 281,
-      "added_stars": "87 stars today"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8316,
-      "forks": 1717,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 126057,
-      "forks": 19770,
-      "added_stars": "124 stars today"
-    },
-    {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 16576,
-      "forks": 763,
-      "added_stars": "65 stars today"
+      "stars": 8009,
+      "forks": 425,
+      "added_stars": "1,160 stars today"
     },
     {
       "title": "magnitudedev / magnitude",
@@ -120,9 +30,139 @@
       "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7028,
-      "forks": 481,
-      "added_stars": "219 stars today"
+      "stars": 7080,
+      "forks": 484,
+      "added_stars": "76 stars today"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 91873,
+      "forks": 11101,
+      "added_stars": "52 stars today"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8326,
+      "forks": 1720,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "mixelpixx / Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1259,
+      "forks": 141,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "GCWing / OpenBitFun",
+      "url": "https://github.com/GCWing/OpenBitFun",
+      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2832,
+      "forks": 267,
+      "added_stars": "148 stars today"
+    },
+    {
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30275,
+      "forks": 4054,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 16653,
+      "forks": 799,
+      "added_stars": "97 stars today"
+    },
+    {
+      "title": "surrealdb / surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 33200,
+      "forks": 1435,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "jdx / mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 35120,
+      "forks": 1485,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 126168,
+      "forks": 19791,
+      "added_stars": "105 stars today"
+    },
+    {
+      "title": "voidzero-dev / vite-plus",
+      "url": "https://github.com/voidzero-dev/vite-plus",
+      "description": "The unified toolchain and entry point for web development.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6355,
+      "forks": 284,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "pydantic / monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A secure Python sandbox, written in Rust, for code written by AI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8709,
+      "forks": 459,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "foundry-rs / foundry",
+      "url": "https://github.com/foundry-rs/foundry",
+      "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 10675,
+      "forks": 2677,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "maddada / Ghostex",
+      "url": "https://github.com/maddada/Ghostex",
+      "description": "The Best & Most Powerful Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Ghostty.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1277,
+      "forks": 89,
+      "added_stars": "77 stars today"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 17 Oct 2026 06:31:07 GMT",
+  "pubDate": "Sun, 18 Oct 2026 06:55:11 GMT",
   "items": [
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2151,
+      "forks": 300,
+      "added_stars": "55 stars this week"
+    },
     {
       "title": "supabase / postgres",
       "url": "https://github.com/supabase/postgres",
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1795,
+      "stars": 1796,
       "forks": 270,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "chaotic-cx / nyx",
@@ -20,19 +30,9 @@
       "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 785,
+      "stars": 787,
       "forks": 82,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2142,
-      "forks": 296,
-      "added_stars": "57 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "NixOS / nix.dev",
@@ -40,8 +40,8 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 4021,
-      "forks": 346,
+      "stars": 4024,
+      "forks": 348,
       "added_stars": "19 stars this week"
     },
     {
@@ -51,7 +51,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": 198,
-      "forks": 15,
+      "forks": 16,
       "added_stars": "1 star this week"
     }
   ]

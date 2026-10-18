@@ -4,11 +4,26 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 17 Oct 2026 06:27:52 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 06:52:47 GMT</pubDate>
+  <item>
+    <title>Gentleman-Programming / engram</title>
+    <link>https://github.com/Gentleman-Programming/engram</link>
+    <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
+  </item>
   <item>
     <title>JuliusBrussee / caveman</title>
     <link>https://github.com/JuliusBrussee/caveman</link>
     <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+  </item>
+  <item>
+    <title>kubernetes-sigs / agent-sandbox</title>
+    <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
+    <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).</description>
+  </item>
+  <item>
+    <title>ollama / ollama</title>
+    <link>https://github.com/ollama/ollama</link>
+    <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
   </item>
   <item>
     <title>gitleaks / gitleaks</title>
@@ -16,19 +31,9 @@
     <description>Find secrets with Gitleaks 🔑</description>
   </item>
   <item>
-    <title>tristenlammi / Arrmada</title>
-    <link>https://github.com/tristenlammi/Arrmada</link>
-    <description>arrrrrrrr</description>
-  </item>
-  <item>
-    <title>vxcontrol / pentagi</title>
-    <link>https://github.com/vxcontrol/pentagi</link>
-    <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-  </item>
-  <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+    <title>jasonxu114514 / opencode2api</title>
+    <link>https://github.com/jasonxu114514/opencode2api</link>
+    <description>A Go-based OpenCode Zen / Zen Go API proxy with OpenAI &amp; Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.</description>
   </item>
   <item>
     <title>cilium / cilium</title>
@@ -36,29 +41,9 @@
     <description>eBPF-based Networking, Security, and Observability</description>
   </item>
   <item>
-    <title>jasonxu114514 / opencode2api</title>
-    <link>https://github.com/jasonxu114514/opencode2api</link>
-    <description>A Go-based OpenCode Zen / Zen Go API proxy with OpenAI &amp; Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.</description>
-  </item>
-  <item>
-    <title>sipeed / picoclaw</title>
-    <link>https://github.com/sipeed/picoclaw</link>
-    <description>Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity</description>
-  </item>
-  <item>
-    <title>Gentleman-Programming / engram</title>
-    <link>https://github.com/Gentleman-Programming/engram</link>
-    <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / scion</title>
-    <link>https://github.com/GoogleCloudPlatform/scion</link>
-    <description></description>
-  </item>
-  <item>
-    <title>keploy / keploy</title>
-    <link>https://github.com/keploy/keploy</link>
-    <description>Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.</description>
+    <title>etcd-io / etcd</title>
+    <link>https://github.com/etcd-io/etcd</link>
+    <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
   </item>
   <item>
     <title>llm-d / llm-d-router</title>
@@ -66,44 +51,69 @@
     <description>llm-d Router: The intelligent entry point for inference requests</description>
   </item>
   <item>
+    <title>spf13 / cobra</title>
+    <link>https://github.com/spf13/cobra</link>
+    <description>A Commander for modern Go CLI interactions</description>
+  </item>
+  <item>
+    <title>argoproj / argo-cd</title>
+    <link>https://github.com/argoproj/argo-cd</link>
+    <description>Declarative Continuous Deployment for Kubernetes</description>
+  </item>
+  <item>
+    <title>kubernetes / kubernetes</title>
+    <link>https://github.com/kubernetes/kubernetes</link>
+    <description>Production-Grade Container Scheduling and Management</description>
+  </item>
+  <item>
     <title>Wei-Shaw / sub2api</title>
     <link>https://github.com/Wei-Shaw/sub2api</link>
     <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
   </item>
   <item>
-    <title>tbphp / gpt-load</title>
-    <link>https://github.com/tbphp/gpt-load</link>
-    <description>Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。</description>
+    <title>bia-pain-bache / BPB-Wizard</title>
+    <link>https://github.com/bia-pain-bache/BPB-Wizard</link>
+    <description>A wizard to facilitate BPB Panel deployment and management.</description>
   </item>
   <item>
-    <title>zeromicro / go-zero</title>
-    <link>https://github.com/zeromicro/go-zero</link>
-    <description>A cloud-native Go microservices framework with cli tool for productivity.</description>
+    <title>google / ax</title>
+    <link>https://github.com/google/ax</link>
+    <description>Google&#x27;s open agentic orchestration runtime</description>
   </item>
   <item>
-    <title>router-for-me / CLIProxyAPI</title>
-    <link>https://github.com/router-for-me/CLIProxyAPI</link>
-    <description>Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API</description>
+    <title>pion / webrtc</title>
+    <link>https://github.com/pion/webrtc</link>
+    <description>Pure Go implementation of the WebRTC API</description>
   </item>
   <item>
-    <title>gotenberg / gotenberg</title>
-    <link>https://github.com/gotenberg/gotenberg</link>
-    <description>A developer-friendly API for converting many document formats into PDF files, and more!</description>
+    <title>ygelfand / echolocal</title>
+    <link>https://github.com/ygelfand/echolocal</link>
+    <description>Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.</description>
   </item>
   <item>
-    <title>bytebase / bytebase</title>
-    <link>https://github.com/bytebase/bytebase</link>
-    <description>Database governance built for humans and agents — controlling changes and access across every major database.</description>
+    <title>gastownhall / beads</title>
+    <link>https://github.com/gastownhall/beads</link>
+    <description>Beads - A memory upgrade for your coding agent</description>
   </item>
   <item>
-    <title>skyhook-io / radar</title>
-    <link>https://github.com/skyhook-io/radar</link>
-    <description>The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what&#x27;s broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.</description>
+    <title>GoogleCloudPlatform / scion</title>
+    <link>https://github.com/GoogleCloudPlatform/scion</link>
+    <description></description>
   </item>
   <item>
-    <title>prometheus / node_exporter</title>
-    <link>https://github.com/prometheus/node_exporter</link>
-    <description>Exporter for machine metrics</description>
+    <title>owncast / owncast</title>
+    <link>https://github.com/owncast/owncast</link>
+    <description>Take control over your live stream video by running it yourself. Streaming + chat out of the box.</description>
+  </item>
+  <item>
+    <title>microsoft / TypeScript</title>
+    <link>https://github.com/microsoft/TypeScript</link>
+    <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+  </item>
+  <item>
+    <title>vshulcz / deja-vu</title>
+    <link>https://github.com/vshulcz/deja-vu</link>
+    <description>Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.</description>
   </item>
 </channel>
 </rss>
