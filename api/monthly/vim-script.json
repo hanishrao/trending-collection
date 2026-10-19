@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 18 Oct 2026 06:57:42 GMT",
+  "pubDate": "Mon, 19 Oct 2026 07:16:29 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -11,8 +11,8 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 41143,
-      "forks": 6168,
-      "added_stars": "626 stars this month"
+      "forks": 6177,
+      "added_stars": "623 stars this month"
     },
     {
       "title": "neovim / neovim",
@@ -20,9 +20,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 103040,
-      "forks": 7193,
-      "added_stars": "1,280 stars this month"
+      "stars": 103057,
+      "forks": 7201,
+      "added_stars": "1,287 stars this month"
     },
     {
       "title": "jbranchaud / til",
@@ -32,7 +32,7 @@
       "languageColor": "#199f4b",
       "stars": 14159,
       "forks": 749,
-      "added_stars": "18 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "github / copilot.vim",
@@ -40,9 +40,9 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11693,
-      "forks": 824,
-      "added_stars": "39 stars this month"
+      "stars": 11695,
+      "forks": 823,
+      "added_stars": "41 stars this month"
     },
     {
       "title": "dense-analysis / ale",
@@ -50,9 +50,19 @@
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14024,
-      "forks": 1484,
+      "stars": 14025,
+      "forks": 1485,
       "added_stars": "23 stars this month"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21809,
+      "forks": 1079,
+      "added_stars": "44 stars this month"
     },
     {
       "title": "junegunn / fzf.vim",
@@ -65,26 +75,6 @@
       "added_stars": "19 stars this month"
     },
     {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21808,
-      "forks": 1079,
-      "added_stars": "45 stars this month"
-    },
-    {
-      "title": "tpope / vim-surround",
-      "url": "https://github.com/tpope/vim-surround",
-      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14105,
-      "forks": 448,
-      "added_stars": "13 stars this month"
-    },
-    {
       "title": "preservim / nerdtree",
       "url": "https://github.com/preservim/nerdtree",
       "description": "A tree explorer plugin for vim.",
@@ -92,6 +82,36 @@
       "languageColor": "#199f4b",
       "stars": 20082,
       "forks": 1435,
+      "added_stars": "12 stars this month"
+    },
+    {
+      "title": "tpope / vim-surround",
+      "url": "https://github.com/tpope/vim-surround",
+      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14107,
+      "forks": 448,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "vim-airline / vim-airline",
+      "url": "https://github.com/vim-airline/vim-airline",
+      "description": "lean & mean status/tabline for vim that's light as air",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 17966,
+      "forks": 1100,
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "mbbill / undotree",
+      "url": "https://github.com/mbbill/undotree",
+      "description": "The undo history visualizer for VIM",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4554,
+      "forks": 120,
       "added_stars": "13 stars this month"
     },
     {
@@ -105,14 +125,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "vim-airline / vim-airline",
-      "url": "https://github.com/vim-airline/vim-airline",
-      "description": "lean & mean status/tabline for vim that's light as air",
+      "title": "macvim-dev / macvim",
+      "url": "https://github.com/macvim-dev/macvim",
+      "description": "Vim - the text editor - for macOS",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 17966,
-      "forks": 1100,
-      "added_stars": "17 stars this month"
+      "stars": 7885,
+      "forks": 692,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "mhinz / vim-galore",
@@ -120,19 +140,9 @@
       "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 18015,
-      "forks": 627,
-      "added_stars": "57 stars this month"
-    },
-    {
-      "title": "mbbill / undotree",
-      "url": "https://github.com/mbbill/undotree",
-      "description": "The undo history visualizer for VIM",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4553,
-      "forks": 120,
-      "added_stars": "12 stars this month"
+      "stars": 18017,
+      "forks": 626,
+      "added_stars": "56 stars this month"
     },
     {
       "title": "fatih / vim-go",
@@ -162,7 +172,7 @@
       "languageColor": "#199f4b",
       "stars": 4453,
       "forks": 166,
-      "added_stars": "15 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "tpope / vim-rhubarb",

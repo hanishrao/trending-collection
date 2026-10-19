@@ -2,26 +2,16 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 18 Oct 2026 06:52:47 GMT",
+  "pubDate": "Mon, 19 Oct 2026 07:12:30 GMT",
   "items": [
     {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46619,
-      "forks": 6853,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19575,
-      "forks": 1366,
+      "stars": 1969,
+      "forks": 84,
       "added_stars": "6 stars today"
     },
     {
@@ -30,9 +20,19 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40186,
+      "stars": 40192,
       "forks": 1962,
-      "added_stars": "5 stars today"
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 46627,
+      "forks": 6937,
+      "added_stars": "12 stars today"
     },
     {
       "title": "haskell / cabal",
@@ -45,74 +45,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "unisonweb / unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 6764,
-      "forks": 311,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2941,
-      "forks": 431,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "commercialhaskell / stack",
       "url": "https://github.com/commercialhaskell/stack",
       "description": "The Haskell Tool Stack",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4078,
+      "stars": 4077,
       "forks": 855,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 3174,
-      "forks": 762,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27721,
-      "forks": 1234,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12482,
-      "forks": 510,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hledgerorg / hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4770,
-      "forks": 417,
-      "added_stars": "3 stars today"
     },
     {
       "title": "mtolly / onyx",
@@ -122,6 +62,66 @@
       "languageColor": "#5e5086",
       "stars": 306,
       "forks": 24,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "hledgerorg / hledger",
+      "url": "https://github.com/hledgerorg/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4772,
+      "forks": 417,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19584,
+      "forks": 1367,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2942,
+      "forks": 431,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27722,
+      "forks": 1234,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12483,
+      "forks": 510,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "unisonweb / unison",
+      "url": "https://github.com/unisonweb/unison",
+      "description": "A friendly programming language from the future",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 6765,
+      "forks": 312,
       "added_stars": "2 stars today"
     }
   ]

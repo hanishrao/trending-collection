@@ -2,17 +2,17 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 18 Oct 2026 06:55:11 GMT",
+  "pubDate": "Mon, 19 Oct 2026 07:13:56 GMT",
   "items": [
     {
-      "title": "techiescamp / devops-projects",
-      "url": "https://github.com/techiescamp/devops-projects",
-      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2390,
-      "forks": 1616,
-      "added_stars": "18 stars this week"
+      "stars": 3276,
+      "forks": 4624,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "alphagov / govuk-infrastructure",
@@ -25,24 +25,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3276,
-      "forks": 4626,
-      "added_stars": "3 stars this week"
+      "stars": 1043,
+      "forks": 780,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "title": "terraform-google-modules / terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1276,
-      "forks": 602,
-      "added_stars": "10 stars this week"
+      "stars": 153,
+      "forks": 119,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-elasticache",
@@ -53,6 +53,16 @@
       "stars": 29,
       "forks": 72,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 242,
+      "forks": 191,
+      "added_stars": "1 star this week"
     }
   ]
 }

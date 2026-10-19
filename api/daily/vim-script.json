@@ -2,8 +2,18 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 18 Oct 2026 06:52:47 GMT",
+  "pubDate": "Mon, 19 Oct 2026 07:12:30 GMT",
   "items": [
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21809,
+      "forks": 1079,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "jbranchaud / til",
       "url": "https://github.com/jbranchaud/til",
@@ -12,46 +22,6 @@
       "languageColor": "#199f4b",
       "stars": 14159,
       "forks": 749,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21808,
-      "forks": 1079,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "morhetz / gruvbox",
-      "url": "https://github.com/morhetz/gruvbox",
-      "description": "Retro groove color scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 15790,
-      "forks": 1119,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35770,
-      "forks": 1930,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "dense-analysis / ale",
-      "url": "https://github.com/dense-analysis/ale",
-      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14024,
-      "forks": 1484,
       "added_stars": "0 stars today"
     },
     {
@@ -63,6 +33,26 @@
       "stars": 360,
       "forks": 44,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 103057,
+      "forks": 7201,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11695,
+      "forks": 823,
+      "added_stars": "2 stars today"
     }
   ]
 }
