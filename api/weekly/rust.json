@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:13:56 GMT",
+  "pubDate": "Tue, 20 Oct 2026 07:01:22 GMT",
   "items": [
     {
       "title": "storytold / artcraft",
@@ -10,19 +10,39 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 33044,
-      "forks": 5227,
-      "added_stars": "16,379 stars this week"
+      "stars": 33956,
+      "forks": 5373,
+      "added_stars": "13,572 stars this week"
+    },
+    {
+      "title": "storytold / artcraftx",
+      "url": "https://github.com/storytold/artcraftx",
+      "description": "ArtCraft-X",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 965,
+      "forks": 841,
+      "added_stars": "251 stars this week"
     },
     {
       "title": "xerj-org / xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8661,
-      "forks": 464,
-      "added_stars": "4,925 stars this week"
+      "stars": 10740,
+      "forks": 652,
+      "added_stars": "5,573 stars this week"
+    },
+    {
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11567,
+      "forks": 819,
+      "added_stars": "1,976 stars this week"
     },
     {
       "title": "trymirai / uzu",
@@ -30,9 +50,9 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2398,
-      "forks": 152,
-      "added_stars": "227 stars this week"
+      "stars": 2437,
+      "forks": 160,
+      "added_stars": "197 stars this week"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -40,19 +60,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3291,
-      "forks": 382,
-      "added_stars": "482 stars this week"
-    },
-    {
-      "title": "koharu-rs / koharu",
-      "url": "https://github.com/koharu-rs/koharu",
-      "description": "ML-powered manga translator, written in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6400,
-      "forks": 459,
-      "added_stars": "403 stars this week"
+      "stars": 3335,
+      "forks": 389,
+      "added_stars": "438 stars this week"
     }
   ]
 }

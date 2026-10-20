@@ -4,16 +4,26 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 19 Oct 2026 07:13:56 GMT</pubDate>
+  <pubDate>Tue, 20 Oct 2026 07:01:22 GMT</pubDate>
   <item>
     <title>storytold / artcraft</title>
     <link>https://github.com/storytold/artcraft</link>
     <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
   </item>
   <item>
+    <title>storytold / artcraftx</title>
+    <link>https://github.com/storytold/artcraftx</link>
+    <description>ArtCraft-X</description>
+  </item>
+  <item>
     <title>xerj-org / xerj</title>
     <link>https://github.com/xerj-org/xerj</link>
-    <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
+    <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+  </item>
+  <item>
+    <title>akitaonrails / ai-memory</title>
+    <link>https://github.com/akitaonrails/ai-memory</link>
+    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>trymirai / uzu</title>
@@ -24,11 +34,6 @@
     <title>HakanSeven12 / OpenCADStudio</title>
     <link>https://github.com/HakanSeven12/OpenCADStudio</link>
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
-  </item>
-  <item>
-    <title>koharu-rs / koharu</title>
-    <link>https://github.com/koharu-rs/koharu</link>
-    <description>ML-powered manga translator, written in Rust.</description>
   </item>
 </channel>
 </rss>

@@ -2,47 +2,47 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:12:30 GMT",
+  "pubDate": "Tue, 20 Oct 2026 06:59:51 GMT",
   "items": [
     {
-      "title": "alvinunreal / lazyskills",
-      "url": "https://github.com/alvinunreal/lazyskills",
-      "description": "mission control for agent skills",
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 569,
-      "forks": 75,
-      "added_stars": "138 stars today"
+      "stars": 38532,
+      "forks": 776,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "google / ax",
-      "url": "https://github.com/google/ax",
-      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "title": "go-gitea / gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13949,
-      "forks": 724,
-      "added_stars": "56 stars today"
+      "stars": 58581,
+      "forks": 7300,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "jasonxu114514 / opencode2api",
-      "url": "https://github.com/jasonxu114514/opencode2api",
-      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
+      "title": "helm / helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1084,
-      "forks": 192,
-      "added_stars": "68 stars today"
+      "stars": 30346,
+      "forks": 7855,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "tristenlammi / Arrmada",
-      "url": "https://github.com/tristenlammi/Arrmada",
-      "description": "One self-hosted app for all your media.",
+      "title": "urfave / cli",
+      "url": "https://github.com/urfave/cli",
+      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 363,
-      "forks": 19,
-      "added_stars": "43 stars today"
+      "stars": 24295,
+      "forks": 1951,
+      "added_stars": "1 star today"
     },
     {
       "title": "ollama / ollama",
@@ -50,89 +50,29 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 183783,
-      "forks": 18400,
-      "added_stars": "146 stars today"
+      "stars": 183901,
+      "forks": 18427,
+      "added_stars": "129 stars today"
     },
     {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30105,
-      "forks": 2390,
-      "added_stars": "32 stars today"
+      "stars": 8049,
+      "forks": 660,
+      "added_stars": "92 stars today"
     },
     {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
+      "title": "rclone / rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33744,
-      "forks": 5349,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "gastownhall / beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28000,
-      "forks": 1894,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5535,
-      "forks": 605,
-      "added_stars": "91 stars today"
-    },
-    {
-      "title": "VersusControl / versus-incident",
-      "url": "https://github.com/VersusControl/versus-incident",
-      "description": "The self-hosted AI SRE agent. You don't have to monitor your systems alone. Versus Incident will keep track of your services, applications, and systems, detect new or unexpected problems, and provide your team with the evidence needed to investigate.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 875,
-      "forks": 164,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49628,
-      "forks": 4507,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "authelia / authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29307,
-      "forks": 1520,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "hashicorp / terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49976,
-      "forks": 10648,
-      "added_stars": "30 stars today"
+      "stars": 60424,
+      "forks": 5551,
+      "added_stars": "22 stars today"
     },
     {
       "title": "Mag1cFall / AIStudio2API",
@@ -140,49 +80,79 @@
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 364,
-      "forks": 104,
+      "stars": 393,
+      "forks": 111,
       "added_stars": "29 stars today"
     },
     {
-      "title": "guohuiyuan / go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "title": "etcd-io / etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5473,
-      "forks": 521,
-      "added_stars": "33 stars today"
+      "stars": 52402,
+      "forks": 10543,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "ygelfand / echolocal",
-      "url": "https://github.com/ygelfand/echolocal",
-      "description": "Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.",
+      "title": "gofiber / fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 463,
-      "forks": 24,
-      "added_stars": "16 stars today"
+      "stars": 40224,
+      "forks": 2058,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "dolthub / dolt",
-      "url": "https://github.com/dolthub/dolt",
-      "description": "Dolt – Git for Data",
+      "title": "livekit / livekit",
+      "url": "https://github.com/livekit/livekit",
+      "description": "End-to-end realtime stack for connecting humans and AI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24677,
-      "forks": 900,
-      "added_stars": "13 stars today"
+      "stars": 21679,
+      "forks": 2485,
+      "added_stars": "69 stars today"
     },
     {
-      "title": "masterking32 / MasterDnsVPN",
-      "url": "https://github.com/masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "title": "simulot / immich-go",
+      "url": "https://github.com/simulot/immich-go",
+      "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7125,
-      "forks": 795,
-      "added_stars": "6 stars today"
+      "stars": 7073,
+      "forks": 275,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "danielmiessler / Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 44377,
+      "forks": 4310,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "strelov1 / freehire",
+      "url": "https://github.com/strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1545,
+      "forks": 183,
+      "added_stars": "295 stars today"
+    },
+    {
+      "title": "moby / moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 72208,
+      "forks": 19258,
+      "added_stars": "4 stars today"
     }
   ]
 }

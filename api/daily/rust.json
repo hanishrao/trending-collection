@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:12:30 GMT",
+  "pubDate": "Tue, 20 Oct 2026 06:59:51 GMT",
   "items": [
     {
       "title": "akitaonrails / ai-memory",
@@ -10,59 +10,49 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10722,
-      "forks": 758,
-      "added_stars": "512 stars today"
+      "stars": 11566,
+      "forks": 819,
+      "added_stars": "666 stars today"
     },
     {
       "title": "xerj-org / xerj",
       "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8660,
-      "forks": 464,
-      "added_stars": "835 stars today"
+      "stars": 10739,
+      "forks": 652,
+      "added_stars": "671 stars today"
     },
     {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "title": "smg-project / smg",
+      "url": "https://github.com/smg-project/smg",
+      "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 83904,
-      "forks": 5333,
-      "added_stars": "155 stars today"
+      "stars": 646,
+      "forks": 197,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "mixelpixx / Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
+      "title": "oven-sh / bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1288,
-      "forks": 146,
-      "added_stars": "49 stars today"
+      "stars": 96308,
+      "forks": 5153,
+      "added_stars": "27 stars today"
     },
     {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "title": "leepokai / Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31663,
-      "forks": 2015,
-      "added_stars": "47 stars today"
-    },
-    {
-      "title": "rubys / roundhouse",
-      "url": "https://github.com/rubys/roundhouse",
-      "description": "Rails as a specification; the deployment target is a build flag",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 484,
-      "forks": 43,
-      "added_stars": "4 stars today"
+      "stars": 637,
+      "forks": 82,
+      "added_stars": "51 stars today"
     },
     {
       "title": "Automattic / harper",
@@ -70,49 +60,49 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16726,
-      "forks": 837,
-      "added_stars": "78 stars today"
+      "stars": 16826,
+      "forks": 866,
+      "added_stars": "72 stars today"
     },
     {
-      "title": "pollen-robotics / microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
+      "title": "martin-olivier / airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9589,
-      "forks": 1245,
-      "added_stars": "29 stars today"
+      "stars": 4516,
+      "forks": 793,
+      "added_stars": "135 stars today"
     },
     {
-      "title": "GCWing / OpenBitFun",
-      "url": "https://github.com/GCWing/OpenBitFun",
-      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2856,
-      "forks": 273,
-      "added_stars": "18 stars today"
+      "stars": 83375,
+      "forks": 5043,
+      "added_stars": "422 stars today"
     },
     {
-      "title": "claration / impactor",
-      "url": "https://github.com/claration/impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "title": "confeden / Antigravity",
+      "url": "https://github.com/confeden/Antigravity",
+      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3525,
-      "forks": 240,
-      "added_stars": "16 stars today"
+      "stars": 931,
+      "forks": 56,
+      "added_stars": "25 stars today"
     },
     {
-      "title": "starship / starship",
-      "url": "https://github.com/starship/starship",
-      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "title": "fish-shell / fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 60335,
-      "forks": 2713,
-      "added_stars": "27 stars today"
+      "stars": 34332,
+      "forks": 2400,
+      "added_stars": "15 stars today"
     }
   ]
 }

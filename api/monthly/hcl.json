@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:16:29 GMT",
+  "pubDate": "Tue, 20 Oct 2026 07:02:59 GMT",
   "items": [
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -35,6 +35,16 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1279,
+      "forks": 605,
+      "added_stars": "27 stars this month"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-network",
       "url": "https://github.com/terraform-google-modules/terraform-google-network",
       "description": "Sets up a new VPC network on Google Cloud",
@@ -45,22 +55,12 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1276,
-      "forks": 601,
-      "added_stars": "25 stars this month"
-    },
-    {
       "title": "hashicorp / agent-skills",
       "url": "https://github.com/hashicorp/agent-skills",
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 900,
+      "stars": 901,
       "forks": 132,
       "added_stars": "35 stars this month"
     },
@@ -75,16 +75,6 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 29,
-      "forks": 72,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-project-factory",
       "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
@@ -95,12 +85,22 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 29,
+      "forks": 72,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-service-accounts",
       "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
       "description": "Creates one or more service accounts and grants them basic roles",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 153,
+      "stars": 154,
       "forks": 119,
       "added_stars": "1 star this month"
     }

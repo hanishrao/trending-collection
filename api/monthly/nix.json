@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:16:29 GMT",
+  "pubDate": "Tue, 20 Oct 2026 07:02:59 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26528,
-      "forks": 20426,
-      "added_stars": "395 stars this month"
+      "stars": 26544,
+      "forks": 20432,
+      "added_stars": "406 stars this month"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -20,9 +20,19 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2158,
+      "stars": 2160,
       "forks": 300,
-      "added_stars": "190 stars this month"
+      "added_stars": "189 stars this month"
+    },
+    {
+      "title": "supabase / postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1797,
+      "forks": 270,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "NixOS / nix.dev",
@@ -30,8 +40,8 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 4028,
-      "forks": 349,
+      "stars": 4029,
+      "forks": 351,
       "added_stars": "66 stars this month"
     },
     {
@@ -50,49 +60,9 @@
       "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 568,
-      "forks": 42,
-      "added_stars": "52 stars this month"
-    },
-    {
-      "title": "cloud-gouv / securix",
-      "url": "https://github.com/cloud-gouv/securix",
-      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1144,
-      "forks": 54,
-      "added_stars": "103 stars this month"
-    },
-    {
-      "title": "microvm-nix / microvm.nix",
-      "url": "https://github.com/microvm-nix/microvm.nix",
-      "description": "NixOS MicroVMs",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3019,
-      "forks": 239,
-      "added_stars": "85 stars this month"
-    },
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10441,
-      "forks": 2489,
-      "added_stars": "99 stars this month"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3339,
-      "forks": 984,
-      "added_stars": "37 stars this month"
+      "stars": 571,
+      "forks": 43,
+      "added_stars": "51 stars this month"
     },
     {
       "title": "numtide / system-manager",
@@ -102,7 +72,27 @@
       "languageColor": "#7e7eff",
       "stars": 1774,
       "forks": 69,
-      "added_stars": "45 stars this month"
+      "added_stars": "43 stars this month"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3340,
+      "forks": 984,
+      "added_stars": "39 stars this month"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10444,
+      "forks": 2492,
+      "added_stars": "99 stars this month"
     }
   ]
 }

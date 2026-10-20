@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:16:29 GMT",
+  "pubDate": "Tue, 20 Oct 2026 07:02:59 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 8983,
-      "forks": 1424,
-      "added_stars": "1,164 stars this month"
+      "stars": 8990,
+      "forks": 1427,
+      "added_stars": "1,168 stars this month"
     },
     {
       "title": "flashinfer-ai / flashinfer",
@@ -20,9 +20,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6697,
-      "forks": 1610,
-      "added_stars": "254 stars this month"
+      "stars": 6714,
+      "forks": 1621,
+      "added_stars": "264 stars this month"
     },
     {
       "title": "thu-ml / SpargeAttn",
@@ -32,7 +32,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1263,
       "forks": 109,
-      "added_stars": "130 stars this month"
+      "added_stars": "111 stars this month"
     },
     {
       "title": "rapidsai / cugraph",
@@ -40,9 +40,29 @@
       "description": "cuGraph - RAPIDS Graph Analytics Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2247,
+      "stars": 2245,
       "forks": 369,
-      "added_stars": "14 stars this month"
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2566,
+      "forks": 267,
+      "added_stars": "63 stars this month"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10291,
+      "forks": 1479,
+      "added_stars": "144 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -51,18 +71,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 870,
-      "forks": 246,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2564,
-      "forks": 266,
-      "added_stars": "63 stars this month"
+      "forks": 247,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -70,19 +80,9 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1065,
+      "stars": 1066,
       "forks": 245,
       "added_stars": "28 stars this month"
-    },
-    {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3972,
-      "forks": 531,
-      "added_stars": "174 stars this month"
     }
   ]
 }

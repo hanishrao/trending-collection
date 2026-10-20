@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 19 Oct 2026 07:16:29 GMT",
+  "pubDate": "Tue, 20 Oct 2026 07:02:59 GMT",
   "items": [
     {
       "title": "OpenFAST / openfast",
@@ -12,7 +12,7 @@
       "languageColor": "#4d41b1",
       "stars": 982,
       "forks": 547,
-      "added_stars": "15 stars this month"
+      "added_stars": "14 stars this month"
     },
     {
       "title": "wrf-model / WRF",
@@ -20,9 +20,9 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1783,
-      "forks": 889,
-      "added_stars": "21 stars this month"
+      "stars": 1784,
+      "forks": 890,
+      "added_stars": "23 stars this month"
     },
     {
       "title": "JuliaPackaging / Yggdrasil",
@@ -31,18 +31,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 406,
-      "forks": 776,
+      "forks": 775,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 446,
-      "forks": 486,
-      "added_stars": "5 stars this month"
     },
     {
       "title": "cp2k / cp2k",
@@ -50,9 +40,19 @@
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1224,
+      "stars": 1225,
       "forks": 515,
-      "added_stars": "18 stars this month"
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 894,
+      "forks": 697,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -60,7 +60,7 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1737,
+      "stars": 1741,
       "forks": 405,
       "added_stars": "36 stars this month"
     },
@@ -75,14 +75,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 893,
-      "forks": 697,
-      "added_stars": "18 stars this month"
+      "stars": 448,
+      "forks": 487,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "nasa / cea",
+      "url": "https://github.com/nasa/cea",
+      "description": "CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and can be used for rocket performance, detonation parameters, and shock-wave analysis.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 215,
+      "forks": 40,
+      "added_stars": "24 stars this month"
     }
   ]
 }
