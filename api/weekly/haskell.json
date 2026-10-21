@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 07:01:22 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:55:22 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,19 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46645,
-      "forks": 6982,
-      "added_stars": "87 stars this week"
+      "stars": 46662,
+      "forks": 6529,
+      "added_stars": "104 stars this week"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12488,
+      "forks": 510,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -20,9 +30,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1970,
+      "stars": 1974,
       "forks": 84,
-      "added_stars": "59 stars this week"
+      "added_stars": "53 stars this week"
     },
     {
       "title": "mtolly / onyx",
@@ -35,44 +45,14 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27725,
-      "forks": 1234,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19587,
-      "forks": 1366,
-      "added_stars": "48 stars this week"
-    },
-    {
       "title": "koalaman / shellcheck",
       "url": "https://github.com/koalaman/shellcheck",
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40200,
+      "stars": 40206,
       "forks": 1961,
       "added_stars": "46 stars this week"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12484,
-      "forks": 510,
-      "added_stars": "18 stars this week"
     }
   ]
 }

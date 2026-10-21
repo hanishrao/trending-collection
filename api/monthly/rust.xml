@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 20 Oct 2026 07:02:59 GMT</pubDate>
+  <pubDate>Wed, 21 Oct 2026 06:56:59 GMT</pubDate>
   <item>
     <title>NVIDIA / OpenShell</title>
     <link>https://github.com/NVIDIA/OpenShell</link>
@@ -31,19 +31,9 @@
     <description>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</description>
   </item>
   <item>
-    <title>cloudflare / quiche</title>
-    <link>https://github.com/cloudflare/quiche</link>
-    <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
-  </item>
-  <item>
     <title>bevyengine / bevy</title>
     <link>https://github.com/bevyengine/bevy</link>
     <description>A refreshingly simple data-driven game engine built in Rust</description>
-  </item>
-  <item>
-    <title>clash-verge-rev / clash-verge-rev</title>
-    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
-    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
   </item>
   <item>
     <title>lexmount / moli</title>
@@ -56,9 +46,19 @@
     <description>HydraDB - fast graph database on object storage</description>
   </item>
   <item>
+    <title>xerj-org / xerj</title>
+    <link>https://github.com/xerj-org/xerj</link>
+    <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+  </item>
+  <item>
     <title>microsoft / mxc</title>
     <link>https://github.com/microsoft/mxc</link>
     <description>Policy-driven, layered isolation and containment</description>
+  </item>
+  <item>
+    <title>clash-verge-rev / clash-verge-rev</title>
+    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
+    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
   </item>
   <item>
     <title>akitaonrails / ai-memory</title>
@@ -76,29 +76,9 @@
     <description>Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.</description>
   </item>
   <item>
-    <title>xerj-org / xerj</title>
-    <link>https://github.com/xerj-org/xerj</link>
-    <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
-  </item>
-  <item>
-    <title>HakanSeven12 / OpenCADStudio</title>
-    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
-  </item>
-  <item>
     <title>Pumpkin-MC / Pumpkin</title>
     <link>https://github.com/Pumpkin-MC/Pumpkin</link>
     <description>Empowering everyone to host fast and efficient Minecraft servers</description>
-  </item>
-  <item>
-    <title>xingkongliang / skills-manager</title>
-    <link>https://github.com/xingkongliang/skills-manager</link>
-    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
-  </item>
-  <item>
-    <title>pydantic / monty</title>
-    <link>https://github.com/pydantic/monty</link>
-    <description>A secure Python sandbox, written in Rust, for code written by AI.</description>
   </item>
   <item>
     <title>rust-lang / rust</title>
@@ -106,9 +86,29 @@
     <description>Empowering everyone to build reliable and efficient software.</description>
   </item>
   <item>
+    <title>xingkongliang / skills-manager</title>
+    <link>https://github.com/xingkongliang/skills-manager</link>
+    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
+  </item>
+  <item>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+  </item>
+  <item>
     <title>juspay / hyperswitch</title>
     <link>https://github.com/juspay/hyperswitch</link>
     <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
+  </item>
+  <item>
+    <title>zerx-lab / FluxDown</title>
+    <link>https://github.com/zerx-lab/FluxDown</link>
+    <description>Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。</description>
+  </item>
+  <item>
+    <title>confeden / Antigravity</title>
+    <link>https://github.com/confeden/Antigravity</link>
+    <description>Antigravity в России без VPN и смены региона аккаунта Google</description>
   </item>
 </channel>
 </rss>

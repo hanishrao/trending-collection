@@ -2,77 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 06:59:51 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:53:38 GMT",
   "items": [
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11566,
-      "forks": 819,
-      "added_stars": "666 stars today"
-    },
     {
       "title": "xerj-org / xerj",
       "url": "https://github.com/xerj-org/xerj",
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10739,
-      "forks": 652,
-      "added_stars": "671 stars today"
+      "stars": 12517,
+      "forks": 756,
+      "added_stars": "2,660 stars today"
     },
     {
-      "title": "smg-project / smg",
-      "url": "https://github.com/smg-project/smg",
-      "description": "Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 646,
-      "forks": 197,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "oven-sh / bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 96308,
-      "forks": 5153,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "leepokai / Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 637,
-      "forks": 82,
-      "added_stars": "51 stars today"
-    },
-    {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 16826,
-      "forks": 866,
-      "added_stars": "72 stars today"
-    },
-    {
-      "title": "martin-olivier / airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4516,
-      "forks": 793,
-      "added_stars": "135 stars today"
+      "stars": 11970,
+      "forks": 850,
+      "added_stars": "810 stars today"
     },
     {
       "title": "pbakaus / impeccable",
@@ -80,28 +30,108 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 83375,
-      "forks": 5043,
-      "added_stars": "422 stars today"
+      "stars": 84005,
+      "forks": 5036,
+      "added_stars": "601 stars today"
     },
     {
-      "title": "confeden / Antigravity",
-      "url": "https://github.com/confeden/Antigravity",
-      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
+      "title": "ModernRelay / omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 931,
-      "forks": 56,
+      "stars": 1544,
+      "forks": 237,
+      "added_stars": "190 stars today"
+    },
+    {
+      "title": "fabio-rovai / open-ontologies",
+      "url": "https://github.com/fabio-rovai/open-ontologies",
+      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1171,
+      "forks": 162,
+      "added_stars": "56 stars today"
+    },
+    {
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4786,
+      "forks": 461,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "Jamailar / Beav",
+      "url": "https://github.com/Jamailar/Beav",
+      "description": "小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2102,
+      "forks": 276,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "farion1231 / cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 146954,
+      "forks": 9697,
+      "added_stars": "507 stars today"
+    },
+    {
+      "title": "harry0703 / MangoDisk",
+      "url": "https://github.com/harry0703/MangoDisk",
+      "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4424,
+      "forks": 297,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "ZSeven-W / openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6312,
+      "forks": 552,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "longbridge / gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18440,
+      "forks": 1119,
+      "added_stars": "164 stars today"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9346,
+      "forks": 333,
       "added_stars": "25 stars today"
     },
     {
-      "title": "fish-shell / fish-shell",
-      "url": "https://github.com/fish-shell/fish-shell",
-      "description": "The user-friendly command line shell.",
+      "title": "agentgateway / agentgateway",
+      "url": "https://github.com/agentgateway/agentgateway",
+      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34332,
-      "forks": 2400,
+      "stars": 5442,
+      "forks": 962,
       "added_stars": "15 stars today"
     }
   ]

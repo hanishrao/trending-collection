@@ -2,17 +2,37 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 06:59:51 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:53:38 GMT",
   "items": [
+    {
+      "title": "jacktasia / dumb-jump",
+      "url": "https://github.com/jacktasia/dumb-jump",
+      "description": "an Emacs \"jump to definition\" package for 60+ languages",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1801,
+      "forks": 164,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "xenodium / agent-shell",
       "url": "https://github.com/xenodium/agent-shell",
       "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1974,
-      "forks": 272,
-      "added_stars": "7 stars today"
+      "stars": 1975,
+      "forks": 254,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "qjcg / awesome-typst",
+      "url": "https://github.com/qjcg/awesome-typst",
+      "description": "Awesome Typst Links",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3606,
+      "forks": 172,
+      "added_stars": "0 stars today"
     },
     {
       "title": "doomemacs / core",
@@ -20,9 +40,19 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22766,
+      "stars": 22770,
       "forks": 3146,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "emacs-lsp / lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5129,
+      "forks": 984,
+      "added_stars": "0 stars today"
     },
     {
       "title": "MatthewZMD / aidermacs",
@@ -30,8 +60,18 @@
       "description": "AI Pair Programming in Emacs with Aider",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 932,
-      "forks": 92,
+      "stars": 933,
+      "forks": 82,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3553,
+      "forks": 445,
       "added_stars": "0 stars today"
     },
     {
@@ -40,9 +80,9 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1012,
-      "forks": 65,
-      "added_stars": "3 stars today"
+      "stars": 1013,
+      "forks": 64,
+      "added_stars": "0 stars today"
     },
     {
       "title": "melpa / melpa",
@@ -55,44 +95,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "qjcg / awesome-typst",
-      "url": "https://github.com/qjcg/awesome-typst",
-      "description": "Awesome Typst Links",
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3606,
-      "forks": 181,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 24545,
-      "forks": 4825,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "emacs-lsp / lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5129,
-      "forks": 984,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3553,
-      "forks": 445,
-      "added_stars": "0 stars today"
+      "stars": 5232,
+      "forks": 1416,
+      "added_stars": "4 stars today"
     }
   ]
 }

@@ -2,26 +2,16 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 07:02:59 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:56:59 GMT",
   "items": [
-    {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1282,
-      "forks": 1293,
-      "added_stars": "2 stars this month"
-    },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3276,
-      "forks": 4624,
+      "stars": 3277,
+      "forks": 4623,
       "added_stars": "15 stars this month"
     },
     {
@@ -30,7 +20,7 @@
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1043,
+      "stars": 1042,
       "forks": 780,
       "added_stars": "2 stars this month"
     },
@@ -41,8 +31,28 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1279,
-      "forks": 605,
-      "added_stars": "27 stars this month"
+      "forks": 606,
+      "added_stars": "28 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1282,
+      "forks": 1292,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 903,
+      "forks": 132,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
@@ -55,23 +65,13 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 901,
-      "forks": 132,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 242,
-      "forks": 191,
+      "stars": 29,
+      "forks": 72,
       "added_stars": "1 star this month"
     },
     {
@@ -83,16 +83,6 @@
       "stars": 965,
       "forks": 591,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 29,
-      "forks": 72,
-      "added_stars": "1 star this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-service-accounts",

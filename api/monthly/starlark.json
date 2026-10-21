@@ -2,18 +2,8 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 07:02:59 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:56:59 GMT",
   "items": [
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 393,
-      "forks": 942,
-      "added_stars": "9 stars this month"
-    },
     {
       "title": "bazelbuild / rules_cc",
       "url": "https://github.com/bazelbuild/rules_cc",
@@ -21,7 +11,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 249,
-      "forks": 204,
+      "forks": 205,
       "added_stars": "2 stars this month"
     },
     {
@@ -35,26 +25,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 596,
-      "forks": 338,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 688,
-      "forks": 727,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -65,14 +35,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8788,
-      "forks": 2633,
-      "added_stars": "32 stars this month"
+      "stars": 688,
+      "forks": 728,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -81,8 +51,38 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 849,
-      "forks": 672,
+      "forks": 673,
       "added_stars": "6 stars this month"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8791,
+      "forks": 2633,
+      "added_stars": "36 stars this month"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 393,
+      "forks": 943,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 596,
+      "forks": 338,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "cncf / xds",
@@ -103,16 +103,6 @@
       "stars": 242,
       "forks": 194,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4022,
-      "forks": 307,
-      "added_stars": "45 stars this month"
     }
   ]
 }

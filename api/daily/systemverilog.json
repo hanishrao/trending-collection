@@ -2,27 +2,37 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 06:59:51 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:53:38 GMT",
   "items": [
     {
-      "title": "openhwfoundation / cvw",
-      "url": "https://github.com/openhwfoundation/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "title": "chipsalliance / caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 648,
-      "forks": 586,
+      "stars": 54,
+      "forks": 64,
       "added_stars": "0 stars today"
     },
     {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2124,
-      "forks": 824,
-      "added_stars": "2 stars today"
+      "stars": 3707,
+      "forks": 1139,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "chipsalliance / caliptra-rtl",
+      "url": "https://github.com/chipsalliance/caliptra-rtl",
+      "description": "HW Design Collateral for Caliptra RoT IP",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 158,
+      "forks": 108,
+      "added_stars": "0 stars today"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -30,9 +40,29 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 13115,
-      "forks": 1262,
-      "added_stars": "6 stars today"
+      "stars": 13118,
+      "forks": 1263,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2126,
+      "forks": 824,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 4022,
+      "forks": 943,
+      "added_stars": "2 stars today"
     }
   ]
 }

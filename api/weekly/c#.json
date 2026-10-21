@@ -2,97 +2,107 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 07:01:22 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:55:22 GMT",
   "items": [
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16849,
+      "forks": 10225,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "redis / redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 77026,
+      "forks": 24892,
+      "added_stars": "62 stars today"
+    },
+    {
+      "title": "tarwin / tinyjsapp",
+      "url": "https://github.com/tarwin/tinyjsapp",
+      "description": "Build native apps in JS. Backend, frontend. ~5Mb.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1286,
+      "forks": 45,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "eclipse-mosquitto / mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11288,
+      "forks": 2653,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "madler / zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7159,
+      "forks": 2877,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31918,
+      "forks": 8291,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "tmux / tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 49949,
+      "forks": 2979,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "php / php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 40457,
+      "forks": 8211,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 47063,
+      "forks": 3864,
+      "added_stars": "104 stars today"
+    },
     {
       "title": "openwrt / openwrt",
       "url": "https://github.com/openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28834,
-      "forks": 13188,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "libsdl-org / SDL",
-      "url": "https://github.com/libsdl-org/SDL",
-      "description": "Simple DirectMedia Layer",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16838,
-      "forks": 3087,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30991,
-      "forks": 11536,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "luka-dev / mib2q-carplay-rgi",
-      "url": "https://github.com/luka-dev/mib2q-carplay-rgi",
-      "description": "Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 360,
-      "forks": 66,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "sp00nznet / ps3recomp",
-      "url": "https://github.com/sp00nznet/ps3recomp",
-      "description": "Static recompilation runtime libraries for PlayStation 3 titles.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 522,
-      "forks": 69,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "raysan5 / raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 35332,
-      "forks": 3345,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "libarchive / libarchive",
-      "url": "https://github.com/libarchive/libarchive",
-      "description": "Multi-format archive and compression library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3645,
-      "forks": 1043,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "V4bel / dirtyfrag",
-      "url": "https://github.com/V4bel/dirtyfrag",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5097,
-      "forks": 797,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Zelda64Recomp / Zelda64Recomp",
-      "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
-      "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7481,
-      "forks": 347,
-      "added_stars": "15 stars today"
+      "stars": 28845,
+      "forks": 13200,
+      "added_stars": "17 stars today"
     }
   ]
 }

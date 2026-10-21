@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 20 Oct 2026 06:59:51 GMT",
+  "pubDate": "Wed, 21 Oct 2026 06:53:38 GMT",
   "items": [
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38532,
-      "forks": 776,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "go-gitea / gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 58581,
-      "forks": 7300,
-      "added_stars": "23 stars today"
+      "stars": 128447,
+      "forks": 47011,
+      "added_stars": "76 stars today"
     },
     {
       "title": "helm / helm",
@@ -30,109 +20,49 @@
       "description": "The Kubernetes Package Manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30346,
-      "forks": 7855,
-      "added_stars": "3 stars today"
+      "stars": 30352,
+      "forks": 7861,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "urfave / cli",
-      "url": "https://github.com/urfave/cli",
-      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24295,
-      "forks": 1951,
-      "added_stars": "1 star today"
+      "stars": 6681,
+      "forks": 1046,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "title": "mudler / LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 183901,
-      "forks": 18427,
-      "added_stars": "129 stars today"
+      "stars": 49814,
+      "forks": 4526,
+      "added_stars": "126 stars today"
     },
     {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8049,
-      "forks": 660,
-      "added_stars": "92 stars today"
+      "stars": 50372,
+      "forks": 12169,
+      "added_stars": "82 stars today"
     },
     {
-      "title": "rclone / rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "title": "go-gitea / gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60424,
-      "forks": 5551,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "Mag1cFall / AIStudio2API",
-      "url": "https://github.com/Mag1cFall/AIStudio2API",
-      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 393,
-      "forks": 111,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "etcd-io / etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 52402,
-      "forks": 10543,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "gofiber / fiber",
-      "url": "https://github.com/gofiber/fiber",
-      "description": "⚡️ Express inspired web framework written in Go",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 40224,
-      "forks": 2058,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "livekit / livekit",
-      "url": "https://github.com/livekit/livekit",
-      "description": "End-to-end realtime stack for connecting humans and AI",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21679,
-      "forks": 2485,
-      "added_stars": "69 stars today"
-    },
-    {
-      "title": "simulot / immich-go",
-      "url": "https://github.com/simulot/immich-go",
-      "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7073,
-      "forks": 275,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "danielmiessler / Fabric",
-      "url": "https://github.com/danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44377,
-      "forks": 4310,
-      "added_stars": "26 stars today"
+      "stars": 58599,
+      "forks": 7310,
+      "added_stars": "27 stars today"
     },
     {
       "title": "strelov1 / freehire",
@@ -140,19 +70,139 @@
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1545,
-      "forks": 183,
-      "added_stars": "295 stars today"
+      "stars": 1946,
+      "forks": 224,
+      "added_stars": "405 stars today"
     },
     {
-      "title": "moby / moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "title": "DataDog / datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72208,
-      "forks": 19258,
+      "stars": 3769,
+      "forks": 1515,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "samber / cc-skills-golang",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3535,
+      "forks": 237,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "hashicorp / vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36412,
+      "forks": 4796,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "kenn-io / agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6220,
+      "forks": 665,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "goharbor / harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29580,
+      "forks": 5393,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "knadh / listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23889,
+      "forks": 2709,
+      "added_stars": "36 stars today"
+    },
+    {
+      "title": "netdata / netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 81068,
+      "forks": 6699,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 139376,
+      "forks": 22251,
+      "added_stars": "63 stars today"
+    },
+    {
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24436,
+      "forks": 7972,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "gin-gonic / gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89396,
+      "forks": 8781,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "larksuite / cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17758,
+      "forks": 1357,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "istio / istio",
+      "url": "https://github.com/istio/istio",
+      "description": "Connect, secure, control, and observe services.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38461,
+      "forks": 8404,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "urfave / cli",
+      "url": "https://github.com/urfave/cli",
+      "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24296,
+      "forks": 1866,
+      "added_stars": "6 stars today"
     }
   ]
 }
