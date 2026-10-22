@@ -2,18 +2,8 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 21 Oct 2026 06:53:38 GMT",
+  "pubDate": "Thu, 22 Oct 2026 06:58:05 GMT",
   "items": [
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8791,
-      "forks": 2633,
-      "added_stars": "6 stars today"
-    },
     {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
@@ -31,8 +21,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 242,
-      "forks": 194,
+      "forks": 195,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8793,
+      "forks": 2634,
+      "added_stars": "2 stars today"
     },
     {
       "title": "cncf / xds",
@@ -45,33 +45,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 393,
-      "forks": 943,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 362,
-      "forks": 114,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4022,
-      "forks": 307,
+      "stars": 688,
+      "forks": 728,
       "added_stars": "0 stars today"
     },
     {
@@ -90,9 +70,49 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23158,
-      "forks": 1440,
-      "added_stars": "3 stars today"
+      "stars": 23165,
+      "forks": 1439,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 4024,
+      "forks": 308,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "immich-app / immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 362,
+      "forks": 114,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 394,
+      "forks": 944,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 249,
+      "forks": 206,
+      "added_stars": "0 stars today"
     }
   ]
 }

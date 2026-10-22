@@ -2,27 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 21 Oct 2026 06:56:59 GMT",
+  "pubDate": "Thu, 22 Oct 2026 07:01:31 GMT",
   "items": [
-    {
-      "title": "debpalash / VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 79355,
-      "forks": 8725,
-      "added_stars": "45,470 stars this month"
-    },
     {
       "title": "paperclipai / paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 105344,
-      "forks": 17547,
-      "added_stars": "24,372 stars this month"
+      "stars": 105820,
+      "forks": 17601,
+      "added_stars": "24,756 stars this month"
+    },
+    {
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 80823,
+      "forks": 8923,
+      "added_stars": "46,590 stars this month"
     },
     {
       "title": "vectorize-io / hindsight",
@@ -30,9 +30,9 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 52113,
-      "forks": 6192,
-      "added_stars": "28,261 stars this month"
+      "stars": 52503,
+      "forks": 6204,
+      "added_stars": "28,488 stars this month"
     },
     {
       "title": "heygen-com / hyperframes",
@@ -40,39 +40,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 68689,
-      "forks": 6211,
-      "added_stars": "16,644 stars this month"
-    },
-    {
-      "title": "anthropics / financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 40583,
-      "forks": 5666,
-      "added_stars": "5,457 stars this month"
-    },
-    {
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 34720,
-      "forks": 2187,
-      "added_stars": "15,824 stars this month"
-    },
-    {
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 31459,
-      "forks": 2213,
-      "added_stars": "7,699 stars this month"
+      "stars": 69423,
+      "forks": 6289,
+      "added_stars": "17,177 stars this month"
     },
     {
       "title": "NVIDIA / OpenShell",
@@ -80,19 +50,29 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 16842,
-      "forks": 1793,
-      "added_stars": "8,173 stars this month"
+      "stars": 17066,
+      "forks": 1815,
+      "added_stars": "8,303 stars this month"
     },
     {
-      "title": "anthropics / knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30904,
-      "forks": 3471,
-      "added_stars": "5,496 stars this month"
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 31714,
+      "forks": 2182,
+      "added_stars": "7,915 stars this month"
+    },
+    {
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 37391,
+      "forks": 2338,
+      "added_stars": "16,694 stars this month"
     },
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -100,19 +80,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 92307,
-      "forks": 10340,
-      "added_stars": "13,031 stars this month"
-    },
-    {
-      "title": "anthropics / claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 43471,
-      "forks": 4589,
-      "added_stars": "6,997 stars this month"
+      "stars": 92757,
+      "forks": 10403,
+      "added_stars": "13,471 stars this month"
     },
     {
       "title": "tashfeenahmed / freellmapi",
@@ -120,9 +90,29 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 38493,
-      "forks": 5185,
-      "added_stars": "10,683 stars this month"
+      "stars": 39114,
+      "forks": 5271,
+      "added_stars": "11,190 stars this month"
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 31230,
+      "forks": 3501,
+      "added_stars": "5,802 stars this month"
+    },
+    {
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 43714,
+      "forks": 4606,
+      "added_stars": "7,175 stars this month"
     },
     {
       "title": "cursor / plugins",
@@ -130,9 +120,19 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 13295,
-      "forks": 1311,
-      "added_stars": "5,033 stars this month"
+      "stars": 13475,
+      "forks": 1340,
+      "added_stars": "5,135 stars this month"
+    },
+    {
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 40670,
+      "forks": 5678,
+      "added_stars": "5,124 stars this month"
     },
     {
       "title": "rohitg00 / ai-engineering-from-scratch",
@@ -140,9 +140,9 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 71888,
-      "forks": 12654,
-      "added_stars": "16,986 stars this month"
+      "stars": 72182,
+      "forks": 12710,
+      "added_stars": "17,286 stars this month"
     },
     {
       "title": "affaan-m / ECC",
@@ -150,29 +150,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 285063,
-      "forks": 42290,
-      "added_stars": "22,836 stars this month"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5690,
-      "forks": 614,
-      "added_stars": "3,659 stars this month"
-    },
-    {
-      "title": "TencentCloud / Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10533,
-      "forks": 1320,
-      "added_stars": "6,143 stars this month"
+      "stars": 285919,
+      "forks": 42414,
+      "added_stars": "22,531 stars this month"
     },
     {
       "title": "earthtojake / text-to-cad",
@@ -180,39 +160,19 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 22074,
-      "forks": 2161,
-      "added_stars": "5,836 stars this month"
+      "stars": 22368,
+      "forks": 2185,
+      "added_stars": "6,081 stars this month"
     },
     {
-      "title": "HKUDS / CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "title": "TencentCloud / Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 55746,
-      "forks": 5031,
-      "added_stars": "6,135 stars this month"
-    },
-    {
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28932,
-      "forks": 7772,
-      "added_stars": "5,793 stars this month"
-    },
-    {
-      "title": "VectifyAI / PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 39403,
-      "forks": 3422,
-      "added_stars": "3,715 stars this month"
+      "stars": 10637,
+      "forks": 1356,
+      "added_stars": "6,164 stars this month"
     },
     {
       "title": "pbakaus / impeccable",
@@ -220,9 +180,29 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 84005,
-      "forks": 5036,
-      "added_stars": "14,636 stars this month"
+      "stars": 84588,
+      "forks": 5056,
+      "added_stars": "15,078 stars this month"
+    },
+    {
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 29235,
+      "forks": 7843,
+      "added_stars": "6,006 stars this month"
+    },
+    {
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 56030,
+      "forks": 5054,
+      "added_stars": "6,389 stars this month"
     }
   ]
 }

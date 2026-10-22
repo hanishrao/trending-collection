@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 21 Oct 2026 06:55:22 GMT",
+  "pubDate": "Thu, 22 Oct 2026 06:59:52 GMT",
   "items": [
     {
       "title": "chrislgarry / Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 75606,
-      "forks": 8218,
-      "added_stars": "639 stars this week"
+      "stars": 75713,
+      "forks": 8230,
+      "added_stars": "640 stars this week"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -20,9 +20,9 @@
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 454,
-      "forks": 444,
-      "added_stars": "3 stars this week"
+      "stars": 455,
+      "forks": 446,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "pret / pokeheartgold",
@@ -30,19 +30,9 @@
       "description": "Decompilation of Pokemon HeartGold/SoulSilver",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 726,
+      "stars": 730,
       "forks": 239,
       "added_stars": "111 stars this week"
-    },
-    {
-      "title": "leachim6 / hello-world",
-      "url": "https://github.com/leachim6/hello-world",
-      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 12007,
-      "forks": 2115,
-      "added_stars": "14 stars this week"
     },
     {
       "title": "apple / swift-crypto",
@@ -55,14 +45,24 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "cirosantilli / x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 5410,
+      "forks": 432,
+      "added_stars": "15 stars this week"
+    },
+    {
       "title": "pret / pokecrystal",
       "url": "https://github.com/pret/pokecrystal",
       "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2535,
+      "stars": 2536,
       "forks": 989,
-      "added_stars": "12 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "cemu-project / cemu_graphic_packs",
@@ -75,6 +75,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 4044,
+      "forks": 135,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18848,
+      "forks": 2108,
+      "added_stars": "37 stars this week"
+    },
+    {
       "title": "bitdump / BLHeli",
       "url": "https://github.com/bitdump/BLHeli",
       "description": "BLHeli for brushless ESC firmware",
@@ -85,24 +105,54 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "Cpasjuste / pemu",
-      "url": "https://github.com/Cpasjuste/pemu",
+      "title": "leachim6 / hello-world",
+      "url": "https://github.com/leachim6/hello-world",
+      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 12010,
+      "forks": 2116,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "RibShark / OmniDrive",
+      "url": "https://github.com/RibShark/OmniDrive",
       "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 526,
-      "forks": 72,
-      "added_stars": "1 star this week"
+      "stars": 1203,
+      "forks": 63,
+      "added_stars": "14 stars this week"
     },
     {
-      "title": "pret / pokered",
-      "url": "https://github.com/pret/pokered",
-      "description": "Disassembly of Pokémon Red/Blue",
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4999,
-      "forks": 1338,
+      "stars": 802,
+      "forks": 377,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 6487,
+      "forks": 496,
       "added_stars": "16 stars this week"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1191,
+      "forks": 229,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -113,26 +163,6 @@
       "stars": 1676,
       "forks": 343,
       "added_stars": "10 stars this week"
-    },
-    {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1201,
-      "forks": 63,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18847,
-      "forks": 2107,
-      "added_stars": "39 stars this week"
     }
   ]
 }

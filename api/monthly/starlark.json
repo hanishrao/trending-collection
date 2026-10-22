@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 21 Oct 2026 06:56:59 GMT",
+  "pubDate": "Thu, 22 Oct 2026 07:01:31 GMT",
   "items": [
     {
       "title": "bazelbuild / rules_cc",
@@ -11,7 +11,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 249,
-      "forks": 205,
+      "forks": 206,
       "added_stars": "2 stars this month"
     },
     {
@@ -25,6 +25,26 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 849,
+      "forks": 673,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 394,
+      "forks": 944,
+      "added_stars": "10 stars this month"
+    },
+    {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
@@ -33,6 +53,16 @@
       "stars": 404,
       "forks": 88,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8793,
+      "forks": 2634,
+      "added_stars": "37 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -45,46 +75,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 849,
-      "forks": 673,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8791,
-      "forks": 2633,
-      "added_stars": "36 stars this month"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 393,
-      "forks": 943,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 596,
-      "forks": 338,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "cncf / xds",
       "url": "https://github.com/cncf/xds",
       "description": "xDS API Working Group",
@@ -95,13 +85,23 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 596,
+      "forks": 338,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "tilt-dev / tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 242,
-      "forks": 194,
+      "forks": 195,
       "added_stars": "0 stars this month"
     }
   ]

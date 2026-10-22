@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 21 Oct 2026 06:56:59 GMT",
+  "pubDate": "Thu, 22 Oct 2026 07:01:31 GMT",
   "items": [
     {
       "title": "ddalcu / mlx-serve",
@@ -10,9 +10,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2014,
-      "forks": 209,
-      "added_stars": "593 stars this month"
+      "stars": 2023,
+      "forks": 210,
+      "added_stars": "572 stars this month"
     },
     {
       "title": "zigtools / zls",
@@ -20,9 +20,99 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5273,
+      "stars": 5279,
       "forks": 463,
-      "added_stars": "150 stars this month"
+      "added_stars": "154 stars this month"
+    },
+    {
+      "title": "ghostty-org / ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 62491,
+      "forks": 3684,
+      "added_stars": "1,224 stars this month"
+    },
+    {
+      "title": "zml / zml",
+      "url": "https://github.com/zml/zml",
+      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 4194,
+      "forks": 196,
+      "added_stars": "133 stars this month"
+    },
+    {
+      "title": "PixelGuys / Cubyz",
+      "url": "https://github.com/PixelGuys/Cubyz",
+      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3732,
+      "forks": 250,
+      "added_stars": "80 stars this month"
+    },
+    {
+      "title": "ziglang / zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 43274,
+      "forks": 3132,
+      "added_stars": "89 stars this month"
+    },
+    {
+      "title": "tigerbeetle / tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 17228,
+      "forks": 922,
+      "added_stars": "183 stars this month"
+    },
+    {
+      "title": "vercel-labs / native",
+      "url": "https://github.com/vercel-labs/native",
+      "description": "Toolkit for building native desktop apps",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 7805,
+      "forks": 328,
+      "added_stars": "126 stars this month"
+    },
+    {
+      "title": "neurosnap / zmx",
+      "url": "https://github.com/neurosnap/zmx",
+      "description": "Session attach/detach for the terminal",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2223,
+      "forks": 173,
+      "added_stars": "69 stars this month"
+    },
+    {
+      "title": "if-not-nil / revo",
+      "url": "https://github.com/if-not-nil/revo",
+      "description": "a dynamic language for the joy of programming",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 569,
+      "forks": 23,
+      "added_stars": "127 stars this month"
+    },
+    {
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 36844,
+      "forks": 1779,
+      "added_stars": "1,466 stars this month"
     },
     {
       "title": "Seafoam-Labs / Shelly-ALPM",
@@ -31,108 +121,8 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": 1207,
-      "forks": 99,
-      "added_stars": "73 stars this month"
-    },
-    {
-      "title": "zml / zml",
-      "url": "https://github.com/zml/zml",
-      "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 4191,
-      "forks": 195,
-      "added_stars": "134 stars this month"
-    },
-    {
-      "title": "PixelGuys / Cubyz",
-      "url": "https://github.com/PixelGuys/Cubyz",
-      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 3731,
-      "forks": 249,
-      "added_stars": "81 stars this month"
-    },
-    {
-      "title": "dmtrKovalenko / odiff",
-      "url": "https://github.com/dmtrKovalenko/odiff",
-      "description": "A very fast SIMD-first image comparison library (with nodejs API)",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 3278,
-      "forks": 118,
-      "added_stars": "80 stars this month"
-    },
-    {
-      "title": "tigerbeetle / tigerbeetle",
-      "url": "https://github.com/tigerbeetle/tigerbeetle",
-      "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 17225,
-      "forks": 922,
-      "added_stars": "187 stars this month"
-    },
-    {
-      "title": "ziglang / zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 43281,
-      "forks": 3139,
-      "added_stars": "90 stars this month"
-    },
-    {
-      "title": "ghostty-org / ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 62456,
-      "forks": 3676,
-      "added_stars": "1,237 stars this month"
-    },
-    {
-      "title": "if-not-nil / revo",
-      "url": "https://github.com/if-not-nil/revo",
-      "description": "a dynamic language for the joy of programming",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 566,
-      "forks": 22,
-      "added_stars": "139 stars this month"
-    },
-    {
-      "title": "vercel-labs / native",
-      "url": "https://github.com/vercel-labs/native",
-      "description": "Toolkit for building native desktop apps",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 7799,
-      "forks": 328,
-      "added_stars": "123 stars this month"
-    },
-    {
-      "title": "neurosnap / zmx",
-      "url": "https://github.com/neurosnap/zmx",
-      "description": "Session attach/detach for the terminal",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2220,
-      "forks": 172,
-      "added_stars": "66 stars this month"
-    },
-    {
-      "title": "kristoff-it / zine",
-      "url": "https://github.com/kristoff-it/zine",
-      "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1618,
-      "forks": 106,
-      "added_stars": "53 stars this month"
+      "forks": 98,
+      "added_stars": "76 stars this month"
     },
     {
       "title": "tonybanters / oxwm",
@@ -140,9 +130,19 @@
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1013,
+      "stars": 1015,
       "forks": 78,
-      "added_stars": "60 stars this month"
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "roc-lang / roc",
+      "url": "https://github.com/roc-lang/roc",
+      "description": "A fast, friendly, functional language.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 6127,
+      "forks": 426,
+      "added_stars": "78 stars this month"
     },
     {
       "title": "david-vanderson / dvui",
@@ -152,17 +152,7 @@
       "languageColor": "#ec915c",
       "stars": 1710,
       "forks": 149,
-      "added_stars": "48 stars this month"
-    },
-    {
-      "title": "riverwm / river",
-      "url": "https://github.com/riverwm/river",
-      "description": "[mirror] A non-monolithic Wayland compositor",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 4328,
-      "forks": 170,
-      "added_stars": "46 stars this month"
+      "added_stars": "50 stars this month"
     }
   ]
 }

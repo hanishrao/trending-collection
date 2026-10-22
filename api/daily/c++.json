@@ -2,67 +2,37 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 21 Oct 2026 06:53:38 GMT",
+  "pubDate": "Thu, 22 Oct 2026 06:58:05 GMT",
   "items": [
     {
-      "title": "0x23 / MicroManipulatorStepper",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "description": "A sub-micrometer 3D motion control plattform.",
+      "title": "microsoft / terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2188,
-      "forks": 284,
-      "added_stars": "52 stars today"
+      "stars": 105215,
+      "forks": 9671,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is a high-performance analytical database system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 72125,
-      "forks": 16325,
-      "added_stars": "10 stars today"
+      "stars": 42372,
+      "forks": 4014,
+      "added_stars": "45 stars today"
     },
     {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50514,
-      "forks": 9142,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "catchorg / Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21531,
-      "forks": 3446,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "geode-sdk / geode",
-      "url": "https://github.com/geode-sdk/geode",
-      "description": "The ultimate Geometry Dash modding framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3032,
-      "forks": 600,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "opencv / opencv",
-      "url": "https://github.com/opencv/opencv",
-      "description": "Open Source Computer Vision Library",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 91265,
-      "forks": 57052,
-      "added_stars": "21 stars today"
+      "stars": 131975,
+      "forks": 24662,
+      "added_stars": "114 stars today"
     },
     {
       "title": "iliasHDZ / Bismuth",
@@ -70,19 +40,89 @@
       "description": "Optimization mod for Geometry Dash",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 91,
-      "forks": 16,
-      "added_stars": "18 stars today"
+      "stars": 97,
+      "forks": 26,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "zufuliu / notepad4",
-      "url": "https://github.com/zufuliu/notepad4",
-      "description": "Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.",
+      "title": "deepseek-ai / FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5060,
-      "forks": 325,
+      "stars": 13153,
+      "forks": 1222,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "ArduPilot / ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16172,
+      "forks": 21648,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "opencv / opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 91282,
+      "forks": 57059,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "PrismLauncher / PrismLauncher",
+      "url": "https://github.com/PrismLauncher/PrismLauncher",
+      "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10834,
+      "forks": 1632,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "kvcache-ai / Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6860,
+      "forks": 1367,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50789,
+      "forks": 7511,
       "added_stars": "5 stars today"
+    },
+    {
+      "title": "ROCm / rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 539,
+      "forks": 464,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 72123,
+      "forks": 16326,
+      "added_stars": "2 stars today"
     }
   ]
 }
