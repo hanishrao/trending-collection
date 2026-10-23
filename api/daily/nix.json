@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 22 Oct 2026 06:58:05 GMT",
+  "pubDate": "Fri, 23 Oct 2026 06:50:30 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,19 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26568,
-      "forks": 20474,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "nix-darwin / nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 6022,
-      "forks": 667,
-      "added_stars": "6 stars today"
+      "stars": 26578,
+      "forks": 20490,
+      "added_stars": "17 stars today"
     },
     {
       "title": "nix-community / home-manager",
@@ -30,49 +20,49 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10452,
+      "stars": 10454,
       "forks": 2497,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "youwen5 / zen-browser-flake",
-      "url": "https://github.com/youwen5/zen-browser-flake",
-      "description": "Nix Flake for the Zen Browser, with automatic updates",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 175,
-      "forks": 33,
       "added_stars": "1 star today"
     },
     {
-      "title": "kiriwalawren / nixflix",
-      "url": "https://github.com/kiriwalawren/nixflix",
-      "description": "NixOS Media Server Configuration",
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 607,
-      "forks": 44,
-      "added_stars": "0 stars today"
+      "stars": 6027,
+      "forks": 668,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "Athena-OS / athena-nix",
-      "url": "https://github.com/Athena-OS/athena-nix",
-      "description": "Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!",
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 262,
-      "forks": 34,
-      "added_stars": "0 stars today"
+      "stars": 3343,
+      "forks": 991,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "anduril / jetpack-nixos",
-      "url": "https://github.com/anduril/jetpack-nixos",
-      "description": "NixOS module for NVIDIA Jetson devices",
+      "title": "nix-community / stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 484,
-      "forks": 152,
-      "added_stars": "1 star today"
+      "stars": 2450,
+      "forks": 375,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "xddxdd / nix-cachyos-kernel",
+      "url": "https://github.com/xddxdd/nix-cachyos-kernel",
+      "description": "CachyOS kernel for NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 764,
+      "forks": 28,
+      "added_stars": "2 stars today"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -80,9 +70,39 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2169,
-      "forks": 304,
-      "added_stars": "4 stars today"
+      "stars": 2174,
+      "forks": 305,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "nix-community / nixos-apple-silicon",
+      "url": "https://github.com/nix-community/nixos-apple-silicon",
+      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1686,
+      "forks": 173,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "supabase / postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1800,
+      "forks": 272,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "youwen5 / zen-browser-flake",
+      "url": "https://github.com/youwen5/zen-browser-flake",
+      "description": "Nix Flake for the Zen Browser, with automatic updates",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 174,
+      "forks": 33,
+      "added_stars": "0 stars today"
     }
   ]
 }

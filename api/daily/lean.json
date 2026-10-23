@@ -2,47 +2,87 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 22 Oct 2026 06:58:05 GMT",
+  "pubDate": "Fri, 23 Oct 2026 06:50:30 GMT",
   "items": [
-    {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 9626,
-      "forks": 1059,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "teorth / analysis",
-      "url": "https://github.com/teorth/analysis",
-      "description": "A Lean companion to Analysis I",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1968,
-      "forks": 276,
-      "added_stars": "1 star today"
-    },
     {
       "title": "leanprover-community / mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4336,
-      "forks": 1785,
-      "added_stars": "3 stars today"
+      "stars": 4342,
+      "forks": 1790,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "leanprover-community / import-graph",
-      "url": "https://github.com/leanprover-community/import-graph",
-      "description": "Tool to analyse the import structure of lean projects.",
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 28,
-      "forks": 17,
+      "stars": 1665,
+      "forks": 290,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 124,
+      "forks": 30,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / quote4",
+      "url": "https://github.com/leanprover-community/quote4",
+      "description": "Intuitive, type-safe expression quotations for Lean 4.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 111,
+      "forks": 28,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 9633,
+      "forks": 1058,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "leanprover-community / aesop",
+      "url": "https://github.com/leanprover-community/aesop",
+      "description": "White-box automation for Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 410,
+      "forks": 60,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover-community / plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 118,
+      "forks": 31,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 230,
+      "forks": 49,
+      "added_stars": "1 star today"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
@@ -65,53 +105,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover-community / quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
+      "title": "leanprover-community / import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 111,
-      "forks": 28,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 118,
-      "forks": 31,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 229,
-      "forks": 49,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 124,
-      "forks": 30,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 410,
-      "forks": 60,
+      "stars": 28,
+      "forks": 17,
       "added_stars": "0 stars today"
     },
     {
@@ -121,8 +121,8 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 1332,
-      "forks": 545,
-      "added_stars": "1 star today"
+      "forks": 548,
+      "added_stars": "0 stars today"
     }
   ]
 }

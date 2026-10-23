@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 22 Oct 2026 07:01:31 GMT",
+  "pubDate": "Fri, 23 Oct 2026 06:56:22 GMT",
   "items": [
     {
       "title": "semgrep / semgrep-rules",
@@ -10,9 +10,19 @@
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1279,
+      "stars": 1278,
       "forks": 607,
       "added_stars": "29 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5016,
+      "forks": 4414,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -22,17 +32,17 @@
       "languageColor": "#844FBA",
       "stars": 3277,
       "forks": 4621,
-      "added_stars": "14 stars this month"
+      "added_stars": "13 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 780,
-      "added_stars": "2 stars this month"
+      "stars": 903,
+      "forks": 133,
+      "added_stars": "32 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -42,17 +52,7 @@
       "languageColor": "#844FBA",
       "stars": 1283,
       "forks": 1292,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 903,
-      "forks": 132,
-      "added_stars": "35 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
@@ -65,16 +65,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 965,
-      "forks": 591,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-elasticache",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
       "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
@@ -85,14 +75,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 154,
-      "forks": 119,
-      "added_stars": "1 star this month"
+      "stars": 966,
+      "forks": 591,
+      "added_stars": "3 stars this month"
     }
   ]
 }

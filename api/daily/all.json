@@ -2,47 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 22 Oct 2026 06:58:05 GMT",
+  "pubDate": "Fri, 23 Oct 2026 06:50:30 GMT",
   "items": [
     {
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 37385,
-      "forks": 2337,
-      "added_stars": "2,012 stars today"
+      "title": "php / php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 41324,
+      "forks": 8330,
+      "added_stars": "287 stars today"
     },
     {
-      "title": "vllm-project / vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 95009,
-      "forks": 23775,
-      "added_stars": "441 stars today"
-    },
-    {
-      "title": "stablyai / orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 101771,
-      "forks": 6435,
-      "added_stars": "1,541 stars today"
-    },
-    {
-      "title": "headroomlabs-ai / headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 77401,
-      "forks": 6009,
-      "added_stars": "474 stars today"
+      "stars": 31777,
+      "forks": 3543,
+      "added_stars": "303 stars today"
     },
     {
       "title": "DietrichGebert / ponytail",
@@ -50,69 +30,19 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 172128,
-      "forks": 9371,
-      "added_stars": "2,079 stars today"
+      "stars": 173929,
+      "forks": 9472,
+      "added_stars": "1,948 stars today"
     },
     {
-      "title": "Comfy-Org / ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 141718,
-      "forks": 16746,
-      "added_stars": "939 stars today"
-    },
-    {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 113164,
-      "forks": 16981,
-      "added_stars": "504 stars today"
-    },
-    {
-      "title": "twentyhq / twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 59377,
-      "forks": 9674,
-      "added_stars": "112 stars today"
-    },
-    {
-      "title": "shiyu-coder / Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 42975,
-      "forks": 7086,
-      "added_stars": "575 stars today"
-    },
-    {
-      "title": "strelov1 / freehire",
-      "url": "https://github.com/strelov1/freehire",
-      "description": "freehire — the open-source search engine for job seekers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2539,
-      "forks": 254,
-      "added_stars": "360 stars today"
-    },
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12522,
-      "forks": 882,
-      "added_stars": "286 stars today"
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 40127,
+      "forks": 2504,
+      "added_stars": "2,979 stars today"
     },
     {
       "title": "Graphify-Labs / graphify",
@@ -120,9 +50,49 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 131991,
-      "forks": 12663,
-      "added_stars": "1,433 stars today"
+      "stars": 133293,
+      "forks": 12739,
+      "added_stars": "1,408 stars today"
+    },
+    {
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 113596,
+      "forks": 17018,
+      "added_stars": "693 stars today"
+    },
+    {
+      "title": "fastapi / fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 103925,
+      "forks": 10101,
+      "added_stars": "101 stars today"
+    },
+    {
+      "title": "luongnv89 / claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 43515,
+      "forks": 5410,
+      "added_stars": "177 stars today"
+    },
+    {
+      "title": "Meloong-Git / PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "languageColor": "#945db7",
+      "stars": 8792,
+      "forks": 1224,
+      "added_stars": "119 stars today"
     }
   ]
 }

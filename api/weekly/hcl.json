@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 22 Oct 2026 06:59:52 GMT",
+  "pubDate": "Fri, 23 Oct 2026 06:52:55 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -15,14 +15,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 780,
-      "added_stars": "0 stars this week"
+      "stars": 5016,
+      "forks": 4414,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -32,27 +32,7 @@
       "languageColor": "#844FBA",
       "stars": 1283,
       "forks": 1292,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 180,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 965,
-      "forks": 591,
-      "added_stars": "0 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-elasticache",
@@ -65,6 +45,26 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 966,
+      "forks": 591,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 242,
+      "forks": 191,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-network",
       "url": "https://github.com/terraform-google-modules/terraform-google-network",
       "description": "Sets up a new VPC network on Google Cloud",
@@ -75,13 +75,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 154,
-      "forks": 119,
+      "stars": 117,
+      "forks": 203,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 156,
+      "forks": 180,
       "added_stars": "0 stars this week"
     }
   ]

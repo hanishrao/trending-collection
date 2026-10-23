@@ -2,27 +2,27 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 22 Oct 2026 06:59:52 GMT",
+  "pubDate": "Fri, 23 Oct 2026 06:52:55 GMT",
   "items": [
+    {
+      "title": "php / php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 41324,
+      "forks": 8330,
+      "added_stars": "724 stars this week"
+    },
     {
       "title": "sp00nznet / ps3recomp",
       "url": "https://github.com/sp00nznet/ps3recomp",
       "description": "Static recompilation runtime libraries for PlayStation 3 titles.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 549,
-      "forks": 74,
-      "added_stars": "119 stars this week"
-    },
-    {
-      "title": "rexglue / rexglue-sdk",
-      "url": "https://github.com/rexglue/rexglue-sdk",
-      "description": "Xbox 360 Recompilation Runtime and Toolkit",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1147,
-      "forks": 220,
-      "added_stars": "82 stars this week"
+      "stars": 556,
+      "forks": 77,
+      "added_stars": "109 stars this week"
     },
     {
       "title": "sp00nznet / xboxrecomp",
@@ -30,9 +30,9 @@
       "description": "Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 280,
-      "forks": 80,
-      "added_stars": "71 stars this week"
+      "stars": 283,
+      "forks": 81,
+      "added_stars": "65 stars this week"
     },
     {
       "title": "KernelSU-Next / KernelSU-Next",
@@ -40,9 +40,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4573,
-      "forks": 1206,
-      "added_stars": "123 stars this week"
+      "stars": 4582,
+      "forks": 1210,
+      "added_stars": "116 stars this week"
     },
     {
       "title": "raysan5 / raylib",
@@ -50,19 +50,19 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 35363,
-      "forks": 3350,
-      "added_stars": "196 stars this week"
+      "stars": 35374,
+      "forks": 3353,
+      "added_stars": "193 stars this week"
     },
     {
-      "title": "FreeRTOS / FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "title": "rexglue / rexglue-sdk",
+      "url": "https://github.com/rexglue/rexglue-sdk",
+      "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4598,
-      "forks": 1633,
-      "added_stars": "35 stars this week"
+      "stars": 1154,
+      "forks": 226,
+      "added_stars": "79 stars this week"
     },
     {
       "title": "dorianborian / sesame-robot",
@@ -70,29 +70,29 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4785,
-      "forks": 647,
-      "added_stars": "114 stars this week"
+      "stars": 4798,
+      "forks": 648,
+      "added_stars": "107 stars this week"
     },
     {
-      "title": "opa334 / Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "title": "SlickAmogus / silent-hill-decomp",
+      "url": "https://github.com/SlickAmogus/silent-hill-decomp",
+      "description": "Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7014,
-      "forks": 6339,
-      "added_stars": "97 stars this week"
+      "stars": 751,
+      "forks": 57,
+      "added_stars": "71 stars this week"
     },
     {
-      "title": "Zelda64Recomp / Zelda64Recomp",
-      "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
-      "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)",
+      "title": "systemd / systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7497,
-      "forks": 349,
-      "added_stars": "88 stars this week"
+      "stars": 16894,
+      "forks": 4779,
+      "added_stars": "62 stars this week"
     },
     {
       "title": "arendst / Tasmota",
@@ -100,9 +100,29 @@
       "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24896,
+      "stars": 24901,
       "forks": 5203,
-      "added_stars": "43 stars this week"
+      "added_stars": "45 stars this week"
+    },
+    {
+      "title": "reactos / reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18328,
+      "forks": 2288,
+      "added_stars": "116 stars this week"
+    },
+    {
+      "title": "opa334 / Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7033,
+      "forks": 6340,
+      "added_stars": "100 stars this week"
     }
   ]
 }
