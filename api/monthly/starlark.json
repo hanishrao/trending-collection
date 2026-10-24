@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 23 Oct 2026 06:56:22 GMT",
+  "pubDate": "Sat, 24 Oct 2026 06:50:10 GMT",
   "items": [
     {
       "title": "bazelbuild / rules_cc",
@@ -25,14 +25,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 849,
-      "forks": 675,
-      "added_stars": "6 stars this month"
+      "stars": 688,
+      "forks": 729,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -45,34 +45,34 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8794,
-      "forks": 2635,
-      "added_stars": "37 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 688,
-      "forks": 729,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 394,
-      "forks": 949,
-      "added_stars": "10 stars this month"
+      "forks": 948,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8795,
+      "forks": 2637,
+      "added_stars": "37 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 850,
+      "forks": 675,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "cncf / xds",
@@ -85,16 +85,6 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 596,
-      "forks": 339,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "tilt-dev / tilt-extensions",
       "url": "https://github.com/tilt-dev/tilt-extensions",
       "description": "Extensions for Tilt",
@@ -103,6 +93,16 @@
       "stars": 242,
       "forks": 195,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 595,
+      "forks": 339,
+      "added_stars": "1 star this month"
     }
   ]
 }

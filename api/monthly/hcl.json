@@ -2,17 +2,37 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 23 Oct 2026 06:56:22 GMT",
+  "pubDate": "Sat, 24 Oct 2026 06:50:10 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 588,
+      "forks": 3806,
+      "added_stars": "3 stars this month"
+    },
     {
       "title": "semgrep / semgrep-rules",
       "url": "https://github.com/semgrep/semgrep-rules",
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1278,
-      "forks": 607,
-      "added_stars": "29 stars this month"
+      "stars": 1279,
+      "forks": 608,
+      "added_stars": "27 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2121,
+      "forks": 1278,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -21,8 +41,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5016,
-      "forks": 4414,
-      "added_stars": "15 stars this month"
+      "forks": 4413,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -35,24 +55,24 @@
       "added_stars": "13 stars this month"
     },
     {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 903,
-      "forks": 133,
-      "added_stars": "32 stars this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
       "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1283,
-      "forks": 1292,
+      "stars": 1282,
+      "forks": 1293,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 905,
+      "forks": 133,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
@@ -60,7 +80,7 @@
       "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 501,
+      "stars": 500,
       "forks": 1279,
       "added_stars": "0 stars this month"
     },
@@ -72,17 +92,7 @@
       "languageColor": "#844FBA",
       "stars": 29,
       "forks": 73,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 966,
-      "forks": 591,
-      "added_stars": "3 stars this month"
+      "added_stars": "0 stars this month"
     }
   ]
 }

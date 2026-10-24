@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 23 Oct 2026 06:56:22 GMT",
+  "pubDate": "Sat, 24 Oct 2026 06:50:10 GMT",
   "items": [
     {
       "title": "apache / spark",
@@ -10,9 +10,9 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 44286,
-      "forks": 29464,
-      "added_stars": "320 stars this month"
+      "stars": 44292,
+      "forks": 29471,
+      "added_stars": "313 stars this month"
     },
     {
       "title": "lichess-org / lila",
@@ -20,9 +20,9 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 18877,
-      "forks": 2786,
-      "added_stars": "152 stars this month"
+      "stars": 18881,
+      "forks": 2789,
+      "added_stars": "156 stars this month"
     },
     {
       "title": "playframework / playframework",
@@ -31,8 +31,8 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": 12620,
-      "forks": 4012,
-      "added_stars": "9 stars this month"
+      "forks": 4013,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "scalapb / ScalaPB",
@@ -41,7 +41,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": 1340,
-      "forks": 291,
+      "forks": 292,
       "added_stars": "3 stars this month"
     },
     {
@@ -50,9 +50,9 @@
       "description": "PredictionIO, a machine learning server for developers and ML engineers.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 12520,
+      "stars": 12519,
       "forks": 1892,
-      "added_stars": "10 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "apache / datafusion-comet",
@@ -60,29 +60,9 @@
       "description": "Apache DataFusion Comet Spark Accelerator",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1297,
+      "stars": 1298,
       "forks": 398,
-      "added_stars": "20 stars this month"
-    },
-    {
-      "title": "apache / openwhisk",
-      "url": "https://github.com/apache/openwhisk",
-      "description": "Apache OpenWhisk is an open source serverless cloud platform",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 6806,
-      "forks": 1178,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "NVIDIA / cudf-spark",
-      "url": "https://github.com/NVIDIA/cudf-spark",
-      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 1012,
-      "forks": 311,
-      "added_stars": "10 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "snowplow / snowplow",
@@ -90,9 +70,19 @@
       "description": "The leader in Customer Data Infrastructure",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 7044,
+      "stars": 7045,
       "forks": 1171,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "apache / openwhisk",
+      "url": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 6805,
+      "forks": 1178,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "TheHive-Project / TheHive",
@@ -105,24 +95,34 @@
       "added_stars": "7 stars this month"
     },
     {
+      "title": "NVIDIA / cudf-spark",
+      "url": "https://github.com/NVIDIA/cudf-spark",
+      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1013,
+      "forks": 311,
+      "added_stars": "10 stars this month"
+    },
+    {
       "title": "com-lihaoyi / mill",
       "url": "https://github.com/com-lihaoyi/mill",
       "description": "A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools",
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": 2796,
-      "forks": 449,
+      "forks": 450,
       "added_stars": "9 stars this month"
     },
     {
-      "title": "apache / gluten",
-      "url": "https://github.com/apache/gluten",
-      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+      "title": "softwaremill / tapir",
+      "url": "https://github.com/softwaremill/tapir",
+      "description": "Rapid development of self-documenting APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1610,
-      "forks": 665,
-      "added_stars": "13 stars this month"
+      "stars": 1475,
+      "forks": 471,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "MightyPirates / OpenComputers",
@@ -135,6 +135,16 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "apache / gluten",
+      "url": "https://github.com/apache/gluten",
+      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1611,
+      "forks": 665,
+      "added_stars": "14 stars this month"
+    },
+    {
       "title": "akka / akka-core",
       "url": "https://github.com/akka/akka-core",
       "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
@@ -142,7 +152,17 @@
       "languageColor": "#c22d40",
       "stars": 13280,
       "forks": 3530,
-      "added_stars": "11 stars this month"
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "OpenXiangShan / XiangShan",
+      "url": "https://github.com/OpenXiangShan/XiangShan",
+      "description": "Open-source high-performance RISC-V processor",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 7340,
+      "forks": 965,
+      "added_stars": "76 stars this month"
     },
     {
       "title": "sbt / sbt",
@@ -150,19 +170,9 @@
       "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 4954,
+      "stars": 4953,
       "forks": 1052,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "guardian / frontend",
-      "url": "https://github.com/guardian/frontend",
-      "description": "The Guardian DotCom.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 5897,
-      "forks": 575,
-      "added_stars": "8 stars this month"
     },
     {
       "title": "gatling / gatling",
@@ -171,48 +181,8 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": 6954,
-      "forks": 1208,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "scala / scala3",
-      "url": "https://github.com/scala/scala3",
-      "description": "The Scala 3 compiler, also known as Dotty.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 6325,
-      "forks": 1184,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "delta-io / delta",
-      "url": "https://github.com/delta-io/delta",
-      "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 9053,
-      "forks": 2202,
-      "added_stars": "48 stars this month"
-    },
-    {
-      "title": "OpenXiangShan / XiangShan",
-      "url": "https://github.com/OpenXiangShan/XiangShan",
-      "description": "Open-source high-performance RISC-V processor",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 7336,
-      "forks": 964,
-      "added_stars": "70 stars this month"
-    },
-    {
-      "title": "scalameta / metals",
-      "url": "https://github.com/scalameta/metals",
-      "description": "Scala language server with rich IDE features 🚀",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 2335,
-      "forks": 447,
-      "added_stars": "7 stars this month"
+      "forks": 1209,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "spotify / scio",
@@ -223,6 +193,46 @@
       "stars": 2631,
       "forks": 537,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "scala / scala3",
+      "url": "https://github.com/scala/scala3",
+      "description": "The Scala 3 compiler, also known as Dotty.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 6325,
+      "forks": 1184,
+      "added_stars": "25 stars this month"
+    },
+    {
+      "title": "guardian / frontend",
+      "url": "https://github.com/guardian/frontend",
+      "description": "The Guardian DotCom.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 5897,
+      "forks": 575,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "yahoo / CMAK",
+      "url": "https://github.com/yahoo/CMAK",
+      "description": "CMAK is a tool for managing Apache Kafka clusters",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 11918,
+      "forks": 2468,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "scalameta / metals",
+      "url": "https://github.com/scalameta/metals",
+      "description": "Scala language server with rich IDE features 🚀",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 2335,
+      "forks": 448,
+      "added_stars": "7 stars this month"
     }
   ]
 }
