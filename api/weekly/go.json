@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 24 Oct 2026 06:48:29 GMT",
+  "pubDate": "Sun, 25 Oct 2026 07:13:56 GMT",
   "items": [
     {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "title": "Asymptote-Labs / agent-beacon",
+      "url": "https://github.com/Asymptote-Labs/agent-beacon",
+      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 184512,
-      "forks": 18513,
-      "added_stars": "1,387 stars this week"
-    },
-    {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30282,
-      "forks": 2315,
-      "added_stars": "268 stars this week"
+      "stars": 2784,
+      "forks": 254,
+      "added_stars": "920 stars this week"
     },
     {
       "title": "mudler / LocalAI",
@@ -30,39 +20,9 @@
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 49901,
-      "forks": 4540,
-      "added_stars": "345 stars this week"
-    },
-    {
-      "title": "etcd-io / etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 52424,
-      "forks": 10551,
-      "added_stars": "92 stars this week"
-    },
-    {
-      "title": "Asymptote-Labs / agent-beacon",
-      "url": "https://github.com/Asymptote-Labs/agent-beacon",
-      "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2715,
-      "forks": 246,
-      "added_stars": "856 stars this week"
-    },
-    {
-      "title": "jasonxu114514 / opencode2api",
-      "url": "https://github.com/jasonxu114514/opencode2api",
-      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1255,
-      "forks": 222,
-      "added_stars": "386 stars this week"
+      "stars": 49939,
+      "forks": 4541,
+      "added_stars": "367 stars this week"
     },
     {
       "title": "gin-gonic / gin",
@@ -70,129 +30,19 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 89423,
-      "forks": 8769,
-      "added_stars": "98 stars this week"
+      "stars": 89427,
+      "forks": 8776,
+      "added_stars": "97 stars this week"
     },
     {
-      "title": "superplanehq / superplane",
-      "url": "https://github.com/superplanehq/superplane",
-      "description": "Open source factory for one-shot engineering",
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8184,
-      "forks": 668,
-      "added_stars": "397 stars this week"
-    },
-    {
-      "title": "helm / helm",
-      "url": "https://github.com/helm/helm",
-      "description": "The Kubernetes Package Manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30363,
-      "forks": 7858,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32199,
-      "forks": 4996,
-      "added_stars": "1,536 stars this week"
-    },
-    {
-      "title": "go-gitea / gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 58668,
-      "forks": 7305,
-      "added_stars": "156 stars this week"
-    },
-    {
-      "title": "Gentleman-Programming / engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7579,
-      "forks": 791,
-      "added_stars": "246 stars this week"
-    },
-    {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 33905,
-      "forks": 5227,
-      "added_stars": "258 stars this week"
-    },
-    {
-      "title": "PatchMon / PatchMon",
-      "url": "https://github.com/PatchMon/PatchMon",
-      "description": "Linux Patch Management & Automation Platform",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3491,
-      "forks": 197,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "hashicorp / terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 50099,
-      "forks": 10599,
-      "added_stars": "196 stars this week"
-    },
-    {
-      "title": "moby / moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 72199,
-      "forks": 19192,
-      "added_stars": "58 stars this week"
-    },
-    {
-      "title": "GoogleCloudPlatform / scion",
-      "url": "https://github.com/GoogleCloudPlatform/scion",
-      "description": "",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2022,
-      "forks": 296,
-      "added_stars": "104 stars this week"
-    },
-    {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 139506,
-      "forks": 22190,
-      "added_stars": "436 stars this week"
-    },
-    {
-      "title": "pearl-research-labs / pearl",
-      "url": "https://github.com/pearl-research-labs/pearl",
-      "description": "Monorepo for the Pearl network 🐚",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 389,
-      "forks": 94,
-      "added_stars": "27 stars this week"
+      "stars": 184682,
+      "forks": 18555,
+      "added_stars": "1,434 stars this week"
     },
     {
       "title": "ltaoo / wx_channels_download",
@@ -200,29 +50,159 @@
       "description": "微信视频号下载器",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10076,
-      "forks": 1669,
-      "added_stars": "232 stars this week"
+      "stars": 10097,
+      "forks": 1672,
+      "added_stars": "233 stars this week"
     },
     {
-      "title": "zhoushoujianwork / easyeda-agent",
-      "url": "https://github.com/zhoushoujianwork/easyeda-agent",
-      "description": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 802,
-      "forks": 100,
-      "added_stars": "113 stars this week"
+      "stars": 8207,
+      "forks": 669,
+      "added_stars": "366 stars this week"
     },
     {
-      "title": "Autumn-27 / ScopeSentry",
-      "url": "https://github.com/Autumn-27/ScopeSentry",
-      "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
+      "title": "go-gitea / gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2116,
-      "forks": 470,
-      "added_stars": "199 stars this week"
+      "stars": 58679,
+      "forks": 7308,
+      "added_stars": "169 stars this week"
+    },
+    {
+      "title": "chaitin / SafeLine",
+      "url": "https://github.com/chaitin/SafeLine",
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 22941,
+      "forks": 1571,
+      "added_stars": "176 stars this week"
+    },
+    {
+      "title": "jasonxu114514 / opencode2api",
+      "url": "https://github.com/jasonxu114514/opencode2api",
+      "description": "A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1280,
+      "forks": 223,
+      "added_stars": "294 stars this week"
+    },
+    {
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38699,
+      "forks": 796,
+      "added_stars": "223 stars this week"
+    },
+    {
+      "title": "github / github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 33934,
+      "forks": 5226,
+      "added_stars": "257 stars this week"
+    },
+    {
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32338,
+      "forks": 5015,
+      "added_stars": "1,463 stars this week"
+    },
+    {
+      "title": "kenn-io / agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6265,
+      "forks": 661,
+      "added_stars": "137 stars this week"
+    },
+    {
+      "title": "helm / helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 30367,
+      "forks": 7862,
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "eugenioenko / ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 833,
+      "forks": 95,
+      "added_stars": "211 stars this week"
+    },
+    {
+      "title": "PatchMon / PatchMon",
+      "url": "https://github.com/PatchMon/PatchMon",
+      "description": "Linux Patch Management & Automation Platform",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3505,
+      "forks": 199,
+      "added_stars": "80 stars this week"
+    },
+    {
+      "title": "moby / moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 72204,
+      "forks": 19195,
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 30311,
+      "forks": 2314,
+      "added_stars": "241 stars this week"
+    },
+    {
+      "title": "pearl-research-labs / pearl",
+      "url": "https://github.com/pearl-research-labs/pearl",
+      "description": "Monorepo for the Pearl network 🐚",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 394,
+      "forks": 94,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "slavakurilyak / awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "description": "Awesome list of 300+ agentic AI resources",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2670,
+      "forks": 697,
+      "added_stars": "193 stars this week"
     }
   ]
 }

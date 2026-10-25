@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 24 Oct 2026 06:47:02 GMT",
+  "pubDate": "Sun, 25 Oct 2026 07:12:17 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -10,9 +10,9 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2121,
+      "stars": 2123,
       "forks": 1278,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -21,7 +21,27 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5016,
-      "forks": 4413,
+      "forks": 4411,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 588,
+      "forks": 3807,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1042,
+      "forks": 782,
       "added_stars": "0 stars today"
     },
     {
@@ -35,23 +55,53 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "title": "bridgecrewio / terragoat",
+      "url": "https://github.com/bridgecrewio/terragoat",
+      "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 588,
-      "forks": 3806,
+      "stars": 1315,
+      "forks": 5934,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 117,
-      "forks": 203,
+      "stars": 965,
+      "forks": 591,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 238,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 207,
+      "forks": 609,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "LinkedInLearning / learning-terraform-3087701",
+      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
+      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 151,
+      "forks": 7370,
       "added_stars": "0 stars today"
     },
     {
@@ -70,19 +120,9 @@
       "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 500,
+      "stars": 501,
       "forks": 1279,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 238,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

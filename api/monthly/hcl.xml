@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 24 Oct 2026 06:50:10 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 07:15:37 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
@@ -14,11 +14,6 @@
     <title>semgrep / semgrep-rules</title>
     <link>https://github.com/semgrep/semgrep-rules</link>
     <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
@@ -31,14 +26,19 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
+  </item>
+  <item>
     <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
     <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
     <description>Configures opinionated GKE clusters</description>
   </item>
   <item>
-    <title>hashicorp / agent-skills</title>
-    <link>https://github.com/hashicorp/agent-skills</link>
-    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
     <title>terraform-google-modules / terraform-google-network</title>
@@ -46,9 +46,14 @@
     <description>Sets up a new VPC network on Google Cloud</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-elasticache</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
-    <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-service-accounts</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-service-accounts</link>
+    <description>Creates one or more service accounts and grants them basic roles</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 24 Oct 2026 06:48:29 GMT",
+  "pubDate": "Sun, 25 Oct 2026 07:13:56 GMT",
   "items": [
     {
       "title": "akitaonrails / ai-memory",
@@ -10,9 +10,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13111,
-      "forks": 914,
-      "added_stars": "3,449 stars this week"
+      "stars": 13337,
+      "forks": 944,
+      "added_stars": "3,541 stars this week"
     },
     {
       "title": "xerj-org / xerj",
@@ -20,59 +20,9 @@
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14279,
-      "forks": 995,
-      "added_stars": "7,783 stars this week"
-    },
-    {
-      "title": "oven-sh / bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 96368,
-      "forks": 5116,
-      "added_stars": "197 stars this week"
-    },
-    {
-      "title": "mixelpixx / Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1387,
-      "forks": 166,
-      "added_stars": "265 stars this week"
-    },
-    {
-      "title": "GCWing / OpenBitFun",
-      "url": "https://github.com/GCWing/OpenBitFun",
-      "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3139,
-      "forks": 278,
-      "added_stars": "452 stars this week"
-    },
-    {
-      "title": "leepokai / Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 769,
-      "forks": 95,
-      "added_stars": "304 stars this week"
-    },
-    {
-      "title": "trymirai / uzu",
-      "url": "https://github.com/trymirai/uzu",
-      "description": "A high-performance inference engine for AI models",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2560,
-      "forks": 146,
-      "added_stars": "192 stars this week"
+      "stars": 15377,
+      "forks": 1090,
+      "added_stars": "8,080 stars this week"
     },
     {
       "title": "pollen-robotics / microduck",
@@ -80,59 +30,79 @@
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10556,
-      "forks": 1361,
-      "added_stars": "936 stars this week"
+      "stars": 11157,
+      "forks": 1429,
+      "added_stars": "1,263 stars this week"
     },
     {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "title": "oven-sh / bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31825,
-      "forks": 1952,
-      "added_stars": "274 stars this week"
+      "stars": 96389,
+      "forks": 5123,
+      "added_stars": "207 stars this week"
     },
     {
-      "title": "ModernRelay / omnigraph",
-      "url": "https://github.com/ModernRelay/omnigraph",
-      "description": "Object-storage native graph database with branching and typed ontology",
+      "title": "ZSeven-W / openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1713,
-      "forks": 240,
-      "added_stars": "397 stars this week"
+      "stars": 6612,
+      "forks": 576,
+      "added_stars": "360 stars this week"
     },
     {
-      "title": "claration / impactor",
-      "url": "https://github.com/claration/impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "title": "mixelpixx / Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3587,
-      "forks": 254,
-      "added_stars": "93 stars this week"
+      "stars": 1402,
+      "forks": 168,
+      "added_stars": "165 stars this week"
     },
     {
-      "title": "BrandonKowalski / slot",
-      "url": "https://github.com/BrandonKowalski/slot",
-      "description": "A bespoke, Game Boy-centric CFW for the RG SP.",
+      "title": "leepokai / Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic, free, open source. The Grok Bot, Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 246,
-      "forks": 68,
-      "added_stars": "63 stars this week"
+      "stars": 800,
+      "forks": 97,
+      "added_stars": "304 stars this week"
     },
     {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3484,
-      "forks": 412,
-      "added_stars": "357 stars this week"
+      "stars": 4907,
+      "forks": 477,
+      "added_stars": "207 stars this week"
+    },
+    {
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17100,
+      "forks": 768,
+      "added_stars": "491 stars this week"
+    },
+    {
+      "title": "trymirai / uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2572,
+      "forks": 148,
+      "added_stars": "191 stars this week"
     },
     {
       "title": "oxc-project / oxc",
@@ -140,9 +110,29 @@
       "description": "⚓ A collection of high-performance JavaScript tools.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 23205,
-      "forks": 1403,
-      "added_stars": "133 stars this week"
+      "stars": 23218,
+      "forks": 1404,
+      "added_stars": "129 stars this week"
+    },
+    {
+      "title": "ModernRelay / omnigraph",
+      "url": "https://github.com/ModernRelay/omnigraph",
+      "description": "Object-storage native graph database with branching and typed ontology",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1739,
+      "forks": 243,
+      "added_stars": "426 stars this week"
+    },
+    {
+      "title": "googleworkspace / cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31862,
+      "forks": 1953,
+      "added_stars": "262 stars this week"
     },
     {
       "title": "martin-olivier / airgorah",
@@ -150,9 +140,9 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4745,
-      "forks": 796,
-      "added_stars": "531 stars this week"
+      "stars": 4766,
+      "forks": 799,
+      "added_stars": "542 stars this week"
     }
   ]
 }

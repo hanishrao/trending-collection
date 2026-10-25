@@ -4,7 +4,12 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 24 Oct 2026 06:50:10 GMT</pubDate>
+  <pubDate>Sun, 25 Oct 2026 07:15:37 GMT</pubDate>
+  <item>
+    <title>Gaurav-Gosain / tuios</title>
+    <link>https://github.com/Gaurav-Gosain/tuios</link>
+    <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.</description>
+  </item>
   <item>
     <title>caddyserver / caddy</title>
     <link>https://github.com/caddyserver/caddy</link>
@@ -16,39 +21,9 @@
     <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
   </item>
   <item>
-    <title>openbao / openbao</title>
-    <link>https://github.com/openbao/openbao</link>
-    <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
-  </item>
-  <item>
     <title>vxcontrol / pentagi</title>
     <link>https://github.com/vxcontrol/pentagi</link>
     <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-  </item>
-  <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
-  </item>
-  <item>
-    <title>Gentleman-Programming / engram</title>
-    <link>https://github.com/Gentleman-Programming/engram</link>
-    <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
-  </item>
-  <item>
-    <title>docker / docker-agent</title>
-    <link>https://github.com/docker/docker-agent</link>
-    <description>AI Agent Builder and Runtime by Docker Engineering</description>
-  </item>
-  <item>
-    <title>Gaurav-Gosain / tuios</title>
-    <link>https://github.com/Gaurav-Gosain/tuios</link>
-    <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.</description>
-  </item>
-  <item>
-    <title>urfave / cli</title>
-    <link>https://github.com/urfave/cli</link>
-    <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
   </item>
   <item>
     <title>trufflesecurity / trufflehog</title>
@@ -56,14 +31,29 @@
     <description>Find, verify, and analyze leaked credentials</description>
   </item>
   <item>
+    <title>urfave / cli</title>
+    <link>https://github.com/urfave/cli</link>
+    <description>A declarative, simple, fast, and fun package for building command line tools in Go</description>
+  </item>
+  <item>
     <title>Asymptote-Labs / agent-beacon</title>
     <link>https://github.com/Asymptote-Labs/agent-beacon</link>
     <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
   </item>
   <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+    <title>openbao / openbao</title>
+    <link>https://github.com/openbao/openbao</link>
+    <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
+  </item>
+  <item>
+    <title>oauth2-proxy / oauth2-proxy</title>
+    <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
+    <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
+  </item>
+  <item>
+    <title>Gentleman-Programming / engram</title>
+    <link>https://github.com/Gentleman-Programming/engram</link>
+    <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
   </item>
   <item>
     <title>kubernetes / kubernetes</title>
@@ -81,19 +71,19 @@
     <description>ZITADEL - Identity infrastructure, simplified for you.</description>
   </item>
   <item>
-    <title>golang / go</title>
-    <link>https://github.com/golang/go</link>
-    <description>The Go programming language</description>
-  </item>
-  <item>
-    <title>seaweedfs / seaweedfs</title>
-    <link>https://github.com/seaweedfs/seaweedfs</link>
-    <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+    <title>aquasecurity / trivy</title>
+    <link>https://github.com/aquasecurity/trivy</link>
+    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
     <title>lharries / whatsapp-mcp</title>
     <link>https://github.com/lharries/whatsapp-mcp</link>
     <description>WhatsApp MCP server</description>
+  </item>
+  <item>
+    <title>golang / go</title>
+    <link>https://github.com/golang/go</link>
+    <description>The Go programming language</description>
   </item>
   <item>
     <title>github / gh-aw</title>
@@ -106,19 +96,29 @@
     <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
   </item>
   <item>
-    <title>aquasecurity / trivy</title>
-    <link>https://github.com/aquasecurity/trivy</link>
-    <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-  </item>
-  <item>
-    <title>hashicorp / terraform</title>
-    <link>https://github.com/hashicorp/terraform</link>
-    <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
     <title>XTLS / Xray-core</title>
     <link>https://github.com/XTLS/Xray-core</link>
     <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+  </item>
+  <item>
+    <title>kedacore / keda</title>
+    <link>https://github.com/kedacore/keda</link>
+    <description>KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</description>
+  </item>
+  <item>
+    <title>seaweedfs / seaweedfs</title>
+    <link>https://github.com/seaweedfs/seaweedfs</link>
+    <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+  </item>
+  <item>
+    <title>hashicorp / terraform</title>
+    <link>https://github.com/hashicorp/terraform</link>
+    <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 24 Oct 2026 06:48:29 GMT",
+  "pubDate": "Sun, 25 Oct 2026 07:13:56 GMT",
   "items": [
     {
       "title": "zigtools / zls",
@@ -10,9 +10,9 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 5291,
-      "forks": 467,
-      "added_stars": "49 stars this week"
+      "stars": 5293,
+      "forks": 468,
+      "added_stars": "48 stars this week"
     },
     {
       "title": "vercel-labs / fx",
@@ -20,29 +20,9 @@
       "description": "Unix like coding agent",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 3588,
-      "forks": 405,
-      "added_stars": "134 stars this week"
-    },
-    {
-      "title": "Seafoam-Labs / Shelly-ALPM",
-      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1219,
-      "forks": 98,
-      "added_stars": "30 stars this week"
-    },
-    {
-      "title": "ziglang / zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 43269,
-      "forks": 3124,
-      "added_stars": "23 stars this week"
+      "stars": 3598,
+      "forks": 403,
+      "added_stars": "133 stars this week"
     },
     {
       "title": "lightpanda-io / browser",
@@ -50,9 +30,29 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 36923,
-      "forks": 1785,
-      "added_stars": "355 stars this week"
+      "stars": 36955,
+      "forks": 1788,
+      "added_stars": "341 stars this week"
+    },
+    {
+      "title": "ziglang / zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 43268,
+      "forks": 3123,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "Seafoam-Labs / Shelly-ALPM",
+      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1221,
+      "forks": 100,
+      "added_stars": "29 stars this week"
     },
     {
       "title": "ghostty-org / ghostty",
@@ -60,39 +60,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 62561,
-      "forks": 3702,
-      "added_stars": "289 stars this week"
-    },
-    {
-      "title": "dmtrKovalenko / odiff",
-      "url": "https://github.com/dmtrKovalenko/odiff",
-      "description": "A very fast SIMD-first image comparison library (with nodejs API)",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 3283,
-      "forks": 119,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "neurosnap / zmx",
-      "url": "https://github.com/neurosnap/zmx",
-      "description": "Session attach/detach for the terminal",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2228,
-      "forks": 174,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "tonybanters / oxwm",
-      "url": "https://github.com/tonybanters/oxwm",
-      "description": "",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1020,
-      "forks": 78,
-      "added_stars": "13 stars this week"
+      "stars": 62571,
+      "forks": 3710,
+      "added_stars": "283 stars this week"
     },
     {
       "title": "vercel-labs / native",
@@ -100,9 +70,39 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 7808,
+      "stars": 7809,
       "forks": 330,
-      "added_stars": "32 stars this week"
+      "added_stars": "33 stars this week"
+    },
+    {
+      "title": "lalinsky / zio",
+      "url": "https://github.com/lalinsky/zio",
+      "description": "Async I/O framework for Zig",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 684,
+      "forks": 48,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "neurosnap / zmx",
+      "url": "https://github.com/neurosnap/zmx",
+      "description": "Session attach/detach for the terminal",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2231,
+      "forks": 174,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2087,
+      "forks": 220,
+      "added_stars": "122 stars this week"
     }
   ]
 }
