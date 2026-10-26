@@ -2,27 +2,37 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 25 Oct 2026 07:12:17 GMT",
+  "pubDate": "Mon, 26 Oct 2026 07:18:51 GMT",
   "items": [
-    {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 103152,
-      "forks": 7221,
-      "added_stars": "19 stars today"
-    },
     {
       "title": "vim / vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 41163,
-      "forks": 6185,
-      "added_stars": "7 stars today"
+      "stars": 41166,
+      "forks": 6197,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35779,
+      "forks": 1928,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 103173,
+      "forks": 7237,
+      "added_stars": "23 stars today"
     },
     {
       "title": "tpope / vim-fugitive",
@@ -32,27 +42,17 @@
       "languageColor": "#199f4b",
       "stars": 21815,
       "forks": 1081,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
+      "title": "jbranchaud / til",
+      "url": "https://github.com/jbranchaud/til",
+      "description": "📝 Today I Learned",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11698,
-      "forks": 826,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35781,
-      "forks": 1928,
-      "added_stars": "3 stars today"
+      "stars": 14161,
+      "forks": 748,
+      "added_stars": "2 stars today"
     },
     {
       "title": "dense-analysis / ale",
@@ -60,9 +60,39 @@
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14023,
+      "stars": 14024,
       "forks": 1485,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 15809,
+      "forks": 1120,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "derekhe / msfs2020-map-enhancement",
+      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
+      "description": "MSFS2020 Map Enhancement",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 360,
+      "forks": 44,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "preservim / nerdtree",
+      "url": "https://github.com/preservim/nerdtree",
+      "description": "A tree explorer plugin for vim.",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 20085,
+      "forks": 1434,
+      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,17 +2,37 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 25 Oct 2026 07:12:17 GMT",
+  "pubDate": "Mon, 26 Oct 2026 07:18:51 GMT",
   "items": [
     {
-      "title": "Kong / kong",
-      "url": "https://github.com/Kong/kong",
-      "description": "🦍 The API and AI Gateway",
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 44300,
-      "forks": 5239,
-      "added_stars": "4 stars today"
+      "stars": 27725,
+      "forks": 1832,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 976,
+      "forks": 112,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "id577 / FS25_AdvancedDamageSystem",
+      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
+      "description": "Advanced Damage System mod for Farming Simulator 25",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 307,
+      "forks": 19,
+      "added_stars": "2 stars today"
     },
     {
       "title": "koreader / koreader",
@@ -20,29 +40,49 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 30588,
-      "forks": 1990,
-      "added_stars": "33 stars today"
+      "stars": 30615,
+      "forks": 1994,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "nvim-lua / kickstart.nvim",
-      "url": "https://github.com/nvim-lua/kickstart.nvim",
-      "description": "A launch point for your personal nvim configuration",
+      "title": "bryanthaboi / gen1recomp",
+      "url": "https://github.com/bryanthaboi/gen1recomp",
+      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 31620,
-      "forks": 46358,
-      "added_stars": "5 stars today"
+      "stars": 4045,
+      "forks": 357,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "nvim-telescope / telescope.nvim",
-      "url": "https://github.com/nvim-telescope/telescope.nvim",
-      "description": "Find, Filter, Preview, Pick. All lua, all the time.",
+      "title": "saghen / blink.cmp",
+      "url": "https://github.com/saghen/blink.cmp",
+      "description": "Performant, batteries-included completion plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 19833,
-      "forks": 966,
-      "added_stars": "2 stars today"
+      "stars": 6643,
+      "forks": 370,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "folke / lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 21676,
+      "forks": 597,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "miscusi-peek / cheatengine-mcp-bridge",
+      "url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
+      "description": "Connect your favorite AI agents directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1703,
+      "forks": 251,
+      "added_stars": "6 stars today"
     },
     {
       "title": "rittermod / FS25_RealisticLivestockRM",
@@ -52,27 +92,7 @@
       "languageColor": "#000080",
       "stars": 186,
       "forks": 19,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "opentibiabr / canary",
-      "url": "https://github.com/opentibiabr/canary",
-      "description": "Canary Server 15.25 for OpenTibia community.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 661,
-      "forks": 916,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6901,
-      "forks": 469,
-      "added_stars": "1 star today"
     },
     {
       "title": "LazyVim / starter",
@@ -80,99 +100,69 @@
       "description": "Starter template for LazyVim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 2025,
-      "forks": 1560,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "folke / lazy.nvim",
-      "url": "https://github.com/folke/lazy.nvim",
-      "description": "💤 A modern plugin manager for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 21673,
-      "forks": 597,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 540,
-      "forks": 552,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "overextended / ox_lib",
-      "url": "https://github.com/overextended/ox_lib",
-      "description": "A FiveM resource and script library for Lua and JS.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 421,
-      "forks": 755,
+      "stars": 2026,
+      "forks": 1559,
       "added_stars": "1 star today"
     },
     {
-      "title": "mason-org / mason-lspconfig.nvim",
-      "url": "https://github.com/mason-org/mason-lspconfig.nvim",
-      "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
+      "title": "RLS-Modding / rls_career_overhaul",
+      "url": "https://github.com/RLS-Modding/rls_career_overhaul",
+      "description": "A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam events, police interactions, the economy, deliveries, insurance, garage space, and dealerships. Dive into a more immersive and challenging career mode enriched with new features and improvements.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3952,
-      "forks": 224,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "iDvel / rime-ice",
-      "url": "https://github.com/iDvel/rime-ice",
-      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 19894,
-      "forks": 1204,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "lewis6991 / gitsigns.nvim",
-      "url": "https://github.com/lewis6991/gitsigns.nvim",
-      "description": "Git integration for buffers",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 7145,
-      "forks": 302,
+      "stars": 261,
+      "forks": 32,
       "added_stars": "1 star today"
     },
     {
-      "title": "alpinelinux / docker-alpine",
-      "url": "https://github.com/alpinelinux/docker-alpine",
-      "description": "Official Alpine Linux Docker image. Win at minimalism!",
+      "title": "obsidian-nvim / obsidian.nvim",
+      "url": "https://github.com/obsidian-nvim/obsidian.nvim",
+      "description": "Obsidian 🤝 Neovim (actively maintained version)",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 1306,
-      "forks": 309,
+      "stars": 2221,
+      "forks": 149,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Hekili / hekili",
+      "url": "https://github.com/Hekili/hekili",
+      "description": "Hekili Priority Helper for The War Within",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 489,
+      "forks": 262,
       "added_stars": "0 stars today"
     },
     {
-      "title": "FrSkyRC / ETHOS-Feedback-Community",
-      "url": "https://github.com/FrSkyRC/ETHOS-Feedback-Community",
-      "description": "Feedback & suggestions are welcomed here for ETHOS by FrSky",
+      "title": "coder / claudecode.nvim",
+      "url": "https://github.com/coder/claudecode.nvim",
+      "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 252,
-      "forks": 100,
-      "added_stars": "0 stars today"
+      "stars": 3138,
+      "forks": 221,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "folke / snacks.nvim",
-      "url": "https://github.com/folke/snacks.nvim",
-      "description": "🍿 A collection of QoL plugins for Neovim",
+      "title": "xmake-io / xmake",
+      "url": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8168,
-      "forks": 509,
-      "added_stars": "3 stars today"
+      "stars": 12274,
+      "forks": 965,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "forest0xia / dota2bot-OpenHyperAI",
+      "url": "https://github.com/forest0xia/dota2bot-OpenHyperAI",
+      "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 301,
+      "forks": 81,
+      "added_stars": "1 star today"
     }
   ]
 }

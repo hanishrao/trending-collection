@@ -2,27 +2,27 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 25 Oct 2026 07:12:17 GMT",
+  "pubDate": "Mon, 26 Oct 2026 07:18:51 GMT",
   "items": [
+    {
+      "title": "roc-lang / roc",
+      "url": "https://github.com/roc-lang/roc",
+      "description": "A fast, friendly, functional language.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 6163,
+      "forks": 427,
+      "added_stars": "11 stars today"
+    },
     {
       "title": "ddalcu / mlx-serve",
       "url": "https://github.com/ddalcu/mlx-serve",
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2087,
-      "forks": 220,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "vercel-labs / fx",
-      "url": "https://github.com/vercel-labs/fx",
-      "description": "Unix like coding agent",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 3598,
-      "forks": 403,
-      "added_stars": "12 stars today"
+      "stars": 2099,
+      "forks": 223,
+      "added_stars": "16 stars today"
     },
     {
       "title": "ghostty-org / ghostty",
@@ -30,9 +30,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 62571,
-      "forks": 3710,
-      "added_stars": "26 stars today"
+      "stars": 62599,
+      "forks": 3723,
+      "added_stars": "32 stars today"
     },
     {
       "title": "tigerbeetle / tigerbeetle",
@@ -40,8 +40,28 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 17244,
+      "stars": 17250,
       "forks": 924,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "vercel-labs / fx",
+      "url": "https://github.com/vercel-labs/fx",
+      "description": "Unix like coding agent",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3601,
+      "forks": 403,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "neurosnap / zmx",
+      "url": "https://github.com/neurosnap/zmx",
+      "description": "Session attach/detach for the terminal",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2233,
+      "forks": 174,
       "added_stars": "3 stars today"
     },
     {
@@ -50,29 +70,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 36955,
-      "forks": 1788,
-      "added_stars": "40 stars today"
-    },
-    {
-      "title": "roc-lang / roc",
-      "url": "https://github.com/roc-lang/roc",
-      "description": "A fast, friendly, functional language.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 6159,
-      "forks": 427,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "ashhart / TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "description": "LLM Inference Engine for Metal and CUDA.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1468,
-      "forks": 295,
-      "added_stars": "9 stars today"
+      "stars": 37002,
+      "forks": 1790,
+      "added_stars": "51 stars today"
     },
     {
       "title": "Seafoam-Labs / Shelly-ALPM",
@@ -80,59 +80,19 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1221,
-      "forks": 100,
-      "added_stars": "5 stars today"
+      "stars": 1228,
+      "forks": 101,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "ziglang / zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
+      "title": "ashhart / TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 43268,
-      "forks": 3123,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "zigtools / zls",
-      "url": "https://github.com/zigtools/zls",
-      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 5293,
-      "forks": 468,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "david-vanderson / dvui",
-      "url": "https://github.com/david-vanderson/dvui",
-      "description": "Immediate Zig GUI for Apps and Games",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1716,
-      "forks": 152,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "lalinsky / zio",
-      "url": "https://github.com/lalinsky/zio",
-      "description": "Async I/O framework for Zig",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 684,
-      "forks": 48,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "neurosnap / zmx",
-      "url": "https://github.com/neurosnap/zmx",
-      "description": "Session attach/detach for the terminal",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2231,
-      "forks": 174,
-      "added_stars": "3 stars today"
+      "stars": 1485,
+      "forks": 301,
+      "added_stars": "11 stars today"
     },
     {
       "title": "sleep3r / mtproto.zig",
@@ -140,29 +100,39 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2120,
+      "stars": 2136,
       "forks": 70,
-      "added_stars": "8 stars today"
+      "added_stars": "22 stars today"
     },
     {
-      "title": "if-not-nil / revo",
-      "url": "https://github.com/if-not-nil/revo",
-      "description": "a dynamic language for the joy of programming",
+      "title": "vercel-labs / native",
+      "url": "https://github.com/vercel-labs/native",
+      "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 574,
-      "forks": 24,
+      "stars": 7810,
+      "forks": 329,
       "added_stars": "2 stars today"
     },
     {
-      "title": "tonybanters / oxwm",
-      "url": "https://github.com/tonybanters/oxwm",
+      "title": "PixelGuys / Cubyz",
+      "url": "https://github.com/PixelGuys/Cubyz",
+      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 3737,
+      "forks": 249,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "antflydb / antfly",
+      "url": "https://github.com/antflydb/antfly",
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1021,
-      "forks": 79,
-      "added_stars": "1 star today"
+      "stars": 472,
+      "forks": 32,
+      "added_stars": "0 stars today"
     }
   ]
 }

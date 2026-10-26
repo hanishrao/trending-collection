@@ -2,17 +2,17 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 25 Oct 2026 07:15:37 GMT",
+  "pubDate": "Mon, 26 Oct 2026 07:21:51 GMT",
   "items": [
     {
-      "title": "php / php-src",
-      "url": "https://github.com/php/php-src",
-      "description": "The PHP Interpreter",
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 41648,
-      "forks": 8391,
-      "added_stars": "152 stars today"
+      "stars": 78235,
+      "forks": 10868,
+      "added_stars": "93 stars today"
     },
     {
       "title": "colbymchenry / codegraph",
@@ -20,59 +20,29 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 75236,
-      "forks": 4925,
-      "added_stars": "178 stars today"
+      "stars": 75360,
+      "forks": 4940,
+      "added_stars": "101 stars today"
     },
     {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
+      "title": "systemd / systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31056,
-      "forks": 11547,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 43762,
-      "forks": 4957,
-      "added_stars": "159 stars today"
-    },
-    {
-      "title": "Mbed-TLS / mbedtls",
-      "url": "https://github.com/Mbed-TLS/mbedtls",
-      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7025,
-      "forks": 2995,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "microsoft / mimalloc",
-      "url": "https://github.com/microsoft/mimalloc",
-      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13492,
-      "forks": 1203,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16896,
-      "forks": 10253,
+      "stars": 16936,
+      "forks": 4785,
       "added_stars": "13 stars today"
+    },
+    {
+      "title": "immortalwrt / immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11794,
+      "forks": 4036,
+      "added_stars": "10 stars today"
     },
     {
       "title": "semgrep / semgrep",
@@ -80,69 +50,19 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17258,
-      "forks": 1129,
-      "added_stars": "41 stars today"
+      "stars": 17276,
+      "forks": 1130,
+      "added_stars": "26 stars today"
     },
     {
-      "title": "Cisco-Talos / clamav",
-      "url": "https://github.com/Cisco-Talos/clamav",
-      "description": "ClamAV - Documentation is here: https://docs.clamav.net",
+      "title": "Cyan4973 / xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7444,
-      "forks": 944,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "xiaojieonly / Ehviewer_CN_SXJ",
-      "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
-      "description": "ehviewer，用爱发电，快乐前行",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28183,
-      "forks": 751,
-      "added_stars": "47 stars today"
-    },
-    {
-      "title": "mit-pdos / xv6-riscv",
-      "url": "https://github.com/mit-pdos/xv6-riscv",
-      "description": "Xv6 for RISC-V",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10690,
-      "forks": 4480,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "madler / zlib",
-      "url": "https://github.com/madler/zlib",
-      "description": "A massively spiffy yet delicately unobtrusive compression library.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7168,
-      "forks": 2882,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34894,
-      "forks": 8111,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28094,
-      "forks": 2652,
-      "added_stars": "4 stars today"
+      "stars": 11373,
+      "forks": 940,
+      "added_stars": "7 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 25 Oct 2026 07:15:37 GMT",
+  "pubDate": "Mon, 26 Oct 2026 07:21:51 GMT",
   "items": [
     {
       "title": "docker-library / php",
@@ -10,9 +10,9 @@
       "description": "Docker Official Image packaging for PHP",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4114,
-      "forks": 2031,
-      "added_stars": "81 stars this month"
+      "stars": 4118,
+      "forks": 2033,
+      "added_stars": "85 stars this month"
     },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
@@ -20,19 +20,19 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 23308,
-      "forks": 1170,
-      "added_stars": "509 stars this month"
+      "stars": 23333,
+      "forks": 1171,
+      "added_stars": "518 stars this month"
     },
     {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "title": "iggredible / Learn-Vim",
+      "url": "https://github.com/iggredible/Learn-Vim",
+      "description": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21408,
-      "forks": 4816,
-      "added_stars": "163 stars this month"
+      "stars": 15323,
+      "forks": 1141,
+      "added_stars": "104 stars this month"
     },
     {
       "title": "render-examples / mysql",
@@ -45,14 +45,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "iggredible / Learn-Vim",
-      "url": "https://github.com/iggredible/Learn-Vim",
-      "description": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 15314,
-      "forks": 1140,
-      "added_stars": "98 stars this month"
+      "stars": 21407,
+      "forks": 4817,
+      "added_stars": "164 stars this month"
+    },
+    {
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12680,
+      "forks": 4331,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "linuxserver / docker-swag",
@@ -65,14 +75,14 @@
       "added_stars": "26 stars this month"
     },
     {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "title": "MicrosoftDocs / windows-powershell-docs",
+      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
+      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12680,
-      "forks": 4330,
-      "added_stars": "21 stars this month"
+      "stars": 510,
+      "forks": 641,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "aws-amplify / amplify-hosting",
@@ -81,7 +91,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 480,
-      "forks": 123,
+      "forks": 124,
       "added_stars": "1 star this month"
     },
     {
@@ -91,7 +101,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 420,
-      "forks": 748,
+      "forks": 747,
       "added_stars": "8 stars this month"
     },
     {
@@ -100,19 +110,9 @@
       "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 15245,
-      "forks": 2222,
+      "stars": 15244,
+      "forks": 2223,
       "added_stars": "31 stars this month"
-    },
-    {
-      "title": "MicrosoftDocs / windows-powershell-docs",
-      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
-      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 510,
-      "forks": 641,
-      "added_stars": "6 stars this month"
     },
     {
       "title": "redhat-openshift-ecosystem / certified-operators",
@@ -125,6 +125,26 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "microsoft / mssql-docker",
+      "url": "https://github.com/microsoft/mssql-docker",
+      "description": "Official Microsoft repository for SQL Server in Docker resources",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 1895,
+      "forks": 763,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12191,
+      "forks": 3738,
+      "added_stars": "115 stars this month"
+    },
+    {
       "title": "k8s-operatorhub / community-operators",
       "url": "https://github.com/k8s-operatorhub/community-operators",
       "description": "The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.",
@@ -133,36 +153,6 @@
       "stars": 271,
       "forks": 787,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "freeCodeCamp / rdb-alpha",
-      "url": "https://github.com/freeCodeCamp/rdb-alpha",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 176,
-      "forks": 1263,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "goldbergyoni / nodebestpractices",
-      "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (July 2026)",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 105675,
-      "forks": 10720,
-      "added_stars": "180 stars this month"
-    },
-    {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12179,
-      "forks": 3738,
-      "added_stars": "111 stars this month"
     }
   ]
 }

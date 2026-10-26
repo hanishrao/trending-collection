@@ -2,28 +2,8 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 25 Oct 2026 07:13:56 GMT",
+  "pubDate": "Mon, 26 Oct 2026 07:20:20 GMT",
   "items": [
-    {
-      "title": "pret / pokeheartgold",
-      "url": "https://github.com/pret/pokeheartgold",
-      "description": "Decompilation of Pokemon HeartGold/SoulSilver",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 740,
-      "forks": 239,
-      "added_stars": "40 stars this week"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2540,
-      "forks": 994,
-      "added_stars": "9 stars this week"
-    },
     {
       "title": "ROCm / rocm-libraries",
       "url": "https://github.com/ROCm/rocm-libraries",
@@ -35,14 +15,24 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2540,
+      "forks": 994,
+      "added_stars": "8 stars this week"
+    },
+    {
       "title": "cirosantilli / x86-bare-metal-examples",
       "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
       "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 5412,
+      "stars": 5415,
       "forks": 432,
-      "added_stars": "12 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "vxunderground / MalwareSourceCode",
@@ -50,9 +40,9 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18857,
+      "stars": 18860,
       "forks": 2109,
-      "added_stars": "38 stars this week"
+      "added_stars": "36 stars this week"
     },
     {
       "title": "apple / swift-crypto",
@@ -60,9 +50,9 @@
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1736,
+      "stars": 1738,
       "forks": 237,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "leachim6 / hello-world",
@@ -72,17 +62,7 @@
       "languageColor": "#6E4C13",
       "stars": 12015,
       "forks": 2116,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "joaorb64 / smashremix-plus-extra",
-      "url": "https://github.com/joaorb64/smashremix-plus-extra",
-      "description": "Modding engine for Smash Remix",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 135,
-      "forks": 14,
-      "added_stars": "3 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
       "title": "AleFunky / geometry_dash_advance",
@@ -95,14 +75,34 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 75919,
+      "forks": 8264,
+      "added_stars": "487 stars this week"
+    },
+    {
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 853,
+      "forks": 226,
+      "added_stars": "10 stars this week"
+    },
+    {
       "title": "ebitengine / purego",
       "url": "https://github.com/ebitengine/purego",
       "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4052,
+      "stars": 4056,
       "forks": 135,
-      "added_stars": "13 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -110,19 +110,9 @@
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1681,
+      "stars": 1683,
       "forks": 343,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "cemu-project / cemu_graphic_packs",
-      "url": "https://github.com/cemu-project/cemu_graphic_packs",
-      "description": "Community Graphic Packs for Cemu",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1472,
-      "forks": 601,
-      "added_stars": "2 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "espressif / esp-dl",
@@ -130,29 +120,39 @@
       "description": "Espressif deep-learning library for AIoT applications",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1192,
-      "forks": 230,
-      "added_stars": "12 stars this week"
+      "stars": 1193,
+      "forks": 232,
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "bitdump / BLHeli",
-      "url": "https://github.com/bitdump/BLHeli",
-      "description": "BLHeli for brushless ESC firmware",
+      "title": "openhwfoundation / cva6",
+      "url": "https://github.com/openhwfoundation/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2240,
-      "forks": 1153,
-      "added_stars": "3 stars this week"
+      "stars": 3169,
+      "forks": 1044,
+      "added_stars": "6 stars this week"
     },
     {
-      "title": "chrislgarry / Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "title": "pret / pokeheartgold",
+      "url": "https://github.com/pret/pokeheartgold",
+      "description": "Decompilation of Pokemon HeartGold/SoulSilver",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 75870,
-      "forks": 8253,
-      "added_stars": "489 stars this week"
+      "stars": 742,
+      "forks": 239,
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "cemu-project / cemu_graphic_packs",
+      "url": "https://github.com/cemu-project/cemu_graphic_packs",
+      "description": "Community Graphic Packs for Cemu",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1474,
+      "forks": 602,
+      "added_stars": "4 stars this week"
     }
   ]
 }
