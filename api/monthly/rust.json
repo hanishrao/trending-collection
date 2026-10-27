@@ -2,27 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 26 Oct 2026 07:21:51 GMT",
+  "pubDate": "Tue, 27 Oct 2026 07:16:40 GMT",
   "items": [
-    {
-      "title": "NVIDIA / OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 19950,
-      "forks": 1972,
-      "added_stars": "11,062 stars this month"
-    },
     {
       "title": "pbakaus / impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 88142,
-      "forks": 5263,
-      "added_stars": "16,493 stars this month"
+      "stars": 89558,
+      "forks": 5327,
+      "added_stars": "17,522 stars this month"
+    },
+    {
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 20142,
+      "forks": 1986,
+      "added_stars": "11,321 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -30,9 +30,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18627,
-      "forks": 1151,
-      "added_stars": "3,932 stars this month"
+      "stars": 18676,
+      "forks": 1154,
+      "added_stars": "3,911 stars this month"
     },
     {
       "title": "t8y2 / dbx",
@@ -40,29 +40,9 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 27784,
-      "forks": 2491,
-      "added_stars": "7,208 stars this month"
-    },
-    {
-      "title": "bevyengine / bevy",
-      "url": "https://github.com/bevyengine/bevy",
-      "description": "A refreshingly simple data-driven game engine built in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 49277,
-      "forks": 4974,
-      "added_stars": "1,030 stars this month"
-    },
-    {
-      "title": "lexmount / moli",
-      "url": "https://github.com/lexmount/moli",
-      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 20761,
-      "forks": 556,
-      "added_stars": "18,837 stars this month"
+      "stars": 27879,
+      "forks": 2503,
+      "added_stars": "7,217 stars this month"
     },
     {
       "title": "xerj-org / xerj",
@@ -70,29 +50,19 @@
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15657,
-      "forks": 1149,
-      "added_stars": "13,668 stars this month"
+      "stars": 16926,
+      "forks": 1192,
+      "added_stars": "14,963 stars this month"
     },
     {
-      "title": "jub0t / Concat",
-      "url": "https://github.com/jub0t/Concat",
-      "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+      "title": "lexmount / moli",
+      "url": "https://github.com/lexmount/moli",
+      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11602,
-      "forks": 1423,
-      "added_stars": "7,934 stars this month"
-    },
-    {
-      "title": "trycua / cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30980,
-      "forks": 2265,
-      "added_stars": "4,767 stars this month"
+      "stars": 21001,
+      "forks": 563,
+      "added_stars": "19,052 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -100,9 +70,49 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13598,
-      "forks": 962,
-      "added_stars": "5,139 stars this month"
+      "stars": 13883,
+      "forks": 989,
+      "added_stars": "5,360 stars this month"
+    },
+    {
+      "title": "jub0t / Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11844,
+      "forks": 1455,
+      "added_stars": "8,058 stars this month"
+    },
+    {
+      "title": "bevyengine / bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 49311,
+      "forks": 4980,
+      "added_stars": "1,034 stars this month"
+    },
+    {
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31050,
+      "forks": 2275,
+      "added_stars": "4,651 stars this month"
+    },
+    {
+      "title": "pydantic / monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A secure Python sandbox, written in Rust, for code written by AI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8789,
+      "forks": 475,
+      "added_stars": "485 stars this month"
     },
     {
       "title": "microsoft / mxc",
@@ -110,19 +120,9 @@
       "description": "Policy-driven, layered isolation and containment",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2995,
-      "forks": 164,
-      "added_stars": "1,638 stars this month"
-    },
-    {
-      "title": "trymirai / uzu",
-      "url": "https://github.com/trymirai/uzu",
-      "description": "A high-performance inference engine for AI models",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2578,
-      "forks": 148,
-      "added_stars": "771 stars this month"
+      "stars": 3008,
+      "forks": 166,
+      "added_stars": "1,642 stars this month"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -130,9 +130,19 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12640,
-      "forks": 958,
-      "added_stars": "1,348 stars this month"
+      "stars": 12669,
+      "forks": 960,
+      "added_stars": "1,368 stars this month"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 127211,
+      "forks": 20069,
+      "added_stars": "3,110 stars this month"
     },
     {
       "title": "xingkongliang / skills-manager",
@@ -140,39 +150,19 @@
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6871,
-      "forks": 555,
-      "added_stars": "1,898 stars this month"
+      "stars": 6928,
+      "forks": 558,
+      "added_stars": "1,959 stars this month"
     },
     {
-      "title": "timhartmann7 / omnyssh",
-      "url": "https://github.com/timhartmann7/omnyssh",
-      "description": "Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.",
+      "title": "trymirai / uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1241,
-      "forks": 70,
-      "added_stars": "506 stars this month"
-    },
-    {
-      "title": "juspay / hyperswitch",
-      "url": "https://github.com/juspay/hyperswitch",
-      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 45410,
-      "forks": 6453,
-      "added_stars": "1,591 stars this month"
-    },
-    {
-      "title": "hydra-db / hydradb",
-      "url": "https://github.com/hydra-db/hydradb",
-      "description": "HydraDB - fast graph database on object storage",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13071,
-      "forks": 5395,
-      "added_stars": "6,752 stars this month"
+      "stars": 2589,
+      "forks": 149,
+      "added_stars": "775 stars this month"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -180,19 +170,19 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3544,
-      "forks": 417,
-      "added_stars": "1,271 stars this month"
+      "stars": 3589,
+      "forks": 423,
+      "added_stars": "1,288 stars this month"
     },
     {
-      "title": "changexbc / workbuddy-switch",
-      "url": "https://github.com/changexbc/workbuddy-switch",
-      "description": "WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。",
+      "title": "mixelpixx / Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1534,
-      "forks": 208,
-      "added_stars": "708 stars this month"
+      "stars": 1424,
+      "forks": 183,
+      "added_stars": "624 stars this month"
     },
     {
       "title": "emilk / egui",
@@ -200,9 +190,29 @@
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31762,
-      "forks": 2256,
-      "added_stars": "1,124 stars this month"
+      "stars": 31796,
+      "forks": 2264,
+      "added_stars": "1,144 stars this month"
+    },
+    {
+      "title": "confeden / Antigravity",
+      "url": "https://github.com/confeden/Antigravity",
+      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1042,
+      "forks": 62,
+      "added_stars": "422 stars this month"
+    },
+    {
+      "title": "zerx-lab / FluxDown",
+      "url": "https://github.com/zerx-lab/FluxDown",
+      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5046,
+      "forks": 295,
+      "added_stars": "1,873 stars this month"
     }
   ]
 }

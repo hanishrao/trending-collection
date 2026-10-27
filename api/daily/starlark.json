@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 26 Oct 2026 07:18:51 GMT",
+  "pubDate": "Tue, 27 Oct 2026 07:10:50 GMT",
   "items": [
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8800,
+      "forks": 2636,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "bazelbuild / bazel-central-registry",
       "url": "https://github.com/bazelbuild/bazel-central-registry",
@@ -11,28 +21,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 395,
-      "forks": 949,
+      "forks": 952,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 595,
-      "forks": 339,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8798,
-      "forks": 2636,
-      "added_stars": "3 stars today"
+      "stars": 23177,
+      "forks": 1441,
+      "added_stars": "5 stars today"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -41,28 +41,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 688,
-      "forks": 729,
+      "forks": 730,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 272,
-      "forks": 85,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4030,
-      "forks": 308,
-      "added_stars": "4 stars today"
     }
   ]
 }

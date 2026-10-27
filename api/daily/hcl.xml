@@ -4,11 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 26 Oct 2026 07:18:51 GMT</pubDate>
+  <pubDate>Tue, 27 Oct 2026 07:10:50 GMT</pubDate>
   <item>
-    <title>antonputra / tutorials</title>
-    <link>https://github.com/antonputra/tutorials</link>
-    <description>DevOps Tutorials</description>
+    <title>sidpalas / devops-directive-terraform-course</title>
+    <link>https://github.com/sidpalas/devops-directive-terraform-course</link>
+    <description>Companion repo for complete Terraform course</description>
   </item>
   <item>
     <title>chainguard-images / images</title>
@@ -16,14 +16,9 @@
     <description>Public Chainguard Images</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+    <title>iam-veeramalla / ultimate-devops-project-aws</title>
+    <link>https://github.com/iam-veeramalla/ultimate-devops-project-aws</link>
+    <description>End to End DevOps project</description>
   </item>
   <item>
     <title>semgrep / semgrep-rules</title>
@@ -31,14 +26,24 @@
     <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-s3-log-storage</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-log-storage</link>
-    <description>This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</description>
+    <title>terraform-google-modules / terraform-google-kms</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
+    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-elasticache-redis</title>
-    <link>https://github.com/cloudposse/terraform-aws-elasticache-redis</link>
-    <description>Terraform module to provision an ElastiCache Redis Cluster</description>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+  </item>
+  <item>
+    <title>LinkedInLearning / learning-terraform-3087701</title>
+    <link>https://github.com/LinkedInLearning/learning-terraform-3087701</link>
+    <description>This repo is for the Linkedin Learning course: Learning Terraform</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-memorystore</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-memorystore</link>
+    <description>Creates a fully functional Google Memorystore (redis) instance</description>
   </item>
   <item>
     <title>cloudposse / terraform-aws-ecs-container-definition</title>
@@ -46,24 +51,9 @@
     <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
-    <title>aws-ia / terraform-aws-eks-blueprints-addons</title>
-    <link>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons</link>
-    <description>Terraform module which provisions addons on Amazon EKS clusters</description>
-  </item>
-  <item>
-    <title>Azure / terraform-azurerm-naming</title>
-    <link>https://github.com/Azure/terraform-azurerm-naming</link>
-    <description></description>
-  </item>
-  <item>
-    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
-    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
-    <description>Terraform Azure Verified Resource Module for Storage Account</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-kms</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
-    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
+    <title>terraform-google-modules / terraform-google-bigquery</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-bigquery</link>
+    <description>Creates opinionated BigQuery datasets and tables</description>
   </item>
 </channel>
 </rss>
