@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 27 Oct 2026 07:16:40 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 07:52:37 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -14,6 +14,16 @@
     <title>numtide / llm-agents.nix</title>
     <link>https://github.com/numtide/llm-agents.nix</link>
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
+  </item>
+  <item>
+    <title>supabase / postgres</title>
+    <link>https://github.com/supabase/postgres</link>
+    <description>Unmodified Postgres with some useful extensions</description>
+  </item>
+  <item>
+    <title>nix-community / NixOS-WSL</title>
+    <link>https://github.com/nix-community/NixOS-WSL</link>
+    <description>NixOS on WSL [maintainer=@nzbr]</description>
   </item>
   <item>
     <title>NixOS / nix.dev</title>
@@ -29,21 +39,6 @@
     <title>nix-community / home-manager</title>
     <link>https://github.com/nix-community/home-manager</link>
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
-  </item>
-  <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
-  </item>
-  <item>
-    <title>nix-community / stylix</title>
-    <link>https://github.com/nix-community/stylix</link>
-    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
-  </item>
-  <item>
-    <title>cloud-gouv / securix</title>
-    <link>https://github.com/cloud-gouv/securix</link>
-    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
 </channel>
 </rss>

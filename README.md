@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3480-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3481-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-10-27
-_Top 3 per language · [view full day →](./2026/2026-10-27.md)_
+## 🔥 Today's Trending — 2026-10-28
+_Top 3 per language · [view full day →](./2026/2026-10-28.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🐍 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 🐍 | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🐍 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🦀 | The design language that makes your AI harness better at design. |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🐍 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [superdesigndev/treg](https://github.com/superdesigndev/treg) | 🐍 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🐍 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🦀 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | 🦀 | A Tiny biped duck robot 🦆 |
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 🦀 | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🦀 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⚡ | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 🐹 | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) |
-| [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) | 🐹 | Awesome list of 300+ agentic AI resources |
+| [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | ⚡ | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | ⚡ | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 🐹 | OpenTelemetry Collector |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🐹 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 🍎 | bluetooth mesh chat, IRC vibes |
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 🍎 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
+| [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🐹 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account. |
 | [pauljoda/Crest](https://github.com/pauljoda/Crest) | 🍎 | An open source browser for Mac, iPhone, and iPad. |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 🔷 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
-| [makecindy/cindy](https://github.com/makecindy/cindy) | 🔷 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
+| [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) | 🍎 | Apple TV Aerial Screensaver for Mac |
 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 🔷 | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | 🔷 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 🔷 | 📨 The ultimate agentic social media scheduling tool 🤖 |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-10-27.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-10-28](./2026/2026-10-28.md) | [DeepTutor](https://github.com/HKUDS/DeepTutor) | [impeccable](https://github.com/pbakaus/impeccable) | [ECC](https://github.com/affaan-m/ECC) | [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | [Crest](https://github.com/pauljoda/Crest) | [openbot](https://github.com/nightly-labs/openbot) |
 | [2026-10-27](./2026/2026-10-27.md) | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | [impeccable](https://github.com/pbakaus/impeccable) | [ECC](https://github.com/affaan-m/ECC) | [3x-ui](https://github.com/MHSanaei/3x-ui) | [bitchat](https://github.com/permissionlesstech/bitchat) | [thinkrail](https://github.com/JetBrains/thinkrail) |
 | [2026-10-26](./2026/2026-10-26.md) | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | [impeccable](https://github.com/pbakaus/impeccable) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [tuios](https://github.com/Gaurav-Gosain/tuios) | [bitchat](https://github.com/permissionlesstech/bitchat) | [cindy](https://github.com/makecindy/cindy) |
 | [2026-10-25](./2026/2026-10-25.md) | [agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | [OpenShell](https://github.com/NVIDIA/OpenShell) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [gh-aw](https://github.com/github/gh-aw) | [Crest](https://github.com/pauljoda/Crest) | [gemini-cli](https://github.com/google-gemini/gemini-cli) |
 | [2026-10-24](./2026/2026-10-24.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [OpenShell](https://github.com/NVIDIA/OpenShell) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [prometheus](https://github.com/prometheus/prometheus) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) |
 | [2026-10-23](./2026/2026-10-23.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | [ponytail](https://github.com/DietrichGebert/ponytail) | [Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | [UTM](https://github.com/utmapp/UTM) | [supabase](https://github.com/supabase/supabase) |
 | [2026-10-22](./2026/2026-10-22.md) | [vllm](https://github.com/vllm-project/vllm) | [ai-memory](https://github.com/akitaonrails/ai-memory) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [freehire](https://github.com/strelov1/freehire) | [swift-nio](https://github.com/apple/swift-nio) | [orca](https://github.com/stablyai/orca) |
-| [2026-10-21](./2026/2026-10-21.md) | [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | [xerj](https://github.com/xerj-org/xerj) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [kubernetes](https://github.com/kubernetes/kubernetes) | [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | [orca](https://github.com/stablyai/orca) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) | 🐍 | 2026-10-28 | AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more) |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 🐍 | 2026-10-28 | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve) | 🦀 | 2026-10-28 | Fast and lightweight DB Client made in Rust and GPUI. |
+| [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) | ⚡ | 2026-10-28 | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli |
+| [QCYTSN/dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) | ⚡ | 2026-10-28 | Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows. |
+| [video-db/call.md](https://github.com/video-db/call.md) | 🔷 | 2026-10-28 | Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls. |
+| [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) | 🔷 | 2026-10-28 | 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流 |
+| [Raktim94/nodedr-restaurant-pos](https://github.com/Raktim94/nodedr-restaurant-pos) | 🔷 | 2026-10-28 | Self-hosted restaurant POS with tables, kitchen display, reservations, QR ordering, loyalty and local-network operation. |
 | [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 🐍 | 2026-10-27 | Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents. |
 | [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills) | 🐍 | 2026-10-27 |  |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 🐍 | 2026-10-27 | The Unofficial and Awesome Home Assistant MCP Server |
-| [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) | 🐍 | 2026-10-27 | HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure. |
-| [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) | 🍎 | 2026-10-27 | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7) |
-| [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | 🔷 | 2026-10-27 | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio. |
-| [ed0ard/CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) | 🔷 | 2026-10-27 | CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers. |
-| [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) | 🔷 | 2026-10-27 | Pi extension for async subagent delegation with truncation, artifacts, and session sharing |
-| [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) | 🦀 | 2026-10-26 | 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop! |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 🔷 | 2026-10-26 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
 
 ---
 

@@ -2,17 +2,37 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 27 Oct 2026 07:10:50 GMT",
+  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
   "items": [
+    {
+      "title": "ROCm / rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 457,
+      "forks": 452,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "pret / pokediamond",
+      "url": "https://github.com/pret/pokediamond",
+      "description": "Decompilation of Pokémon Diamond/Pearl",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 545,
+      "forks": 104,
+      "added_stars": "1 star today"
+    },
     {
       "title": "pret / pokeheartgold",
       "url": "https://github.com/pret/pokeheartgold",
       "description": "Decompilation of Pokemon HeartGold/SoulSilver",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 744,
+      "stars": 745,
       "forks": 239,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "z88dk / z88dk",
@@ -20,9 +40,9 @@
       "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1151,
+      "stars": 1152,
       "forks": 212,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "kanaka / mal",
@@ -30,48 +50,8 @@
       "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 10750,
+      "stars": 10749,
       "forks": 2714,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1683,
-      "forks": 342,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6494,
-      "forks": 500,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "chrislgarry / Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 75965,
-      "forks": 8270,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "apache / arrow-go",
-      "url": "https://github.com/apache/arrow-go",
-      "description": "Official Go implementation of Apache Arrow",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 415,
-      "forks": 163,
       "added_stars": "0 stars today"
     },
     {
@@ -82,26 +62,6 @@
       "languageColor": "#6E4C13",
       "stars": 1738,
       "forks": 238,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 803,
-      "forks": 378,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 853,
-      "forks": 229,
       "added_stars": "0 stars today"
     },
     {
@@ -110,9 +70,49 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18867,
+      "stars": 18869,
       "forks": 2110,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 853,
+      "forks": 231,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 4067,
+      "forks": 135,
       "added_stars": "5 stars today"
+    },
+    {
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 76016,
+      "forks": 8276,
+      "added_stars": "47 stars today"
+    },
+    {
+      "title": "boostorg / context",
+      "url": "https://github.com/boostorg/context",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 371,
+      "forks": 186,
+      "added_stars": "0 stars today"
     },
     {
       "title": "pret / pokered",
@@ -120,29 +120,39 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 5015,
-      "forks": 1342,
-      "added_stars": "4 stars today"
+      "stars": 5014,
+      "forks": 1341,
+      "added_stars": "1 star today"
     },
     {
-      "title": "ROCm / rocm-libraries",
-      "url": "https://github.com/ROCm/rocm-libraries",
-      "description": "super repo for rocm libraries",
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 456,
-      "forks": 448,
+      "stars": 1198,
+      "forks": 232,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "apache / arrow-go",
+      "url": "https://github.com/apache/arrow-go",
+      "description": "Official Go implementation of Apache Arrow",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 415,
+      "forks": 164,
       "added_stars": "0 stars today"
     },
     {
-      "title": "hiteshchoudhary / open-source-contribution",
-      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
-      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "title": "openhwfoundation / cva6",
+      "url": "https://github.com/openhwfoundation/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 547,
-      "forks": 1737,
-      "added_stars": "0 stars today"
+      "stars": 3174,
+      "forks": 1043,
+      "added_stars": "2 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 27 Oct 2026 07:14:14 GMT",
+  "pubDate": "Wed, 28 Oct 2026 07:51:07 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -10,9 +10,9 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3277,
-      "forks": 4620,
-      "added_stars": "1 star this week"
+      "stars": 3278,
+      "forks": 4619,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -20,9 +20,9 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5016,
+      "stars": 5015,
       "forks": 4410,
-      "added_stars": "3 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -45,6 +45,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4707,
+      "forks": 3116,
+      "added_stars": "8 stars this week"
+    },
+    {
       "title": "mysql / mysql-community",
       "url": "https://github.com/mysql/mysql-community",
       "description": "To be used by the community team to host wiki pages",
@@ -53,6 +63,16 @@
       "stars": 38,
       "forks": 5,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 207,
+      "forks": 609,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
@@ -65,24 +85,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "title": "terraform-google-modules / terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 966,
-      "forks": 591,
-      "added_stars": "1 star this week"
+      "stars": 502,
+      "forks": 1280,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1285,
-      "forks": 1293,
-      "added_stars": "3 stars this week"
+      "stars": 242,
+      "forks": 191,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eventbridge",
@@ -91,17 +111,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 156,
-      "forks": 180,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 207,
-      "forks": 609,
+      "forks": 181,
       "added_stars": "0 stars this week"
     }
   ]

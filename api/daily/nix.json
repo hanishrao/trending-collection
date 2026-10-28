@@ -2,77 +2,57 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 27 Oct 2026 07:10:50 GMT",
+  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
   "items": [
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2190,
-      "forks": 311,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "nix-darwin / nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 6032,
-      "forks": 669,
-      "added_stars": "1 star today"
-    },
     {
       "title": "NixOS / nixpkgs",
       "url": "https://github.com/NixOS/nixpkgs",
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26629,
-      "forks": 20528,
+      "stars": 26643,
+      "forks": 20536,
       "added_stars": "17 stars today"
     },
     {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "title": "nix-community / disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10467,
-      "forks": 2503,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "finix-community / finix",
-      "url": "https://github.com/finix-community/finix",
-      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 594,
-      "forks": 44,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3346,
-      "forks": 993,
+      "stars": 3400,
+      "forks": 337,
       "added_stars": "2 stars today"
     },
     {
-      "title": "nix-community / impermanence",
-      "url": "https://github.com/nix-community/impermanence",
-      "description": "Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]",
+      "title": "youwen5 / zen-browser-flake",
+      "url": "https://github.com/youwen5/zen-browser-flake",
+      "description": "Nix Flake for the Zen Browser, with automatic updates",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1917,
-      "forks": 140,
+      "stars": 174,
+      "forks": 34,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2192,
+      "forks": 312,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "nix-community / NixOS-WSL",
+      "url": "https://github.com/nix-community/NixOS-WSL",
+      "description": "NixOS on WSL [maintainer=@nzbr]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3148,
+      "forks": 166,
+      "added_stars": "2 stars today"
     }
   ]
 }

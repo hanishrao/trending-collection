@@ -2,16 +2,26 @@
   "title": "GitHub Nextflow Languages Daily Trending",
   "description": "Daily Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 27 Oct 2026 07:10:50 GMT",
+  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
   "items": [
     {
-      "title": "nf-core / scdownstream",
-      "url": "https://github.com/nf-core/scdownstream",
-      "description": "A single cell transcriptomics pipeline for QC, integration and making the data presentable",
+      "title": "nf-core / rnaseq",
+      "url": "https://github.com/nf-core/rnaseq",
+      "description": "RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",
       "language": "Nextflow",
       "languageColor": "#3ac486",
-      "stars": 118,
-      "forks": 69,
+      "stars": 1401,
+      "forks": 909,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nf-core / modules",
+      "url": "https://github.com/nf-core/modules",
+      "description": "Repository to host tool-specific module files for the Nextflow DSL2 community!",
+      "language": "Nextflow",
+      "languageColor": "#3ac486",
+      "stars": 434,
+      "forks": 1130,
       "added_stars": "0 stars today"
     }
   ]

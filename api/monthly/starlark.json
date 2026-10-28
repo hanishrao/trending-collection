@@ -2,27 +2,37 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 27 Oct 2026 07:16:40 GMT",
+  "pubDate": "Wed, 28 Oct 2026 07:52:37 GMT",
   "items": [
-    {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 249,
-      "forks": 207,
-      "added_stars": "2 stars this month"
-    },
     {
       "title": "bazelbuild / rules_rust",
       "url": "https://github.com/bazelbuild/rules_rust",
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 852,
-      "forks": 679,
+      "stars": 853,
+      "forks": 680,
       "added_stars": "9 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 250,
+      "forks": 206,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 689,
+      "forks": 730,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "bazel-contrib / rules_perl",
@@ -35,24 +45,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 688,
-      "forks": 730,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 405,
+      "stars": 406,
       "forks": 88,
-      "added_stars": "2 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "bazelbuild / rules_apple",
@@ -61,7 +61,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 595,
-      "forks": 340,
+      "forks": 342,
       "added_stars": "1 star this month"
     },
     {
@@ -70,19 +70,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8800,
-      "forks": 2636,
-      "added_stars": "42 stars this month"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 395,
-      "forks": 952,
-      "added_stars": "10 stars this month"
+      "stars": 8806,
+      "forks": 2635,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -90,9 +80,19 @@
       "description": "Extensions for Tilt",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 242,
+      "stars": 243,
       "forks": 195,
-      "added_stars": "0 stars this month"
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 397,
+      "forks": 953,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "cncf / xds",
@@ -103,6 +103,16 @@
       "stars": 272,
       "forks": 85,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "google / fully-homomorphic-encryption",
+      "url": "https://github.com/google/fully-homomorphic-encryption",
+      "description": "Homomorphic Encryption demos",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3784,
+      "forks": 280,
+      "added_stars": "21 stars this month"
     }
   ]
 }

@@ -2,37 +2,57 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 27 Oct 2026 07:10:50 GMT",
+  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
   "items": [
     {
-      "title": "sidpalas / devops-directive-terraform-course",
-      "url": "https://github.com/sidpalas/devops-directive-terraform-course",
-      "description": "Companion repo for complete Terraform course",
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1493,
-      "forks": 2462,
+      "stars": 2124,
+      "forks": 1276,
       "added_stars": "0 stars today"
     },
     {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 697,
-      "forks": 175,
+      "stars": 5015,
+      "forks": 4410,
       "added_stars": "0 stars today"
     },
     {
-      "title": "iam-veeramalla / ultimate-devops-project-aws",
-      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
-      "description": "End to End DevOps project",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 985,
-      "forks": 2531,
+      "stars": 1042,
+      "forks": 782,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 588,
+      "forks": 3806,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3278,
+      "forks": 4619,
+      "added_stars": "1 star today"
     },
     {
       "title": "semgrep / semgrep-rules",
@@ -42,46 +62,6 @@
       "languageColor": "#844FBA",
       "stars": 1283,
       "forks": 610,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 63,
-      "forks": 112,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 910,
-      "forks": 134,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "LinkedInLearning / learning-terraform-3087701",
-      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
-      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 151,
-      "forks": 7373,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-memorystore",
-      "url": "https://github.com/terraform-google-modules/terraform-google-memorystore",
-      "description": "Creates a fully functional Google Memorystore (redis) instance",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 54,
-      "forks": 126,
       "added_stars": "0 stars today"
     },
     {
@@ -95,14 +75,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-bigquery",
-      "url": "https://github.com/terraform-google-modules/terraform-google-bigquery",
-      "description": "Creates opinionated BigQuery datasets and tables",
+      "title": "RaJiska / terraform-aws-fck-nat",
+      "url": "https://github.com/RaJiska/terraform-aws-fck-nat",
+      "description": "Terraform module for fck-nat",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 241,
-      "forks": 209,
+      "stars": 174,
+      "forks": 82,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 697,
+      "forks": 175,
+      "added_stars": "1 star today"
     }
   ]
 }
