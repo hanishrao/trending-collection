@@ -2,107 +2,167 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
+  "pubDate": "Thu, 29 Oct 2026 07:55:30 GMT",
   "items": [
+    {
+      "title": "meta / rocksdb",
+      "url": "https://github.com/meta/rocksdb",
+      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 32234,
+      "forks": 6992,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "microsoft / BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41274,
+      "forks": 3844,
+      "added_stars": "18 stars today"
+    },
     {
       "title": "harry7557558 / spirula-studio",
       "url": "https://github.com/harry7557558/spirula-studio",
       "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1974,
-      "forks": 184,
-      "added_stars": "43 stars today"
+      "stars": 2005,
+      "forks": 186,
+      "added_stars": "38 stars today"
     },
     {
-      "title": "bitcoin / bitcoin",
-      "url": "https://github.com/bitcoin/bitcoin",
-      "description": "Bitcoin Core integration/staging tree",
+      "title": "wazuh / wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 90523,
-      "forks": 39409,
-      "added_stars": "20 stars today"
+      "stars": 17482,
+      "forks": 2569,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "react / react-native",
-      "url": "https://github.com/react/react-native",
-      "description": "A framework for building native applications using React",
+      "title": "oceanbase / seekdb",
+      "url": "https://github.com/oceanbase/seekdb",
+      "description": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to run, and more stable.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 126807,
-      "forks": 25412,
-      "added_stars": "18 stars today"
+      "stars": 3203,
+      "forks": 1060,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "isl-org / Open3D",
-      "url": "https://github.com/isl-org/Open3D",
-      "description": "Open3D: A Modern Library for 3D Data Processing",
+      "title": "kvcache-ai / Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14133,
-      "forks": 2646,
+      "stars": 6913,
+      "forks": 1396,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "SpriteOvO / AirPodsDesktop",
+      "url": "https://github.com/SpriteOvO/AirPodsDesktop",
+      "description": "☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3797,
+      "forks": 225,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "wolfpld / tracy",
+      "url": "https://github.com/wolfpld/tracy",
+      "description": "Frame profiler",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 17043,
+      "forks": 1228,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 39677,
+      "forks": 10925,
       "added_stars": "5 stars today"
     },
     {
-      "title": "ossrs / srs",
-      "url": "https://github.com/ossrs/srs",
-      "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 29385,
-      "forks": 5704,
+      "stars": 72139,
+      "forks": 16336,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "tesseract-ocr / tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 77227,
+      "forks": 10870,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "0xShug0 / audio.cpp",
+      "url": "https://github.com/0xShug0/audio.cpp",
+      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 3839,
+      "forks": 466,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "google / perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6715,
+      "forks": 921,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "RxNaison / Epson-Waste-Reset",
+      "url": "https://github.com/RxNaison/Epson-Waste-Reset",
+      "description": "A free, native, and completely open-source utility to reset the \"Waste Ink Pad\" counter on Epson printers",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 430,
+      "forks": 77,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 201291,
+      "forks": 78736,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "colmap / colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 13094,
+      "forks": 2205,
       "added_stars": "6 stars today"
-    },
-    {
-      "title": "geo-tp / ESP32-Bit-Pirate",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6258,
-      "forks": 541,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "apache / arrow",
-      "url": "https://github.com/apache/arrow",
-      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17240,
-      "forks": 4404,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "argotorg / solidity",
-      "url": "https://github.com/argotorg/solidity",
-      "description": "Solidity, the Smart Contract Programming Language",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 25762,
-      "forks": 6178,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "openvinotoolkit / openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11080,
-      "forks": 3495,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "MariaDB / server",
-      "url": "https://github.com/MariaDB/server",
-      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8463,
-      "forks": 2202,
-      "added_stars": "10 stars today"
     }
   ]
 }

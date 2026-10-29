@@ -2,8 +2,18 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 28 Oct 2026 07:51:07 GMT",
+  "pubDate": "Thu, 29 Oct 2026 07:57:07 GMT",
   "items": [
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1283,
+      "forks": 612,
+      "added_stars": "5 stars this week"
+    },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
@@ -12,7 +22,7 @@
       "languageColor": "#844FBA",
       "stars": 3278,
       "forks": 4619,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -21,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5015,
-      "forks": 4410,
+      "forks": 4411,
       "added_stars": "1 star this week"
     },
     {
@@ -51,18 +61,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 4707,
-      "forks": 3116,
+      "forks": 3117,
       "added_stars": "8 stars this week"
-    },
-    {
-      "title": "mysql / mysql-community",
-      "url": "https://github.com/mysql/mysql-community",
-      "description": "To be used by the community team to host wiki pages",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 38,
-      "forks": 5,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-cloud-storage",
@@ -75,13 +75,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 117,
-      "forks": 203,
+      "stars": 156,
+      "forks": 180,
       "added_stars": "0 stars this week"
     },
     {
@@ -95,24 +95,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 242,
-      "forks": 191,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 181,
-      "added_stars": "0 stars this week"
+      "stars": 1285,
+      "forks": 1294,
+      "added_stars": "4 stars this week"
     }
   ]
 }

@@ -2,18 +2,8 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
+  "pubDate": "Thu, 29 Oct 2026 07:55:30 GMT",
   "items": [
-    {
-      "title": "YuzukiHD / Buildroot-YuzukiSBC",
-      "url": "https://github.com/YuzukiHD/Buildroot-YuzukiSBC",
-      "description": "Buildroot Package Mainly for YuzukiHD Devices. Support Allwinner F1C100s/200s V3s V3x D1-H D1s T113 H616 BSP and Mainline",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 184,
-      "forks": 79,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "open-telemetry / opentelemetry-proto",
       "url": "https://github.com/open-telemetry/opentelemetry-proto",
@@ -25,34 +15,44 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "cncf / people",
-      "url": "https://github.com/cncf/people",
-      "description": "Stores the data that will populate the various people listings on cncf.io",
+      "title": "openwrt / packages",
+      "url": "https://github.com/openwrt/packages",
+      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 186,
-      "forks": 733,
+      "stars": 4659,
+      "forks": 4013,
       "added_stars": "1 star today"
     },
     {
-      "title": "mindsdb / mindshub",
-      "url": "https://github.com/mindsdb/mindshub",
-      "description": "The unified workspace where open-source models get things done for you.",
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 39830,
-      "forks": 6234,
-      "added_stars": "2 stars today"
+      "stars": 56715,
+      "forks": 5419,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "NetBSD / pkgsrc",
-      "url": "https://github.com/NetBSD/pkgsrc",
-      "description": "Automatic conversion of the NetBSD pkgsrc CVS module, use with care",
+      "title": "dbt-labs / dbt-utils",
+      "url": "https://github.com/dbt-labs/dbt-utils",
+      "description": "Utility functions for dbt projects.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 405,
-      "forks": 197,
-      "added_stars": "0 stars today"
+      "stars": 1831,
+      "forks": 641,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1197,
+      "forks": 1457,
+      "added_stars": "3 stars today"
     },
     {
       "title": "geneontology / go-ontology",
@@ -65,54 +65,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "dbt-labs / dbt-utils",
-      "url": "https://github.com/dbt-labs/dbt-utils",
-      "description": "Utility functions for dbt projects.",
+      "title": "mindsdb / mindshub",
+      "url": "https://github.com/mindsdb/mindshub",
+      "description": "The unified workspace where open-source models get things done for you.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1830,
-      "forks": 641,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "deepseek-ai / DeepSeek-LLM",
-      "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
-      "description": "DeepSeek LLM: Let there be answers",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7254,
-      "forks": 1219,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 56715,
-      "forks": 5419,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "freebsd / freebsd-ports",
-      "url": "https://github.com/freebsd/freebsd-ports",
-      "description": "FreeBSD ports tree (read-only mirror)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1221,
-      "forks": 889,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-specification",
-      "url": "https://github.com/open-telemetry/opentelemetry-specification",
-      "description": "Specifications for OpenTelemetry",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4375,
-      "forks": 1009,
-      "added_stars": "0 stars today"
+      "stars": 39828,
+      "forks": 6233,
+      "added_stars": "6 stars today"
     },
     {
       "title": "uber-go / guide",
@@ -120,7 +80,7 @@
       "description": "The Uber Go Style Guide.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 17755,
+      "stars": 17756,
       "forks": 1810,
       "added_stars": "1 star today"
     },
@@ -132,47 +92,57 @@
       "languageColor": "#427819",
       "stars": 2040,
       "forks": 504,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "spdx / license-list-XML",
-      "url": "https://github.com/spdx/license-list-XML",
-      "description": "Source XML and test text files for the SPDX License List",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 504,
-      "forks": 406,
       "added_stars": "0 stars today"
     },
     {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "title": "open-telemetry / opentelemetry-specification",
+      "url": "https://github.com/open-telemetry/opentelemetry-specification",
+      "description": "Specifications for OpenTelemetry",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1195,
-      "forks": 1455,
+      "stars": 4376,
+      "forks": 1009,
       "added_stars": "2 stars today"
     },
     {
-      "title": "adriannovegil / awesome-observability",
-      "url": "https://github.com/adriannovegil/awesome-observability",
-      "description": "Awesome observability page",
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 723,
-      "forks": 219,
-      "added_stars": "0 stars today"
+      "stars": 3252,
+      "forks": 148,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "openwrt / packages",
-      "url": "https://github.com/openwrt/packages",
-      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
+      "title": "liberationfonts / liberation-fonts",
+      "url": "https://github.com/liberationfonts/liberation-fonts",
+      "description": "The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4660,
-      "forks": 4013,
-      "added_stars": "9 stars today"
+      "stars": 596,
+      "forks": 32,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "shaaravraghu / ClipWallet",
+      "url": "https://github.com/shaaravraghu/ClipWallet",
+      "description": "Clipboard for devs, by devs! Your clipboard just got an upgrade; shortcuts now directly accessible on your keyboard! No more worries on losing your last copy!",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 138,
+      "forks": 19,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "mozilla / addons",
+      "url": "https://github.com/mozilla/addons",
+      "description": "☂ Umbrella repository for Mozilla Addons ✨",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 134,
+      "forks": 52,
+      "added_stars": "0 stars today"
     }
   ]
 }

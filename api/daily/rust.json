@@ -2,27 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
+  "pubDate": "Thu, 29 Oct 2026 07:55:30 GMT",
   "items": [
+    {
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5580,
+      "forks": 527,
+      "added_stars": "117 stars today"
+    },
     {
       "title": "pbakaus / impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 91056,
-      "forks": 5393,
-      "added_stars": "1,449 stars today"
-    },
-    {
-      "title": "pollen-robotics / microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12822,
-      "forks": 1586,
-      "added_stars": "599 stars today"
+      "stars": 93615,
+      "forks": 5527,
+      "added_stars": "1,472 stars today"
     },
     {
       "title": "ruvnet / RuView",
@@ -30,59 +30,49 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 100448,
-      "forks": 13119,
-      "added_stars": "415 stars today"
+      "stars": 101322,
+      "forks": 13177,
+      "added_stars": "557 stars today"
     },
     {
-      "title": "fabio-rovai / open-ontologies",
-      "url": "https://github.com/fabio-rovai/open-ontologies",
-      "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1837,
-      "forks": 227,
-      "added_stars": "343 stars today"
+      "stars": 131488,
+      "forks": 20771,
+      "added_stars": "284 stars today"
     },
     {
-      "title": "ShayanAbbas1 / dbdelve",
-      "url": "https://github.com/ShayanAbbas1/dbdelve",
-      "description": "Fast and lightweight DB Client made in Rust and GPUI.",
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 589,
-      "forks": 35,
-      "added_stars": "25 stars today"
+      "stars": 28135,
+      "forks": 2552,
+      "added_stars": "108 stars today"
     },
     {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "title": "trymirai / uzu",
+      "url": "https://github.com/trymirai/uzu",
+      "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 127349,
-      "forks": 20082,
-      "added_stars": "137 stars today"
+      "stars": 3010,
+      "forks": 184,
+      "added_stars": "260 stars today"
     },
     {
-      "title": "zeronsh / zeron",
-      "url": "https://github.com/zeronsh/zeron",
-      "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3410,
-      "forks": 351,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "agentgateway / agentgateway",
-      "url": "https://github.com/agentgateway/agentgateway",
-      "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5695,
-      "forks": 1006,
-      "added_stars": "24 stars today"
+      "stars": 24517,
+      "forks": 872,
+      "added_stars": "161 stars today"
     },
     {
       "title": "xai-org / x-algorithm",
@@ -90,9 +80,49 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 33848,
-      "forks": 5472,
-      "added_stars": "40 stars today"
+      "stars": 33887,
+      "forks": 5479,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "cocoindex-io / cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11781,
+      "forks": 923,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 44802,
+      "forks": 3068,
+      "added_stars": "71 stars today"
+    },
+    {
+      "title": "stalwartlabs / stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15480,
+      "forks": 1029,
+      "added_stars": "61 stars today"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 92368,
+      "forks": 11264,
+      "added_stars": "65 stars today"
     }
   ]
 }

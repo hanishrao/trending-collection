@@ -2,18 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
+  "pubDate": "Thu, 29 Oct 2026 07:55:30 GMT",
   "items": [
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2124,
-      "forks": 1276,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
@@ -21,7 +11,27 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5015,
-      "forks": 4410,
+      "forks": 4411,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2124,
+      "forks": 1275,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3278,
+      "forks": 4619,
       "added_stars": "0 stars today"
     },
     {
@@ -45,26 +55,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3278,
-      "forks": 4619,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1283,
-      "forks": 610,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "cloudposse / terraform-aws-ecs-container-definition",
       "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
       "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
@@ -75,13 +65,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "RaJiska / terraform-aws-fck-nat",
-      "url": "https://github.com/RaJiska/terraform-aws-fck-nat",
-      "description": "Terraform module for fck-nat",
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 174,
-      "forks": 82,
+      "stars": 156,
+      "forks": 180,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-cloud-storage",
+      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
+      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 207,
+      "forks": 609,
       "added_stars": "0 stars today"
     },
     {
@@ -92,7 +92,7 @@
       "languageColor": "#844FBA",
       "stars": 697,
       "forks": 175,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     }
   ]
 }

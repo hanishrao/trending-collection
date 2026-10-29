@@ -2,47 +2,57 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
+  "pubDate": "Thu, 29 Oct 2026 07:55:30 GMT",
   "items": [
     {
-      "title": "pauljoda / Crest",
-      "url": "https://github.com/pauljoda/Crest",
-      "description": "An open source browser for Mac, iPhone, and iPad.",
+      "title": "robinebers / openusage",
+      "url": "https://github.com/robinebers/openusage",
+      "description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 930,
-      "forks": 82,
-      "added_stars": "54 stars today"
+      "stars": 4475,
+      "forks": 517,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "jaywcjlove / awesome-mac",
-      "url": "https://github.com/jaywcjlove/awesome-mac",
-      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "title": "milika / SmartTubeIOS",
+      "url": "https://github.com/milika/SmartTubeIOS",
+      "description": "Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 117217,
-      "forks": 9778,
-      "added_stars": "93 stars today"
+      "stars": 520,
+      "forks": 78,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "JohnCoates / Aerial",
-      "url": "https://github.com/JohnCoates/Aerial",
-      "description": "Apple TV Aerial Screensaver for Mac",
+      "title": "altic-dev / FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 21135,
-      "forks": 1043,
-      "added_stars": "18 stars today"
+      "stars": 12587,
+      "forks": 916,
+      "added_stars": "51 stars today"
     },
     {
-      "title": "zachlatta / freeflow",
-      "url": "https://github.com/zachlatta/freeflow",
-      "description": "Free & fast alternative to Wispr Flow",
+      "title": "ggml-org / Llama-macOS",
+      "url": "https://github.com/ggml-org/Llama-macOS",
+      "description": "A cosy home for your LLMs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2994,
-      "forks": 307,
-      "added_stars": "10 stars today"
+      "stars": 1702,
+      "forks": 138,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "pointfreeco / swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 14997,
+      "forks": 1683,
+      "added_stars": "5 stars today"
     },
     {
       "title": "Ebullioscopic / Atoll",
@@ -50,29 +60,19 @@
       "description": "Dynamic Island for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5080,
+      "stars": 5091,
       "forks": 355,
-      "added_stars": "18 stars today"
+      "added_stars": "9 stars today"
     },
     {
-      "title": "swiftlang / swift-syntax",
-      "url": "https://github.com/swiftlang/swift-syntax",
-      "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+      "title": "jithin-sabu / purge-app",
+      "url": "https://github.com/jithin-sabu/purge-app",
+      "description": "Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 3714,
-      "forks": 565,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "swiftlang / swift",
-      "url": "https://github.com/swiftlang/swift",
-      "description": "The Swift Programming Language",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 70521,
-      "forks": 10872,
-      "added_stars": "3 stars today"
+      "stars": 1458,
+      "forks": 78,
+      "added_stars": "27 stars today"
     },
     {
       "title": "manaflow-ai / cmux",
@@ -80,69 +80,59 @@
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 28565,
-      "forks": 2594,
-      "added_stars": "31 stars today"
+      "stars": 28590,
+      "forks": 2601,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "github / CopilotForXcode",
-      "url": "https://github.com/github/CopilotForXcode",
-      "description": "AI coding assistant for Xcode",
+      "title": "carloslfu / slotstream",
+      "url": "https://github.com/carloslfu/slotstream",
+      "description": "Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6357,
-      "forks": 2074,
-      "added_stars": "1 star today"
+      "stars": 609,
+      "forks": 50,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "permissionlesstech / bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
+      "title": "cmagnussen / blitztext-app",
+      "url": "https://github.com/cmagnussen/blitztext-app",
+      "description": "Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 36952,
-      "forks": 5877,
-      "added_stars": "53 stars today"
+      "stars": 246,
+      "forks": 99,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "apple / swift-collections",
-      "url": "https://github.com/apple/swift-collections",
-      "description": "Commonly used data structures for Swift",
+      "title": "mattt / iMCP",
+      "url": "https://github.com/mattt/iMCP",
+      "description": "A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4527,
-      "forks": 426,
-      "added_stars": "0 stars today"
+      "stars": 1904,
+      "forks": 131,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "getsentry / sentry-cocoa",
-      "url": "https://github.com/getsentry/sentry-cocoa",
-      "description": "The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.",
+      "title": "slopus / happy",
+      "url": "https://github.com/slopus/happy",
+      "description": "Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1135,
-      "forks": 432,
-      "added_stars": "1 star today"
+      "stars": 24390,
+      "forks": 2096,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "TelegramMessenger / Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
+      "title": "nikitabobko / AeroSpace",
+      "url": "https://github.com/nikitabobko/AeroSpace",
+      "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9361,
-      "forks": 3145,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "ronitsingh10 / FineTune",
-      "url": "https://github.com/ronitsingh10/FineTune",
-      "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 9908,
-      "forks": 387,
-      "added_stars": "12 stars today"
+      "stars": 23674,
+      "forks": 783,
+      "added_stars": "16 stars today"
     }
   ]
 }

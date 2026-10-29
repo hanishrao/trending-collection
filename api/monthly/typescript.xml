@@ -4,21 +4,21 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 28 Oct 2026 07:52:37 GMT</pubDate>
+  <pubDate>Thu, 29 Oct 2026 07:58:45 GMT</pubDate>
   <item>
     <title>heygen-com / hyperframes</title>
     <link>https://github.com/heygen-com/hyperframes</link>
     <description>Write HTML. Render video. Built for agents.</description>
   </item>
   <item>
-    <title>mksglu / context-mode</title>
-    <link>https://github.com/mksglu/context-mode</link>
-    <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
-  </item>
-  <item>
     <title>cursor / plugins</title>
     <link>https://github.com/cursor/plugins</link>
     <description>Cursor plugin specification and official plugins</description>
+  </item>
+  <item>
+    <title>mksglu / context-mode</title>
+    <link>https://github.com/mksglu/context-mode</link>
+    <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
   </item>
   <item>
     <title>thedotmack / claude-mem</title>
@@ -36,14 +36,19 @@
     <description>7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
   </item>
   <item>
-    <title>paperclipai / paperclip</title>
-    <link>https://github.com/paperclipai/paperclip</link>
-    <description>The open-source app everyone uses to manage agents at work</description>
-  </item>
-  <item>
     <title>supabase / supabase</title>
     <link>https://github.com/supabase/supabase</link>
     <description>The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
+  </item>
+  <item>
+    <title>anthropics / sandbox-runtime</title>
+    <link>https://github.com/anthropics/sandbox-runtime</link>
+    <description>A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.</description>
+  </item>
+  <item>
+    <title>paperclipai / paperclip</title>
+    <link>https://github.com/paperclipai/paperclip</link>
+    <description>The open-source app everyone uses to manage agents at work</description>
   </item>
   <item>
     <title>vercel-labs / skills</title>
@@ -56,11 +61,6 @@
     <description>🎥 Make videos programmatically with React</description>
   </item>
   <item>
-    <title>stablyai / orca</title>
-    <link>https://github.com/stablyai/orca</link>
-    <description>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
-  </item>
-  <item>
     <title>ruvnet / ruflo</title>
     <link>https://github.com/ruvnet/ruflo</link>
     <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
@@ -71,29 +71,9 @@
     <description>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</description>
   </item>
   <item>
-    <title>Effect-TS / effect</title>
-    <link>https://github.com/Effect-TS/effect</link>
-    <description>Build production-ready applications in TypeScript</description>
-  </item>
-  <item>
-    <title>Vincentwei1021 / video-shotcraft</title>
-    <link>https://github.com/Vincentwei1021/video-shotcraft</link>
-    <description>AI video skill for Claude Code &amp; Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench &amp; JianYing (CapCut CN) export.</description>
-  </item>
-  <item>
-    <title>google-gemini / gemini-cli</title>
-    <link>https://github.com/google-gemini/gemini-cli</link>
-    <description>An open-source AI agent that brings the power of Gemini directly into your terminal.</description>
-  </item>
-  <item>
-    <title>mvschwarz / openrig</title>
-    <link>https://github.com/mvschwarz/openrig</link>
-    <description>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</description>
-  </item>
-  <item>
-    <title>Renhuai123 / ziwei-doushu</title>
-    <link>https://github.com/Renhuai123/ziwei-doushu</link>
-    <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
+    <title>stablyai / orca</title>
+    <link>https://github.com/stablyai/orca</link>
+    <description>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
   </item>
   <item>
     <title>gitroomhq / postiz-app</title>
@@ -101,9 +81,19 @@
     <description>📨 The ultimate agentic social media scheduling tool 🤖</description>
   </item>
   <item>
-    <title>elie222 / rakazo</title>
-    <link>https://github.com/elie222/rakazo</link>
-    <description>Open-source Grok Bot alternative. Choose your own model and sandbox.</description>
+    <title>Effect-TS / effect</title>
+    <link>https://github.com/Effect-TS/effect</link>
+    <description>Build production-ready applications in TypeScript</description>
+  </item>
+  <item>
+    <title>pablostanley / yoinks</title>
+    <link>https://github.com/pablostanley/yoinks</link>
+    <description>yoink any video from your terminal. no shady ads.</description>
+  </item>
+  <item>
+    <title>Renhuai123 / ziwei-doushu</title>
+    <link>https://github.com/Renhuai123/ziwei-doushu</link>
+    <description>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</description>
   </item>
   <item>
     <title>ranxianglei / billion-context</title>
@@ -111,14 +101,14 @@
     <description>A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</description>
   </item>
   <item>
-    <title>anomalyco / opencode</title>
-    <link>https://github.com/anomalyco/opencode</link>
-    <description>The open source coding agent.</description>
+    <title>mvschwarz / openrig</title>
+    <link>https://github.com/mvschwarz/openrig</link>
+    <description>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</description>
   </item>
   <item>
-    <title>thesysdev / openui</title>
-    <link>https://github.com/thesysdev/openui</link>
-    <description>The Open Standard for Generative UI</description>
+    <title>michael-denyer / pstack-claude</title>
+    <link>https://github.com/michael-denyer/pstack-claude</link>
+    <description>Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto&#x27;s pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.</description>
   </item>
 </channel>
 </rss>
