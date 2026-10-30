@@ -4,16 +4,11 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 29 Oct 2026 07:57:07 GMT</pubDate>
+  <pubDate>Fri, 30 Oct 2026 08:01:39 GMT</pubDate>
   <item>
     <title>AgriciDaniel / claude-seo</title>
     <link>https://github.com/AgriciDaniel/claude-seo</link>
     <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
-  </item>
-  <item>
-    <title>anthropics / knowledge-work-plugins</title>
-    <link>https://github.com/anthropics/knowledge-work-plugins</link>
-    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
   </item>
   <item>
     <title>TauricResearch / TradingAgents</title>
@@ -21,14 +16,9 @@
     <description>TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
   </item>
   <item>
-    <title>Graphify-Labs / graphify</title>
-    <link>https://github.com/Graphify-Labs/graphify</link>
-    <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
-  </item>
-  <item>
-    <title>debpalash / VoiceStudio</title>
-    <link>https://github.com/debpalash/VoiceStudio</link>
-    <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
+    <title>anthropics / knowledge-work-plugins</title>
+    <link>https://github.com/anthropics/knowledge-work-plugins</link>
+    <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
   </item>
   <item>
     <title>vllm-project / vllm</title>
@@ -36,9 +26,19 @@
     <description>A high-throughput and memory-efficient inference and serving engine for LLMs</description>
   </item>
   <item>
+    <title>debpalash / VoiceStudio</title>
+    <link>https://github.com/debpalash/VoiceStudio</link>
+    <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
+  </item>
+  <item>
     <title>higgsfield-ai / skills</title>
     <link>https://github.com/higgsfield-ai/skills</link>
     <description></description>
+  </item>
+  <item>
+    <title>Graphify-Labs / graphify</title>
+    <link>https://github.com/Graphify-Labs/graphify</link>
+    <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
   </item>
   <item>
     <title>aws / agent-toolkit-for-aws</title>
@@ -46,19 +46,14 @@
     <description>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS</description>
   </item>
   <item>
-    <title>mvanhorn / last30days-skill</title>
-    <link>https://github.com/mvanhorn/last30days-skill</link>
-    <description>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
+    <title>sgl-project / sglang</title>
+    <link>https://github.com/sgl-project/sglang</link>
+    <description>SGLang is a high-performance serving framework for large language models and multimodal models.</description>
   </item>
   <item>
-    <title>fastapi / fastapi</title>
-    <link>https://github.com/fastapi/fastapi</link>
-    <description>FastAPI framework, high performance, easy to learn, fast to code, ready for production</description>
-  </item>
-  <item>
-    <title>luongnv89 / claude-howto</title>
-    <link>https://github.com/luongnv89/claude-howto</link>
-    <description>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</description>
+    <title>NVIDIA / SkillSpector</title>
+    <link>https://github.com/NVIDIA/SkillSpector</link>
+    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
   </item>
   <item>
     <title>HKUDS / DeepTutor</title>
@@ -71,9 +66,19 @@
     <description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
   </item>
   <item>
-    <title>NVIDIA / SkillSpector</title>
-    <link>https://github.com/NVIDIA/SkillSpector</link>
-    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
+    <title>luongnv89 / claude-howto</title>
+    <link>https://github.com/luongnv89/claude-howto</link>
+    <description>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</description>
+  </item>
+  <item>
+    <title>mvanhorn / last30days-skill</title>
+    <link>https://github.com/mvanhorn/last30days-skill</link>
+    <description>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
+  </item>
+  <item>
+    <title>blader / humanizer</title>
+    <link>https://github.com/blader/humanizer</link>
+    <description>Agent skill that removes signs of AI-generated writing from text</description>
   </item>
 </channel>
 </rss>

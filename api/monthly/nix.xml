@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 29 Oct 2026 07:58:45 GMT</pubDate>
+  <pubDate>Fri, 30 Oct 2026 08:05:03 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -21,24 +21,9 @@
     <description>Unmodified Postgres with some useful extensions</description>
   </item>
   <item>
-    <title>cloud-gouv / securix</title>
-    <link>https://github.com/cloud-gouv/securix</link>
-    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
-  </item>
-  <item>
-    <title>nix-community / NixOS-WSL</title>
-    <link>https://github.com/nix-community/NixOS-WSL</link>
-    <description>NixOS on WSL [maintainer=@nzbr]</description>
-  </item>
-  <item>
-    <title>NixOS / nixos-hardware</title>
-    <link>https://github.com/NixOS/nixos-hardware</link>
-    <description>A collection of NixOS modules covering hardware quirks.</description>
-  </item>
-  <item>
-    <title>NixOS / nix.dev</title>
-    <link>https://github.com/NixOS/nix.dev</link>
-    <description>Official documentation for getting things done with Nix.</description>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
   </item>
   <item>
     <title>nix-community / home-manager</title>
@@ -46,9 +31,24 @@
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
     <title>nix-community / stylix</title>
     <link>https://github.com/nix-community/stylix</link>
     <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
+  </item>
+  <item>
+    <title>NixOS / nixos-hardware</title>
+    <link>https://github.com/NixOS/nixos-hardware</link>
+    <description>A collection of NixOS modules covering hardware quirks.</description>
+  </item>
+  <item>
+    <title>cloud-gouv / securix</title>
+    <link>https://github.com/cloud-gouv/securix</link>
+    <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
   </item>
 </channel>
 </rss>

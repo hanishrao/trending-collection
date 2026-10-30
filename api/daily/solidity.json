@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 29 Oct 2026 07:55:30 GMT",
+  "pubDate": "Fri, 30 Oct 2026 07:59:16 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,28 +10,8 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27335,
-      "forks": 12425,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "a16z / erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 223,
-      "forks": 45,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 768,
-      "forks": 1097,
+      "stars": 27328,
+      "forks": 12417,
       "added_stars": "1 star today"
     },
     {
@@ -41,7 +21,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 1062,
-      "forks": 535,
+      "forks": 536,
       "added_stars": "0 stars today"
     },
     {
@@ -55,6 +35,26 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 223,
+      "forks": 45,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 3388,
+      "forks": 495,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "transmissions11 / solmate",
       "url": "https://github.com/transmissions11/solmate",
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
@@ -65,43 +65,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
+      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
+      "description": "Foundry library for deploying and managing upgradeable contracts",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3388,
-      "forks": 496,
-      "added_stars": "1 star today"
+      "stars": 257,
+      "forks": 43,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2550,
-      "forks": 1338,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 950,
-      "forks": 309,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 909,
-      "forks": 673,
+      "stars": 770,
+      "forks": 1101,
       "added_stars": "0 stars today"
     },
     {
@@ -115,13 +95,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "OpenZeppelin / openzeppelin-foundry-upgrades",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades",
-      "description": "Foundry library for deploying and managing upgradeable contracts",
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 257,
-      "forks": 43,
+      "stars": 2550,
+      "forks": 1338,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 950,
+      "forks": 310,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 909,
+      "forks": 677,
       "added_stars": "0 stars today"
     }
   ]

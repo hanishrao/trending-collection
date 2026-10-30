@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 29 Oct 2026 07:58:45 GMT",
+  "pubDate": "Fri, 30 Oct 2026 08:05:03 GMT",
   "items": [
     {
       "title": "semgrep / semgrep-rules",
@@ -12,27 +12,7 @@
       "languageColor": "#844FBA",
       "stars": 1283,
       "forks": 612,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 588,
-      "forks": 3806,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "chainguard-images / images",
-      "url": "https://github.com/chainguard-images/images",
-      "description": "Public Chainguard Images",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 697,
-      "forks": 175,
-      "added_stars": "3 stars this month"
+      "added_stars": "28 stars this month"
     },
     {
       "title": "mysql / mysql-community",
@@ -40,29 +20,19 @@
       "description": "To be used by the community team to host wiki pages",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 39,
+      "stars": 40,
       "forks": 5,
       "added_stars": "6 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "chainguard-images / images",
+      "url": "https://github.com/chainguard-images/images",
+      "description": "Public Chainguard Images",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1285,
-      "forks": 1294,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5015,
-      "forks": 4411,
-      "added_stars": "13 stars this month"
+      "stars": 698,
+      "forks": 175,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -70,9 +40,19 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3278,
+      "stars": 3279,
       "forks": 4619,
-      "added_stars": "10 stars this month"
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "sidpalas / devops-directive-terraform-course",
+      "url": "https://github.com/sidpalas/devops-directive-terraform-course",
+      "description": "Companion repo for complete Terraform course",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1494,
+      "forks": 2464,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -81,18 +61,38 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2124,
-      "forks": 1275,
+      "forks": 1276,
       "added_stars": "17 stars this month"
     },
     {
-      "title": "sidpalas / devops-directive-terraform-course",
-      "url": "https://github.com/sidpalas/devops-directive-terraform-course",
-      "description": "Companion repo for complete Terraform course",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1493,
-      "forks": 2463,
-      "added_stars": "17 stars this month"
+      "stars": 5015,
+      "forks": 4412,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 588,
+      "forks": 3804,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1286,
+      "forks": 1294,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -101,8 +101,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1042,
-      "forks": 782,
+      "forks": 781,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "bridgecrewio / terragoat",
+      "url": "https://github.com/bridgecrewio/terragoat",
+      "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1315,
+      "forks": 5948,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
