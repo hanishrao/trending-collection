@@ -2,17 +2,47 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 08:01:39 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:56:13 GMT",
   "items": [
+    {
+      "title": "TryGhost / node-sqlite3",
+      "url": "https://github.com/TryGhost/node-sqlite3",
+      "description": "SQLite3 bindings for Node.js",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 6410,
+      "forks": 846,
+      "added_stars": "1 star this week"
+    },
     {
       "title": "pgmq / pgmq",
       "url": "https://github.com/pgmq/pgmq",
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 5364,
+      "stars": 5365,
       "forks": 149,
-      "added_stars": "18 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 2846,
+      "forks": 322,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "guchengwuyue / yshop-drink",
+      "url": "https://github.com/guchengwuyue/yshop-drink",
+      "description": "yshop意象点餐系统，在线点餐支持扫码堂食、外卖、自取、抖音团购核销、线下收银台等模式，支持多门店模式，SaaS多租户模式，基础技术springboot3+jdk17+vue3+uniapp(vue3) 采用当前流行技术组合的前后端分离点餐系统",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 1610,
+      "forks": 415,
+      "added_stars": "6 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 07:59:16 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:52:49 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -20,7 +20,7 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3279,
+      "stars": 3280,
       "forks": 4619,
       "added_stars": "1 star today"
     },
@@ -32,37 +32,7 @@
       "languageColor": "#844FBA",
       "stars": 2124,
       "forks": 1276,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 350,
-      "forks": 238,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 967,
-      "forks": 591,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 242,
-      "forks": 191,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -70,8 +40,18 @@
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 588,
+      "stars": 589,
       "forks": 3804,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-rds-aurora",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-rds-aurora",
+      "description": "Terraform module to create AWS RDS Aurora resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 422,
+      "forks": 610,
       "added_stars": "0 stars today"
     },
     {
@@ -85,6 +65,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 238,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "hashicorp / agent-skills",
       "url": "https://github.com/hashicorp/agent-skills",
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
@@ -92,67 +82,17 @@
       "languageColor": "#844FBA",
       "stars": 910,
       "forks": 134,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
-      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
-      "description": "",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 584,
-      "forks": 907,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 154,
-      "forks": 119,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-gcloud",
-      "url": "https://github.com/terraform-google-modules/terraform-google-gcloud",
-      "description": "Executes Google Cloud CLI commands within Terraform",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 179,
-      "forks": 98,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 117,
-      "forks": 203,
+      "stars": 967,
+      "forks": 591,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 180,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1286,
-      "forks": 1294,
-      "added_stars": "1 star today"
     }
   ]
 }

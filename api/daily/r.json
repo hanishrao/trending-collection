@@ -2,8 +2,18 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 07:59:16 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:52:49 GMT",
   "items": [
+    {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5707,
+      "forks": 1893,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "tidyverse / ggplot2",
       "url": "https://github.com/tidyverse/ggplot2",
@@ -12,16 +22,6 @@
       "languageColor": "#198CE7",
       "stars": 7023,
       "forks": 2126,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "tidyverse / dplyr",
-      "url": "https://github.com/tidyverse/dplyr",
-      "description": "dplyr: A grammar of data manipulation",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5080,
-      "forks": 2110,
       "added_stars": "0 stars today"
     },
     {
@@ -35,6 +35,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "tidyverse / dplyr",
+      "url": "https://github.com/tidyverse/dplyr",
+      "description": "dplyr: A grammar of data manipulation",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5080,
+      "forks": 2110,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "Rdatatable / data.table",
       "url": "https://github.com/Rdatatable/data.table",
       "description": "R's data.table package extends data.frame:",
@@ -42,6 +52,16 @@
       "languageColor": "#198CE7",
       "stars": 3927,
       "forks": 1061,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "rstudio / renv",
+      "url": "https://github.com/rstudio/renv",
+      "description": "renv: Project environments for R.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 1166,
+      "forks": 168,
       "added_stars": "0 stars today"
     },
     {
@@ -55,23 +75,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "plotly / plotly.R",
-      "url": "https://github.com/plotly/plotly.R",
-      "description": "An interactive graphing library for R",
+      "title": "r-spatial / sf",
+      "url": "https://github.com/r-spatial/sf",
+      "description": "Simple Features for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2685,
-      "forks": 641,
+      "stars": 1454,
+      "forks": 306,
       "added_stars": "0 stars today"
     },
     {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5707,
-      "forks": 1893,
+      "stars": 894,
+      "forks": 143183,
       "added_stars": "0 stars today"
     },
     {
@@ -85,23 +105,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "r-spatial / sf",
-      "url": "https://github.com/r-spatial/sf",
-      "description": "Simple Features for R",
+      "title": "rstudio / reticulate",
+      "url": "https://github.com/rstudio/reticulate",
+      "description": "R Interface to Python",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 1454,
-      "forks": 306,
-      "added_stars": "1 star today"
+      "stars": 1766,
+      "forks": 350,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "joey711 / phyloseq",
-      "url": "https://github.com/joey711/phyloseq",
-      "description": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+      "title": "plotly / plotly.R",
+      "url": "https://github.com/plotly/plotly.R",
+      "description": "An interactive graphing library for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 651,
-      "forks": 196,
+      "stars": 2685,
+      "forks": 641,
       "added_stars": "0 stars today"
     },
     {
@@ -115,6 +135,66 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "r-lib / devtools",
+      "url": "https://github.com/r-lib/devtools",
+      "description": "Tools to make an R developer's life easier",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 2526,
+      "forks": 762,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "sparklyr / sparklyr",
+      "url": "https://github.com/sparklyr/sparklyr",
+      "description": "R interface for Apache Spark",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 972,
+      "forks": 311,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "joey711 / phyloseq",
+      "url": "https://github.com/joey711/phyloseq",
+      "description": "phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 651,
+      "forks": 196,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "jokergoo / ComplexHeatmap",
+      "url": "https://github.com/jokergoo/ComplexHeatmap",
+      "description": "Make Complex Heatmaps",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 1561,
+      "forks": 255,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "JohsEnevoldsen / literature-clock",
+      "url": "https://github.com/JohsEnevoldsen/literature-clock",
+      "description": "Clock using time quotes from the literature, based on the work of Jaap Meijers",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 720,
+      "forks": 146,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lmu-osc / Collaborative-RStudio-GitHub",
+      "url": "https://github.com/lmu-osc/Collaborative-RStudio-GitHub",
+      "description": "",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 24,
+      "forks": 361,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "jinworks / CellChat",
       "url": "https://github.com/jinworks/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
@@ -122,26 +202,6 @@
       "languageColor": "#198CE7",
       "stars": 689,
       "forks": 116,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4621,
-      "forks": 7190,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 894,
-      "forks": 143190,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 08:01:39 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:56:13 GMT",
   "items": [
     {
       "title": "koreader / koreader",
@@ -10,9 +10,9 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 30740,
-      "forks": 2010,
-      "added_stars": "231 stars this week"
+      "stars": 30761,
+      "forks": 2009,
+      "added_stars": "228 stars this week"
     },
     {
       "title": "LazyVim / LazyVim",
@@ -20,9 +20,59 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27761,
-      "forks": 1832,
-      "added_stars": "75 stars this week"
+      "stars": 27773,
+      "forks": 1831,
+      "added_stars": "83 stars this week"
+    },
+    {
+      "title": "nvim-neo-tree / neo-tree.nvim",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+      "description": "Neovim plugin to manage the file system and other tree like structures.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5638,
+      "forks": 311,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "finlater / weread.koplugin",
+      "url": "https://github.com/finlater/weread.koplugin",
+      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1010,
+      "forks": 117,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "ibhagwan / fzf-lua",
+      "url": "https://github.com/ibhagwan/fzf-lua",
+      "description": "Improved fzf.vim written in lua",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4477,
+      "forks": 275,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "nvim-tree / nvim-tree.lua",
+      "url": "https://github.com/nvim-tree/nvim-tree.lua",
+      "description": "A file explorer tree for neovim written in lua",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 8674,
+      "forks": 642,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "saghen / blink.cmp",
+      "url": "https://github.com/saghen/blink.cmp",
+      "description": "Performant, batteries-included completion plugin for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 6648,
+      "forks": 372,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "rittermod / FS25_RealisticLivestockRM",
@@ -32,27 +82,37 @@
       "languageColor": "#000080",
       "stars": 192,
       "forks": 19,
-      "added_stars": "9 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
-      "title": "nvim-tree / nvim-tree.lua",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua",
-      "description": "A file explorer tree for neovim written in lua",
+      "title": "xmake-io / xmake",
+      "url": "https://github.com/xmake-io/xmake",
+      "description": "🔥 A cross-platform build utility based on Lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8671,
-      "forks": 643,
-      "added_stars": "6 stars this week"
+      "stars": 12282,
+      "forks": 965,
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "saghen / blink.cmp",
-      "url": "https://github.com/saghen/blink.cmp",
-      "description": "Performant, batteries-included completion plugin for Neovim",
+      "title": "AnkioTomas / moon",
+      "url": "https://github.com/AnkioTomas/moon",
+      "description": "把 KOReader 变成真正属于你的阅读系统",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 6646,
-      "forks": 372,
-      "added_stars": "9 stars this week"
+      "stars": 260,
+      "forks": 9,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "nvim-mini / mini.nvim",
+      "url": "https://github.com/nvim-mini/mini.nvim",
+      "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 9611,
+      "forks": 320,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "neovim / nvim-lspconfig",
@@ -60,19 +120,39 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13990,
+      "stars": 13994,
       "forks": 2504,
-      "added_stars": "15 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
-      "title": "id577 / FS25_AdvancedDamageSystem",
-      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
-      "description": "Advanced Damage System mod for Farming Simulator 25",
+      "title": "opentibiabr / canary",
+      "url": "https://github.com/opentibiabr/canary",
+      "description": "Canary Server 15.25 for OpenTibia community.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 311,
-      "forks": 20,
-      "added_stars": "11 stars this week"
+      "stars": 666,
+      "forks": 921,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "coder / claudecode.nvim",
+      "url": "https://github.com/coder/claudecode.nvim",
+      "description": "🧩 Claude Code Neovim IDE Extension",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3145,
+      "forks": 223,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "lewis6991 / gitsigns.nvim",
+      "url": "https://github.com/lewis6991/gitsigns.nvim",
+      "description": "Git integration for buffers",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 7154,
+      "forks": 304,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "mason-org / mason-lspconfig.nvim",
@@ -85,114 +165,24 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "xmake-io / xmake",
-      "url": "https://github.com/xmake-io/xmake",
-      "description": "🔥 A cross-platform build utility based on Lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 12281,
-      "forks": 965,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "lewis6991 / gitsigns.nvim",
-      "url": "https://github.com/lewis6991/gitsigns.nvim",
-      "description": "Git integration for buffers",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 7150,
-      "forks": 303,
-      "added_stars": "9 stars this week"
-    },
-    {
       "title": "b0o / SchemaStore.nvim",
       "url": "https://github.com/b0o/SchemaStore.nvim",
       "description": "🛍 JSON schemas for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 1046,
+      "stars": 1047,
       "forks": 22,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "nvim-neo-tree / neo-tree.nvim",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-      "description": "Neovim plugin to manage the file system and other tree like structures.",
+      "title": "apache / apisix",
+      "url": "https://github.com/apache/apisix",
+      "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5637,
-      "forks": 309,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "ibhagwan / fzf-lua",
-      "url": "https://github.com/ibhagwan/fzf-lua",
-      "description": "Improved fzf.vim written in lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4476,
-      "forks": 275,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "RLS-Modding / rls_career_overhaul",
-      "url": "https://github.com/RLS-Modding/rls_career_overhaul",
-      "description": "A Career Overhaul mod for BeamNG.drive! Enhances various aspects of the game, including freeroam events, police interactions, the economy, deliveries, insurance, garage space, and dealerships. Dive into a more immersive and challenging career mode enriched with new features and improvements.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 266,
-      "forks": 32,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "coder / claudecode.nvim",
-      "url": "https://github.com/coder/claudecode.nvim",
-      "description": "🧩 Claude Code Neovim IDE Extension",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3143,
-      "forks": 223,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "xhcherry / GTA5-Stand-LuaAIO",
-      "url": "https://github.com/xhcherry/GTA5-Stand-LuaAIO",
-      "description": "GTA5 Mod Stand Lua All in One:快捷任务、crash、模组(人物|车辆|地图|模型)、娱乐等多种拓展功能玩法的lua脚本",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 802,
-      "forks": 379,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1007,
-      "forks": 116,
-      "added_stars": "61 stars this week"
-    },
-    {
-      "title": "opentibiabr / canary",
-      "url": "https://github.com/opentibiabr/canary",
-      "description": "Canary Server 15.25 for OpenTibia community.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 665,
-      "forks": 918,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "mrcjkb / rustaceanvim",
-      "url": "https://github.com/mrcjkb/rustaceanvim",
-      "description": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3155,
-      "forks": 135,
-      "added_stars": "6 stars this week"
+      "stars": 17275,
+      "forks": 2985,
+      "added_stars": "30 stars this week"
     }
   ]
 }

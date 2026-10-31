@@ -2,57 +2,17 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 08:01:39 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:56:13 GMT",
   "items": [
-    {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 140266,
-      "forks": 8674,
-      "added_stars": "97 stars today"
-    },
     {
       "title": "JustVugg / colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 45032,
-      "forks": 5126,
-      "added_stars": "295 stars today"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31121,
-      "forks": 11565,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "madler / zlib",
-      "url": "https://github.com/madler/zlib",
-      "description": "A massively spiffy yet delicately unobtrusive compression library.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7182,
-      "forks": 2888,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "valkey-io / valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27563,
-      "forks": 1488,
-      "added_stars": "12 stars today"
+      "stars": 45244,
+      "forks": 5165,
+      "added_stars": "242 stars today"
     },
     {
       "title": "lvgl / lvgl",
@@ -60,119 +20,159 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25048,
-      "forks": 4418,
-      "added_stars": "12 stars today"
+      "stars": 25060,
+      "forks": 4421,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "HansKristian-Work / vkd3d-proton",
-      "url": "https://github.com/HansKristian-Work/vkd3d-proton",
-      "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+      "title": "Mbed-TLS / mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3031,
-      "forks": 355,
+      "stars": 7042,
+      "forks": 3008,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "cilium / tetragon",
+      "url": "https://github.com/cilium/tetragon",
+      "description": "eBPF-based Security Observability and Runtime Enforcement",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5135,
+      "forks": 638,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 140314,
+      "forks": 8680,
+      "added_stars": "81 stars today"
+    },
+    {
+      "title": "meta / zstd",
+      "url": "https://github.com/meta/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28132,
+      "forks": 2667,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "matz / spinel",
+      "url": "https://github.com/matz/spinel",
+      "description": "Ruby AOT compiler",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2290,
+      "forks": 168,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "glfw / glfw",
+      "url": "https://github.com/glfw/glfw",
+      "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 15423,
+      "forks": 5957,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "libuv / libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27291,
+      "forks": 3974,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "microsoft / mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13521,
+      "forks": 1207,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "eclipse-mosquitto / mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11317,
+      "forks": 2656,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "fluent / fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8179,
+      "forks": 2024,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "libarchive / libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3649,
+      "forks": 1051,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Serial-Studio / Serial-Studio",
+      "url": "https://github.com/Serial-Studio/Serial-Studio",
+      "description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7282,
+      "forks": 1100,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "madler / zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7183,
+      "forks": 2887,
       "added_stars": "3 stars today"
     },
     {
-      "title": "snesrev / zelda3",
-      "url": "https://github.com/snesrev/zelda3",
-      "description": "",
+      "title": "unicorn-engine / unicorn",
+      "url": "https://github.com/unicorn-engine/unicorn",
+      "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4946,
-      "forks": 466,
-      "added_stars": "2 stars today"
+      "stars": 9518,
+      "forks": 1579,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "tianocore / edk2",
-      "url": "https://github.com/tianocore/edk2",
-      "description": "EDK II",
+      "title": "ImageMagick / ImageMagick",
+      "url": "https://github.com/ImageMagick/ImageMagick",
+      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6374,
-      "forks": 3347,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "littlefs-project / littlefs",
-      "url": "https://github.com/littlefs-project/littlefs",
-      "description": "A little fail-safe filesystem designed for microcontrollers",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6991,
-      "forks": 1051,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "apache / nuttx",
-      "url": "https://github.com/apache/nuttx",
-      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4094,
-      "forks": 1741,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "redis / redis",
-      "url": "https://github.com/redis/redis",
-      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 77093,
-      "forks": 24980,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "arendst / Tasmota",
-      "url": "https://github.com/arendst/Tasmota",
-      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 24946,
-      "forks": 5205,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "allinurl / goaccess",
-      "url": "https://github.com/allinurl/goaccess",
-      "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 21099,
-      "forks": 1210,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "capstone-engine / capstone",
-      "url": "https://github.com/capstone-engine/capstone",
-      "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 9152,
-      "forks": 1745,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "FreeRTOS / FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4625,
-      "forks": 1640,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 23530,
-      "forks": 1376,
-      "added_stars": "9 stars today"
+      "stars": 17774,
+      "forks": 1689,
+      "added_stars": "8 stars today"
     }
   ]
 }

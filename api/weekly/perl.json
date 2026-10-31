@@ -2,8 +2,18 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 08:01:39 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:56:13 GMT",
   "items": [
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 5225,
+      "forks": 496,
+      "added_stars": "32 stars this week"
+    },
     {
       "title": "Perl / perl5",
       "url": "https://github.com/Perl/perl5",
@@ -12,17 +22,7 @@
       "languageColor": "#0298c3",
       "stars": 2354,
       "forks": 651,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "major / MySQLTuner-perl",
-      "url": "https://github.com/major/MySQLTuner-perl",
-      "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 9475,
-      "forks": 1281,
-      "added_stars": "5 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -31,28 +31,18 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 1710,
-      "forks": 333,
-      "added_stars": "7 stars this week"
+      "forks": 334,
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
+      "title": "docker-library / repo-info",
+      "url": "https://github.com/docker-library/repo-info",
+      "description": "Extended information (especially license and layer details) about the published Official Images",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5222,
-      "forks": 496,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 23634,
-      "forks": 1126,
-      "added_stars": "24 stars this week"
+      "stars": 610,
+      "forks": 358,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "netdisco / netdisco",
@@ -70,19 +60,9 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3990,
+      "stars": 3992,
       "forks": 222,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1539,
-      "forks": 1228,
-      "added_stars": "2 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
       "title": "Difegue / LANraragi",
@@ -92,17 +72,57 @@
       "languageColor": "#0298c3",
       "stars": 3142,
       "forks": 232,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
+      "title": "sipwise / rtpengine",
+      "url": "https://github.com/sipwise/rtpengine",
+      "description": "The Sipwise media proxy for Kamailio",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19811,
-      "forks": 2106,
-      "added_stars": "12 stars this week"
+      "stars": 1004,
+      "forks": 473,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23636,
+      "forks": 1125,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "RotherOSS / otobo",
+      "url": "https://github.com/RotherOSS/otobo",
+      "description": "OTOBO is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. https://otobo.io/",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 340,
+      "forks": 89,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1539,
+      "forks": 1228,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3456,
+      "forks": 380,
+      "added_stars": "8 stars this week"
     }
   ]
 }

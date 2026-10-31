@@ -2,28 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 30 Oct 2026 08:01:39 GMT",
+  "pubDate": "Sat, 31 Oct 2026 07:56:13 GMT",
   "items": [
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1283,
-      "forks": 612,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3279,
-      "forks": 4619,
-      "added_stars": "2 stars this week"
-    },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
@@ -35,14 +15,34 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1285,
+      "forks": 615,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3280,
+      "forks": 4619,
+      "added_stars": "3 stars this week"
+    },
+    {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
       "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 588,
+      "stars": 589,
       "forks": 3804,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -55,33 +55,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "antonputra / tutorials",
-      "url": "https://github.com/antonputra/tutorials",
-      "description": "DevOps Tutorials",
+      "title": "terraform-aws-modules / terraform-aws-rds-aurora",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-rds-aurora",
+      "description": "Terraform module to create AWS RDS Aurora resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 4708,
-      "forks": 3117,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 207,
-      "forks": 609,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 180,
+      "stars": 422,
+      "forks": 610,
       "added_stars": "0 stars this week"
     },
     {
@@ -95,6 +75,16 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 156,
+      "forks": 181,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "terraform-google-modules / terraform-google-network",
       "url": "https://github.com/terraform-google-modules/terraform-google-network",
       "description": "Sets up a new VPC network on Google Cloud",
@@ -103,6 +93,16 @@
       "stars": 502,
       "forks": 1280,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1286,
+      "forks": 1294,
+      "added_stars": "4 stars this week"
     }
   ]
 }
