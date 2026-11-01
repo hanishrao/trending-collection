@@ -2,187 +2,47 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 31 Oct 2026 07:52:49 GMT",
+  "pubDate": "Sun, 01 Nov 2026 08:33:36 GMT",
   "items": [
-    {
-      "title": "wailsapp / wails",
-      "url": "https://github.com/wailsapp/wails",
-      "description": "Create beautiful applications using Go",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36860,
-      "forks": 1916,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "argoproj / argo-workflows",
-      "url": "https://github.com/argoproj/argo-workflows",
-      "description": "Workflow Engine for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17071,
-      "forks": 3721,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 93235,
-      "forks": 11187,
-      "added_stars": "116 stars today"
-    },
-    {
-      "title": "mvanhorn / cli-printing-press",
-      "url": "https://github.com/mvanhorn/cli-printing-press",
-      "description": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4896,
-      "forks": 533,
-      "added_stars": "22 stars today"
-    },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 49143,
-      "forks": 3598,
-      "added_stars": "163 stars today"
+      "stars": 49206,
+      "forks": 3604,
+      "added_stars": "82 stars today"
     },
     {
-      "title": "milvus-io / milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "title": "betterleaks / betterleaks",
+      "url": "https://github.com/betterleaks/betterleaks",
+      "description": "Find leaked secrets everywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 46540,
-      "forks": 4323,
-      "added_stars": "13 stars today"
+      "stars": 2717,
+      "forks": 173,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "crossplane / crossplane",
-      "url": "https://github.com/crossplane/crossplane",
-      "description": "The Cloud Native Control Plane",
+      "title": "cilium / cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12209,
-      "forks": 1287,
+      "stars": 25748,
+      "forks": 4205,
       "added_stars": "6 stars today"
     },
     {
-      "title": "nektos / act",
-      "url": "https://github.com/nektos/act",
-      "description": "Run your GitHub Actions locally 🚀",
+      "title": "k3s-io / k3s",
+      "url": "https://github.com/k3s-io/k3s",
+      "description": "Lightweight Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72502,
-      "forks": 2091,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "kserve / kserve",
-      "url": "https://github.com/kserve/kserve",
-      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6176,
-      "forks": 1771,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 116389,
-      "forks": 6741,
-      "added_stars": "296 stars today"
-    },
-    {
-      "title": "fleetdm / fleet",
-      "url": "https://github.com/fleetdm/fleet",
-      "description": "Open device management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7084,
-      "forks": 1098,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38389,
-      "forks": 3397,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "grafana / loki",
-      "url": "https://github.com/grafana/loki",
-      "description": "Like Prometheus, but for logs.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29095,
-      "forks": 4165,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24503,
-      "forks": 8075,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "hashicorp / nomad",
-      "url": "https://github.com/hashicorp/nomad",
-      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17063,
-      "forks": 2153,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "docker / docker-agent",
-      "url": "https://github.com/docker/docker-agent",
-      "description": "AI Agent Builder and Runtime by Docker Engineering",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4624,
-      "forks": 542,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "fatedier / frp",
-      "url": "https://github.com/fatedier/frp",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 110352,
-      "forks": 15291,
-      "added_stars": "46 stars today"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-collector-contrib",
-      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-      "description": "Contrib repository for the OpenTelemetry Collector",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5033,
-      "forks": 4069,
-      "added_stars": "1 star today"
+      "stars": 34301,
+      "forks": 2774,
+      "added_stars": "13 stars today"
     },
     {
       "title": "multica-ai / multica",
@@ -190,29 +50,79 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 54403,
-      "forks": 7166,
-      "added_stars": "137 stars today"
+      "stars": 54478,
+      "forks": 7169,
+      "added_stars": "71 stars today"
     },
     {
-      "title": "github / gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
+      "title": "Billionmail / BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5537,
-      "forks": 609,
-      "added_stars": "15 stars today"
+      "stars": 16126,
+      "forks": 1790,
+      "added_stars": "101 stars today"
     },
     {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45180,
-      "forks": 9729,
-      "added_stars": "69 stars today"
+      "stars": 36146,
+      "forks": 4918,
+      "added_stars": "84 stars today"
+    },
+    {
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 116584,
+      "forks": 6764,
+      "added_stars": "215 stars today"
+    },
+    {
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7131,
+      "forks": 1110,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "skyhook-io / radar",
+      "url": "https://github.com/skyhook-io/radar",
+      "description": "The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4004,
+      "forks": 265,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8497,
+      "forks": 686,
+      "added_stars": "42 stars today"
+    },
+    {
+      "title": "Mag1cFall / AIStudio2API",
+      "url": "https://github.com/Mag1cFall/AIStudio2API",
+      "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 629,
+      "forks": 148,
+      "added_stars": "22 stars today"
     },
     {
       "title": "jesseduffield / lazygit",
@@ -220,19 +130,49 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 83553,
-      "forks": 3218,
-      "added_stars": "42 stars today"
+      "stars": 83576,
+      "forks": 3241,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "google / ax",
-      "url": "https://github.com/google/ax",
-      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "title": "henrygd / beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14387,
-      "forks": 768,
-      "added_stars": "47 stars today"
+      "stars": 26747,
+      "forks": 1135,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "knadh / listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24105,
+      "forks": 2737,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38454,
+      "forks": 3405,
+      "added_stars": "73 stars today"
+    },
+    {
+      "title": "IceWhaleTech / CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37483,
+      "forks": 2203,
+      "added_stars": "40 stars today"
     }
   ]
 }

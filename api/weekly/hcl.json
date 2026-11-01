@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 31 Oct 2026 07:56:13 GMT",
+  "pubDate": "Sun, 01 Nov 2026 08:36:56 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -20,9 +20,9 @@
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1285,
+      "stars": 1287,
       "forks": 615,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -31,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3280,
-      "forks": 4619,
+      "forks": 4620,
       "added_stars": "3 stars this week"
     },
     {
@@ -45,13 +45,23 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 874,
+      "forks": 1114,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "terraform-aws-modules / terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 781,
+      "stars": 1043,
+      "forks": 782,
       "added_stars": "0 stars this week"
     },
     {
@@ -65,16 +75,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 967,
-      "forks": 591,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-eventbridge",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
       "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
@@ -85,23 +85,33 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1280,
+      "stars": 967,
+      "forks": 591,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1286,
-      "forks": 1294,
+      "stars": 30,
+      "forks": 74,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 911,
+      "forks": 134,
       "added_stars": "4 stars this week"
     }
   ]

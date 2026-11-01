@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 31 Oct 2026 07:56:13 GMT</pubDate>
+  <pubDate>Sun, 01 Nov 2026 08:36:56 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -26,6 +26,11 @@
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-iam</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
+    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+  </item>
+  <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
@@ -36,24 +41,24 @@
     <description>Terraform module to create AWS RDS Aurora resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-project-factory</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-  </item>
-  <item>
     <title>terraform-aws-modules / terraform-aws-eventbridge</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eventbridge</link>
     <description>Terraform module to create AWS EventBridge resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-network</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
-    <description>Sets up a new VPC network on Google Cloud</description>
+    <title>terraform-google-modules / terraform-google-project-factory</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-    <description>Configures opinionated GKE clusters</description>
+    <title>terraform-aws-modules / terraform-aws-elasticache</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
+    <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
   </item>
 </channel>
 </rss>
