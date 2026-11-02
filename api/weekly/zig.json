@@ -2,87 +2,27 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 01 Nov 2026 08:36:56 GMT",
+  "pubDate": "Mon, 02 Nov 2026 08:46:33 GMT",
   "items": [
-    {
-      "title": "lightpanda-io / browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 39469,
-      "forks": 1923,
-      "added_stars": "2,341 stars this week"
-    },
     {
       "title": "ghostty-org / ghostty",
       "url": "https://github.com/ghostty-org/ghostty",
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 63110,
-      "forks": 3808,
-      "added_stars": "556 stars this week"
+      "stars": 63241,
+      "forks": 3820,
+      "added_stars": "589 stars this week"
     },
     {
-      "title": "roc-lang / roc",
-      "url": "https://github.com/roc-lang/roc",
-      "description": "A fast, friendly, functional language.",
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 6181,
-      "forks": 428,
-      "added_stars": "30 stars this week"
-    },
-    {
-      "title": "tigerbeetle / tigerbeetle",
-      "url": "https://github.com/tigerbeetle/tigerbeetle",
-      "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 17283,
-      "forks": 929,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "ziglang / zig",
-      "url": "https://github.com/ziglang/zig",
-      "description": "Moved to Codeberg",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 43258,
-      "forks": 3124,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "neurosnap / zmx",
-      "url": "https://github.com/neurosnap/zmx",
-      "description": "Session attach/detach for the terminal",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2257,
-      "forks": 175,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "neurocyte / flow",
-      "url": "https://github.com/neurocyte/flow",
-      "description": "Flow Control: a programmer's text editor",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2519,
-      "forks": 129,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "ddalcu / mlx-serve",
-      "url": "https://github.com/ddalcu/mlx-serve",
-      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2216,
-      "forks": 237,
-      "added_stars": "128 stars this week"
+      "stars": 40629,
+      "forks": 1981,
+      "added_stars": "3,155 stars this week"
     },
     {
       "title": "nullclaw / nullclaw",
@@ -90,9 +30,49 @@
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 8193,
+      "stars": 8197,
       "forks": 958,
-      "added_stars": "71 stars this week"
+      "added_stars": "76 stars this week"
+    },
+    {
+      "title": "ziglang / zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 43259,
+      "forks": 3124,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2309,
+      "forks": 244,
+      "added_stars": "196 stars this week"
+    },
+    {
+      "title": "tigerbeetle / tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 17289,
+      "forks": 931,
+      "added_stars": "43 stars this week"
+    },
+    {
+      "title": "roc-lang / roc",
+      "url": "https://github.com/roc-lang/roc",
+      "description": "A fast, friendly, functional language.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 6182,
+      "forks": 428,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "Seafoam-Labs / Shelly-ALPM",
@@ -102,6 +82,36 @@
       "languageColor": "#ec915c",
       "stars": 1244,
       "forks": 103,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "neurocyte / flow",
+      "url": "https://github.com/neurocyte/flow",
+      "description": "Flow Control: a programmer's text editor",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2521,
+      "forks": 129,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "blackboardsh / electrobun",
+      "url": "https://github.com/blackboardsh/electrobun",
+      "description": "Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 13002,
+      "forks": 379,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "neurosnap / zmx",
+      "url": "https://github.com/neurosnap/zmx",
+      "description": "Session attach/detach for the terminal",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2259,
+      "forks": 175,
       "added_stars": "28 stars this week"
     },
     {
@@ -110,19 +120,19 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2190,
-      "forks": 70,
-      "added_stars": "82 stars this week"
+      "stars": 2205,
+      "forks": 71,
+      "added_stars": "79 stars this week"
     },
     {
-      "title": "blackboardsh / electrobun",
-      "url": "https://github.com/blackboardsh/electrobun",
-      "description": "Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.",
+      "title": "PixelGuys / Cubyz",
+      "url": "https://github.com/PixelGuys/Cubyz",
+      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 12992,
-      "forks": 379,
-      "added_stars": "43 stars this week"
+      "stars": 3743,
+      "forks": 249,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "vercel-labs / fx",
@@ -130,9 +140,9 @@
       "description": "Unix like coding agent",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 3699,
-      "forks": 417,
-      "added_stars": "106 stars this week"
+      "stars": 3716,
+      "forks": 422,
+      "added_stars": "115 stars this week"
     },
     {
       "title": "ashhart / TensorFold",
@@ -140,9 +150,9 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1578,
-      "forks": 332,
-      "added_stars": "101 stars this week"
+      "stars": 1591,
+      "forks": 336,
+      "added_stars": "105 stars this week"
     }
   ]
 }

@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3485-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3486-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-11-01
-_Top 3 per language · [view full day →](./2026/2026-11-01.md)_
+## 🔥 Today's Trending — 2026-11-02
+_Top 3 per language · [view full day →](./2026/2026-11-02.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🐍 | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 🐍 | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) | 🐍 | Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🦀 | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
-| [anomalyco/hex](https://github.com/anomalyco/hex) | 🦀 | Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta. |
-| [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 🦀 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🐍 | Kronos: A Foundation Model for the Language of Financial Markets |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 🐍 | A collective list of free APIs |
+| [kornia/kornia](https://github.com/kornia/kornia) | 🐍 | 🐍 Geometric Computer Vision Library for Spatial AI |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 🦀 | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [anomalyco/hex](https://github.com/anomalyco/hex) | 🦀 | Local voice dictation for mac, windows and linux |
+| [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 🦀 | Algorithm powering the For You feed on X |
 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | ⚡ | Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | ⚡ | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) | ⚡ | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions. |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | 🐹 | Find leaked secrets everywhere. |
-| [cilium/cilium](https://github.com/cilium/cilium) | 🐹 | eBPF-based Networking, Security, and Observability |
+| [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) | ⚡ | Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text |
+| [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) | ⚡ | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 🐹 | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) |
+| [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🐹 | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [golang/go](https://github.com/golang/go) | 🐹 | The Go programming language |
 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 🍎 | Free and open-source macOS menu bar toolkit. |
+| [frankea/Whisky](https://github.com/frankea/Whisky) | 🍎 | Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI |
 | [farzaa/clicky](https://github.com/farzaa/clicky) | 🍎 | The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com |
-| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | 🍎 | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔷 | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔷 |  |
-| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔷 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 🔷 | Open-source Grok Bot alternative with a virtual machine that bots can use |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-11-01.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-11-02](./2026/2026-11-02.md) | [Kronos](https://github.com/shiyu-coder/Kronos) | [Handy](https://github.com/cjpais/Handy) | [Orkas](https://github.com/Orkas-AI/Orkas) | [3x-ui](https://github.com/MHSanaei/3x-ui) | [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | [claude-mem](https://github.com/thedotmack/claude-mem) |
 | [2026-11-01](./2026/2026-11-01.md) | [DeepTutor](https://github.com/HKUDS/DeepTutor) | [impeccable](https://github.com/pbakaus/impeccable) | [Orkas](https://github.com/Orkas-AI/Orkas) | [open-code-review](https://github.com/alibaba/open-code-review) | [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | [claude-mem](https://github.com/thedotmack/claude-mem) |
 | [2026-10-31](./2026/2026-10-31.md) | [DeepTutor](https://github.com/HKUDS/DeepTutor) | [impeccable](https://github.com/pbakaus/impeccable) | [LinkSwift](https://github.com/hmjz100/LinkSwift) | [wails](https://github.com/wailsapp/wails) | [Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) | [claude-mem](https://github.com/thedotmack/claude-mem) |
 | [2026-10-30](./2026/2026-10-30.md) | [DeepTutor](https://github.com/HKUDS/DeepTutor) | [impeccable](https://github.com/pbakaus/impeccable) | [react](https://github.com/react/react) | [beads](https://github.com/gastownhall/beads) | [Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) | [thinkrail](https://github.com/JetBrains/thinkrail) |
 | [2026-10-29](./2026/2026-10-29.md) | [DeepTutor](https://github.com/HKUDS/DeepTutor) | [macro](https://github.com/macro-inc/macro) | [LinkSwift](https://github.com/hmjz100/LinkSwift) | [cloudflared](https://github.com/cloudflare/cloudflared) | [openusage](https://github.com/robinebers/openusage) | [thinkrail](https://github.com/JetBrains/thinkrail) |
 | [2026-10-28](./2026/2026-10-28.md) | [DeepTutor](https://github.com/HKUDS/DeepTutor) | [impeccable](https://github.com/pbakaus/impeccable) | [ECC](https://github.com/affaan-m/ECC) | [opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | [Crest](https://github.com/pauljoda/Crest) | [openbot](https://github.com/nightly-labs/openbot) |
 | [2026-10-27](./2026/2026-10-27.md) | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | [impeccable](https://github.com/pbakaus/impeccable) | [ECC](https://github.com/affaan-m/ECC) | [3x-ui](https://github.com/MHSanaei/3x-ui) | [bitchat](https://github.com/permissionlesstech/bitchat) | [thinkrail](https://github.com/JetBrains/thinkrail) |
-| [2026-10-26](./2026/2026-10-26.md) | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | [impeccable](https://github.com/pbakaus/impeccable) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [tuios](https://github.com/Gaurav-Gosain/tuios) | [bitchat](https://github.com/permissionlesstech/bitchat) | [cindy](https://github.com/makecindy/cindy) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 🐍 | 2026-11-02 | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 🐍 | 2026-11-02 | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
+| [scenario-labs/skills](https://github.com/scenario-labs/skills) | 🐍 | 2026-11-02 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. |
+| [andreavolpato/spektrafilm](https://github.com/andreavolpato/spektrafilm) | 🐍 | 2026-11-02 | Spectral simulation of analog photography processes |
+| [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | ⚡ | 2026-11-02 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔷 | 2026-11-02 | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [TheNetsky/Microsoft-Rewards-Script](https://github.com/TheNetsky/Microsoft-Rewards-Script) | 🔷 | 2026-11-02 | Automated Microsoft Rewards script, using TypeScript and Playwright. |
+| [motiondivision/motion](https://github.com/motiondivision/motion) | 🔷 | 2026-11-02 | A modern animation library for React and JavaScript |
 | [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) | 🐍 | 2026-11-01 | Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. |
 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 🐍 | 2026-11-01 | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
-| [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) | 🐹 | 2026-11-01 | Find leaked secrets everywhere. |
-| [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) | 🐍 | 2026-10-31 | A persistent workspace for development work that self-improves and continues beyond one session. |
-| [ethanplusai/harvey](https://github.com/ethanplusai/harvey) | 🐍 | 2026-10-31 | Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. |
-| [infosave2007/aivpn](https://github.com/infosave2007/aivpn) | 🦀 | 2026-10-31 | AI-VPN that makes your traffic invisible to deep packet inspection |
-| [daeuniverse/honk](https://github.com/daeuniverse/honk) | 🦀 | 2026-10-31 | Inspired by dae & sing-box |
-| [janhq/jan](https://github.com/janhq/jan) | 🦀 | 2026-10-31 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
-| [IamRamgarhia/Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) | ⚡ | 2026-10-31 | Free invoice builder & GST billing software for India. Make GST invoices, quotations, bills of supply and credit notes as PDF; GSTR-1/3B reports. Free invoice maker for shops, freelancers & small businesses. Free Tally alternative: open source, 100% offline, no signup, no limits. |
-| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | ⚡ | 2026-10-31 | Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. |
 
 ---
 

@@ -2,17 +2,27 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 01 Nov 2026 08:33:36 GMT",
+  "pubDate": "Mon, 02 Nov 2026 08:45:06 GMT",
   "items": [
+    {
+      "title": "metadist / synaplan",
+      "url": "https://github.com/metadist/synaplan",
+      "description": "Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 486,
+      "forks": 58,
+      "added_stars": "30 stars today"
+    },
     {
       "title": "bagisto / bagisto",
       "url": "https://github.com/bagisto/bagisto",
       "description": "Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 28316,
-      "forks": 3356,
-      "added_stars": "15 stars today"
+      "stars": 28323,
+      "forks": 3364,
+      "added_stars": "7 stars today"
     },
     {
       "title": "FreshRSS / FreshRSS",
@@ -20,19 +30,9 @@
       "description": "A free, self-hostable news aggregator…",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 16472,
+      "stars": 16486,
       "forks": 1332,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "digininja / DVWA",
-      "url": "https://github.com/digininja/DVWA",
-      "description": "Damn Vulnerable Web Application (DVWA)",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 13939,
-      "forks": 5239,
-      "added_stars": "4 stars today"
+      "added_stars": "10 stars today"
     },
     {
       "title": "invoiceninja / invoiceninja",
@@ -40,99 +40,9 @@
       "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10435,
-      "forks": 2789,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "danielmiessler / SecLists",
-      "url": "https://github.com/danielmiessler/SecLists",
-      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 74458,
-      "forks": 25194,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "Leantime / leantime",
-      "url": "https://github.com/Leantime/leantime",
-      "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 11944,
-      "forks": 1167,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "MlgmXyysd / Xiaomi-HyperOS-BootLoader-Bypass",
-      "url": "https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass",
-      "description": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4813,
-      "forks": 473,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "mautic / mautic",
-      "url": "https://github.com/mautic/mautic",
-      "description": "Mautic: Open Source Marketing Automation Software.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10887,
-      "forks": 3516,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "WordPress / mcp-adapter",
-      "url": "https://github.com/WordPress/mcp-adapter",
-      "description": "An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 1894,
-      "forks": 229,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "WordPress / wordpress-develop",
-      "url": "https://github.com/WordPress/wordpress-develop",
-      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 3501,
-      "forks": 3758,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "composer / composer",
-      "url": "https://github.com/composer/composer",
-      "description": "Dependency Manager for PHP",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 29571,
-      "forks": 4861,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "cakephp / cakephp",
-      "url": "https://github.com/cakephp/cakephp",
-      "description": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 8789,
-      "forks": 3352,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "librenms / librenms",
-      "url": "https://github.com/librenms/librenms",
-      "description": "Community-based GPL-licensed network monitoring system",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4981,
-      "forks": 2856,
-      "added_stars": "1 star today"
+      "stars": 10452,
+      "forks": 2793,
+      "added_stars": "19 stars today"
     },
     {
       "title": "cedar2025 / Xboard",
@@ -140,49 +50,59 @@
       "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4838,
-      "forks": 1382,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "matomo-org / matomo",
-      "url": "https://github.com/matomo-org/matomo",
-      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 21992,
-      "forks": 2927,
+      "stars": 4836,
+      "forks": 1383,
       "added_stars": "4 stars today"
     },
     {
-      "title": "PrestaShop / PrestaShop",
-      "url": "https://github.com/PrestaShop/PrestaShop",
-      "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+      "title": "freescout-help-desk / freescout",
+      "url": "https://github.com/freescout-help-desk/freescout",
+      "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 9240,
-      "forks": 5056,
-      "added_stars": "0 stars today"
+      "stars": 4627,
+      "forks": 741,
+      "added_stars": "1 star today"
     },
     {
-      "title": "opensourcepos / opensourcepos",
-      "url": "https://github.com/opensourcepos/opensourcepos",
-      "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
+      "title": "karatektus / pl_mail",
+      "url": "https://github.com/karatektus/pl_mail",
+      "description": "Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4470,
-      "forks": 2650,
-      "added_stars": "2 stars today"
+      "stars": 531,
+      "forks": 46,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "PHPMailer / PHPMailer",
-      "url": "https://github.com/PHPMailer/PHPMailer",
-      "description": "The classic email sending library for PHP",
+      "title": "kimai / kimai",
+      "url": "https://github.com/kimai/kimai",
+      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 22341,
-      "forks": 9765,
-      "added_stars": "2 stars today"
+      "stars": 5125,
+      "forks": 878,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "danielmiessler / SecLists",
+      "url": "https://github.com/danielmiessler/SecLists",
+      "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 74477,
+      "forks": 25198,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "shlinkio / shlink",
+      "url": "https://github.com/shlinkio/shlink",
+      "description": "The definitive self-hosted URL shortener",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5401,
+      "forks": 444,
+      "added_stars": "5 stars today"
     },
     {
       "title": "monicahq / monica",
@@ -190,19 +110,79 @@
       "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 25558,
+      "stars": 25561,
       "forks": 2628,
       "added_stars": "6 stars today"
     },
     {
-      "title": "symfony / symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
+      "title": "matomo-org / matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 31220,
-      "forks": 9927,
-      "added_stars": "3 stars today"
+      "stars": 21999,
+      "forks": 2926,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "librenms / librenms",
+      "url": "https://github.com/librenms/librenms",
+      "description": "Community-based GPL-licensed network monitoring system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4984,
+      "forks": 2856,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "joomla / joomla-cms",
+      "url": "https://github.com/joomla/joomla-cms",
+      "description": "Home of the Joomla! Content Management System",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5165,
+      "forks": 3887,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "grokability / snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 15138,
+      "forks": 4050,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "mautic / mautic",
+      "url": "https://github.com/mautic/mautic",
+      "description": "Mautic: Open Source Marketing Automation Software.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10892,
+      "forks": 3517,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "roundcube / roundcubemail",
+      "url": "https://github.com/roundcube/roundcubemail",
+      "description": "The Roundcube Webmail suite",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7253,
+      "forks": 1802,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nextcloud / server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "☁️ Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 37393,
+      "forks": 5333,
+      "added_stars": "15 stars today"
     }
   ]
 }

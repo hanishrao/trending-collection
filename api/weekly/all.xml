@@ -4,21 +4,11 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 01 Nov 2026 08:36:56 GMT</pubDate>
+  <pubDate>Mon, 02 Nov 2026 08:46:33 GMT</pubDate>
   <item>
     <title>Nutlope / hallmark</title>
     <link>https://github.com/Nutlope/hallmark</link>
     <description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</description>
-  </item>
-  <item>
-    <title>cloudflare / security-audit-skill</title>
-    <link>https://github.com/cloudflare/security-audit-skill</link>
-    <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
-  </item>
-  <item>
-    <title>AgriciDaniel / claude-seo</title>
-    <link>https://github.com/AgriciDaniel/claude-seo</link>
-    <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
   </item>
   <item>
     <title>pbakaus / impeccable</title>
@@ -26,29 +16,29 @@
     <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
   </item>
   <item>
+    <title>AgriciDaniel / claude-seo</title>
+    <link>https://github.com/AgriciDaniel/claude-seo</link>
+    <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
+  </item>
+  <item>
+    <title>thedotmack / claude-mem</title>
+    <link>https://github.com/thedotmack/claude-mem</link>
+    <description>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</description>
+  </item>
+  <item>
+    <title>cloudflare / security-audit-skill</title>
+    <link>https://github.com/cloudflare/security-audit-skill</link>
+    <description>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</description>
+  </item>
+  <item>
     <title>obra / superpowers</title>
     <link>https://github.com/obra/superpowers</link>
     <description>An agentic skills framework &amp; software development methodology that works.</description>
   </item>
   <item>
-    <title>multica-ai / andrej-karpathy-skills</title>
-    <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
-    <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#x27;s observations on LLM coding pitfalls.</description>
-  </item>
-  <item>
-    <title>TauricResearch / TradingAgents</title>
-    <link>https://github.com/TauricResearch/TradingAgents</link>
-    <description>TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
-  </item>
-  <item>
-    <title>jakubkrehel / skills</title>
-    <link>https://github.com/jakubkrehel/skills</link>
-    <description>A collection of agent skills that help you build great interfaces.</description>
-  </item>
-  <item>
-    <title>Leonxlnx / taste-skill</title>
-    <link>https://github.com/Leonxlnx/taste-skill</link>
-    <description>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages</description>
+    <title>JetBrains / thinkrail</title>
+    <link>https://github.com/JetBrains/thinkrail</link>
+    <description>Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need</description>
   </item>
   <item>
     <title>pingdotgg / t3code</title>
@@ -56,9 +46,24 @@
     <description></description>
   </item>
   <item>
-    <title>thedotmack / claude-mem</title>
-    <link>https://github.com/thedotmack/claude-mem</link>
-    <description>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</description>
+    <title>multica-ai / andrej-karpathy-skills</title>
+    <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
+    <description>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#x27;s observations on LLM coding pitfalls.</description>
+  </item>
+  <item>
+    <title>jakubkrehel / skills</title>
+    <link>https://github.com/jakubkrehel/skills</link>
+    <description>A collection of agent skills that help you build great interfaces.</description>
+  </item>
+  <item>
+    <title>TauricResearch / TradingAgents</title>
+    <link>https://github.com/TauricResearch/TradingAgents</link>
+    <description>TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
+  </item>
+  <item>
+    <title>Leonxlnx / taste-skill</title>
+    <link>https://github.com/Leonxlnx/taste-skill</link>
+    <description>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages</description>
   </item>
   <item>
     <title>anthropics / skills</title>
@@ -76,9 +81,9 @@
     <description>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分</description>
   </item>
   <item>
-    <title>AstrBotDevs / AstrBot</title>
-    <link>https://github.com/AstrBotDevs/AstrBot</link>
-    <description>AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</description>
+    <title>ghostty-org / ghostty</title>
+    <link>https://github.com/ghostty-org/ghostty</link>
+    <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
   </item>
 </channel>
 </rss>

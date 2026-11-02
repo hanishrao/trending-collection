@@ -4,16 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 01 Nov 2026 08:36:56 GMT</pubDate>
+  <pubDate>Mon, 02 Nov 2026 08:46:33 GMT</pubDate>
   <item>
     <title>pbakaus / impeccable</title>
     <link>https://github.com/pbakaus/impeccable</link>
     <description>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</description>
-  </item>
-  <item>
-    <title>akitaonrails / ai-memory</title>
-    <link>https://github.com/akitaonrails/ai-memory</link>
-    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>agentgateway / agentgateway</title>
@@ -21,9 +16,19 @@
     <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
   </item>
   <item>
+    <title>akitaonrails / ai-memory</title>
+    <link>https://github.com/akitaonrails/ai-memory</link>
+    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+  </item>
+  <item>
     <title>pollen-robotics / microduck</title>
     <link>https://github.com/pollen-robotics/microduck</link>
     <description>A Tiny biped duck robot 🦆</description>
+  </item>
+  <item>
+    <title>cjpais / Handy</title>
+    <link>https://github.com/cjpais/Handy</link>
+    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
   </item>
   <item>
     <title>macro-inc / macro</title>
@@ -36,34 +41,9 @@
     <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
   </item>
   <item>
-    <title>CapSoftware / Cap</title>
-    <link>https://github.com/CapSoftware/Cap</link>
-    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
-  </item>
-  <item>
     <title>xai-org / x-algorithm</title>
     <link>https://github.com/xai-org/x-algorithm</link>
     <description>Algorithm powering the For You feed on X</description>
-  </item>
-  <item>
-    <title>stalwartlabs / stalwart</title>
-    <link>https://github.com/stalwartlabs/stalwart</link>
-    <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
-  </item>
-  <item>
-    <title>NVIDIA / cuda-rust</title>
-    <link>https://github.com/NVIDIA/cuda-rust</link>
-    <description>NVIDIA&#x27;s CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.</description>
-  </item>
-  <item>
-    <title>trymirai / uzu</title>
-    <link>https://github.com/trymirai/uzu</link>
-    <description>A high-performance inference engine for AI models</description>
-  </item>
-  <item>
-    <title>xerj-org / xerj</title>
-    <link>https://github.com/xerj-org/xerj</link>
-    <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
   </item>
   <item>
     <title>Mesh-LLM / mesh-llm</title>
@@ -71,9 +51,9 @@
     <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
   </item>
   <item>
-    <title>cjpais / Handy</title>
-    <link>https://github.com/cjpais/Handy</link>
-    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
   </item>
   <item>
     <title>Nasiko-Labs / nasiko</title>
@@ -81,19 +61,39 @@
     <description>The Open Runtime for AI Agents</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+    <title>trymirai / uzu</title>
+    <link>https://github.com/trymirai/uzu</link>
+    <description>A high-performance inference engine for AI models</description>
   </item>
   <item>
-    <title>rivet-dev / rivet</title>
-    <link>https://github.com/rivet-dev/rivet</link>
-    <description>Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.</description>
+    <title>stalwartlabs / stalwart</title>
+    <link>https://github.com/stalwartlabs/stalwart</link>
+    <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
   </item>
   <item>
     <title>openai / codex</title>
     <link>https://github.com/openai/codex</link>
     <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuda-rust</title>
+    <link>https://github.com/NVIDIA/cuda-rust</link>
+    <description>NVIDIA&#x27;s CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.</description>
+  </item>
+  <item>
+    <title>leepokai / Codync</title>
+    <link>https://github.com/leepokai/Codync</link>
+    <description>Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.</description>
+  </item>
+  <item>
+    <title>herdrdev / herdr</title>
+    <link>https://github.com/herdrdev/herdr</link>
+    <description>the runtime your coding agents live on</description>
+  </item>
+  <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
 </channel>
 </rss>
