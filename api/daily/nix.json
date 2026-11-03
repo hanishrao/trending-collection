@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 02 Nov 2026 08:45:06 GMT",
+  "pubDate": "Tue, 03 Nov 2026 08:56:15 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,28 +10,18 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26674,
-      "forks": 20603,
-      "added_stars": "13 stars today"
+      "stars": 26698,
+      "forks": 20614,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "nix-community / disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3411,
-      "forks": 338,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "nix-community / nixGL",
-      "url": "https://github.com/nix-community/nixGL",
-      "description": "A wrapper tool for nix OpenGL application [maintainer=@guibou]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1041,
-      "forks": 152,
+      "stars": 2226,
+      "forks": 319,
       "added_stars": "1 star today"
     },
     {
@@ -40,19 +30,29 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10484,
-      "forks": 2506,
-      "added_stars": "5 stars today"
+      "stars": 10488,
+      "forks": 2508,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "title": "Mic92 / sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2222,
-      "forks": 315,
-      "added_stars": "7 stars today"
+      "stars": 3251,
+      "forks": 239,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3351,
+      "forks": 996,
+      "added_stars": "0 stars today"
     },
     {
       "title": "supabase / postgres",
@@ -62,16 +62,16 @@
       "languageColor": "#7e7eff",
       "stars": 1801,
       "forks": 273,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "finix-community / finix",
-      "url": "https://github.com/finix-community/finix",
-      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
+      "title": "nix-community / nixGL",
+      "url": "https://github.com/nix-community/nixGL",
+      "description": "A wrapper tool for nix OpenGL application [maintainer=@guibou]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 602,
-      "forks": 43,
+      "stars": 1041,
+      "forks": 153,
       "added_stars": "0 stars today"
     }
   ]

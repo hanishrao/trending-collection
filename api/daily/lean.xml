@@ -4,11 +4,16 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 02 Nov 2026 08:45:06 GMT</pubDate>
+  <pubDate>Tue, 03 Nov 2026 08:56:15 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
     <description>Lean 4 programming language and theorem prover</description>
+  </item>
+  <item>
+    <title>facebookresearch / atlas-lean</title>
+    <link>https://github.com/facebookresearch/atlas-lean</link>
+    <description>ATLAS Autoformalized Textbook Library At Scale</description>
   </item>
   <item>
     <title>leanprover-community / mathlib4</title>
@@ -21,16 +26,6 @@
     <description>The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover</description>
   </item>
   <item>
-    <title>leanprover-community / aesop</title>
-    <link>https://github.com/leanprover-community/aesop</link>
-    <description>White-box automation for Lean 4</description>
-  </item>
-  <item>
-    <title>leanprover-community / import-graph</title>
-    <link>https://github.com/leanprover-community/import-graph</link>
-    <description>Tool to analyse the import structure of lean projects.</description>
-  </item>
-  <item>
     <title>leanprover-community / quote4</title>
     <link>https://github.com/leanprover-community/quote4</link>
     <description>Intuitive, type-safe expression quotations for Lean 4.</description>
@@ -41,14 +36,19 @@
     <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
-    <title>leanprover-community / LeanSearchClient</title>
-    <link>https://github.com/leanprover-community/LeanSearchClient</link>
-    <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
-  </item>
-  <item>
     <title>leanprover-community / ProofWidgets4</title>
     <link>https://github.com/leanprover-community/ProofWidgets4</link>
     <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
+  </item>
+  <item>
+    <title>leanprover-community / import-graph</title>
+    <link>https://github.com/leanprover-community/import-graph</link>
+    <description>Tool to analyse the import structure of lean projects.</description>
+  </item>
+  <item>
+    <title>leanprover-community / aesop</title>
+    <link>https://github.com/leanprover-community/aesop</link>
+    <description>White-box automation for Lean 4</description>
   </item>
   <item>
     <title>leanprover-community / plausible</title>
@@ -56,9 +56,9 @@
     <description></description>
   </item>
   <item>
-    <title>anthropics / formal-math</title>
-    <link>https://github.com/anthropics/formal-math</link>
-    <description></description>
+    <title>leanprover-community / LeanSearchClient</title>
+    <link>https://github.com/leanprover-community/LeanSearchClient</link>
+    <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
   </item>
 </channel>
 </rss>

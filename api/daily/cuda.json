@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 02 Nov 2026 08:45:06 GMT",
+  "pubDate": "Tue, 03 Nov 2026 08:56:15 GMT",
   "items": [
     {
       "title": "karpathy / llm.c",
@@ -10,9 +10,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31366,
-      "forks": 3806,
-      "added_stars": "34 stars today"
+      "stars": 31382,
+      "forks": 3810,
+      "added_stars": "14 stars today"
     },
     {
       "title": "flashinfer-ai / flashinfer",
@@ -20,9 +20,29 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6834,
-      "forks": 1684,
-      "added_stars": "3 stars today"
+      "stars": 6842,
+      "forks": 1688,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10404,
+      "forks": 1538,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3988,
+      "forks": 542,
+      "added_stars": "2 stars today"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -30,9 +50,9 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 883,
-      "forks": 255,
-      "added_stars": "1 star today"
+      "stars": 886,
+      "forks": 254,
+      "added_stars": "2 stars today"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -41,18 +61,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 17585,
-      "forks": 2065,
+      "forks": 2066,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3986,
-      "forks": 541,
-      "added_stars": "2 stars today"
     }
   ]
 }
