@@ -47,7 +47,7 @@ def test_outputs_and_readme_preservation(tmp_path):
     run(tmp_path, session)
     content = readme.read_text()
     assert content.startswith('Existing GitHub content\n')
-    assert content.count('## 🤗 Hugging Face Trending') == 1
+    assert content.count('## 🤗 Hugging Face models') == 1
     assert '42' in content
     assert 'text&#124;&lt;test&gt;' in content
     for kind in ('models', 'datasets'):
@@ -72,6 +72,34 @@ def test_github_refresh_preserves_huggingface_section(tmp_path):
 
     (tmp_path / 'README.md').write_text('<!-- TRENDING_START -->\nOld\n<!-- TRENDING_END -->\n')
     run(tmp_path, session_for([{'id': 'org/item', 'downloads': 1}]))
-    section = (tmp_path / 'README.md').read_text().split('<!-- HUGGINGFACE_START -->')[1]
+    import json
+    before = json.loads((tmp_path / 'api/huggingface/daily/models.json').read_text())
     update_readme(root=str(tmp_path))
-    assert (tmp_path / 'README.md').read_text().split('<!-- HUGGINGFACE_START -->')[1] == section
+    content = (tmp_path / 'README.md').read_text()
+    from readme_dashboard import timestamp
+    assert timestamp(before['updated_at']) in content
+    assert 'org/item' in content
+    assert content.count('## 🤗 Hugging Face models') == 1
+    assert content.index('Hugging Face models') < content.index('JSON API & RSS')
+
+
+def test_failed_refresh_retains_saved_feeds_and_timestamps(tmp_path):
+    (tmp_path / 'README.md').write_text('Manual introduction\n')
+    run(tmp_path, session_for([{'id': 'org/model'}]))
+    before = {path: path.read_bytes() for path in tmp_path.rglob('*') if path.is_file()}
+    session = session_for([])
+    with pytest.raises(ValueError):
+        run(tmp_path, session)
+    assert all(path.read_bytes() == content for path, content in before.items())
+
+
+def test_repeat_collection_has_one_observation_per_day(tmp_path):
+    (tmp_path / 'README.md').write_text('Introduction\n')
+    run(tmp_path, session_for([{'id': 'org/first'}]))
+    run(tmp_path, session_for([{'id': 'org/second'}]))
+    paths = list((tmp_path / 'api/huggingface/history').glob('*/models.json'))
+    assert len(paths) == 1
+    assert json.loads(paths[0].read_text())['items'][0]['id'] == 'org/second'
+    analytics = json.loads((tmp_path / 'api/huggingface/analytics/models.json').read_text())
+    assert analytics['observed_days_7d'] == 1
+    assert analytics['comparison_date'] is None

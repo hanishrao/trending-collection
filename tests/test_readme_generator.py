@@ -205,7 +205,7 @@ def rendered(archive):
 
 
 def test_render_readme_has_title(rendered):
-    assert "# 📈 GitHub Trending Collection" in rendered
+    assert "# 📈 Trending Collection" in rendered
 
 
 def test_render_readme_has_today_section(rendered):
@@ -280,3 +280,47 @@ def test_update_readme_writes_markers_if_missing(archive):
     content = readme.read_text(encoding="utf-8")
     assert MARKER_START in content
     assert "🔥 Today's Trending" in content
+
+
+def test_discovery_before_history_and_api(rendered):
+    assert rendered.index('GitHub trending') < rendered.index('## 🤗 Hugging Face models')
+    assert rendered.index('## 🤗 Hugging Face datasets') < rendered.index('Changes and momentum')
+    assert rendered.index('Changes and momentum') < rendered.index('JSON API & RSS')
+    assert '```json' not in rendered
+    assert 'Collecting history' in rendered
+
+
+def test_migrates_old_block_preserving_manual_text(archive):
+    path = archive / 'README.md'
+    path.write_text('Intro\n<!-- TRENDING_START -->old<!-- TRENDING_END -->\n'
+                    '<!-- HUGGINGFACE_START -->old HF<!-- HUGGINGFACE_END -->\nFooter\n')
+    update_readme(str(archive), today=datetime.date(2026, 5, 27))
+    result = path.read_text()
+    assert result.startswith('Intro\n')
+    assert result.endswith('Footer\n')
+    assert 'HUGGINGFACE_START' not in result
+    assert result.count('## 🤗 Hugging Face models') == 1
+
+
+def test_readme_escapes_and_bounds_untrusted_text():
+    from readme_dashboard import text, size
+    assert text('unsafe|<script>\nnext') == 'unsafe&#124;&lt;script&gt; next'
+    assert len(text('a' * 200)) == 100
+    assert size(None) == '—'
+    assert size(1_700_000_000) == '1.7B'
+    assert size(123) == '123'
+
+
+def test_parameter_sizes_stay_readable():
+    from readme_dashboard import size
+    assert size(760_000_000_000) == '760B'
+    assert size(600_000_000) == '600M'
+
+
+def test_missing_github_day_keeps_latest_archive_visible(archive):
+    (archive / 'README.md').write_text('Introduction\n')
+    update_readme(str(archive), today=datetime.date(2026, 6, 10))
+    content = (archive / 'README.md').read_text()
+    assert 'Archive date: **2026-05-27**' in content
+    assert 'knowledge-work-plugins' in content
+    assert 'Archive date: **2026-06-10**' not in content
