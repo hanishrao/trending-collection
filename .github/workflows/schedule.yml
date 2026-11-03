@@ -34,6 +34,15 @@ jobs:
       - name: Run tests
         run: pytest -q
 
+      - name: Collect Hugging Face trending metrics
+        id: huggingface
+        continue-on-error: true
+        run: python huggingface_collector.py
+
+      - name: Report Hugging Face collection failure
+        if: steps.huggingface.outcome == 'failure'
+        run: echo "::warning::Hugging Face collection failed. Previous feed timestamps are retained."
+
       - name: Run scraper
         run: python gitreposcraper.py
 

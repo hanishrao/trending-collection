@@ -91,10 +91,10 @@ _Repos appearing on trending for the first time in the last 30 days_
 _This repository provides a free, static JSON API and RSS feeds for GitHub Trending repositories, supporting 700+ languages._
 
 ### Endpoints
-- **JSON (All)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/all.json`
-- **JSON (Specific)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/{language}.json`
-- **RSS (All)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/all.xml`
-- **RSS (Specific)**: `https://cdn.jsdelivr.net/gh/Hyraze/trending-collection@main/api/daily/{language}.xml`
+- **JSON (All)**: `https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/daily/all.json`
+- **JSON (Specific)**: `https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/daily/{language}.json`
+- **RSS (All)**: `https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/daily/all.xml`
+- **RSS (Specific)**: `https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/daily/{language}.xml`
 
 ### Language Registry
 You can fetch the complete list of supported `{language}` parameters (700+ languages) here:
@@ -121,3 +121,51 @@ You can fetch the complete list of supported `{language}` parameters (700+ langu
 ```
 
 <!-- TRENDING_END -->
+
+<!-- HUGGINGFACE_START -->
+## 🤗 Hugging Face Trending
+
+Top models and datasets by Hugging Face trending score, refreshed daily. Downloads cover the **last 30 days**, not the collection day. Missing metrics are shown as — (JSON: `null`).
+
+### Trending Models
+
+Updated: 2026-11-03T15:14:13.873437+00:00
+
+| Repository | Downloads (30d) | Likes | Trending score | Task / category |
+|---|---:|---:|---:|---|
+| [LiquidAI/LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) | 47,817 | 1,358 | 836 | text-generation |
+| [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | 187,260 | 4,809 | 637 | image-text-to-text |
+| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | 38,942 | 709 | 628 | automatic-speech-recognition |
+| [mistralai/Mistral-Large-4-1T-A52B](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) | 6,556 | 1,527 | 520 | image-text-to-text |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | 10,742 | 472 | 450 | image-to-3d |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | 2,488,128 | 10,436 | 377 | image-to-video |
+| [ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) | 91,123 | 584 | 373 | — |
+| [Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex) | 633 | 377 | 355 | image-to-video |
+| [baidu/Unlimited-OCR-2](https://huggingface.co/baidu/Unlimited-OCR-2) | 189,897 | 579 | 324 | image-text-to-text |
+| [LiquidAI/LFM3-Omni-2B](https://huggingface.co/LiquidAI/LFM3-Omni-2B) | 11,662 | 328 | 297 | any-to-any |
+
+[JSON API](https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/huggingface/daily/models.json) · [RSS feed](https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/huggingface/daily/models.xml)
+
+### Trending Datasets
+
+Updated: 2026-11-03T15:14:14.181182+00:00
+
+| Repository | Downloads (30d) | Likes | Trending score | Task / category |
+|---|---:|---:|---:|---|
+| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | 1,237,798 | 1,323 | 544 | — |
+| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | 9,588 | 625 | 170 | text-generation, question-answering |
+| [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news) | 452,719 | 446 | 85 | text-generation, feature-extraction, text-classification, question-answering |
+| [scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection) | 40,228 | 372 | 68 | — |
+| [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data) | 198,777 | 607 | 61 | — |
+| [codepawl/simready-glb](https://huggingface.co/datasets/codepawl/simready-glb) | 16,011 | 60 | 58 | — |
+| [secemp9/arxiv-complete](https://huggingface.co/datasets/secemp9/arxiv-complete) | 162,484 | 790 | 54 | text-generation, text-retrieval |
+| [ccore/ThreeJS-3D-Scenes](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes) | 3,372 | 53 | 49 | text-generation |
+| [HuggingFaceBio/FineDNA](https://huggingface.co/datasets/HuggingFaceBio/FineDNA) | 6,432 | 48 | 47 | text-generation |
+| [nvidia/simready-central-library](https://huggingface.co/datasets/nvidia/simready-central-library) | 386 | 113 | 46 | — |
+
+[JSON API](https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/huggingface/daily/datasets.json) · [RSS feed](https://cdn.jsdelivr.net/gh/hanishrao/trending-collection@main/api/huggingface/daily/datasets.xml)
+
+The JSON feeds include up to 20 entries each, with available all-time downloads, licenses, tags, creation/update dates, model task, library and Safetensors parameter count. Parameter counts are unavailable for some models. Popularity metrics are not quality benchmarks.
+
+[API schema and collection details](docs/HUGGINGFACE.md)
+<!-- HUGGINGFACE_END -->
