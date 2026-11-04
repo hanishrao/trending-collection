@@ -2,37 +2,127 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 03 Nov 2026 08:56:15 GMT",
+  "pubDate": "Wed, 04 Nov 2026 08:26:28 GMT",
   "items": [
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2125,
+      "forks": 1279,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-iam",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
+      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 874,
+      "forks": 1114,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1042,
+      "forks": 782,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3280,
-      "forks": 4620,
+      "stars": 3279,
+      "forks": 4621,
       "added_stars": "0 stars today"
     },
     {
-      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
-      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
-      "description": "",
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 588,
-      "forks": 914,
-      "added_stars": "2 stars today"
+      "stars": 589,
+      "forks": 3804,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1289,
-      "forks": 616,
-      "added_stars": "1 star today"
+      "stars": 5014,
+      "forks": 4414,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "LinkedInLearning / learning-terraform-3087701",
+      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
+      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 151,
+      "forks": 7381,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 117,
+      "forks": 203,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 156,
+      "forks": 180,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 968,
+      "forks": 590,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-s3-bucket",
+      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
+      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 177,
+      "forks": 858,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 238,
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-google-modules / terraform-google-iam",
@@ -41,77 +131,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 242,
-      "forks": 191,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "RaJiska / terraform-aws-fck-nat",
-      "url": "https://github.com/RaJiska/terraform-aws-fck-nat",
-      "description": "Terraform module for fck-nat",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 174,
-      "forks": 82,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 50,
-      "forks": 63,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-kms",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
-      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 63,
-      "forks": 111,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-s3-log-storage",
-      "url": "https://github.com/cloudposse/terraform-aws-s3-log-storage",
-      "description": "This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 120,
-      "forks": 108,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-memorystore",
-      "url": "https://github.com/terraform-google-modules/terraform-google-memorystore",
-      "description": "Creates a fully functional Google Memorystore (redis) instance",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 54,
-      "forks": 125,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bridgecrewio / checkov-action",
-      "url": "https://github.com/bridgecrewio/checkov-action",
-      "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 320,
-      "forks": 114,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-cloud-nat",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-nat",
-      "description": "Creates and configures Cloud NAT",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 97,
-      "forks": 74,
+      "forks": 192,
       "added_stars": "0 stars today"
     }
   ]

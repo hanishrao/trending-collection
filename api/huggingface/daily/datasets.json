@@ -1,7 +1,7 @@
 {
   "title": "Hugging Face Trending Datasets",
   "source": "https://huggingface.co/datasets?sort=trending",
-  "updated_at": "2026-11-03T15:14:14.181182+00:00",
+  "updated_at": "2026-11-04T08:24:56.381810+00:00",
   "ranking": "huggingface_trending_score",
   "download_window_days": 30,
   "items": [
@@ -11,8 +11,8 @@
       "url": "https://huggingface.co/datasets/nvidia/simready-assets",
       "downloads_30d": 1237798,
       "downloads_all_time": 1239296,
-      "likes": 1323,
-      "trending_score": 544,
+      "likes": 1358,
+      "trending_score": 496,
       "created_at": "2026-06-29T15:38:26.000Z",
       "last_modified": "2026-11-02T20:05:32.000Z",
       "licenses": [
@@ -31,8 +31,8 @@
       "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
       "downloads_30d": 9588,
       "downloads_all_time": 15699,
-      "likes": 625,
-      "trending_score": 170,
+      "likes": 647,
+      "trending_score": 173,
       "created_at": "2026-05-30T16:41:46.000Z",
       "last_modified": "2026-08-31T17:57:10.000Z",
       "licenses": [
@@ -78,8 +78,8 @@
       "url": "https://huggingface.co/datasets/open-index/hacker-news",
       "downloads_30d": 452719,
       "downloads_all_time": 680334,
-      "likes": 446,
-      "trending_score": 85,
+      "likes": 466,
+      "trending_score": 100,
       "created_at": "2026-03-14T09:58:41.000Z",
       "last_modified": "2026-08-23T16:25:00.000Z",
       "licenses": [
@@ -117,8 +117,8 @@
       "url": "https://huggingface.co/datasets/scenario-labs/3d-collection",
       "downloads_30d": 40228,
       "downloads_all_time": 40228,
-      "likes": 372,
-      "trending_score": 68,
+      "likes": 380,
+      "trending_score": 63,
       "created_at": "2026-10-19T14:08:44.000Z",
       "last_modified": "2026-10-19T15:21:02.000Z",
       "licenses": [
@@ -141,42 +141,12 @@
     },
     {
       "rank": 5,
-      "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
-      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
-      "downloads_30d": 198777,
-      "downloads_all_time": 261772,
-      "likes": 607,
-      "trending_score": 61,
-      "created_at": "2026-09-01T12:12:13.000Z",
-      "last_modified": "2026-11-03T09:10:18.000Z",
-      "licenses": [
-        "other"
-      ],
-      "tags": [
-        "license:other",
-        "size_categories:n>1T",
-        "region:us",
-        "finance",
-        "trading",
-        "stock-market",
-        "china",
-        "a-share",
-        "level-2",
-        "limit-order-book",
-        "tick-data",
-        "high-frequency",
-        "market-microstructure"
-      ],
-      "task_categories": []
-    },
-    {
-      "rank": 6,
       "id": "codepawl/simready-glb",
       "url": "https://huggingface.co/datasets/codepawl/simready-glb",
       "downloads_30d": 16011,
       "downloads_all_time": 16011,
-      "likes": 60,
-      "trending_score": 58,
+      "likes": 61,
+      "trending_score": 59,
       "created_at": "2026-10-28T15:30:00.000Z",
       "last_modified": "2026-11-03T09:54:11.000Z",
       "licenses": [
@@ -199,6 +169,36 @@
         "three.js",
         "simready",
         "nvidia"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 6,
+      "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+      "downloads_30d": 198777,
+      "downloads_all_time": 261772,
+      "likes": 615,
+      "trending_score": 54,
+      "created_at": "2026-09-01T12:12:13.000Z",
+      "last_modified": "2026-11-03T20:00:20.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "license:other",
+        "size_categories:n>1T",
+        "region:us",
+        "finance",
+        "trading",
+        "stock-market",
+        "china",
+        "a-share",
+        "level-2",
+        "limit-order-book",
+        "tick-data",
+        "high-frequency",
+        "market-microstructure"
       ],
       "task_categories": []
     },
@@ -247,10 +247,10 @@
       "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
       "downloads_30d": 3372,
       "downloads_all_time": 3372,
-      "likes": 53,
-      "trending_score": 49,
+      "likes": 57,
+      "trending_score": 53,
       "created_at": "2026-10-28T03:21:45.000Z",
-      "last_modified": "2026-11-02T00:53:35.000Z",
+      "last_modified": "2026-11-03T21:53:43.000Z",
       "licenses": [
         "mit"
       ],
@@ -286,8 +286,8 @@
       "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA",
       "downloads_30d": 6432,
       "downloads_all_time": 6432,
-      "likes": 48,
-      "trending_score": 47,
+      "likes": 51,
+      "trending_score": 49,
       "created_at": "2026-10-30T11:42:49.000Z",
       "last_modified": "2026-10-30T17:15:34.000Z",
       "licenses": [
@@ -318,22 +318,36 @@
     },
     {
       "rank": 10,
-      "id": "nvidia/simready-central-library",
-      "url": "https://huggingface.co/datasets/nvidia/simready-central-library",
-      "downloads_30d": 386,
-      "downloads_all_time": 387,
-      "likes": 113,
+      "id": "PentesterFlow/OffsecCyber",
+      "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber",
+      "downloads_30d": 0,
+      "downloads_all_time": 0,
+      "likes": 48,
       "trending_score": 46,
-      "created_at": "2026-09-29T15:02:05.000Z",
-      "last_modified": "2026-10-27T14:50:28.000Z",
+      "created_at": "2026-11-03T09:53:35.000Z",
+      "last_modified": "2026-11-03T20:19:14.000Z",
       "licenses": [
         "apache-2.0"
       ],
       "tags": [
+        "task_categories:text-generation",
+        "task_categories:text-classification",
+        "language:en",
         "license:apache-2.0",
-        "region:us"
+        "size_categories:10K<n<100K",
+        "region:us",
+        "cybersecurity",
+        "application-security",
+        "vulnerabilities",
+        "cve",
+        "cwe",
+        "instruction-tuning",
+        "jsonl"
       ],
-      "task_categories": []
+      "task_categories": [
+        "text-generation",
+        "text-classification"
+      ]
     },
     {
       "rank": 11,
@@ -424,7 +438,7 @@
       "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
       "downloads_30d": 6307,
       "downloads_all_time": 11235,
-      "likes": 460,
+      "likes": 462,
       "trending_score": 35,
       "created_at": "2026-09-02T12:52:47.000Z",
       "last_modified": "2026-10-10T12:16:08.000Z",
@@ -477,68 +491,31 @@
     },
     {
       "rank": 13,
-      "id": "CohereLabs/10-2026-qwen-investigation-traces",
-      "url": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
-      "downloads_30d": 6819,
-      "downloads_all_time": 6819,
-      "likes": 105,
-      "trending_score": 35,
-      "created_at": "2026-10-26T21:32:29.000Z",
-      "last_modified": "2026-10-27T00:21:38.000Z",
-      "licenses": [],
+      "id": "nvidia/simready-central-library",
+      "url": "https://huggingface.co/datasets/nvidia/simready-central-library",
+      "downloads_30d": 386,
+      "downloads_all_time": 387,
+      "likes": 115,
+      "trending_score": 31,
+      "created_at": "2026-09-29T15:02:05.000Z",
+      "last_modified": "2026-10-27T14:50:28.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
       "tags": [
-        "size_categories:n<1K",
-        "format:json",
-        "format:agent-traces",
-        "modality:tabular",
-        "modality:text",
-        "library:datasets",
-        "library:pandas",
-        "library:polars",
-        "library:mlcroissant",
+        "license:apache-2.0",
         "region:us"
       ],
       "task_categories": []
     },
     {
       "rank": 14,
-      "id": "datasocial/tiktok-5.6B-videos",
-      "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
-      "downloads_30d": 35184,
-      "downloads_all_time": 35335,
-      "likes": 482,
-      "trending_score": 29,
-      "created_at": "2026-10-03T11:14:37.000Z",
-      "last_modified": "2026-10-23T07:13:27.000Z",
-      "licenses": [
-        "cc-by-nc-4.0"
-      ],
-      "tags": [
-        "license:cc-by-nc-4.0",
-        "size_categories:1B<n<10B",
-        "format:parquet",
-        "modality:tabular",
-        "modality:text",
-        "library:datasets",
-        "library:dask",
-        "library:polars",
-        "library:mlcroissant",
-        "region:us",
-        "tiktok",
-        "social-media",
-        "short-video",
-        "creators"
-      ],
-      "task_categories": []
-    },
-    {
-      "rank": 15,
       "id": "Reizxn/HolyCyber",
       "url": "https://huggingface.co/datasets/Reizxn/HolyCyber",
       "downloads_30d": 470,
       "downloads_all_time": 470,
-      "likes": 30,
-      "trending_score": 29,
+      "likes": 31,
+      "trending_score": 30,
       "created_at": "2026-10-30T14:04:06.000Z",
       "last_modified": "2026-10-30T14:06:10.000Z",
       "licenses": [
@@ -571,12 +548,68 @@
       ]
     },
     {
+      "rank": 15,
+      "id": "CohereLabs/10-2026-qwen-investigation-traces",
+      "url": "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces",
+      "downloads_30d": 6819,
+      "downloads_all_time": 6819,
+      "likes": 105,
+      "trending_score": 28,
+      "created_at": "2026-10-26T21:32:29.000Z",
+      "last_modified": "2026-10-27T00:21:38.000Z",
+      "licenses": [],
+      "tags": [
+        "size_categories:n<1K",
+        "format:json",
+        "format:agent-traces",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us"
+      ],
+      "task_categories": []
+    },
+    {
       "rank": 16,
+      "id": "datasocial/tiktok-5.6B-videos",
+      "url": "https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos",
+      "downloads_30d": 35184,
+      "downloads_all_time": 35335,
+      "likes": 482,
+      "trending_score": 26,
+      "created_at": "2026-10-03T11:14:37.000Z",
+      "last_modified": "2026-10-23T07:13:27.000Z",
+      "licenses": [
+        "cc-by-nc-4.0"
+      ],
+      "tags": [
+        "license:cc-by-nc-4.0",
+        "size_categories:1B<n<10B",
+        "format:parquet",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "tiktok",
+        "social-media",
+        "short-video",
+        "creators"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 17,
       "id": "bones-studio/seed",
       "url": "https://huggingface.co/datasets/bones-studio/seed",
       "downloads_30d": 9290,
       "downloads_all_time": 42528,
-      "likes": 388,
+      "likes": 393,
       "trending_score": 21,
       "created_at": "2026-03-10T23:17:48.000Z",
       "last_modified": "2026-05-03T15:03:12.000Z",
@@ -615,52 +648,13 @@
       ]
     },
     {
-      "rank": 17,
-      "id": "PentesterFlow/OffsecCyber",
-      "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber",
-      "downloads_30d": 0,
-      "downloads_all_time": 0,
-      "likes": 22,
-      "trending_score": 21,
-      "created_at": "2026-11-03T09:53:35.000Z",
-      "last_modified": "2026-11-03T10:03:59.000Z",
-      "licenses": [
-        "apache-2.0"
-      ],
-      "tags": [
-        "task_categories:text-generation",
-        "task_categories:text-classification",
-        "language:en",
-        "license:apache-2.0",
-        "size_categories:10K<n<100K",
-        "format:json",
-        "modality:text",
-        "library:datasets",
-        "library:pandas",
-        "library:polars",
-        "library:mlcroissant",
-        "region:us",
-        "cybersecurity",
-        "application-security",
-        "vulnerabilities",
-        "cve",
-        "cwe",
-        "instruction-tuning",
-        "jsonl"
-      ],
-      "task_categories": [
-        "text-generation",
-        "text-classification"
-      ]
-    },
-    {
       "rank": 18,
       "id": "TheAgenticDataCompany/open-yap-1k",
       "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
       "downloads_30d": 4352,
       "downloads_all_time": 10334,
-      "likes": 182,
-      "trending_score": 20,
+      "likes": 183,
+      "trending_score": 21,
       "created_at": "2026-09-02T09:13:14.000Z",
       "last_modified": "2026-10-21T07:08:26.000Z",
       "licenses": [
@@ -694,26 +688,6 @@
     },
     {
       "rank": 19,
-      "id": "nvidia/PhysicalAI-Autonomous-Vehicles-Foundation4D",
-      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles-Foundation4D",
-      "downloads_30d": 2458,
-      "downloads_all_time": 2458,
-      "likes": 41,
-      "trending_score": 20,
-      "created_at": "2026-10-15T07:01:49.000Z",
-      "last_modified": "2026-10-21T08:36:57.000Z",
-      "licenses": [
-        "other"
-      ],
-      "tags": [
-        "license:other",
-        "region:us",
-        "foundation4d"
-      ],
-      "task_categories": []
-    },
-    {
-      "rank": 20,
       "id": "bitmanagerai-speech-lab/darbuka_arabic_tts_dataset",
       "url": "https://huggingface.co/datasets/bitmanagerai-speech-lab/darbuka_arabic_tts_dataset",
       "downloads_30d": 1507,
@@ -743,6 +717,72 @@
       "task_categories": [
         "automatic-speech-recognition",
         "text-to-speech"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
+      "url": "https://huggingface.co/datasets/Manusagents/GPT-5.5-Gemini-3.1-Pro-Grok-4-Claude-Fable-5-Mythos-5-Qwen-3.7-Max-and-more-Distillation-Dataset",
+      "downloads_30d": 11540,
+      "downloads_all_time": 65486,
+      "likes": 273,
+      "trending_score": 19,
+      "created_at": "2026-07-01T12:33:29.000Z",
+      "last_modified": "2026-08-29T04:32:46.000Z",
+      "licenses": [
+        "mit"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:other",
+        "language:en",
+        "language:multilingual",
+        "license:mit",
+        "size_categories:10M<n<100M",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "distillation",
+        "instruction-tuning",
+        "sft",
+        "reasoning",
+        "coding",
+        "code-repositories",
+        "cybersecurity",
+        "attack",
+        "defense",
+        "exploit",
+        "penetration-testing",
+        "red-team",
+        "blue-team",
+        "open-source",
+        "collection",
+        "fable-5",
+        "gpt-5.5",
+        "claude",
+        "gemini",
+        "grok",
+        "kimi",
+        "deepseek",
+        "Trace",
+        "qwen",
+        "biology",
+        "science",
+        "Llm",
+        "Open-source",
+        "Math",
+        "cyber",
+        "security",
+        "cyber-security",
+        "cyber security"
+      ],
+      "task_categories": [
+        "text-generation",
+        "other"
       ]
     }
   ]

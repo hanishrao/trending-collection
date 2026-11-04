@@ -4,7 +4,12 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 03 Nov 2026 08:57:43 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 08:27:58 GMT</pubDate>
+  <item>
+    <title>JustVugg / colibri</title>
+    <link>https://github.com/JustVugg/colibri</link>
+    <description>A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.</description>
+  </item>
   <item>
     <title>microsoft / PowerToys</title>
     <link>https://github.com/microsoft/PowerToys</link>
@@ -16,14 +21,9 @@
     <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
   </item>
   <item>
-    <title>JustVugg / colibri</title>
-    <link>https://github.com/JustVugg/colibri</link>
-    <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
-  </item>
-  <item>
-    <title>snesrev / zelda3</title>
-    <link>https://github.com/snesrev/zelda3</link>
-    <description></description>
+    <title>rizinorg / rizin</title>
+    <link>https://github.com/rizinorg/rizin</link>
+    <description>UNIX-like reverse engineering framework and command-line toolset.</description>
   </item>
   <item>
     <title>meta / zstd</title>
@@ -31,34 +31,24 @@
     <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
   <item>
-    <title>valkey-io / valkey</title>
-    <link>https://github.com/valkey-io/valkey</link>
-    <description>A flexible distributed key-value database that is optimized for caching and other realtime workloads.</description>
+    <title>valinet / ExplorerPatcher</title>
+    <link>https://github.com/valinet/ExplorerPatcher</link>
+    <description>This project aims to enhance the working environment on Windows</description>
   </item>
   <item>
-    <title>lvgl / lvgl</title>
-    <link>https://github.com/lvgl/lvgl</link>
-    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
-  </item>
-  <item>
-    <title>curl / curl</title>
-    <link>https://github.com/curl/curl</link>
-    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
-  </item>
-  <item>
-    <title>Mbed-TLS / mbedtls</title>
-    <link>https://github.com/Mbed-TLS/mbedtls</link>
-    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
-  </item>
-  <item>
-    <title>NVIDIA / open-gpu-kernel-modules</title>
-    <link>https://github.com/NVIDIA/open-gpu-kernel-modules</link>
-    <description>NVIDIA Linux open GPU kernel module source</description>
+    <title>snesrev / zelda3</title>
+    <link>https://github.com/snesrev/zelda3</link>
+    <description></description>
   </item>
   <item>
     <title>openssl / openssl</title>
     <link>https://github.com/openssl/openssl</link>
     <description>General purpose TLS and crypto library</description>
+  </item>
+  <item>
+    <title>valkey-io / valkey</title>
+    <link>https://github.com/valkey-io/valkey</link>
+    <description>A flexible distributed key-value database that is optimized for caching and other realtime workloads.</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 03 Nov 2026 08:57:43 GMT",
+  "pubDate": "Wed, 04 Nov 2026 08:27:58 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -11,8 +11,28 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5014,
-      "forks": 4413,
+      "forks": 4414,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3279,
+      "forks": 4621,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "zealvora / terraform-beginner-to-advanced-resource",
+      "url": "https://github.com/zealvora/terraform-beginner-to-advanced-resource",
+      "description": "HashiCorp Certified Terraform Associate 2026",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2526,
+      "forks": 6374,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "semgrep / semgrep-rules",
@@ -21,18 +41,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1289,
-      "forks": 616,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3280,
-      "forks": 4620,
-      "added_stars": "3 stars this week"
+      "forks": 618,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -60,9 +70,29 @@
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1043,
+      "stars": 1042,
       "forks": 782,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 968,
+      "forks": 590,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 911,
+      "forks": 134,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eventbridge",
@@ -75,34 +105,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 968,
-      "forks": 590,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 912,
-      "forks": 134,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
       "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1286,
-      "forks": 1294,
-      "added_stars": "2 stars this week"
+      "forks": 1293,
+      "added_stars": "1 star this week"
     }
   ]
 }

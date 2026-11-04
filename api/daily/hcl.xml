@@ -4,61 +4,71 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 03 Nov 2026 08:56:15 GMT</pubDate>
+  <pubDate>Wed, 04 Nov 2026 08:26:28 GMT</pubDate>
+  <item>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-iam</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
+    <description>Terraform module to create AWS IAM resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
+  </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>piyushsachdeva / Terraform-Full-Course-Aws</title>
-    <link>https://github.com/piyushsachdeva/Terraform-Full-Course-Aws</link>
-    <description></description>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>LinkedInLearning / learning-terraform-3087701</title>
+    <link>https://github.com/LinkedInLearning/learning-terraform-3087701</link>
+    <description>This repo is for the Linkedin Learning course: Learning Terraform</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
+    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-eventbridge</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eventbridge</link>
+    <description>Terraform module to create AWS EventBridge resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-project-factory</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-s3-bucket</title>
+    <link>https://github.com/cloudposse/terraform-aws-s3-bucket</link>
+    <description>Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems</description>
+  </item>
+  <item>
+    <title>cloudposse / terraform-aws-ecs-container-definition</title>
+    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
+    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
     <title>terraform-google-modules / terraform-google-iam</title>
     <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
     <description>Manages multiple IAM roles for resources on Google Cloud</description>
-  </item>
-  <item>
-    <title>RaJiska / terraform-aws-fck-nat</title>
-    <link>https://github.com/RaJiska/terraform-aws-fck-nat</link>
-    <description>Terraform module for fck-nat</description>
-  </item>
-  <item>
-    <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
-    <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
-    <description>Terraform Azure Verified Resource Module for Key Vault</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-kms</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
-    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-s3-log-storage</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-log-storage</link>
-    <description>This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-memorystore</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-memorystore</link>
-    <description>Creates a fully functional Google Memorystore (redis) instance</description>
-  </item>
-  <item>
-    <title>bridgecrewio / checkov-action</title>
-    <link>https://github.com/bridgecrewio/checkov-action</link>
-    <description>This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-cloud-nat</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-cloud-nat</link>
-    <description>Creates and configures Cloud NAT</description>
   </item>
 </channel>
 </rss>
