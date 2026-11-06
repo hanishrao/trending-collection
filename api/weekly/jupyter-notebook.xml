@@ -4,7 +4,7 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 04 Nov 2026 08:27:58 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 08:53:39 GMT</pubDate>
   <item>
     <title>patchy631 / ai-engineering-hub</title>
     <link>https://github.com/patchy631/ai-engineering-hub</link>
@@ -14,11 +14,6 @@
     <title>karpathy / micrograd</title>
     <link>https://github.com/karpathy/micrograd</link>
     <description>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
-  </item>
-  <item>
-    <title>xiaolai / the-craft-of-selfteaching</title>
-    <link>https://github.com/xiaolai/the-craft-of-selfteaching</link>
-    <description>One has no future if one couldn&#x27;t teach themself.</description>
   </item>
   <item>
     <title>microsoft / generative-ai-for-beginners</title>
@@ -31,6 +26,11 @@
     <description>Neural Networks: Zero to Hero</description>
   </item>
   <item>
+    <title>anthropics / claude-cookbooks</title>
+    <link>https://github.com/anthropics/claude-cookbooks</link>
+    <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+  </item>
+  <item>
     <title>microsoft / ai-agents-for-beginners</title>
     <link>https://github.com/microsoft/ai-agents-for-beginners</link>
     <description>18 Lessons to Get Started Building AI Agents</description>
@@ -41,9 +41,29 @@
     <description>《动手学大模型Dive into LLMs》系列编程实践教程</description>
   </item>
   <item>
-    <title>NirDiamant / GenAI_Agents</title>
-    <link>https://github.com/NirDiamant/GenAI_Agents</link>
-    <description>50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.</description>
+    <title>microsoft / Data-Science-For-Beginners</title>
+    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
+    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
+  </item>
+  <item>
+    <title>datawhalechina / diy-llm</title>
+    <link>https://github.com/datawhalechina/diy-llm</link>
+    <description>Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference &amp; alignment .6 progressive code assignments for full-stack LLM learning | 涵盖预训练数据、分词器、Transformer、MoE、分布式训练、缩放定律、推理与对齐，6 项渐进代码作业，掌握 LLM 全栈知识</description>
+  </item>
+  <item>
+    <title>mrdbourke / pytorch-deep-learning</title>
+    <link>https://github.com/mrdbourke/pytorch-deep-learning</link>
+    <description>Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</description>
+  </item>
+  <item>
+    <title>google-research / google-research</title>
+    <link>https://github.com/google-research/google-research</link>
+    <description>Google Research</description>
+  </item>
+  <item>
+    <title>xiaolai / the-craft-of-selfteaching</title>
+    <link>https://github.com/xiaolai/the-craft-of-selfteaching</link>
+    <description>One has no future if one couldn&#x27;t teach themself.</description>
   </item>
   <item>
     <title>DataExpert-io / data-engineer-handbook</title>
@@ -51,44 +71,9 @@
     <description>This is a repo with links to everything you&#x27;d ever want to learn about data engineering</description>
   </item>
   <item>
-    <title>anthropics / claude-cookbooks</title>
-    <link>https://github.com/anthropics/claude-cookbooks</link>
-    <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
-  </item>
-  <item>
-    <title>microsoft / Data-Science-For-Beginners</title>
-    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
-    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
-  </item>
-  <item>
     <title>Liquid4All / cookbook</title>
     <link>https://github.com/Liquid4All/cookbook</link>
     <description>Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK</description>
-  </item>
-  <item>
-    <title>anthropics / courses</title>
-    <link>https://github.com/anthropics/courses</link>
-    <description>Anthropic&#x27;s educational courses</description>
-  </item>
-  <item>
-    <title>SakanaAI / AI-Scientist</title>
-    <link>https://github.com/SakanaAI/AI-Scientist</link>
-    <description>The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬</description>
-  </item>
-  <item>
-    <title>NVIDIA-NeMo / Nemotron</title>
-    <link>https://github.com/NVIDIA-NeMo/Nemotron</link>
-    <description>Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models</description>
-  </item>
-  <item>
-    <title>ed-donner / agents</title>
-    <link>https://github.com/ed-donner/agents</link>
-    <description>Repo for the Complete Agentic AI Engineering Course</description>
-  </item>
-  <item>
-    <title>anthropics / prompt-eng-interactive-tutorial</title>
-    <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
-    <description>Anthropic&#x27;s Interactive Prompt Engineering Tutorial</description>
   </item>
   <item>
     <title>mrdbourke / zero-to-mastery-ml</title>
@@ -101,19 +86,29 @@
     <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
   </item>
   <item>
-    <title>FinanceFlash / unvibecode</title>
-    <link>https://github.com/FinanceFlash/unvibecode</link>
-    <description>Complex code hides connections, workflows, and business risks.Unvibe complex code. Trace business workflows.</description>
+    <title>NVIDIA-NeMo / Nemotron</title>
+    <link>https://github.com/NVIDIA-NeMo/Nemotron</link>
+    <description>Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models</description>
   </item>
   <item>
-    <title>datawhalechina / diy-llm</title>
-    <link>https://github.com/datawhalechina/diy-llm</link>
-    <description>Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference &amp; alignment .6 progressive code assignments for full-stack LLM learning | 涵盖预训练数据、分词器、Transformer、MoE、分布式训练、缩放定律、推理与对齐，6 项渐进代码作业，掌握 LLM 全栈知识</description>
+    <title>microsoft / AI-For-Beginners</title>
+    <link>https://github.com/microsoft/AI-For-Beginners</link>
+    <description>12 Weeks, 24 Lessons, AI for All!</description>
   </item>
   <item>
-    <title>microsoft / OmniParser</title>
-    <link>https://github.com/microsoft/OmniParser</link>
-    <description>A simple screen parsing tool towards pure vision based GUI agent</description>
+    <title>google-gemini / cookbook</title>
+    <link>https://github.com/google-gemini/cookbook</link>
+    <description>Examples and guides for using the Gemini API</description>
+  </item>
+  <item>
+    <title>anthropics / courses</title>
+    <link>https://github.com/anthropics/courses</link>
+    <description>Anthropic&#x27;s educational courses</description>
+  </item>
+  <item>
+    <title>ed-donner / llm_engineering</title>
+    <link>https://github.com/ed-donner/llm_engineering</link>
+    <description>Repo to accompany my mastering LLM engineering course</description>
   </item>
 </channel>
 </rss>

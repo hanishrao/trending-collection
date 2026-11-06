@@ -2,77 +2,67 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:26:28 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:52:11 GMT",
   "items": [
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12491,
+      "forks": 1640,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "FareedKhan-dev / kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10796,
+      "forks": 1685,
+      "added_stars": "613 stars today"
+    },
     {
       "title": "JustVugg / colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 47457,
-      "forks": 5482,
-      "added_stars": "802 stars today"
+      "stars": 48262,
+      "forks": 5614,
+      "added_stars": "455 stars today"
     },
     {
-      "title": "meshcore-dev / MeshCore",
-      "url": "https://github.com/meshcore-dev/MeshCore",
-      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "title": "unkyulee / micro-journal",
+      "url": "https://github.com/unkyulee/micro-journal",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3987,
-      "forks": 1543,
-      "added_stars": "11 stars today"
+      "stars": 1074,
+      "forks": 48,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "opa334 / Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7212,
-      "forks": 6512,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "YizhengWw / HachimoDock",
-      "url": "https://github.com/YizhengWw/HachimoDock",
-      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 830,
-      "forks": 79,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "rizinorg / rizin",
-      "url": "https://github.com/rizinorg/rizin",
-      "description": "UNIX-like reverse engineering framework and command-line toolset.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4122,
-      "forks": 690,
+      "stars": 29108,
+      "forks": 13333,
       "added_stars": "16 stars today"
     },
     {
-      "title": "coolsnowwolf / lede",
-      "url": "https://github.com/coolsnowwolf/lede",
-      "description": "Lean's LEDE source",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31610,
-      "forks": 19055,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "xmrig / xmrig",
-      "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10201,
-      "forks": 3845,
-      "added_stars": "5 stars today"
+      "stars": 43407,
+      "forks": 7483,
+      "added_stars": "28 stars today"
     },
     {
       "title": "FreeRDP / FreeRDP",
@@ -80,29 +70,19 @@
       "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13959,
-      "forks": 15576,
-      "added_stars": "16 stars today"
+      "stars": 13980,
+      "forks": 15577,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "mackron / miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 64154,
-      "forks": 28733,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "valinet / ExplorerPatcher",
-      "url": "https://github.com/valinet/ExplorerPatcher",
-      "description": "This project aims to enhance the working environment on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34221,
-      "forks": 1386,
-      "added_stars": "10 stars today"
+      "stars": 7562,
+      "forks": 631,
+      "added_stars": "40 stars today"
     }
   ]
 }

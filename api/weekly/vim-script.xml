@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 04 Nov 2026 08:27:58 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 08:53:39 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
@@ -14,6 +14,11 @@
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
     <title>kristijanhusak / vim-dadbod-completion</title>
@@ -26,24 +31,9 @@
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
-  </item>
-  <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
     <title>jbranchaud / til</title>
     <link>https://github.com/jbranchaud/til</link>
     <description>📝 Today I Learned</description>
-  </item>
-  <item>
-    <title>mhinz / vim-galore</title>
-    <link>https://github.com/mhinz/vim-galore</link>
-    <description>🎓 All things Vim!</description>
   </item>
   <item>
     <title>derekhe / msfs2020-map-enhancement</title>
@@ -51,14 +41,9 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>preservim / nerdtree</title>
-    <link>https://github.com/preservim/nerdtree</link>
-    <description>A tree explorer plugin for vim.</description>
-  </item>
-  <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
     <title>kristijanhusak / vim-dadbod-ui</title>
@@ -66,9 +51,9 @@
     <description>Simple UI for https://github.com/tpope/vim-dadbod</description>
   </item>
   <item>
-    <title>dense-analysis / ale</title>
-    <link>https://github.com/dense-analysis/ale</link>
-    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
 </channel>
 </rss>

@@ -2,17 +2,27 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:26:28 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:52:11 GMT",
   "items": [
+    {
+      "title": "apache / spark",
+      "url": "https://github.com/apache/spark",
+      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 44423,
+      "forks": 29589,
+      "added_stars": "15 stars today"
+    },
     {
       "title": "OpenXiangShan / XiangShan",
       "url": "https://github.com/OpenXiangShan/XiangShan",
       "description": "Open-source high-performance RISC-V processor",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 7365,
-      "forks": 974,
-      "added_stars": "1 star today"
+      "stars": 7369,
+      "forks": 977,
+      "added_stars": "2 stars today"
     },
     {
       "title": "twitter / the-algorithm",
@@ -20,19 +30,59 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 74008,
-      "forks": 13260,
-      "added_stars": "18 stars today"
+      "stars": 74010,
+      "forks": 13259,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "scalapb / ScalaPB",
-      "url": "https://github.com/scalapb/ScalaPB",
-      "description": "Protocol buffer compiler for Scala.",
+      "title": "JohnSnowLabs / spark-nlp",
+      "url": "https://github.com/JohnSnowLabs/spark-nlp",
+      "description": "State of the Art Natural Language Processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1341,
-      "forks": 293,
-      "added_stars": "1 star today"
+      "stars": 4160,
+      "forks": 743,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lichess-org / lila",
+      "url": "https://github.com/lichess-org/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 18950,
+      "forks": 2805,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "llm4s / llm4s",
+      "url": "https://github.com/llm4s/llm4s",
+      "description": "Agentic and LLM Programming in Scala",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 278,
+      "forks": 136,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NetLogo / NetLogo",
+      "url": "https://github.com/NetLogo/NetLogo",
+      "description": "turtles, patches, and links for kids, teachers, and scientists",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1192,
+      "forks": 277,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "OpenXiangShan / XiangShanLab",
+      "url": "https://github.com/OpenXiangShan/XiangShanLab",
+      "description": "XiangShanLab is the open-source XiangShan ecosystem's entry layer — a learning, practice, and collaboration hub spanning the RISC-V processor core and its specialized domains, making high-performance processor design learnable, doable, and participable, and welcoming collaborators from academia and industry to join real open-source development.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 62,
+      "forks": 46,
+      "added_stars": "0 stars today"
     },
     {
       "title": "canton-network / splice",
@@ -40,19 +90,39 @@
       "description": "Splice repository",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 122,
+      "stars": 121,
       "forks": 134,
       "added_stars": "0 stars today"
     },
     {
-      "title": "apache / spark",
-      "url": "https://github.com/apache/spark",
-      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+      "title": "apache / openwhisk",
+      "url": "https://github.com/apache/openwhisk",
+      "description": "Apache OpenWhisk is an open source serverless cloud platform",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 44409,
-      "forks": 29587,
-      "added_stars": "19 stars today"
+      "stars": 6805,
+      "forks": 1181,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "NVIDIA / cudf-spark",
+      "url": "https://github.com/NVIDIA/cudf-spark",
+      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1011,
+      "forks": 316,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "scala-native / scala-native",
+      "url": "https://github.com/scala-native/scala-native",
+      "description": "Your favorite language gets closer to bare metal.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 4706,
+      "forks": 407,
+      "added_stars": "0 stars today"
     },
     {
       "title": "apache / gluten",
@@ -60,29 +130,19 @@
       "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1616,
-      "forks": 674,
-      "added_stars": "0 stars today"
+      "stars": 1617,
+      "forks": 676,
+      "added_stars": "1 star today"
     },
     {
-      "title": "apache / datafusion-comet",
-      "url": "https://github.com/apache/datafusion-comet",
-      "description": "Apache DataFusion Comet Spark Accelerator",
+      "title": "zio / zio",
+      "url": "https://github.com/zio/zio",
+      "description": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1314,
-      "forks": 409,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "joernio / joern",
-      "url": "https://github.com/joernio/joern",
-      "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 3616,
-      "forks": 476,
-      "added_stars": "0 stars today"
+      "stars": 4434,
+      "forks": 1594,
+      "added_stars": "1 star today"
     }
   ]
 }

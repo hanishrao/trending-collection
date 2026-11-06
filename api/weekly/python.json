@@ -2,157 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:27:58 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:53:39 GMT",
   "items": [
-    {
-      "title": "AgriciDaniel / claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 26439,
-      "forks": 3440,
-      "added_stars": "3,751 stars this week"
-    },
     {
       "title": "anthropics / skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 187213,
-      "forks": 22091,
-      "added_stars": "2,969 stars this week"
-    },
-    {
-      "title": "TauricResearch / TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 120475,
-      "forks": 23029,
-      "added_stars": "3,336 stars this week"
-    },
-    {
-      "title": "Graphify-Labs / graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 142039,
-      "forks": 13566,
-      "added_stars": "5,085 stars this week"
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 64560,
-      "forks": 5093,
-      "added_stars": "2,954 stars this week"
-    },
-    {
-      "title": "kajisho5 / ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4475,
-      "forks": 353,
-      "added_stars": "1,350 stars this week"
-    },
-    {
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 76149,
-      "forks": 10091,
-      "added_stars": "3,490 stars this week"
-    },
-    {
-      "title": "superdesigndev / treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 7125,
-      "forks": 640,
-      "added_stars": "758 stars this week"
-    },
-    {
-      "title": "github / spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with SDD or any other process!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 146842,
-      "forks": 13170,
-      "added_stars": "3,286 stars this week"
-    },
-    {
-      "title": "NVIDIA / SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24267,
-      "forks": 2090,
-      "added_stars": "1,516 stars this week"
-    },
-    {
-      "title": "AstrBotDevs / AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 45911,
-      "forks": 3372,
-      "added_stars": "1,775 stars this week"
-    },
-    {
-      "title": "mvanhorn / last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 66538,
-      "forks": 5820,
-      "added_stars": "843 stars this week"
-    },
-    {
-      "title": "MemPalace / mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 60344,
-      "forks": 7645,
-      "added_stars": "606 stars this week"
-    },
-    {
-      "title": "D4Vinci / Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 95442,
-      "forks": 10005,
-      "added_stars": "4,017 stars this week"
-    },
-    {
-      "title": "The-PR-Agent / pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14477,
-      "forks": 2066,
-      "added_stars": "683 stars this week"
+      "stars": 187903,
+      "forks": 22162,
+      "added_stars": "3,072 stars this week"
     },
     {
       "title": "HKUDS / DeepTutor",
@@ -160,19 +20,159 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 54853,
-      "forks": 6713,
-      "added_stars": "9,556 stars this week"
+      "stars": 55655,
+      "forks": 6822,
+      "added_stars": "6,229 stars this week"
     },
     {
-      "title": "beenuar / AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
-      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7064,
-      "forks": 727,
-      "added_stars": "2,757 stars this week"
+      "stars": 77366,
+      "forks": 10282,
+      "added_stars": "4,132 stars this week"
+    },
+    {
+      "title": "The-PR-Agent / pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 15167,
+      "forks": 2119,
+      "added_stars": "1,355 stars this week"
+    },
+    {
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 46982,
+      "forks": 7768,
+      "added_stars": "2,979 stars this week"
+    },
+    {
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 143171,
+      "forks": 13692,
+      "added_stars": "4,577 stars this week"
+    },
+    {
+      "title": "github / spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with SDD or any other process!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 148018,
+      "forks": 13288,
+      "added_stars": "4,040 stars this week"
+    },
+    {
+      "title": "AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26978,
+      "forks": 3501,
+      "added_stars": "3,113 stars this week"
+    },
+    {
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 65392,
+      "forks": 5168,
+      "added_stars": "2,961 stars this week"
+    },
+    {
+      "title": "guillaumemeyer / watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "A privacy-first app that strips AI watermarks from content you own.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26453,
+      "forks": 3021,
+      "added_stars": "901 stars this week"
+    },
+    {
+      "title": "D4Vinci / Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 98431,
+      "forks": 10309,
+      "added_stars": "7,487 stars this week"
+    },
+    {
+      "title": "MemPalace / mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 60423,
+      "forks": 7654,
+      "added_stars": "517 stars this week"
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 120895,
+      "forks": 23114,
+      "added_stars": "2,720 stars this week"
+    },
+    {
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 139990,
+      "forks": 22324,
+      "added_stars": "3,570 stars this week"
+    },
+    {
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 24588,
+      "forks": 2133,
+      "added_stars": "1,187 stars this week"
+    },
+    {
+      "title": "superdesigndev / treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7256,
+      "forks": 654,
+      "added_stars": "726 stars this week"
+    },
+    {
+      "title": "scenario-labs / skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3279,
+      "forks": 283,
+      "added_stars": "1,684 stars this week"
     }
   ]
 }

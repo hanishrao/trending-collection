@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:29:28 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:56:06 GMT",
   "items": [
     {
       "title": "supabase / postgres",
@@ -10,9 +10,19 @@
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1800,
-      "forks": 274,
-      "added_stars": "13 stars this month"
+      "stars": 1803,
+      "forks": 275,
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "chaotic-cx / nyx",
+      "url": "https://github.com/chaotic-cx/nyx",
+      "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 799,
+      "forks": 84,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -20,9 +30,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26703,
-      "forks": 20627,
-      "added_stars": "435 stars this month"
+      "stars": 26723,
+      "forks": 20647,
+      "added_stars": "429 stars this month"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -30,9 +40,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2233,
-      "forks": 320,
-      "added_stars": "189 stars this month"
+      "stars": 2242,
+      "forks": 321,
+      "added_stars": "191 stars this month"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -40,9 +50,19 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3351,
-      "forks": 996,
-      "added_stars": "42 stars this month"
+      "stars": 3352,
+      "forks": 1000,
+      "added_stars": "39 stars this month"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10493,
+      "forks": 2509,
+      "added_stars": "105 stars this month"
     }
   ]
 }
