@@ -2,17 +2,47 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:52:11 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:08:22 GMT",
   "items": [
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 4063,
+      "forks": 972,
+      "added_stars": "4 stars today"
+    },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3743,
+      "stars": 3744,
       "forks": 1154,
-      "added_stars": "5 stars today"
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "adam-maj / tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 13192,
+      "forks": 1273,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "openhwfoundation / cvw",
+      "url": "https://github.com/openhwfoundation/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 659,
+      "forks": 595,
+      "added_stars": "0 stars today"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -23,16 +53,6 @@
       "stars": 160,
       "forks": 108,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 4061,
-      "forks": 970,
-      "added_stars": "2 stars today"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -51,38 +71,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 2162,
-      "forks": 830,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "adam-maj / tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 13190,
-      "forks": 1272,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "syntacore / scr1",
-      "url": "https://github.com/syntacore/scr1",
-      "description": "SCR1 is a high-quality open-source RISC-V MCU core in Verilog",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 1015,
-      "forks": 368,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "openhwfoundation / cvw",
-      "url": "https://github.com/openhwfoundation/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 659,
-      "forks": 595,
-      "added_stars": "0 stars today"
+      "forks": 831,
+      "added_stars": "3 stars today"
     }
   ]
 }

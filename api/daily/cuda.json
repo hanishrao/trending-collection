@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:52:11 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:08:22 GMT",
   "items": [
     {
       "title": "flashinfer-ai / flashinfer",
@@ -10,49 +10,39 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6864,
-      "forks": 1704,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1100,
-      "forks": 255,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "pyscf / gpu4pyscf",
-      "url": "https://github.com/pyscf/gpu4pyscf",
-      "description": "A plugin to use Nvidia GPU in PySCF package",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 368,
-      "forks": 104,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10414,
-      "forks": 1545,
+      "stars": 6868,
+      "forks": 1705,
       "added_stars": "6 stars today"
     },
     {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "title": "siboehm / SGEMM_CUDA",
+      "url": "https://github.com/siboehm/SGEMM_CUDA",
+      "description": "Fast CUDA matrix multiplication from scratch",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9160,
-      "forks": 1511,
-      "added_stars": "7 stars today"
+      "stars": 1357,
+      "forks": 229,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3999,
+      "forks": 548,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2603,
+      "forks": 272,
+      "added_stars": "4 stars today"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -60,19 +50,59 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 889,
-      "forks": 259,
+      "stars": 890,
+      "forks": 260,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NVIDIA / raft",
+      "url": "https://github.com/NVIDIA/raft",
+      "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1052,
+      "forks": 256,
       "added_stars": "1 star today"
     },
     {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1694,
-      "forks": 415,
-      "added_stars": "5 stars today"
+      "stars": 9167,
+      "forks": 1512,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1102,
+      "forks": 255,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10416,
+      "forks": 1546,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17587,
+      "forks": 2066,
+      "added_stars": "1 star today"
     }
   ]
 }

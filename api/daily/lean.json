@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:52:11 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:08:22 GMT",
   "items": [
     {
       "title": "leanprover / lean4",
@@ -10,19 +10,79 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9893,
-      "forks": 1092,
-      "added_stars": "13 stars today"
+      "stars": 9902,
+      "forks": 1094,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "anthropics / formal-math",
-      "url": "https://github.com/anthropics/formal-math",
+      "title": "kim-em / hex-dev",
+      "url": "https://github.com/kim-em/hex-dev",
+      "description": "Development monorepo for Hex: verified computational algebra in Lean 4 (polynomial factoring, LLL, and friends). Released aggregate: https://github.com/leanprover/hex",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 23,
+      "forks": 3,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "leanEthereum / leanVM",
+      "url": "https://github.com/leanEthereum/leanVM",
+      "description": "Minimal zkVM for Ethereum.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 183,
+      "forks": 85,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Verified-zkEVM / ArkLib",
+      "url": "https://github.com/Verified-zkEVM/ArkLib",
+      "description": "Formally Verified Arguments of Knowledge in Lean",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 353,
+      "forks": 128,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lfglabs-dev / verity",
+      "url": "https://github.com/lfglabs-dev/verity",
+      "description": "Formally verified smart contracts gives mathematical certainty across all inputs and execution paths. We bet that agents will make full formal verification practical.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 158,
+      "forks": 21,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "LionSR / TNLean",
+      "url": "https://github.com/LionSR/TNLean",
+      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 45,
+      "forks": 6,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1666,
+      "forks": 291,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "strata-org / Strata",
+      "url": "https://github.com/strata-org/Strata",
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 463,
-      "forks": 86,
-      "added_stars": "2 stars today"
+      "stars": 289,
+      "forks": 63,
+      "added_stars": "0 stars today"
     },
     {
       "title": "ethereum / EthLib",
@@ -30,9 +90,19 @@
       "description": "Formally verified Ethereum primitives, written in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 81,
-      "forks": 20,
-      "added_stars": "7 stars today"
+      "stars": 85,
+      "forks": 22,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 125,
+      "forks": 30,
+      "added_stars": "0 stars today"
     },
     {
       "title": "leanprover-community / batteries",
@@ -40,7 +110,7 @@
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 431,
+      "stars": 432,
       "forks": 171,
       "added_stars": "0 stars today"
     },
@@ -55,24 +125,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4437,
-      "forks": 1824,
-      "added_stars": "6 stars today"
+      "stars": 37,
+      "forks": 14,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "facebookresearch / atlas-lean",
-      "url": "https://github.com/facebookresearch/atlas-lean",
-      "description": "ATLAS Autoformalized Textbook Library At Scale",
+      "title": "leanprover-community / import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 331,
-      "forks": 50,
-      "added_stars": "2 stars today"
+      "stars": 29,
+      "forks": 17,
+      "added_stars": "0 stars today"
     }
   ]
 }

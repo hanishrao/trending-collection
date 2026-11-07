@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:56:06 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:11:55 GMT",
   "items": [
     {
       "title": "bazel-contrib / rules_perl",
@@ -15,23 +15,13 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 854,
-      "forks": 684,
-      "added_stars": "8 stars this month"
-    },
-    {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 408,
-      "forks": 88,
+      "forks": 89,
       "added_stars": "4 stars this month"
     },
     {
@@ -45,14 +35,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 249,
-      "forks": 206,
-      "added_stars": "2 stars this month"
+      "stars": 854,
+      "forks": 685,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "googleapis / googleapis",
@@ -61,8 +51,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 8814,
-      "forks": 2640,
+      "forks": 2639,
       "added_stars": "52 stars this month"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23210,
+      "forks": 1441,
+      "added_stars": "115 stars this month"
     },
     {
       "title": "bazelbuild / rules_apple",
@@ -70,9 +70,9 @@
       "description": "Bazel rules to build apps for Apple platforms.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 597,
-      "forks": 342,
-      "added_stars": "2 stars this month"
+      "stars": 598,
+      "forks": 343,
+      "added_stars": "3 stars this month"
     }
   ]
 }

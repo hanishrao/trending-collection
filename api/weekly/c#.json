@@ -2,17 +2,47 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:53:39 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:10:04 GMT",
   "items": [
+    {
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 37947,
+      "forks": 3635,
+      "added_stars": "37 stars today"
+    },
     {
       "title": "lz4 / lz4",
       "url": "https://github.com/lz4/lz4",
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12491,
-      "forks": 1640,
-      "added_stars": "23 stars today"
+      "stars": 12660,
+      "forks": 1645,
+      "added_stars": "315 stars today"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31342,
+      "forks": 11583,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17027,
+      "forks": 10370,
+      "added_stars": "18 stars today"
     },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
@@ -20,39 +50,49 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10797,
-      "forks": 1685,
-      "added_stars": "613 stars today"
+      "stars": 11050,
+      "forks": 1721,
+      "added_stars": "180 stars today"
     },
     {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "title": "semgrep / semgrep",
+      "url": "https://github.com/semgrep/semgrep",
+      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 48262,
-      "forks": 5614,
-      "added_stars": "455 stars today"
+      "stars": 17534,
+      "forks": 1153,
+      "added_stars": "41 stars today"
     },
     {
-      "title": "unkyulee / micro-journal",
-      "url": "https://github.com/unkyulee/micro-journal",
-      "description": "",
+      "title": "lvgl / lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1074,
-      "forks": 48,
-      "added_stars": "9 stars today"
+      "stars": 25104,
+      "forks": 4433,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "title": "systemd / systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 29108,
-      "forks": 13333,
-      "added_stars": "16 stars today"
+      "stars": 17005,
+      "forks": 4813,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Encryqed / Dumper-7",
+      "url": "https://github.com/Encryqed/Dumper-7",
+      "description": "Unreal Engine SDK Generator",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2382,
+      "forks": 531,
+      "added_stars": "2 stars today"
     },
     {
       "title": "curl / curl",
@@ -60,29 +100,109 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 43407,
-      "forks": 7484,
-      "added_stars": "28 stars today"
+      "stars": 43414,
+      "forks": 7491,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "FreeRDP / FreeRDP",
-      "url": "https://github.com/FreeRDP/FreeRDP",
-      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "title": "betaflight / betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13980,
-      "forks": 15577,
-      "added_stars": "13 stars today"
+      "stars": 11753,
+      "forks": 4146,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "mackron / miniaudio",
-      "url": "https://github.com/mackron/miniaudio",
-      "description": "Audio playback and capture library written in C, in a single source file.",
+      "title": "fluent / fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7562,
-      "forks": 631,
-      "added_stars": "40 stars today"
+      "stars": 8184,
+      "forks": 2032,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "libuv / libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27314,
+      "forks": 3982,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "esnet / iperf",
+      "url": "https://github.com/esnet/iperf",
+      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8865,
+      "forks": 1469,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "redis / redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 77268,
+      "forks": 25006,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "tianocore / edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6399,
+      "forks": 3360,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "apache / nuttx",
+      "url": "https://github.com/apache/nuttx",
+      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4103,
+      "forks": 1751,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "asterisk / asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3672,
+      "forks": 1351,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "openssh / openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4097,
+      "forks": 2212,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "openzfs / zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12550,
+      "forks": 2085,
+      "added_stars": "3 stars today"
     }
   ]
 }

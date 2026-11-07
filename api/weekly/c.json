@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:53:39 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:10:04 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,9 +10,9 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 48262,
-      "forks": 5614,
-      "added_stars": "3,214 stars this week"
+      "stars": 48550,
+      "forks": 5648,
+      "added_stars": "3,311 stars this week"
     },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
@@ -20,19 +20,19 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10797,
-      "forks": 1685,
-      "added_stars": "1,490 stars this week"
+      "stars": 11050,
+      "forks": 1721,
+      "added_stars": "1,675 stars this week"
     },
     {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 140621,
-      "forks": 8703,
-      "added_stars": "491 stars this week"
+      "stars": 12660,
+      "forks": 1645,
+      "added_stars": "437 stars this week"
     },
     {
       "title": "valinet / ExplorerPatcher",
@@ -40,19 +40,39 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34245,
-      "forks": 1388,
-      "added_stars": "87 stars this week"
+      "stars": 34243,
+      "forks": 1386,
+      "added_stars": "96 stars this week"
     },
     {
-      "title": "rizinorg / rizin",
-      "url": "https://github.com/rizinorg/rizin",
-      "description": "UNIX-like reverse engineering framework and command-line toolset.",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4138,
-      "forks": 694,
-      "added_stars": "64 stars this week"
+      "stars": 43414,
+      "forks": 7491,
+      "added_stars": "135 stars this week"
+    },
+    {
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 140668,
+      "forks": 8704,
+      "added_stars": "479 stars this week"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31342,
+      "forks": 11583,
+      "added_stars": "164 stars this week"
     },
     {
       "title": "YizhengWw / HachimoDock",
@@ -60,39 +80,19 @@
       "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 906,
-      "forks": 90,
-      "added_stars": "402 stars this week"
+      "stars": 925,
+      "forks": 95,
+      "added_stars": "400 stars this week"
     },
     {
-      "title": "meta / zstd",
-      "url": "https://github.com/meta/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
+      "title": "rizinorg / rizin",
+      "url": "https://github.com/rizinorg/rizin",
+      "description": "UNIX-like reverse engineering framework and command-line toolset.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28177,
-      "forks": 2679,
-      "added_stars": "60 stars this week"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 29108,
-      "forks": 13333,
-      "added_stars": "139 stars this week"
-    },
-    {
-      "title": "valkey-io / valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27634,
-      "forks": 1516,
-      "added_stars": "75 stars this week"
+      "stars": 4145,
+      "forks": 697,
+      "added_stars": "62 stars this week"
     },
     {
       "title": "zephyrproject-rtos / zephyr",
@@ -100,9 +100,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17019,
-      "forks": 10366,
-      "added_stars": "76 stars this week"
+      "stars": 17027,
+      "forks": 10370,
+      "added_stars": "78 stars this week"
     }
   ]
 }

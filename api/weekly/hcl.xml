@@ -4,16 +4,16 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 06 Nov 2026 08:53:39 GMT</pubDate>
+  <pubDate>Sat, 07 Nov 2026 08:10:04 GMT</pubDate>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
     <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
   </item>
   <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
@@ -21,14 +21,19 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+  </item>
+  <item>
     <title>terraform-aws-modules / terraform-aws-iam</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-iam</link>
     <description>Terraform module to create AWS IAM resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
@@ -56,14 +61,9 @@
     <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
   </item>
   <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-ecs-container-definition</title>
-    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
+    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
+    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
   </item>
 </channel>
 </rss>

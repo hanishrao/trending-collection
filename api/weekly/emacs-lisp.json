@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:53:39 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:10:04 GMT",
   "items": [
     {
       "title": "google-coral / coralnpu",
@@ -10,49 +10,19 @@
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2671,
+      "stars": 2678,
       "forks": 371,
-      "added_stars": "30 stars this week"
+      "added_stars": "27 stars this week"
     },
     {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2035,
-      "forks": 264,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "google / styleguide",
-      "url": "https://github.com/google/styleguide",
-      "description": "Style guides for Google-originated open-source projects",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 39799,
-      "forks": 12919,
-      "added_stars": "33 stars this week"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3560,
-      "forks": 452,
+      "stars": 24551,
+      "forks": 4819,
       "added_stars": "6 stars this week"
-    },
-    {
-      "title": "dakra / ghostel",
-      "url": "https://github.com/dakra/ghostel",
-      "description": "Terminal emulator powered by libghostty",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1099,
-      "forks": 75,
-      "added_stars": "29 stars this week"
     },
     {
       "title": "doomemacs / core",
@@ -61,18 +31,28 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 22802,
-      "forks": 3141,
-      "added_stars": "22 stars this week"
+      "forks": 3140,
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7254,
-      "forks": 882,
-      "added_stars": "6 stars this week"
+      "stars": 2038,
+      "forks": 265,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "google / styleguide",
+      "url": "https://github.com/google/styleguide",
+      "description": "Style guides for Google-originated open-source projects",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 39807,
+      "forks": 12918,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "clojure-emacs / cider",
@@ -85,6 +65,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 7254,
+      "forks": 882,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3561,
+      "forks": 452,
+      "added_stars": "5 stars this week"
+    },
+    {
       "title": "melpa / melpa",
       "url": "https://github.com/melpa/melpa",
       "description": "Recipes and build machinery for the biggest Emacs package repo",
@@ -95,6 +95,16 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5241,
+      "forks": 1422,
+      "added_stars": "5 stars this week"
+    },
+    {
       "title": "emacs-lsp / lsp-mode",
       "url": "https://github.com/emacs-lsp/lsp-mode",
       "description": "Emacs client/library for the Language Server Protocol",
@@ -102,17 +112,17 @@
       "languageColor": "#c065db",
       "stars": 5134,
       "forks": 984,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5241,
-      "forks": 1423,
-      "added_stars": "5 stars this week"
+      "stars": 1106,
+      "forks": 76,
+      "added_stars": "23 stars this week"
     }
   ]
 }

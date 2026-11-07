@@ -4,21 +4,56 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 06 Nov 2026 08:52:11 GMT</pubDate>
+  <pubDate>Sat, 07 Nov 2026 08:08:22 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
     <description>Lean 4 programming language and theorem prover</description>
   </item>
   <item>
-    <title>anthropics / formal-math</title>
-    <link>https://github.com/anthropics/formal-math</link>
+    <title>kim-em / hex-dev</title>
+    <link>https://github.com/kim-em/hex-dev</link>
+    <description>Development monorepo for Hex: verified computational algebra in Lean 4 (polynomial factoring, LLL, and friends). Released aggregate: https://github.com/leanprover/hex</description>
+  </item>
+  <item>
+    <title>leanEthereum / leanVM</title>
+    <link>https://github.com/leanEthereum/leanVM</link>
+    <description>Minimal zkVM for Ethereum.</description>
+  </item>
+  <item>
+    <title>Verified-zkEVM / ArkLib</title>
+    <link>https://github.com/Verified-zkEVM/ArkLib</link>
+    <description>Formally Verified Arguments of Knowledge in Lean</description>
+  </item>
+  <item>
+    <title>lfglabs-dev / verity</title>
+    <link>https://github.com/lfglabs-dev/verity</link>
+    <description>Formally verified smart contracts gives mathematical certainty across all inputs and execution paths. We bet that agents will make full formal verification practical.</description>
+  </item>
+  <item>
+    <title>LionSR / TNLean</title>
+    <link>https://github.com/LionSR/TNLean</link>
+    <description>Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library</description>
+  </item>
+  <item>
+    <title>leanprover-community / mathlib3</title>
+    <link>https://github.com/leanprover-community/mathlib3</link>
+    <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
+  </item>
+  <item>
+    <title>strata-org / Strata</title>
+    <link>https://github.com/strata-org/Strata</link>
     <description></description>
   </item>
   <item>
     <title>ethereum / EthLib</title>
     <link>https://github.com/ethereum/EthLib</link>
     <description>Formally verified Ethereum primitives, written in Lean.</description>
+  </item>
+  <item>
+    <title>leanprover / lean4-cli</title>
+    <link>https://github.com/leanprover/lean4-cli</link>
+    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
     <title>leanprover-community / batteries</title>
@@ -31,14 +66,14 @@
     <description>Intuitive, type-safe expression quotations for Lean 4.</description>
   </item>
   <item>
-    <title>leanprover-community / mathlib4</title>
-    <link>https://github.com/leanprover-community/mathlib4</link>
-    <description>The math library of Lean 4</description>
+    <title>leanprover-community / LeanSearchClient</title>
+    <link>https://github.com/leanprover-community/LeanSearchClient</link>
+    <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
   </item>
   <item>
-    <title>facebookresearch / atlas-lean</title>
-    <link>https://github.com/facebookresearch/atlas-lean</link>
-    <description>ATLAS Autoformalized Textbook Library At Scale</description>
+    <title>leanprover-community / import-graph</title>
+    <link>https://github.com/leanprover-community/import-graph</link>
+    <description>Tool to analyse the import structure of lean projects.</description>
   </item>
 </channel>
 </rss>

@@ -2,37 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:53:39 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:10:04 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4437,
-      "forks": 1824,
-      "added_stars": "43 stars this week"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9893,
-      "forks": 1092,
-      "added_stars": "144 stars this week"
+      "stars": 9902,
+      "forks": 1094,
+      "added_stars": "132 stars this week"
     },
     {
-      "title": "anthropics / formal-math",
-      "url": "https://github.com/anthropics/formal-math",
-      "description": "",
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 463,
-      "forks": 86,
-      "added_stars": "30 stars this week"
+      "stars": 4442,
+      "forks": 1829,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -40,9 +30,39 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1352,
-      "forks": 572,
+      "stars": 1353,
+      "forks": 573,
       "added_stars": "14 stars this week"
+    },
+    {
+      "title": "kim-em / hex-dev",
+      "url": "https://github.com/kim-em/hex-dev",
+      "description": "Development monorepo for Hex: verified computational algebra in Lean 4 (polynomial factoring, LLL, and friends). Released aggregate: https://github.com/leanprover/hex",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 23,
+      "forks": 3,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "anthropics / formal-math",
+      "url": "https://github.com/anthropics/formal-math",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 464,
+      "forks": 86,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1666,
+      "forks": 291,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leanprover-community / batteries",
@@ -50,9 +70,9 @@
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 431,
+      "stars": 432,
       "forks": 171,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -85,6 +105,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "leanprover-community / import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 29,
+      "forks": 17,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "leanprover-community / LeanSearchClient",
       "url": "https://github.com/leanprover-community/LeanSearchClient",
       "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
@@ -101,17 +131,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 414,
-      "forks": 62,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "leanprover-community / import-graph",
-      "url": "https://github.com/leanprover-community/import-graph",
-      "description": "Tool to analyse the import structure of lean projects.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 29,
-      "forks": 17,
+      "forks": 63,
       "added_stars": "1 star this week"
     },
     {
@@ -123,36 +143,6 @@
       "stars": 232,
       "forks": 49,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "leanprover-community / mathlib3",
-      "url": "https://github.com/leanprover-community/mathlib3",
-      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1666,
-      "forks": 291,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "strata-org / Strata",
-      "url": "https://github.com/strata-org/Strata",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 289,
-      "forks": 63,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 799,
-      "forks": 220,
-      "added_stars": "13 stars this week"
     }
   ]
 }

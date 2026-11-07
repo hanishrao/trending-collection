@@ -2,37 +2,17 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 06 Nov 2026 08:52:11 GMT",
+  "pubDate": "Sat, 07 Nov 2026 08:08:22 GMT",
   "items": [
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8814,
-      "forks": 2640,
+      "stars": 408,
+      "forks": 89,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23206,
-      "forks": 1441,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4049,
-      "forks": 311,
-      "added_stars": "2 stars today"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -45,34 +25,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazel-contrib / rules_perl",
-      "url": "https://github.com/bazel-contrib/rules_perl",
-      "description": "Perl rules for Bazel",
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 31,
-      "forks": 49,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "uber / hermetic_cc_toolchain",
-      "url": "https://github.com/uber/hermetic_cc_toolchain",
-      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 408,
-      "forks": 88,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "aspect-build / rules_js",
-      "url": "https://github.com/aspect-build/rules_js",
-      "description": "High-performance Bazel rules for running Node.js tools and building JavaScript projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 383,
-      "forks": 195,
-      "added_stars": "0 stars today"
+      "stars": 8814,
+      "forks": 2639,
+      "added_stars": "2 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -81,8 +41,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 399,
-      "forks": 963,
+      "forks": 964,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 31,
+      "forks": 49,
+      "added_stars": "0 stars today"
     },
     {
       "title": "cncf / xds",
@@ -113,6 +83,26 @@
       "stars": 692,
       "forks": 734,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 854,
+      "forks": 685,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 598,
+      "forks": 343,
+      "added_stars": "1 star today"
     }
   ]
 }
