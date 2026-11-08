@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-07T08:06:39.179266+00:00",
-  "snapshot_date": "2026-11-07",
+  "updated_at": "2026-11-08T08:26:22.898198+00:00",
+  "snapshot_date": "2026-11-08",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-06",
+  "comparison_date": "2026-11-07",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-01",
-  "observed_days_7d": 4,
+  "window_start": "2026-11-02",
+  "observed_days_7d": 5,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-08",
+      "id": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets"
+    },
     {
       "date": "2026-11-07",
       "id": "nvidia/simready-assets",
@@ -38,9 +43,9 @@
       "rank": 1,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 28
+      "likes_change": 21
     },
     {
       "id": "Vyber07/cyber-security",
@@ -48,9 +53,9 @@
       "rank": 2,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 22
+      "likes_change": 34
     },
     {
       "id": "open-index/hacker-news",
@@ -58,9 +63,9 @@
       "rank": 3,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 15
+      "likes_change": 11
     },
     {
       "id": "codepawl/abo-glb",
@@ -68,9 +73,9 @@
       "rank": 4,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 2,
+      "appearances_7d": 3,
       "rank_change": 0,
-      "likes_change": 18
+      "likes_change": 4
     },
     {
       "id": "PentesterFlow/OffsecCyber",
@@ -78,9 +83,9 @@
       "rank": 5,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 6
+      "likes_change": 3
     },
     {
       "id": "ccore/ThreeJS-3D-Scenes",
@@ -88,9 +93,9 @@
       "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 4
+      "likes_change": 7
     },
     {
       "id": "HuggingFaceBio/FineDNA",
@@ -98,7 +103,7 @@
       "rank": 7,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
       "likes_change": 2
     },
@@ -108,86 +113,106 @@
       "rank": 8,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": 1,
-      "likes_change": 5
-    },
-    {
-      "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
-      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
-      "rank": 9,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": -1,
-      "likes_change": 6
-    },
-    {
-      "id": "scenario-labs/3d-collection",
-      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection",
-      "rank": 10,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 2
+      "likes_change": 3
     },
     {
       "id": "codepawl/scanned-objects-glb",
       "url": "https://huggingface.co/datasets/codepawl/scanned-objects-glb",
-      "rank": 11,
+      "rank": 9,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 2,
-      "rank_change": 0,
-      "likes_change": 4
+      "appearances_7d": 3,
+      "rank_change": 2,
+      "likes_change": 3
+    },
+    {
+      "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+      "rank": 10,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 5,
+      "rank_change": -1,
+      "likes_change": 7
     },
     {
       "id": "tencent/TailorRig",
       "url": "https://huggingface.co/datasets/tencent/TailorRig",
-      "rank": 12,
+      "rank": 11,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 2,
-      "rank_change": 2,
-      "likes_change": 7
+      "appearances_7d": 3,
+      "rank_change": 1,
+      "likes_change": 5
+    },
+    {
+      "id": "NousResearch/arete-data-pairs",
+      "url": "https://huggingface.co/datasets/NousResearch/arete-data-pairs",
+      "rank": 12,
+      "status": "new",
+      "first_seen": "2026-11-08",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "scenario-labs/3d-collection",
+      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection",
+      "rank": 13,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 5,
+      "rank_change": -3,
+      "likes_change": 2
     },
     {
       "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
       "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-      "rank": 13,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": -1,
-      "likes_change": 2
-    },
-    {
-      "id": "bones-studio/seed",
-      "url": "https://huggingface.co/datasets/bones-studio/seed",
       "rank": 14,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": 5,
-      "likes_change": 5
+      "appearances_7d": 5,
+      "rank_change": -1,
+      "likes_change": 4
     },
     {
-      "id": "nvidia/Granary-v2",
-      "url": "https://huggingface.co/datasets/nvidia/Granary-v2",
+      "id": "NousResearch/Propaganda_Eval",
+      "url": "https://huggingface.co/datasets/NousResearch/Propaganda_Eval",
       "rank": 15,
+      "status": "new",
+      "first_seen": "2026-11-08",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "bumbuboon/llm-course-final-2026",
+      "url": "https://huggingface.co/datasets/bumbuboon/llm-course-final-2026",
+      "rank": 16,
       "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": 1,
-      "likes_change": 2
+      "first_seen": "2026-11-06",
+      "appearances_7d": 3,
+      "rank_change": 2,
+      "likes_change": 3
     },
     {
       "id": "speechcolab/gigaspeech3",
       "url": "https://huggingface.co/datasets/speechcolab/gigaspeech3",
-      "rank": 16,
-      "status": "new",
+      "rank": 17,
+      "status": "continuing",
       "first_seen": "2026-11-07",
+      "appearances_7d": 2,
+      "rank_change": -1,
+      "likes_change": 2
+    },
+    {
+      "id": "codepawl/plateau-city-glb",
+      "url": "https://huggingface.co/datasets/codepawl/plateau-city-glb",
+      "rank": 18,
+      "status": "new",
+      "first_seen": "2026-11-08",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
@@ -195,42 +220,22 @@
     {
       "id": "Axion1-0/axion-training-data",
       "url": "https://huggingface.co/datasets/Axion1-0/axion-training-data",
-      "rank": 17,
-      "status": "continuing",
-      "first_seen": "2026-11-06",
-      "appearances_7d": 2,
-      "rank_change": 1,
-      "likes_change": 0
-    },
-    {
-      "id": "bumbuboon/llm-course-final-2026",
-      "url": "https://huggingface.co/datasets/bumbuboon/llm-course-final-2026",
-      "rank": 18,
-      "status": "continuing",
-      "first_seen": "2026-11-06",
-      "appearances_7d": 2,
-      "rank_change": 2,
-      "likes_change": 1
-    },
-    {
-      "id": "bitmanagerai-speech-lab/darbuka_arabic_tts_dataset",
-      "url": "https://huggingface.co/datasets/bitmanagerai-speech-lab/darbuka_arabic_tts_dataset",
       "rank": 19,
       "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 4,
+      "first_seen": "2026-11-06",
+      "appearances_7d": 3,
       "rank_change": -2,
       "likes_change": 0
     },
     {
-      "id": "TheAgenticDataCompany/open-yap-1k",
-      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
+      "id": "Sandflow/sand3d-objaverse",
+      "url": "https://huggingface.co/datasets/Sandflow/sand3d-objaverse",
       "rank": 20,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": -5,
-      "likes_change": 1
+      "status": "new",
+      "first_seen": "2026-11-08",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
     }
   ]
 }

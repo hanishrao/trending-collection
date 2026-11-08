@@ -2,196 +2,36 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 07 Nov 2026 08:08:22 GMT",
+  "pubDate": "Sun, 08 Nov 2026 08:27:42 GMT",
   "items": [
     {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
+      "title": "nflverse / nflverse-data",
+      "url": "https://github.com/nflverse/nflverse-data",
+      "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 3926,
-      "forks": 1062,
+      "stars": 442,
+      "forks": 52,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tidyverse / dplyr",
-      "url": "https://github.com/tidyverse/dplyr",
-      "description": "dplyr: A grammar of data manipulation",
+      "title": "jinworks / CellChat",
+      "url": "https://github.com/jinworks/CellChat",
+      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5079,
-      "forks": 2108,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 7025,
-      "forks": 2127,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "rstudio / rmarkdown",
-      "url": "https://github.com/rstudio/rmarkdown",
-      "description": "Dynamic Documents for R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 3069,
-      "forks": 990,
+      "stars": 691,
+      "forks": 116,
       "added_stars": "0 stars today"
     },
     {
-      "title": "rstudio / gt",
-      "url": "https://github.com/rstudio/gt",
-      "description": "Easily generate information-rich, publication-quality tables from R",
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2161,
-      "forks": 228,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "r-spatial / sf",
-      "url": "https://github.com/r-spatial/sf",
-      "description": "Simple Features for R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1455,
-      "forks": 307,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "rstudio / renv",
-      "url": "https://github.com/rstudio/renv",
-      "description": "renv: Project environments for R.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1166,
-      "forks": 169,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5706,
-      "forks": 1894,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "benjjneb / dada2",
-      "url": "https://github.com/benjjneb/dada2",
-      "description": "Accurate sample inference from amplicon data with single nucleotide resolution",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 562,
-      "forks": 176,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "r-lib / devtools",
-      "url": "https://github.com/r-lib/devtools",
-      "description": "Tools to make an R developer's life easier",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 2525,
-      "forks": 761,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "satijalab / seurat",
-      "url": "https://github.com/satijalab/seurat",
-      "description": "R toolkit for single cell genomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 2812,
-      "forks": 1000,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tidyverse / tidyr",
-      "url": "https://github.com/tidyverse/tidyr",
-      "description": "Tidy Messy Data",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1445,
-      "forks": 417,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "glmmTMB / glmmTMB",
-      "url": "https://github.com/glmmTMB/glmmTMB",
-      "description": "glmmTMB",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 391,
-      "forks": 80,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rstudio / reticulate",
-      "url": "https://github.com/rstudio/reticulate",
-      "description": "R Interface to Python",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1766,
-      "forks": 352,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "plotly / plotly.R",
-      "url": "https://github.com/plotly/plotly.R",
-      "description": "An interactive graphing library for R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 2683,
-      "forks": 641,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tidyverse / readr",
-      "url": "https://github.com/tidyverse/readr",
-      "description": "Read flat files (csv, tsv, fwf) into R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1041,
-      "forks": 298,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cf-convention / cf-conventions",
-      "url": "https://github.com/cf-convention/cf-conventions",
-      "description": "AsciiDoc Source",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 101,
-      "forks": 55,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 895,
-      "forks": 143147,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "luisDVA / unheadr",
-      "url": "https://github.com/luisDVA/unheadr",
-      "description": "Handle Data With Embedded Subheaders",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 64,
-      "forks": 9,
+      "stars": 4622,
+      "forks": 7188,
       "added_stars": "0 stars today"
     }
   ]

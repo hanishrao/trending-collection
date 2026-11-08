@@ -2,47 +2,37 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 07 Nov 2026 08:10:04 GMT",
+  "pubDate": "Sun, 08 Nov 2026 08:31:01 GMT",
   "items": [
+    {
+      "title": "openssh / openssh-portable",
+      "url": "https://github.com/openssh/openssh-portable",
+      "description": "Portable OpenSSH",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4098,
+      "forks": 2212,
+      "added_stars": "5 stars today"
+    },
     {
       "title": "mpv-player / mpv",
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 37947,
-      "forks": 3635,
-      "added_stars": "37 stars today"
+      "stars": 37988,
+      "forks": 3640,
+      "added_stars": "177 stars today"
     },
     {
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
+      "title": "meta / zstd",
+      "url": "https://github.com/meta/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12660,
-      "forks": 1645,
-      "added_stars": "315 stars today"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31342,
-      "forks": 11583,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17027,
-      "forks": 10370,
-      "added_stars": "18 stars today"
+      "stars": 28204,
+      "forks": 2677,
+      "added_stars": "14 stars today"
     },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
@@ -50,49 +40,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11050,
-      "forks": 1721,
-      "added_stars": "180 stars today"
-    },
-    {
-      "title": "semgrep / semgrep",
-      "url": "https://github.com/semgrep/semgrep",
-      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17534,
-      "forks": 1153,
-      "added_stars": "41 stars today"
-    },
-    {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 25104,
-      "forks": 4433,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "systemd / systemd",
-      "url": "https://github.com/systemd/systemd",
-      "description": "The systemd System and Service Manager",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17005,
-      "forks": 4813,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "Encryqed / Dumper-7",
-      "url": "https://github.com/Encryqed/Dumper-7",
-      "description": "Unreal Engine SDK Generator",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2382,
-      "forks": 531,
-      "added_stars": "2 stars today"
+      "stars": 11266,
+      "forks": 1754,
+      "added_stars": "287 stars today"
     },
     {
       "title": "curl / curl",
@@ -100,109 +50,79 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 43414,
-      "forks": 7491,
-      "added_stars": "29 stars today"
+      "stars": 43427,
+      "forks": 7490,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "betaflight / betaflight",
-      "url": "https://github.com/betaflight/betaflight",
-      "description": "Open Source Flight Controller Firmware",
+      "title": "madler / zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11753,
-      "forks": 4146,
-      "added_stars": "2 stars today"
+      "stars": 7202,
+      "forks": 2898,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "fluent / fluent-bit",
-      "url": "https://github.com/fluent/fluent-bit",
-      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8184,
-      "forks": 2032,
+      "stars": 5909,
+      "forks": 987,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31367,
+      "forks": 11586,
+      "added_stars": "137 stars today"
+    },
+    {
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14783,
+      "forks": 3430,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "signalwire / freeswitch",
+      "url": "https://github.com/signalwire/freeswitch",
+      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5288,
+      "forks": 1906,
       "added_stars": "3 stars today"
     },
     {
-      "title": "libuv / libuv",
-      "url": "https://github.com/libuv/libuv",
-      "description": "Cross-platform asynchronous I/O",
+      "title": "zeldaret / oot",
+      "url": "https://github.com/zeldaret/oot",
+      "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27314,
-      "forks": 3982,
-      "added_stars": "3 stars today"
+      "stars": 5682,
+      "forks": 721,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "esnet / iperf",
-      "url": "https://github.com/esnet/iperf",
-      "description": "iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool",
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8865,
-      "forks": 1469,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "redis / redis",
-      "url": "https://github.com/redis/redis",
-      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 77268,
-      "forks": 25006,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "tianocore / edk2",
-      "url": "https://github.com/tianocore/edk2",
-      "description": "EDK II",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6399,
-      "forks": 3360,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "apache / nuttx",
-      "url": "https://github.com/apache/nuttx",
-      "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4103,
-      "forks": 1751,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "asterisk / asterisk",
-      "url": "https://github.com/asterisk/asterisk",
-      "description": "The official Asterisk Project repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3672,
-      "forks": 1351,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "openssh / openssh-portable",
-      "url": "https://github.com/openssh/openssh-portable",
-      "description": "Portable OpenSSH",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4097,
-      "forks": 2212,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openzfs / zfs",
-      "url": "https://github.com/openzfs/zfs",
-      "description": "OpenZFS on Linux and FreeBSD",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12550,
-      "forks": 2085,
-      "added_stars": "3 stars today"
+      "stars": 140710,
+      "forks": 8705,
+      "added_stars": "75 stars today"
     }
   ]
 }

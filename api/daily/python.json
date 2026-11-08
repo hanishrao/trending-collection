@@ -2,197 +2,27 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 07 Nov 2026 08:08:22 GMT",
+  "pubDate": "Sun, 08 Nov 2026 08:27:42 GMT",
   "items": [
-    {
-      "title": "NVIDIA / auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9414,
-      "forks": 747,
-      "added_stars": "2,015 stars today"
-    },
     {
       "title": "google / skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 22977,
-      "forks": 1930,
-      "added_stars": "534 stars today"
+      "stars": 23558,
+      "forks": 1968,
+      "added_stars": "443 stars today"
     },
     {
-      "title": "psf / requests",
-      "url": "https://github.com/psf/requests",
-      "description": "A simple, yet elegant, HTTP library.",
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 54711,
-      "forks": 11519,
-      "added_stars": "119 stars today"
-    },
-    {
-      "title": "NVIDIA / TensorRT-LLM",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 15032,
-      "forks": 2916,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "apache / airflow",
-      "url": "https://github.com/apache/airflow",
-      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47405,
-      "forks": 18322,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "python-poetry / poetry",
-      "url": "https://github.com/python-poetry/poetry",
-      "description": "Python packaging and dependency management made easy",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 34430,
-      "forks": 2584,
-      "added_stars": "133 stars today"
-    },
-    {
-      "title": "airbytehq / airbyte",
-      "url": "https://github.com/airbytehq/airbyte",
-      "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 22330,
-      "forks": 5441,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "microsoft / VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 56552,
-      "forks": 6371,
-      "added_stars": "1,004 stars today"
-    },
-    {
-      "title": "pandas-dev / pandas",
-      "url": "https://github.com/pandas-dev/pandas",
-      "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 50509,
-      "forks": 20727,
-      "added_stars": "194 stars today"
-    },
-    {
-      "title": "onnx / onnx",
-      "url": "https://github.com/onnx/onnx",
-      "description": "Open standard for machine learning interoperability",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 21657,
-      "forks": 4080,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "django / django",
-      "url": "https://github.com/django/django",
-      "description": "The Web framework for perfectionists with deadlines.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 91672,
-      "forks": 35967,
-      "added_stars": "169 stars today"
-    },
-    {
-      "title": "pydantic / pydantic",
-      "url": "https://github.com/pydantic/pydantic",
-      "description": "Data validation using Python type hints",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 29358,
-      "forks": 3154,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "pipeshub-ai / pipeshub-ai",
-      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
-      "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4034,
-      "forks": 650,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "antoniaci / blackbird",
-      "url": "https://github.com/antoniaci/blackbird",
-      "description": "An OSINT tool to search for accounts by username and email in social networks.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9871,
-      "forks": 1401,
-      "added_stars": "121 stars today"
-    },
-    {
-      "title": "D4Vinci / Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 98987,
-      "forks": 10371,
-      "added_stars": "1,324 stars today"
-    },
-    {
-      "title": "numpy / numpy",
-      "url": "https://github.com/numpy/numpy",
-      "description": "The fundamental package for scientific computing with Python.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 33377,
-      "forks": 13091,
-      "added_stars": "131 stars today"
-    },
-    {
-      "title": "psf / black",
-      "url": "https://github.com/psf/black",
-      "description": "The uncompromising Python code formatter",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 42125,
-      "forks": 2971,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "dgtlmoon / changedetection.io",
-      "url": "https://github.com/dgtlmoon/changedetection.io",
-      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 35600,
-      "forks": 2219,
-      "added_stars": "55 stars today"
-    },
-    {
-      "title": "mlflow / mlflow",
-      "url": "https://github.com/mlflow/mlflow",
-      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 28710,
-      "forks": 6593,
-      "added_stars": "8 stars today"
+      "stars": 189000,
+      "forks": 22279,
+      "added_stars": "390 stars today"
     },
     {
       "title": "sherlock-project / sherlock",
@@ -200,9 +30,129 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 98957,
-      "forks": 11749,
-      "added_stars": "1,761 stars today"
+      "stars": 101287,
+      "forks": 11976,
+      "added_stars": "1,766 stars today"
+    },
+    {
+      "title": "mbillow / localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1113,
+      "forks": 114,
+      "added_stars": "186 stars today"
+    },
+    {
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 56731,
+      "forks": 6387,
+      "added_stars": "245 stars today"
+    },
+    {
+      "title": "elder-plinius / OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9292,
+      "forks": 1650,
+      "added_stars": "57 stars today"
+    },
+    {
+      "title": "spotDL / spotify-downloader",
+      "url": "https://github.com/spotDL/spotify-downloader",
+      "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26743,
+      "forks": 2314,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 60038,
+      "forks": 7538,
+      "added_stars": "378 stars today"
+    },
+    {
+      "title": "django / django",
+      "url": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 91688,
+      "forks": 35969,
+      "added_stars": "99 stars today"
+    },
+    {
+      "title": "EbookFoundation / free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 401245,
+      "forks": 67383,
+      "added_stars": "165 stars today"
+    },
+    {
+      "title": "donnemartin / system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 377299,
+      "forks": 59220,
+      "added_stars": "192 stars today"
+    },
+    {
+      "title": "aws / agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3431,
+      "forks": 441,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "Usagi-org / ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18352,
+      "forks": 3026,
+      "added_stars": "144 stars today"
+    },
+    {
+      "title": "NVIDIA / auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9889,
+      "forks": 806,
+      "added_stars": "1,155 stars today"
+    },
+    {
+      "title": "bobeff / open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "description": "A list of open source games.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17846,
+      "forks": 1642,
+      "added_stars": "143 stars today"
     }
   ]
 }

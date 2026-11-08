@@ -2,27 +2,27 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 07 Nov 2026 08:11:55 GMT",
+  "pubDate": "Sun, 08 Nov 2026 08:33:20 GMT",
   "items": [
-    {
-      "title": "supabase / postgres",
-      "url": "https://github.com/supabase/postgres",
-      "description": "Unmodified Postgres with some useful extensions",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1803,
-      "forks": 275,
-      "added_stars": "15 stars this month"
-    },
     {
       "title": "NixOS / nixpkgs",
       "url": "https://github.com/NixOS/nixpkgs",
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26741,
-      "forks": 20656,
-      "added_stars": "431 stars this month"
+      "stars": 26743,
+      "forks": 20663,
+      "added_stars": "433 stars this month"
+    },
+    {
+      "title": "supabase / postgres",
+      "url": "https://github.com/supabase/postgres",
+      "description": "Unmodified Postgres with some useful extensions",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1805,
+      "forks": 275,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "chaotic-cx / nyx",
@@ -30,19 +30,9 @@
       "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 799,
+      "stars": 800,
       "forks": 84,
       "added_stars": "24 stars this month"
-    },
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2247,
-      "forks": 321,
-      "added_stars": "189 stars this month"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -50,9 +40,19 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3353,
-      "forks": 999,
-      "added_stars": "38 stars this month"
+      "stars": 3354,
+      "forks": 1000,
+      "added_stars": "40 stars this month"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2256,
+      "forks": 321,
+      "added_stars": "188 stars this month"
     }
   ]
 }
