@@ -4,7 +4,12 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 08 Nov 2026 08:31:01 GMT</pubDate>
+  <pubDate>Mon, 09 Nov 2026 09:00:27 GMT</pubDate>
+  <item>
+    <title>NVIDIA / auto-ontology</title>
+    <link>https://github.com/NVIDIA/auto-ontology</link>
+    <description>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</description>
+  </item>
   <item>
     <title>anthropics / skills</title>
     <link>https://github.com/anthropics/skills</link>
@@ -26,34 +31,9 @@
     <description>🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.</description>
   </item>
   <item>
-    <title>shiyu-coder / Kronos</title>
-    <link>https://github.com/shiyu-coder/Kronos</link>
-    <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
-  </item>
-  <item>
     <title>blader / humanizer</title>
     <link>https://github.com/blader/humanizer</link>
     <description>Agent skill that removes signs of AI-generated writing from text</description>
-  </item>
-  <item>
-    <title>HKUDS / DeepTutor</title>
-    <link>https://github.com/HKUDS/DeepTutor</link>
-    <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
-  </item>
-  <item>
-    <title>guillaumemeyer / watermarks-remover</title>
-    <link>https://github.com/guillaumemeyer/watermarks-remover</link>
-    <description>A privacy-first app that strips AI watermarks from content you own.</description>
-  </item>
-  <item>
-    <title>AgriciDaniel / claude-seo</title>
-    <link>https://github.com/AgriciDaniel/claude-seo</link>
-    <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
-  </item>
-  <item>
-    <title>harry0703 / MoneyPrinterTurbo</title>
-    <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-    <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
   </item>
   <item>
     <title>google / skills</title>
@@ -61,14 +41,24 @@
     <description>Agent Skills for Google products and technologies</description>
   </item>
   <item>
+    <title>shiyu-coder / Kronos</title>
+    <link>https://github.com/shiyu-coder/Kronos</link>
+    <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
+  </item>
+  <item>
+    <title>harry0703 / MoneyPrinterTurbo</title>
+    <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+    <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
+  </item>
+  <item>
+    <title>guillaumemeyer / watermarks-remover</title>
+    <link>https://github.com/guillaumemeyer/watermarks-remover</link>
+    <description>A privacy-first app that strips AI watermarks from content you own.</description>
+  </item>
+  <item>
     <title>Graphify-Labs / graphify</title>
     <link>https://github.com/Graphify-Labs/graphify</link>
     <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
-  </item>
-  <item>
-    <title>ethanplusai / sellbird</title>
-    <link>https://github.com/ethanplusai/sellbird</link>
-    <description>Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.</description>
   </item>
   <item>
     <title>python-poetry / poetry</title>
@@ -81,14 +71,19 @@
     <description>Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.</description>
   </item>
   <item>
-    <title>pandas-dev / pandas</title>
-    <link>https://github.com/pandas-dev/pandas</link>
-    <description>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more</description>
+    <title>HKUDS / DeepTutor</title>
+    <link>https://github.com/HKUDS/DeepTutor</link>
+    <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
   </item>
   <item>
-    <title>NVIDIA / auto-ontology</title>
-    <link>https://github.com/NVIDIA/auto-ontology</link>
-    <description>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</description>
+    <title>ethanplusai / sellbird</title>
+    <link>https://github.com/ethanplusai/sellbird</link>
+    <description>Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.</description>
+  </item>
+  <item>
+    <title>bradautomates / claude-video</title>
+    <link>https://github.com/bradautomates/claude-video</link>
+    <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
   </item>
 </channel>
 </rss>

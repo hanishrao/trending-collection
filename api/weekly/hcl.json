@@ -2,15 +2,25 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 08 Nov 2026 08:31:01 GMT",
+  "pubDate": "Mon, 09 Nov 2026 09:00:27 GMT",
   "items": [
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2132,
+      "forks": 1281,
+      "added_stars": "7 stars this week"
+    },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5014,
+      "stars": 5015,
       "forks": 4413,
       "added_stars": "1 star this week"
     },
@@ -30,19 +40,19 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3280,
-      "forks": 4623,
+      "stars": 3282,
+      "forks": 4622,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2132,
-      "forks": 1280,
-      "added_stars": "7 stars this week"
+      "stars": 2421,
+      "forks": 1627,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -53,16 +63,6 @@
       "stars": 876,
       "forks": 1115,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "techiescamp / devops-projects",
-      "url": "https://github.com/techiescamp/devops-projects",
-      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2420,
-      "forks": 1627,
-      "added_stars": "26 stars this week"
     },
     {
       "title": "semgrep / semgrep-rules",
@@ -82,7 +82,7 @@
       "languageColor": "#844FBA",
       "stars": 1043,
       "forks": 783,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-project-factory",
@@ -115,16 +115,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 117,
-      "forks": 205,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-iam",
       "url": "https://github.com/terraform-google-modules/terraform-google-iam",
       "description": "Manages multiple IAM roles for resources on Google Cloud",
@@ -133,6 +123,16 @@
       "stars": 244,
       "forks": 192,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 117,
+      "forks": 205,
+      "added_stars": "0 stars this week"
     }
   ]
 }

@@ -1,0 +1,710 @@
+{
+  "title": "Hugging Face Trending Datasets",
+  "source": "https://huggingface.co/datasets?sort=trending",
+  "updated_at": "2026-11-09T08:55:47.922918+00:00",
+  "ranking": "huggingface_trending_score",
+  "download_window_days": 30,
+  "items": [
+    {
+      "rank": 1,
+      "id": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
+      "downloads_30d": 1434099,
+      "downloads_all_time": 1440534,
+      "likes": 1490,
+      "trending_score": 223,
+      "created_at": "2026-06-29T15:38:26.000Z",
+      "last_modified": "2026-11-04T20:49:04.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "region:us",
+        "simready"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 2,
+      "id": "Vyber07/cyber-security",
+      "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
+      "downloads_30d": 13494,
+      "downloads_all_time": 19810,
+      "likes": 801,
+      "trending_score": 185,
+      "created_at": "2026-05-30T16:41:46.000Z",
+      "last_modified": "2026-08-31T17:57:10.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:question-answering",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:n<1K",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "cybersecurity",
+        "penetration-testing",
+        "red-team",
+        "blue-team",
+        "web-security",
+        "cloud-security",
+        "malware",
+        "forensics",
+        "exploit",
+        "vulnerability",
+        "iot",
+        "ai-security",
+        "bug-bounty",
+        "offensive-security",
+        "defensive-security"
+      ],
+      "task_categories": [
+        "text-generation",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "open-index/hacker-news",
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "downloads_30d": 480388,
+      "downloads_all_time": 715877,
+      "likes": 559,
+      "trending_score": 157,
+      "created_at": "2026-03-14T09:58:41.000Z",
+      "last_modified": "2026-08-23T16:25:00.000Z",
+      "licenses": [
+        "odc-by"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:feature-extraction",
+        "task_categories:text-classification",
+        "task_categories:question-answering",
+        "language:en",
+        "license:odc-by",
+        "size_categories:10M<n<100M",
+        "modality:text",
+        "region:us",
+        "hacker-news",
+        "forum",
+        "text",
+        "parquet",
+        "community",
+        "tech",
+        "comments",
+        "live-updated"
+      ],
+      "task_categories": [
+        "text-generation",
+        "feature-extraction",
+        "text-classification",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "Angais/pixel-art-atlas-1.4m",
+      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
+      "downloads_30d": 1771,
+      "downloads_all_time": 1771,
+      "likes": 112,
+      "trending_score": 108,
+      "created_at": "2026-11-06T12:37:24.000Z",
+      "last_modified": "2026-11-06T13:05:13.000Z",
+      "licenses": [
+        "cc0-1.0"
+      ],
+      "tags": [
+        "task_categories:text-to-image",
+        "language:en",
+        "license:cc0-1.0",
+        "size_categories:1M<n<10M",
+        "format:parquet",
+        "modality:image",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "pixel-art",
+        "sprites",
+        "synthetic",
+        "ai-generated"
+      ],
+      "task_categories": [
+        "text-to-image"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "codepawl/abo-glb",
+      "url": "https://huggingface.co/datasets/codepawl/abo-glb",
+      "downloads_30d": 23857,
+      "downloads_all_time": 23857,
+      "likes": 101,
+      "trending_score": 98,
+      "created_at": "2026-11-04T15:14:51.000Z",
+      "last_modified": "2026-11-07T06:42:59.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "size_categories:1K<n<10K",
+        "modality:3d",
+        "modality:image",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "gltf",
+        "glb",
+        "web",
+        "three.js",
+        "67js",
+        "furniture",
+        "pbr",
+        "amazon-berkeley-objects"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 6,
+      "id": "PentesterFlow/OffsecCyber",
+      "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber",
+      "downloads_30d": 5746,
+      "downloads_all_time": 5746,
+      "likes": 79,
+      "trending_score": 74,
+      "created_at": "2026-11-03T09:53:35.000Z",
+      "last_modified": "2026-11-03T20:19:14.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:text-classification",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:10K<n<100K",
+        "region:us",
+        "cybersecurity",
+        "application-security",
+        "vulnerabilities",
+        "cve",
+        "cwe",
+        "instruction-tuning",
+        "jsonl"
+      ],
+      "task_categories": [
+        "text-generation",
+        "text-classification"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "ccore/ThreeJS-3D-Scenes",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
+      "downloads_30d": 7351,
+      "downloads_all_time": 7351,
+      "likes": 97,
+      "trending_score": 56,
+      "created_at": "2026-10-28T03:21:45.000Z",
+      "last_modified": "2026-11-03T21:53:43.000Z",
+      "licenses": [
+        "mit"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "language:en",
+        "license:mit",
+        "size_categories:1K<n<10K",
+        "format:parquet",
+        "modality:image",
+        "modality:text",
+        "modality:3d",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "threejs",
+        "code",
+        "reasoning",
+        "conversational",
+        "html",
+        "javascript"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "codepawl/scanned-objects-glb",
+      "url": "https://huggingface.co/datasets/codepawl/scanned-objects-glb",
+      "downloads_30d": 11450,
+      "downloads_all_time": 11450,
+      "likes": 50,
+      "trending_score": 48,
+      "created_at": "2026-11-04T05:48:29.000Z",
+      "last_modified": "2026-11-07T06:44:21.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "size_categories:1K<n<10K",
+        "modality:3d",
+        "modality:image",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "gltf",
+        "glb",
+        "web",
+        "three.js",
+        "photogrammetry",
+        "google-scanned-objects"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 9,
+      "id": "NousResearch/arete-data-pairs",
+      "url": "https://huggingface.co/datasets/NousResearch/arete-data-pairs",
+      "downloads_30d": 642,
+      "downloads_all_time": 642,
+      "likes": 44,
+      "trending_score": 44,
+      "created_at": "2026-11-06T20:53:00.000Z",
+      "last_modified": "2026-11-06T21:14:56.000Z",
+      "licenses": [],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:question-answering",
+        "language:en",
+        "size_categories:10K<n<100K",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "values",
+        "synthetic",
+        "sft"
+      ],
+      "task_categories": [
+        "text-generation",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "tencent/TailorRig",
+      "url": "https://huggingface.co/datasets/tencent/TailorRig",
+      "downloads_30d": 4570,
+      "downloads_all_time": 4570,
+      "likes": 43,
+      "trending_score": 42,
+      "created_at": "2026-11-04T02:02:54.000Z",
+      "last_modified": "2026-11-05T06:24:47.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "language:en",
+        "license:other",
+        "size_categories:10K<n<100K",
+        "modality:3d",
+        "arxiv:2611.02902",
+        "region:us",
+        "3d",
+        "mesh",
+        "skeleton",
+        "rigging",
+        "skinning",
+        "auto-rigging",
+        "character",
+        "npz"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 11,
+      "id": "HuggingFaceBio/FineDNA",
+      "url": "https://huggingface.co/datasets/HuggingFaceBio/FineDNA",
+      "downloads_30d": 10729,
+      "downloads_all_time": 10729,
+      "likes": 64,
+      "trending_score": 38,
+      "created_at": "2026-10-30T11:42:49.000Z",
+      "last_modified": "2026-10-30T17:15:34.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:100M<n<1B",
+        "format:parquet",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "biology",
+        "genomics",
+        "dna",
+        "midtraining",
+        "sft",
+        "rl"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "NousResearch/Propaganda_Eval",
+      "url": "https://huggingface.co/datasets/NousResearch/Propaganda_Eval",
+      "downloads_30d": 620,
+      "downloads_all_time": 620,
+      "likes": 41,
+      "trending_score": 38,
+      "created_at": "2026-11-06T16:58:27.000Z",
+      "last_modified": "2026-11-06T20:39:08.000Z",
+      "licenses": [
+        "mit"
+      ],
+      "tags": [
+        "task_categories:question-answering",
+        "language:en",
+        "license:mit",
+        "size_categories:n<1K",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "evaluation",
+        "censorship",
+        "propaganda",
+        "llm-as-a-judge"
+      ],
+      "task_categories": [
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+      "url": "https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+      "downloads_30d": 218724,
+      "downloads_all_time": 299902,
+      "likes": 659,
+      "trending_score": 36,
+      "created_at": "2026-09-01T12:12:13.000Z",
+      "last_modified": "2026-11-08T20:00:08.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "license:other",
+        "size_categories:n>1T",
+        "region:us",
+        "finance",
+        "trading",
+        "stock-market",
+        "china",
+        "a-share",
+        "level-2",
+        "limit-order-book",
+        "tick-data",
+        "high-frequency",
+        "market-microstructure"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 14,
+      "id": "codepawl/plateau-city-glb",
+      "url": "https://huggingface.co/datasets/codepawl/plateau-city-glb",
+      "downloads_30d": 1850,
+      "downloads_all_time": 1850,
+      "likes": 33,
+      "trending_score": 31,
+      "created_at": "2026-11-06T18:23:34.000Z",
+      "last_modified": "2026-11-07T06:43:50.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "size_categories:n<1K",
+        "modality:3d",
+        "modality:image",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "glb",
+        "gltf",
+        "city",
+        "buildings",
+        "japan",
+        "tokyo",
+        "plateau",
+        "citygml",
+        "threejs",
+        "webgpu",
+        "game-assets",
+        "streaming"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 15,
+      "id": "scenario-labs/3d-collection",
+      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection",
+      "downloads_30d": 44991,
+      "downloads_all_time": 44991,
+      "likes": 390,
+      "trending_score": 29,
+      "created_at": "2026-10-19T14:08:44.000Z",
+      "last_modified": "2026-10-19T15:21:02.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "size_categories:1K<n<10K",
+        "format:parquet",
+        "modality:3d",
+        "modality:image",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 16,
+      "id": "codepawl/simready-glb",
+      "url": "https://huggingface.co/datasets/codepawl/simready-glb",
+      "downloads_30d": 27664,
+      "downloads_all_time": 27664,
+      "likes": 78,
+      "trending_score": 27,
+      "created_at": "2026-10-28T15:30:00.000Z",
+      "last_modified": "2026-11-07T06:01:43.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "size_categories:1K<n<10K",
+        "modality:3d",
+        "modality:image",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "gltf",
+        "glb",
+        "web",
+        "three.js",
+        "simready",
+        "nvidia"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 17,
+      "id": "Axion1-0/axion-training-data",
+      "url": "https://huggingface.co/datasets/Axion1-0/axion-training-data",
+      "downloads_30d": 1709,
+      "downloads_all_time": 1709,
+      "likes": 27,
+      "trending_score": 27,
+      "created_at": "2026-11-02T17:41:16.000Z",
+      "last_modified": "2026-11-05T01:53:04.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:question-answering",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:10K<n<100K",
+        "format:parquet",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "arxiv:2611.03233",
+        "region:us",
+        "agents",
+        "scientific-reasoning",
+        "tool-use",
+        "supervised-fine-tuning",
+        "reinforcement-learning",
+        "datasets"
+      ],
+      "task_categories": [
+        "text-generation",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "speechcolab/gigaspeech3",
+      "url": "https://huggingface.co/datasets/speechcolab/gigaspeech3",
+      "downloads_30d": 7361,
+      "downloads_all_time": 7361,
+      "likes": 24,
+      "trending_score": 24,
+      "created_at": "2026-10-25T09:06:33.000Z",
+      "last_modified": "2026-11-08T03:12:31.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "task_categories:automatic-speech-recognition",
+        "annotations_creators:machine-generated",
+        "language_creators:found",
+        "multilinguality:monolingual",
+        "language:ar",
+        "license:other",
+        "size_categories:10M<n<100M",
+        "modality:audio",
+        "arxiv:2611.02476",
+        "region:us",
+        "audio",
+        "speech",
+        "arabic",
+        "dialectal-arabic",
+        "weak-supervision",
+        "noisy-student-training"
+      ],
+      "task_categories": [
+        "automatic-speech-recognition"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "Sandflow/sand3d-objaverse",
+      "url": "https://huggingface.co/datasets/Sandflow/sand3d-objaverse",
+      "downloads_30d": 122026,
+      "downloads_all_time": 122026,
+      "likes": 25,
+      "trending_score": 23,
+      "created_at": "2026-11-04T13:17:10.000Z",
+      "last_modified": "2026-11-05T06:47:05.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "task_categories:text-to-3d",
+        "task_categories:image-to-3d",
+        "license:cc-by-4.0",
+        "size_categories:10K<n<100K",
+        "format:parquet",
+        "modality:3d",
+        "modality:image",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "arxiv:2212.08051",
+        "region:us",
+        "3d",
+        "code",
+        "openusd",
+        "usd",
+        "cad",
+        "articulated-objects",
+        "program-synthesis",
+        "sand3d"
+      ],
+      "task_categories": [
+        "text-to-3d",
+        "image-to-3d"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "ccore/ThreeJS-3D-GLB-Assets",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-GLB-Assets",
+      "downloads_30d": 1688,
+      "downloads_all_time": 1688,
+      "likes": 23,
+      "trending_score": 22,
+      "created_at": "2026-11-06T00:25:00.000Z",
+      "last_modified": "2026-11-07T01:13:54.000Z",
+      "licenses": [
+        "mit"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "language:en",
+        "license:mit",
+        "size_categories:10K<n<100K",
+        "format:parquet",
+        "modality:image",
+        "modality:text",
+        "modality:3d",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "threejs",
+        "glb",
+        "game-assets",
+        "code",
+        "reasoning",
+        "conversational",
+        "html",
+        "javascript"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    }
+  ]
+}

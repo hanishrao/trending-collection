@@ -2,46 +2,76 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 08 Nov 2026 08:27:42 GMT",
+  "pubDate": "Mon, 09 Nov 2026 08:58:08 GMT",
   "items": [
     {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "title": "RaJiska / terraform-aws-fck-nat",
+      "url": "https://github.com/RaJiska/terraform-aws-fck-nat",
+      "description": "Terraform module for fck-nat",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2132,
-      "forks": 1280,
-      "added_stars": "4 stars today"
+      "stars": 174,
+      "forks": 83,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "bridgecrewio / terragoat",
-      "url": "https://github.com/bridgecrewio/terragoat",
-      "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1320,
-      "forks": 5964,
-      "added_stars": "2 stars today"
+      "stars": 1293,
+      "forks": 621,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "title": "cloudposse / terraform-aws-vpc",
+      "url": "https://github.com/cloudposse/terraform-aws-vpc",
+      "description": "Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1043,
-      "forks": 783,
-      "added_stars": "1 star today"
+      "stars": 242,
+      "forks": 193,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "title": "cloudposse / terraform-aws-s3-log-storage",
+      "url": "https://github.com/cloudposse/terraform-aws-s3-log-storage",
+      "description": "This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3280,
-      "forks": 4623,
+      "stars": 121,
+      "forks": 109,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kms",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kms",
+      "description": "Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 63,
+      "forks": 112,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-dynamic-subnets",
+      "url": "https://github.com/cloudposse/terraform-aws-dynamic-subnets",
+      "description": "Terraform module for public and private subnets provisioning in existing VPC",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 212,
+      "forks": 160,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
+      "description": "Terraform Azure Verified Resource Module for Storage Account",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 39,
+      "forks": 80,
       "added_stars": "0 stars today"
     },
     {
@@ -55,94 +85,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
+      "title": "cloudposse / terraform-aws-s3-bucket",
+      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
+      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 876,
-      "forks": 1115,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1278,
+      "stars": 177,
+      "forks": 858,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-vm",
+      "url": "https://github.com/terraform-google-modules/terraform-google-vm",
+      "description": "Provisions VMs in Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5014,
-      "forks": 4413,
+      "stars": 271,
+      "forks": 408,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 244,
-      "forks": 192,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 180,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 590,
-      "forks": 3803,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "techiescamp / devops-projects",
-      "url": "https://github.com/techiescamp/devops-projects",
-      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2420,
-      "forks": 1627,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-s3-log-storage",
-      "url": "https://github.com/cloudposse/terraform-aws-s3-log-storage",
-      "description": "This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 121,
-      "forks": 109,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 208,
-      "forks": 609,
-      "added_stars": "1 star today"
     }
   ]
 }

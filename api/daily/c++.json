@@ -2,37 +2,57 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 08 Nov 2026 08:27:42 GMT",
+  "pubDate": "Mon, 09 Nov 2026 08:58:08 GMT",
   "items": [
+    {
+      "title": "google-deepmind / mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16647,
+      "forks": 1964,
+      "added_stars": "41 stars today"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 43177,
+      "forks": 2364,
+      "added_stars": "49 stars today"
+    },
     {
       "title": "dashdogy / MFG-Unlocker",
       "url": "https://github.com/dashdogy/MFG-Unlocker",
       "description": "DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2287,
-      "forks": 65,
-      "added_stars": "74 stars today"
+      "stars": 2377,
+      "forks": 68,
+      "added_stars": "191 stars today"
     },
     {
-      "title": "orailnoor / cross-platform-llm-client",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
-      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
+      "title": "microsoft / BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1677,
-      "forks": 346,
-      "added_stars": "68 stars today"
+      "stars": 41513,
+      "forks": 3875,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "Fincept-Corporation / FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "title": "azahar-emu / azahar",
+      "url": "https://github.com/azahar-emu/azahar",
+      "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33574,
-      "forks": 4803,
-      "added_stars": "50 stars today"
+      "stars": 8603,
+      "forks": 812,
+      "added_stars": "17 stars today"
     },
     {
       "title": "boykopovar / AnyPS5",
@@ -40,119 +60,79 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 52136,
-      "forks": 4964,
-      "added_stars": "282 stars today"
+      "stars": 52425,
+      "forks": 4980,
+      "added_stars": "286 stars today"
     },
     {
-      "title": "LadybirdBrowser / ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
+      "title": "orailnoor / cross-platform-llm-client",
+      "url": "https://github.com/orailnoor/cross-platform-llm-client",
+      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 66930,
-      "forks": 3196,
-      "added_stars": "25 stars today"
+      "stars": 1833,
+      "forks": 364,
+      "added_stars": "119 stars today"
     },
     {
-      "title": "alibaba / MNN",
-      "url": "https://github.com/alibaba/MNN",
-      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+      "title": "telegramdesktop / tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16424,
-      "forks": 2511,
-      "added_stars": "23 stars today"
+      "stars": 33509,
+      "forks": 7580,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "Neroued / ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
+      "title": "Fincept-Corporation / FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3290,
-      "forks": 692,
-      "added_stars": "14 stars today"
+      "stars": 33614,
+      "forks": 4812,
+      "added_stars": "38 stars today"
     },
     {
-      "title": "openvinotoolkit / openvino",
-      "url": "https://github.com/openvinotoolkit/openvino",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "title": "OrcaSlicer / OrcaSlicer",
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11129,
-      "forks": 3541,
-      "added_stars": "9 stars today"
+      "stars": 16397,
+      "forks": 3448,
+      "added_stars": "27 stars today"
     },
     {
-      "title": "78 / xiaozhi-esp32",
-      "url": "https://github.com/78/xiaozhi-esp32",
-      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "title": "transmission / transmission",
+      "url": "https://github.com/transmission/transmission",
+      "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32861,
-      "forks": 7755,
-      "added_stars": "70 stars today"
+      "stars": 15399,
+      "forks": 1484,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
+      "title": "aardappel / goose",
+      "url": "https://github.com/aardappel/goose",
+      "description": "The Goose Programming Language",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 201391,
-      "forks": 78404,
-      "added_stars": "39 stars today"
+      "stars": 3329,
+      "forks": 140,
+      "added_stars": "54 stars today"
     },
     {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
+      "title": "dyang886 / Game-Cheats-Manager",
+      "url": "https://github.com/dyang886/Game-Cheats-Manager",
+      "description": "Easily download and manage single-player game cheats for your convenience",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 133692,
-      "forks": 25250,
-      "added_stars": "103 stars today"
-    },
-    {
-      "title": "jimmgreen / pulse",
-      "url": "https://github.com/jimmgreen/pulse",
-      "description": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1417,
-      "forks": 107,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "notepad-plus-plus / notepad-plus-plus",
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
-      "description": "Notepad++ official repository",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29810,
-      "forks": 5424,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "dariulone / cyberpunk-vr-port",
-      "url": "https://github.com/dariulone/cyberpunk-vr-port",
-      "description": "",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 509,
-      "forks": 55,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "komaruworld / mocktail",
-      "url": "https://github.com/komaruworld/mocktail",
-      "description": "Experimental Roblox compatibility runtime for Linux and FreeBSD",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 427,
-      "forks": 45,
-      "added_stars": "8 stars today"
+      "stars": 16053,
+      "forks": 586,
+      "added_stars": "26 stars today"
     }
   ]
 }

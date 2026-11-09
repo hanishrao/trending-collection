@@ -2,17 +2,27 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 08 Nov 2026 08:31:01 GMT",
+  "pubDate": "Mon, 09 Nov 2026 09:00:27 GMT",
   "items": [
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12731,
+      "forks": 1649,
+      "added_stars": "544 stars this week"
+    },
     {
       "title": "JustVugg / colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 48828,
-      "forks": 5695,
-      "added_stars": "3,394 stars this week"
+      "stars": 49194,
+      "forks": 5772,
+      "added_stars": "3,383 stars this week"
     },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
@@ -20,29 +30,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11266,
-      "forks": 1754,
-      "added_stars": "1,920 stars this week"
-    },
-    {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 43427,
-      "forks": 7490,
-      "added_stars": "143 stars this week"
-    },
-    {
-      "title": "valinet / ExplorerPatcher",
-      "url": "https://github.com/valinet/ExplorerPatcher",
-      "description": "This project aims to enhance the working environment on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34249,
-      "forks": 1386,
-      "added_stars": "96 stars this week"
+      "stars": 11362,
+      "forks": 1777,
+      "added_stars": "2,085 stars this week"
     },
     {
       "title": "openssl / openssl",
@@ -50,29 +40,59 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31367,
-      "forks": 11586,
-      "added_stars": "272 stars this week"
+      "stars": 31387,
+      "forks": 11591,
+      "added_stars": "271 stars this week"
     },
     {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17033,
-      "forks": 10376,
-      "added_stars": "75 stars this week"
+      "stars": 43437,
+      "forks": 7490,
+      "added_stars": "147 stars this week"
     },
     {
-      "title": "YizhengWw / HachimoDock",
-      "url": "https://github.com/YizhengWw/HachimoDock",
-      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 945,
-      "forks": 101,
-      "added_stars": "384 stars this week"
+      "stars": 38014,
+      "forks": 3642,
+      "added_stars": "371 stars this week"
+    },
+    {
+      "title": "madler / zlib",
+      "url": "https://github.com/madler/zlib",
+      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7204,
+      "forks": 2897,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "valinet / ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34258,
+      "forks": 1386,
+      "added_stars": "86 stars this week"
+    },
+    {
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5936,
+      "forks": 992,
+      "added_stars": "117 stars this week"
     },
     {
       "title": "rizinorg / rizin",
@@ -80,8 +100,8 @@
       "description": "UNIX-like reverse engineering framework and command-line toolset.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4152,
-      "forks": 700,
+      "stars": 4163,
+      "forks": 701,
       "added_stars": "69 stars this week"
     },
     {
@@ -90,19 +110,9 @@
       "description": "Audio playback and capture library written in C, in a single source file.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7577,
-      "forks": 632,
-      "added_stars": "146 stars this week"
-    },
-    {
-      "title": "meta / zstd",
-      "url": "https://github.com/meta/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28204,
-      "forks": 2677,
-      "added_stars": "65 stars this week"
+      "stars": 7583,
+      "forks": 635,
+      "added_stars": "121 stars this week"
     }
   ]
 }
