@@ -2,37 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 09 Nov 2026 09:00:27 GMT",
+  "pubDate": "Tue, 10 Nov 2026 09:27:11 GMT",
   "items": [
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19665,
-      "forks": 1324,
-      "added_stars": "53 stars this week"
-    },
     {
       "title": "jgm / pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46862,
-      "forks": 4860,
-      "added_stars": "102 stars this week"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2967,
-      "forks": 433,
-      "added_stars": "5 stars this week"
+      "stars": 46871,
+      "forks": 4436,
+      "added_stars": "101 stars this week"
     },
     {
       "title": "hadolint / hadolint",
@@ -40,9 +20,19 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12518,
+      "stars": 12522,
       "forks": 511,
-      "added_stars": "17 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2968,
+      "forks": 432,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -50,9 +40,9 @@
       "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2966,
+      "stars": 2968,
       "forks": 472,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "haskell / cabal",
@@ -60,7 +50,7 @@
       "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1748,
+      "stars": 1750,
       "forks": 762,
       "added_stars": "0 stars this week"
     },
@@ -70,19 +60,9 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4815,
+      "stars": 4813,
       "forks": 424,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "clash-lang / clash-compiler",
-      "url": "https://github.com/clash-lang/clash-compiler",
-      "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1628,
-      "forks": 172,
-      "added_stars": "2 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
       "title": "commercialhaskell / stack",
@@ -90,9 +70,19 @@
       "description": "The Haskell Tool Stack",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4082,
+      "stars": 4084,
       "forks": 855,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40314,
+      "forks": 1973,
+      "added_stars": "41 stars this week"
     },
     {
       "title": "purescript / purescript",
@@ -100,19 +90,9 @@
       "description": "A strongly-typed language that compiles to JavaScript",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 8915,
+      "stars": 8919,
       "forks": 574,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27744,
-      "forks": 1238,
-      "added_stars": "12 stars this week"
     },
     {
       "title": "unisonweb / unison",
@@ -120,19 +100,19 @@
       "description": "A friendly programming language from the future",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6780,
+      "stars": 6784,
       "forks": 315,
-      "added_stars": "11 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3172,
-      "forks": 764,
-      "added_stars": "2 stars this week"
+      "stars": 27747,
+      "forks": 1238,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "digital-asset / daml",
@@ -145,14 +125,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40303,
-      "forks": 1972,
-      "added_stars": "42 stars this week"
+      "stars": 3173,
+      "forks": 764,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19675,
+      "forks": 1327,
+      "added_stars": "48 stars this week"
     }
   ]
 }

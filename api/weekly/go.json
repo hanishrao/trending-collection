@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 09 Nov 2026 09:00:27 GMT",
+  "pubDate": "Tue, 10 Nov 2026 09:27:11 GMT",
   "items": [
-    {
-      "title": "moby / moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 72361,
-      "forks": 19322,
-      "added_stars": "287 stars this week"
-    },
     {
       "title": "prometheus / prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 67576,
+      "stars": 67605,
       "forks": 11014,
-      "added_stars": "832 stars this week"
+      "added_stars": "855 stars this week"
     },
     {
       "title": "multica-ai / multica",
@@ -30,149 +20,9 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 55376,
-      "forks": 7302,
-      "added_stars": "841 stars this week"
-    },
-    {
-      "title": "go-gitea / gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 58977,
-      "forks": 7377,
-      "added_stars": "195 stars this week"
-    },
-    {
-      "title": "gin-gonic / gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 89605,
-      "forks": 8914,
-      "added_stars": "266 stars this week"
-    },
-    {
-      "title": "etcd-io / etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 52677,
-      "forks": 10594,
-      "added_stars": "353 stars this week"
-    },
-    {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24571,
-      "forks": 8113,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "fleetdm / fleet",
-      "url": "https://github.com/fleetdm/fleet",
-      "description": "Open device management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7162,
-      "forks": 1128,
-      "added_stars": "72 stars this week"
-    },
-    {
-      "title": "openchoreo / openchoreo",
-      "url": "https://github.com/openchoreo/openchoreo",
-      "description": "OpenChoreo is an internal developer platform for Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1848,
-      "forks": 285,
-      "added_stars": "107 stars this week"
-    },
-    {
-      "title": "nektos / act",
-      "url": "https://github.com/nektos/act",
-      "description": "Run your GitHub Actions locally 🚀",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 72597,
-      "forks": 2116,
-      "added_stars": "127 stars this week"
-    },
-    {
-      "title": "rclone / rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 60886,
-      "forks": 5664,
-      "added_stars": "190 stars this week"
-    },
-    {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 93819,
-      "forks": 11268,
-      "added_stars": "542 stars this week"
-    },
-    {
-      "title": "gastownhall / beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28610,
-      "forks": 1940,
-      "added_stars": "229 stars this week"
-    },
-    {
-      "title": "golang / go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 139802,
-      "forks": 20724,
-      "added_stars": "475 stars this week"
-    },
-    {
-      "title": "cli / cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46930,
-      "forks": 9267,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30820,
-      "forks": 1843,
-      "added_stars": "308 stars this week"
-    },
-    {
-      "title": "kubernetes / kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 128938,
-      "forks": 45518,
-      "added_stars": "535 stars this week"
+      "stars": 55496,
+      "forks": 7326,
+      "added_stars": "829 stars this week"
     },
     {
       "title": "JuliusBrussee / caveman",
@@ -180,19 +30,19 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 118470,
-      "forks": 6895,
-      "added_stars": "1,802 stars this week"
+      "stars": 118750,
+      "forks": 6908,
+      "added_stars": "1,842 stars this week"
     },
     {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "title": "etcd-io / etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 111866,
-      "forks": 15127,
-      "added_stars": "321 stars this week"
+      "stars": 52685,
+      "forks": 10596,
+      "added_stars": "357 stars this week"
     },
     {
       "title": "aquasecurity / trivy",
@@ -200,9 +50,159 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39146,
-      "forks": 840,
-      "added_stars": "243 stars this week"
+      "stars": 39188,
+      "forks": 846,
+      "added_stars": "256 stars this week"
+    },
+    {
+      "title": "moby / moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 72361,
+      "forks": 19324,
+      "added_stars": "284 stars this week"
+    },
+    {
+      "title": "nektos / act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 72625,
+      "forks": 2117,
+      "added_stars": "139 stars this week"
+    },
+    {
+      "title": "openchoreo / openchoreo",
+      "url": "https://github.com/openchoreo/openchoreo",
+      "description": "OpenChoreo is an internal developer platform for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1868,
+      "forks": 284,
+      "added_stars": "101 stars this week"
+    },
+    {
+      "title": "gin-gonic / gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 89614,
+      "forks": 8915,
+      "added_stars": "264 stars this week"
+    },
+    {
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 139824,
+      "forks": 20234,
+      "added_stars": "479 stars this week"
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 93944,
+      "forks": 11288,
+      "added_stars": "568 stars this week"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 46945,
+      "forks": 9270,
+      "added_stars": "113 stars this week"
+    },
+    {
+      "title": "go-gitea / gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 58999,
+      "forks": 7383,
+      "added_stars": "192 stars this week"
+    },
+    {
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 128969,
+      "forks": 45067,
+      "added_stars": "532 stars this week"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9544,
+      "forks": 702,
+      "added_stars": "924 stars this week"
+    },
+    {
+      "title": "fleetdm / fleet",
+      "url": "https://github.com/fleetdm/fleet",
+      "description": "Open device management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7171,
+      "forks": 1129,
+      "added_stars": "65 stars this week"
+    },
+    {
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24580,
+      "forks": 8127,
+      "added_stars": "65 stars this week"
+    },
+    {
+      "title": "gastownhall / beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28634,
+      "forks": 1940,
+      "added_stars": "220 stars this week"
+    },
+    {
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 111868,
+      "forks": 14705,
+      "added_stars": "318 stars this week"
+    },
+    {
+      "title": "google-gemini / gemini-api-cli",
+      "url": "https://github.com/google-gemini/gemini-api-cli",
+      "description": "An (experimental) CLI for the Gemini API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 490,
+      "forks": 76,
+      "added_stars": "93 stars this week"
     }
   ]
 }

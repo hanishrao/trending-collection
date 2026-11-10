@@ -2,17 +2,27 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 09 Nov 2026 08:58:08 GMT",
+  "pubDate": "Tue, 10 Nov 2026 09:13:07 GMT",
   "items": [
+    {
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 191563,
+      "forks": 22493,
+      "added_stars": "1,038 stars today"
+    },
     {
       "title": "sherlock-project / sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 105294,
-      "forks": 12247,
-      "added_stars": "2,373 stars today"
+      "stars": 107959,
+      "forks": 12490,
+      "added_stars": "4,267 stars today"
     },
     {
       "title": "anthropics / claude-quickstarts",
@@ -20,69 +30,39 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 19648,
-      "forks": 3291,
-      "added_stars": "32 stars today"
+      "stars": 20199,
+      "forks": 3344,
+      "added_stars": "551 stars today"
     },
     {
-      "title": "anthropics / skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 189999,
-      "forks": 22384,
-      "added_stars": "792 stars today"
+      "stars": 69361,
+      "forks": 56532,
+      "added_stars": "506 stars today"
     },
     {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "title": "homeassistant-ai / ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60200,
-      "forks": 7565,
-      "added_stars": "208 stars today"
+      "stars": 6247,
+      "forks": 317,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "googlecolab / google-colab-cli",
-      "url": "https://github.com/googlecolab/google-colab-cli",
-      "description": "A CLI for interacting with Google Colab runtimes",
+      "title": "OpenBMB / VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2102,
-      "forks": 299,
-      "added_stars": "104 stars today"
-    },
-    {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 77910,
-      "forks": 13832,
-      "added_stars": "449 stars today"
-    },
-    {
-      "title": "neuml / txtai",
-      "url": "https://github.com/neuml/txtai",
-      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13190,
-      "forks": 981,
-      "added_stars": "56 stars today"
-    },
-    {
-      "title": "bradautomates / claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 20283,
-      "forks": 2154,
-      "added_stars": "92 stars today"
+      "stars": 42163,
+      "forks": 4803,
+      "added_stars": "387 stars today"
     },
     {
       "title": "BigBodyCobain / Shadowbroker",
@@ -90,29 +70,99 @@
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11507,
-      "forks": 1835,
-      "added_stars": "16 stars today"
+      "stars": 11533,
+      "forks": 1836,
+      "added_stars": "25 stars today"
     },
     {
-      "title": "XiaoYouChR / Ghost-Downloader-3",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "description": "The only downloader you need. 下载器的集大成者。",
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10893,
-      "forks": 707,
-      "added_stars": "53 stars today"
+      "stars": 106616,
+      "forks": 11828,
+      "added_stars": "1,262 stars today"
     },
     {
-      "title": "SWE-agent / mini-swe-agent",
-      "url": "https://github.com/SWE-agent/mini-swe-agent",
-      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9440,
-      "forks": 1300,
-      "added_stars": "86 stars today"
+      "stars": 78197,
+      "forks": 13905,
+      "added_stars": "326 stars today"
+    },
+    {
+      "title": "HKUDS / DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 57775,
+      "forks": 7041,
+      "added_stars": "710 stars today"
+    },
+    {
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 46691,
+      "forks": 4861,
+      "added_stars": "149 stars today"
+    },
+    {
+      "title": "soxoj / maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 39927,
+      "forks": 3194,
+      "added_stars": "44 stars today"
+    },
+    {
+      "title": "hummingbot / hummingbot",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 21138,
+      "forks": 5138,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "opensandbox-group / OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17042,
+      "forks": 1611,
+      "added_stars": "168 stars today"
+    },
+    {
+      "title": "snap-stanford / memorilla",
+      "url": "https://github.com/snap-stanford/memorilla",
+      "description": "🦍 Memorilla: Latent Semantic Memory for LLMs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 775,
+      "forks": 60,
+      "added_stars": "62 stars today"
+    },
+    {
+      "title": "neuml / txtai",
+      "url": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 13253,
+      "forks": 988,
+      "added_stars": "70 stars today"
     }
   ]
 }

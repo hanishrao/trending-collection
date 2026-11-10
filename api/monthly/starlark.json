@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 09 Nov 2026 09:02:48 GMT",
+  "pubDate": "Tue, 10 Nov 2026 09:38:45 GMT",
   "items": [
     {
       "title": "bazel-contrib / rules_perl",
@@ -30,9 +30,29 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8815,
-      "forks": 2639,
-      "added_stars": "53 stars this month"
+      "stars": 8820,
+      "forks": 2640,
+      "added_stars": "57 stars this month"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 694,
+      "forks": 736,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23216,
+      "forks": 1440,
+      "added_stars": "120 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -41,38 +61,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 854,
-      "forks": 685,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 692,
-      "forks": 735,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23213,
-      "forks": 1440,
-      "added_stars": "118 stars this month"
-    },
-    {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 365,
-      "forks": 114,
-      "added_stars": "8 stars this month"
+      "forks": 686,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "cncf / xds",
@@ -93,6 +83,16 @@
       "stars": 244,
       "forks": 195,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "immich-app / immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 365,
+      "forks": 113,
+      "added_stars": "8 stars this month"
     }
   ]
 }

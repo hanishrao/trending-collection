@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 09 Nov 2026 09:02:48 GMT",
+  "pubDate": "Tue, 10 Nov 2026 09:38:45 GMT",
   "items": [
     {
       "title": "semgrep / semgrep-rules",
@@ -10,7 +10,7 @@
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1293,
+      "stars": 1294,
       "forks": 621,
       "added_stars": "31 stars this month"
     },
@@ -31,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1287,
-      "forks": 1294,
+      "forks": 1295,
       "added_stars": "8 stars this month"
     },
     {
@@ -45,24 +45,24 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3282,
-      "forks": 4622,
-      "added_stars": "9 stars this month"
-    },
-    {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2132,
+      "stars": 2133,
       "forks": 1281,
       "added_stars": "24 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3283,
+      "forks": 4622,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -72,7 +72,7 @@
       "languageColor": "#844FBA",
       "stars": 876,
       "forks": 1115,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -85,16 +85,6 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 155,
-      "forks": 119,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-iam",
       "url": "https://github.com/terraform-google-modules/terraform-google-iam",
       "description": "Manages multiple IAM roles for resources on Google Cloud",
@@ -105,24 +95,34 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "terraform-google-modules / terraform-google-service-accounts",
+      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
+      "description": "Creates one or more service accounts and grants them basic roles",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 155,
+      "forks": 119,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "hashicorp / agent-skills",
       "url": "https://github.com/hashicorp/agent-skills",
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 922,
+      "stars": 924,
       "forks": 136,
       "added_stars": "35 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 32,
-      "forks": 74,
-      "added_stars": "3 stars this month"
+      "stars": 156,
+      "forks": 180,
+      "added_stars": "0 stars this month"
     }
   ]
 }

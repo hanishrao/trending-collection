@@ -4,36 +4,26 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 09 Nov 2026 08:58:08 GMT</pubDate>
+  <pubDate>Tue, 10 Nov 2026 09:13:07 GMT</pubDate>
+  <item>
+    <title>zealvora / terraform-beginner-to-advanced-resource</title>
+    <link>https://github.com/zealvora/terraform-beginner-to-advanced-resource</link>
+    <description>HashiCorp Certified Terraform Associate 2026</description>
+  </item>
+  <item>
+    <title>awslabs / ai-on-eks</title>
+    <link>https://github.com/awslabs/ai-on-eks</link>
+    <description>AI on EKS - Tested AI/ML for Amazon Elastic Kubernetes Service</description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
+    <description>Terraform Azure Verified Resource Module for Key Vault</description>
+  </item>
   <item>
     <title>RaJiska / terraform-aws-fck-nat</title>
     <link>https://github.com/RaJiska/terraform-aws-fck-nat</link>
     <description>Terraform module for fck-nat</description>
-  </item>
-  <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-vpc</title>
-    <link>https://github.com/cloudposse/terraform-aws-vpc</link>
-    <description>Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-s3-log-storage</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-log-storage</link>
-    <description>This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-kms</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
-    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-dynamic-subnets</title>
-    <link>https://github.com/cloudposse/terraform-aws-dynamic-subnets</link>
-    <description>Terraform module for public and private subnets provisioning in existing VPC</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
@@ -41,19 +31,39 @@
     <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-ecs-container-definition</title>
-    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
+    <title>terraform-google-modules / terraform-google-lb-http</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-lb-http</link>
+    <description>Creates a global HTTP load balancer for Compute Engine by using forwarding rules</description>
   </item>
   <item>
-    <title>cloudposse / terraform-aws-s3-bucket</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-bucket</link>
-    <description>Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems</description>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-vm</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-vm</link>
-    <description>Provisions VMs in Google Cloud</description>
+    <title>terraform-google-modules / terraform-google-memorystore</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-memorystore</link>
+    <description>Creates a fully functional Google Memorystore (redis) instance</description>
+  </item>
+  <item>
+    <title>LinkedInLearning / learning-terraform-3087701</title>
+    <link>https://github.com/LinkedInLearning/learning-terraform-3087701</link>
+    <description>This repo is for the Linkedin Learning course: Learning Terraform</description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-naming</title>
+    <link>https://github.com/Azure/terraform-azurerm-naming</link>
+    <description></description>
+  </item>
+  <item>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-bigquery</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-bigquery</link>
+    <description>Creates opinionated BigQuery datasets and tables</description>
   </item>
 </channel>
 </rss>
