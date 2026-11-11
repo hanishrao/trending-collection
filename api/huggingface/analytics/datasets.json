@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-10T09:02:35.153602+00:00",
-  "snapshot_date": "2026-11-10",
+  "updated_at": "2026-11-11T08:42:45.755510+00:00",
+  "snapshot_date": "2026-11-11",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-09",
+  "comparison_date": "2026-11-10",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-04",
+  "window_start": "2026-11-05",
   "observed_days_7d": 6,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-11",
+      "id": "Angais/pixel-art-atlas-1.4m",
+      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m"
+    },
     {
       "date": "2026-11-10",
       "id": "Angais/pixel-art-atlas-1.4m",
@@ -34,11 +39,6 @@
       "date": "2026-11-06",
       "id": "nvidia/simready-assets",
       "url": "https://huggingface.co/datasets/nvidia/simready-assets"
-    },
-    {
-      "date": "2026-11-04",
-      "id": "nvidia/simready-assets",
-      "url": "https://huggingface.co/datasets/nvidia/simready-assets"
     }
   ],
   "items": [
@@ -48,88 +48,88 @@
       "rank": 1,
       "status": "continuing",
       "first_seen": "2026-11-09",
-      "appearances_7d": 2,
-      "rank_change": 3,
-      "likes_change": 158
-    },
-    {
-      "id": "nvidia/simready-assets",
-      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
-      "rank": 2,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 6,
-      "rank_change": -1,
-      "likes_change": 20
+      "appearances_7d": 3,
+      "rank_change": 0,
+      "likes_change": 69
     },
     {
       "id": "Vyber07/cyber-security",
       "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
+      "rank": 2,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 6,
+      "rank_change": 1,
+      "likes_change": 80
+    },
+    {
+      "id": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
       "rank": 3,
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 6,
       "rank_change": -1,
-      "likes_change": 25
-    },
-    {
-      "id": "open-index/hacker-news",
-      "url": "https://huggingface.co/datasets/open-index/hacker-news",
-      "rank": 4,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 6,
-      "rank_change": -1,
-      "likes_change": 6
+      "likes_change": 21
     },
     {
       "id": "codepawl/abo-glb",
       "url": "https://huggingface.co/datasets/codepawl/abo-glb",
-      "rank": 5,
+      "rank": 4,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 5,
-      "rank_change": 0,
-      "likes_change": 3
+      "appearances_7d": 6,
+      "rank_change": 1,
+      "likes_change": 5
     },
     {
-      "id": "PentesterFlow/OffsecCyber",
-      "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber",
-      "rank": 6,
+      "id": "open-index/hacker-news",
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "rank": 5,
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 6,
-      "rank_change": 0,
-      "likes_change": 7
+      "rank_change": -1,
+      "likes_change": 10
     },
     {
       "id": "tencent/TailorRig",
       "url": "https://huggingface.co/datasets/tencent/TailorRig",
-      "rank": 7,
+      "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 5,
-      "rank_change": 3,
-      "likes_change": 20
+      "appearances_7d": 6,
+      "rank_change": 1,
+      "likes_change": 16
     },
     {
       "id": "NousResearch/arete-data-pairs",
       "url": "https://huggingface.co/datasets/NousResearch/arete-data-pairs",
-      "rank": 8,
+      "rank": 7,
       "status": "continuing",
       "first_seen": "2026-11-08",
-      "appearances_7d": 3,
+      "appearances_7d": 4,
       "rank_change": 1,
-      "likes_change": 7
+      "likes_change": 5
     },
     {
       "id": "codepawl/scanned-objects-glb",
       "url": "https://huggingface.co/datasets/codepawl/scanned-objects-glb",
-      "rank": 9,
+      "rank": 8,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 5,
-      "rank_change": -1,
+      "appearances_7d": 6,
+      "rank_change": 1,
+      "likes_change": 2
+    },
+    {
+      "id": "NousResearch/Propaganda_Eval",
+      "url": "https://huggingface.co/datasets/NousResearch/Propaganda_Eval",
+      "rank": 9,
+      "status": "continuing",
+      "first_seen": "2026-11-08",
+      "appearances_7d": 4,
+      "rank_change": 2,
       "likes_change": 4
     },
     {
@@ -139,18 +139,18 @@
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 6,
-      "rank_change": -3,
-      "likes_change": 5
+      "rank_change": 0,
+      "likes_change": 4
     },
     {
-      "id": "NousResearch/Propaganda_Eval",
-      "url": "https://huggingface.co/datasets/NousResearch/Propaganda_Eval",
+      "id": "PentesterFlow/OffsecCyber",
+      "url": "https://huggingface.co/datasets/PentesterFlow/OffsecCyber",
       "rank": 11,
       "status": "continuing",
-      "first_seen": "2026-11-08",
-      "appearances_7d": 3,
-      "rank_change": 1,
-      "likes_change": 8
+      "first_seen": "2026-11-03",
+      "appearances_7d": 6,
+      "rank_change": -5,
+      "likes_change": 5
     },
     {
       "id": "codepawl/plateau-city-glb",
@@ -158,9 +158,9 @@
       "rank": 12,
       "status": "continuing",
       "first_seen": "2026-11-08",
-      "appearances_7d": 3,
-      "rank_change": 2,
-      "likes_change": 6
+      "appearances_7d": 4,
+      "rank_change": 0,
+      "likes_change": 1
     },
     {
       "id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
@@ -170,37 +170,37 @@
       "first_seen": "2026-11-03",
       "appearances_7d": 6,
       "rank_change": 0,
-      "likes_change": 11
-    },
-    {
-      "id": "scenario-labs/3d-collection",
-      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection",
-      "rank": 14,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 6,
-      "rank_change": 1,
       "likes_change": 10
     },
     {
-      "id": "Sandflow/sand3d-objaverse",
-      "url": "https://huggingface.co/datasets/Sandflow/sand3d-objaverse",
-      "rank": 15,
+      "id": "nvidia/PhysicalAI-Human-1M-100K",
+      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
+      "rank": 14,
       "status": "continuing",
-      "first_seen": "2026-11-08",
-      "appearances_7d": 3,
-      "rank_change": 4,
-      "likes_change": 9
+      "first_seen": "2026-11-10",
+      "appearances_7d": 2,
+      "rank_change": 6,
+      "likes_change": 10
     },
     {
       "id": "israellaguan/codex-tool-use-trajectories",
       "url": "https://huggingface.co/datasets/israellaguan/codex-tool-use-trajectories",
-      "rank": 16,
-      "status": "new",
+      "rank": 15,
+      "status": "continuing",
       "first_seen": "2026-11-10",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": 1,
+      "likes_change": 7
+    },
+    {
+      "id": "Sandflow/sand3d-objaverse",
+      "url": "https://huggingface.co/datasets/Sandflow/sand3d-objaverse",
+      "rank": 16,
+      "status": "continuing",
+      "first_seen": "2026-11-08",
+      "appearances_7d": 4,
+      "rank_change": -1,
+      "likes_change": 3
     },
     {
       "id": "speechcolab/gigaspeech3",
@@ -208,9 +208,9 @@
       "rank": 17,
       "status": "continuing",
       "first_seen": "2026-11-07",
-      "appearances_7d": 4,
-      "rank_change": 1,
-      "likes_change": 3
+      "appearances_7d": 5,
+      "rank_change": 0,
+      "likes_change": 1
     },
     {
       "id": "Axion1-0/axion-training-data",
@@ -218,9 +218,9 @@
       "rank": 18,
       "status": "continuing",
       "first_seen": "2026-11-06",
-      "appearances_7d": 5,
-      "rank_change": -1,
-      "likes_change": 0
+      "appearances_7d": 6,
+      "rank_change": 0,
+      "likes_change": 2
     },
     {
       "id": "ccore/ThreeJS-3D-GLB-Assets",
@@ -228,16 +228,16 @@
       "rank": 19,
       "status": "continuing",
       "first_seen": "2026-11-09",
-      "appearances_7d": 2,
-      "rank_change": 1,
-      "likes_change": 1
+      "appearances_7d": 3,
+      "rank_change": 0,
+      "likes_change": 4
     },
     {
-      "id": "nvidia/PhysicalAI-Human-1M-100K",
-      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
+      "id": "arc4g/arc-art",
+      "url": "https://huggingface.co/datasets/arc4g/arc-art",
       "rank": 20,
       "status": "new",
-      "first_seen": "2026-11-10",
+      "first_seen": "2026-11-11",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null

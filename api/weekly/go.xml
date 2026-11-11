@@ -4,7 +4,7 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 10 Nov 2026 09:27:11 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 08:47:25 GMT</pubDate>
   <item>
     <title>prometheus / prometheus</title>
     <link>https://github.com/prometheus/prometheus</link>
@@ -26,6 +26,11 @@
     <description>Distributed reliable key-value store for the most critical data of a distributed system</description>
   </item>
   <item>
+    <title>infiniflow / ragflow</title>
+    <link>https://github.com/infiniflow/ragflow</link>
+    <description>RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.</description>
+  </item>
+  <item>
     <title>aquasecurity / trivy</title>
     <link>https://github.com/aquasecurity/trivy</link>
     <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
@@ -34,6 +39,11 @@
     <title>moby / moby</title>
     <link>https://github.com/moby/moby</link>
     <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
+  </item>
+  <item>
+    <title>golang / go</title>
+    <link>https://github.com/golang/go</link>
+    <description>The Go programming language</description>
   </item>
   <item>
     <title>nektos / act</title>
@@ -46,31 +56,6 @@
     <description>OpenChoreo is an internal developer platform for Kubernetes</description>
   </item>
   <item>
-    <title>gin-gonic / gin</title>
-    <link>https://github.com/gin-gonic/gin</link>
-    <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
-  </item>
-  <item>
-    <title>golang / go</title>
-    <link>https://github.com/golang/go</link>
-    <description>The Go programming language</description>
-  </item>
-  <item>
-    <title>infiniflow / ragflow</title>
-    <link>https://github.com/infiniflow/ragflow</link>
-    <description>RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.</description>
-  </item>
-  <item>
-    <title>cli / cli</title>
-    <link>https://github.com/cli/cli</link>
-    <description>GitHub’s official command line tool</description>
-  </item>
-  <item>
-    <title>go-gitea / gitea</title>
-    <link>https://github.com/go-gitea/gitea</link>
-    <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
-  </item>
-  <item>
     <title>kubernetes / kubernetes</title>
     <link>https://github.com/kubernetes/kubernetes</link>
     <description>Production-Grade Container Scheduling and Management</description>
@@ -81,19 +66,24 @@
     <description>Open source factory for one-shot engineering</description>
   </item>
   <item>
-    <title>fleetdm / fleet</title>
-    <link>https://github.com/fleetdm/fleet</link>
-    <description>Open device management</description>
+    <title>cli / cli</title>
+    <link>https://github.com/cli/cli</link>
+    <description>GitHub’s official command line tool</description>
   </item>
   <item>
-    <title>argoproj / argo-cd</title>
-    <link>https://github.com/argoproj/argo-cd</link>
-    <description>Declarative Continuous Deployment for Kubernetes</description>
+    <title>grafana / grafana</title>
+    <link>https://github.com/grafana/grafana</link>
+    <description>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</description>
   </item>
   <item>
-    <title>gastownhall / beads</title>
-    <link>https://github.com/gastownhall/beads</link>
-    <description>Beads - A memory upgrade for your coding agent</description>
+    <title>google-gemini / gemini-api-cli</title>
+    <link>https://github.com/google-gemini/gemini-api-cli</link>
+    <description>An (experimental) CLI for the Gemini API</description>
+  </item>
+  <item>
+    <title>gin-gonic / gin</title>
+    <link>https://github.com/gin-gonic/gin</link>
+    <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
   </item>
   <item>
     <title>microsoft / TypeScript</title>
@@ -101,9 +91,19 @@
     <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
   </item>
   <item>
-    <title>google-gemini / gemini-api-cli</title>
-    <link>https://github.com/google-gemini/gemini-api-cli</link>
-    <description>An (experimental) CLI for the Gemini API</description>
+    <title>fleetdm / fleet</title>
+    <link>https://github.com/fleetdm/fleet</link>
+    <description>Open device management</description>
+  </item>
+  <item>
+    <title>gastownhall / beads</title>
+    <link>https://github.com/gastownhall/beads</link>
+    <description>Beads - A memory upgrade for your coding agent</description>
+  </item>
+  <item>
+    <title>googleapis / google-cloud-go</title>
+    <link>https://github.com/googleapis/google-cloud-go</link>
+    <description>Google Cloud Client Libraries for Go.</description>
   </item>
 </channel>
 </rss>

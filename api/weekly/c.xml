@@ -4,7 +4,12 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 10 Nov 2026 09:27:11 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 08:47:25 GMT</pubDate>
+  <item>
+    <title>lz4 / lz4</title>
+    <link>https://github.com/lz4/lz4</link>
+    <description>Extremely Fast Compression algorithm</description>
+  </item>
   <item>
     <title>JustVugg / colibri</title>
     <link>https://github.com/JustVugg/colibri</link>
@@ -21,14 +26,14 @@
     <description>A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.</description>
   </item>
   <item>
-    <title>mpv-player / mpv</title>
-    <link>https://github.com/mpv-player/mpv</link>
-    <description>🎥 Command line media player</description>
-  </item>
-  <item>
     <title>curl / curl</title>
     <link>https://github.com/curl/curl</link>
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
+  </item>
+  <item>
+    <title>mpv-player / mpv</title>
+    <link>https://github.com/mpv-player/mpv</link>
+    <description>🎥 Command line media player</description>
   </item>
   <item>
     <title>madler / zlib</title>
@@ -41,6 +46,11 @@
     <description></description>
   </item>
   <item>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
+  </item>
+  <item>
     <title>espressif / esp-idf</title>
     <link>https://github.com/espressif/esp-idf</link>
     <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
@@ -49,21 +59,6 @@
     <title>zephyrproject-rtos / zephyr</title>
     <link>https://github.com/zephyrproject-rtos/zephyr</link>
     <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-  </item>
-  <item>
-    <title>mackron / miniaudio</title>
-    <link>https://github.com/mackron/miniaudio</link>
-    <description>Audio playback and capture library written in C, in a single source file.</description>
-  </item>
-  <item>
-    <title>rizinorg / rizin</title>
-    <link>https://github.com/rizinorg/rizin</link>
-    <description>UNIX-like reverse engineering framework and command-line toolset.</description>
-  </item>
-  <item>
-    <title>meta / zstd</title>
-    <link>https://github.com/meta/zstd</link>
-    <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
 </channel>
 </rss>

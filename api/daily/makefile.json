@@ -2,27 +2,77 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 10 Nov 2026 09:13:07 GMT",
+  "pubDate": "Wed, 11 Nov 2026 08:45:06 GMT",
   "items": [
     {
-      "title": "qmk / qmk_userspace",
-      "url": "https://github.com/qmk/qmk_userspace",
-      "description": "Userspace for the open-source QMK keyboard firmware.",
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 194,
-      "forks": 2817,
+      "stars": 56741,
+      "forks": 5417,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "openwrt / packages",
+      "url": "https://github.com/openwrt/packages",
+      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4670,
+      "forks": 4029,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-proto",
+      "url": "https://github.com/open-telemetry/opentelemetry-proto",
+      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 830,
+      "forks": 330,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "mindsdb / mindshub",
+      "url": "https://github.com/mindsdb/mindshub",
+      "description": "The unified workspace where open-source models get things done for you.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 39855,
+      "forks": 6228,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "geneontology / go-ontology",
+      "url": "https://github.com/geneontology/go-ontology",
+      "description": "Source ontology files for the Gene Ontology",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 256,
+      "forks": 47,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cncf / people",
-      "url": "https://github.com/cncf/people",
-      "description": "Stores the data that will populate the various people listings on cncf.io",
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 187,
-      "forks": 744,
-      "added_stars": "0 stars today"
+      "stars": 3273,
+      "forks": 150,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "ROCKNIX / distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1650,
+      "forks": 405,
+      "added_stars": "1 star today"
     },
     {
       "title": "adriannovegil / awesome-observability",
@@ -30,9 +80,9 @@
       "description": "Awesome observability page",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 748,
-      "forks": 238,
-      "added_stars": "1 star today"
+      "stars": 750,
+      "forks": 242,
+      "added_stars": "2 stars today"
     },
     {
       "title": "WerWolv / Tesla-Menu",
@@ -42,97 +92,27 @@
       "languageColor": "#427819",
       "stars": 1128,
       "forks": 51,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ROCKNIX / distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1649,
-      "forks": 405,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4390,
-      "forks": 125,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "openwrt / packages",
-      "url": "https://github.com/openwrt/packages",
-      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4667,
-      "forks": 4027,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "freebsd / freebsd-ports",
-      "url": "https://github.com/freebsd/freebsd-ports",
-      "description": "FreeBSD ports tree (read-only mirror)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1228,
-      "forks": 890,
       "added_stars": "0 stars today"
     },
     {
-      "title": "shaaravraghu / ClipWallet",
-      "url": "https://github.com/shaaravraghu/ClipWallet",
-      "description": "Clipboard for devs, by devs! Your clipboard just got an upgrade; shortcuts now directly accessible on your keyboard! No more worries on losing your last copy!",
+      "title": "liberationfonts / liberation-fonts",
+      "url": "https://github.com/liberationfonts/liberation-fonts",
+      "description": "The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 183,
-      "forks": 22,
-      "added_stars": "0 stars today"
+      "stars": 600,
+      "forks": 32,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "open-telemetry / opentelemetry-proto",
-      "url": "https://github.com/open-telemetry/opentelemetry-proto",
-      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "title": "dbt-labs / dbt-utils",
+      "url": "https://github.com/dbt-labs/dbt-utils",
+      "description": "Utility functions for dbt projects.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 829,
-      "forks": 329,
+      "stars": 1834,
+      "forks": 644,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "itchio / itch.io",
-      "url": "https://github.com/itchio/itch.io",
-      "description": "🐛 Public itch.io issues tracker and documentation - use support instead for private information!",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 286,
-      "forks": 45,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "LibreELEC / LibreELEC.tv",
-      "url": "https://github.com/LibreELEC/LibreELEC.tv",
-      "description": "Just enough OS for KODI",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2853,
-      "forks": 1216,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 56736,
-      "forks": 5419,
-      "added_stars": "5 stars today"
     }
   ]
 }

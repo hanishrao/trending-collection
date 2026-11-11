@@ -2,17 +2,27 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 10 Nov 2026 09:27:11 GMT",
+  "pubDate": "Wed, 11 Nov 2026 08:47:25 GMT",
   "items": [
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12757,
+      "forks": 1653,
+      "added_stars": "569 stars this week"
+    },
     {
       "title": "JustVugg / colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 49544,
-      "forks": 5830,
-      "added_stars": "3,084 stars this week"
+      "stars": 49842,
+      "forks": 5872,
+      "added_stars": "2,605 stars this week"
     },
     {
       "title": "openssl / openssl",
@@ -20,9 +30,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31400,
-      "forks": 11591,
-      "added_stars": "281 stars this week"
+      "stars": 31409,
+      "forks": 11595,
+      "added_stars": "280 stars this week"
     },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
@@ -30,19 +40,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11527,
-      "forks": 1796,
-      "added_stars": "2,146 stars this week"
-    },
-    {
-      "title": "mpv-player / mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 38038,
-      "forks": 3646,
-      "added_stars": "378 stars this week"
+      "stars": 11703,
+      "forks": 1814,
+      "added_stars": "1,794 stars this week"
     },
     {
       "title": "curl / curl",
@@ -50,9 +50,19 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 43460,
-      "forks": 7496,
-      "added_stars": "150 stars this week"
+      "stars": 43470,
+      "forks": 7498,
+      "added_stars": "143 stars this week"
+    },
+    {
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 38064,
+      "forks": 3649,
+      "added_stars": "388 stars this week"
     },
     {
       "title": "madler / zlib",
@@ -60,9 +70,9 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7211,
+      "stars": 7218,
       "forks": 2898,
-      "added_stars": "23 stars this week"
+      "added_stars": "31 stars this week"
     },
     {
       "title": "HarbourMasters / Shipwright",
@@ -70,9 +80,19 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5960,
-      "forks": 994,
-      "added_stars": "136 stars this week"
+      "stars": 5980,
+      "forks": 996,
+      "added_stars": "141 stars this week"
+    },
+    {
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 29170,
+      "forks": 13407,
+      "added_stars": "137 stars this week"
     },
     {
       "title": "espressif / esp-idf",
@@ -80,9 +100,9 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19472,
-      "forks": 8586,
-      "added_stars": "67 stars this week"
+      "stars": 19482,
+      "forks": 8589,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "zephyrproject-rtos / zephyr",
@@ -90,39 +110,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17044,
-      "forks": 10393,
+      "stars": 17054,
+      "forks": 10403,
       "added_stars": "72 stars this week"
-    },
-    {
-      "title": "mackron / miniaudio",
-      "url": "https://github.com/mackron/miniaudio",
-      "description": "Audio playback and capture library written in C, in a single source file.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7596,
-      "forks": 636,
-      "added_stars": "123 stars this week"
-    },
-    {
-      "title": "rizinorg / rizin",
-      "url": "https://github.com/rizinorg/rizin",
-      "description": "UNIX-like reverse engineering framework and command-line toolset.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4171,
-      "forks": 706,
-      "added_stars": "70 stars this week"
-    },
-    {
-      "title": "meta / zstd",
-      "url": "https://github.com/meta/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28216,
-      "forks": 2680,
-      "added_stars": "68 stars this week"
     }
   ]
 }

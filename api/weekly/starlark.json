@@ -2,27 +2,17 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 10 Nov 2026 09:27:11 GMT",
+  "pubDate": "Wed, 11 Nov 2026 08:47:25 GMT",
   "items": [
-    {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 8820,
-      "forks": 2640,
-      "added_stars": "15 stars this week"
-    },
     {
       "title": "GoogleContainerTools / distroless",
       "url": "https://github.com/GoogleContainerTools/distroless",
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23216,
-      "forks": 1440,
-      "added_stars": "30 stars this week"
+      "stars": 23218,
+      "forks": 1438,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "bazel-contrib / rules_perl",
@@ -35,13 +25,23 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8823,
+      "forks": 2640,
+      "added_stars": "15 stars this week"
+    },
+    {
       "title": "uber / hermetic_cc_toolchain",
       "url": "https://github.com/uber/hermetic_cc_toolchain",
       "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 408,
-      "forks": 89,
+      "forks": 90,
       "added_stars": "1 star this week"
     },
     {
@@ -51,8 +51,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 4052,
-      "forks": 310,
-      "added_stars": "11 stars this week"
+      "forks": 312,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 399,
+      "forks": 966,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -80,29 +90,9 @@
       "description": "Bazel Python Rules",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 694,
-      "forks": 736,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 399,
-      "forks": 965,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 854,
-      "forks": 686,
-      "added_stars": "0 stars this week"
+      "stars": 695,
+      "forks": 737,
+      "added_stars": "3 stars this week"
     }
   ]
 }
