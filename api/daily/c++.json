@@ -2,37 +2,47 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:45:06 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:04:42 GMT",
   "items": [
+    {
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 53326,
+      "forks": 5065,
+      "added_stars": "299 stars today"
+    },
+    {
+      "title": "facebookresearch / faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41476,
+      "forks": 4616,
+      "added_stars": "111 stars today"
+    },
     {
       "title": "google-deepmind / mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17524,
-      "forks": 2160,
-      "added_stars": "456 stars today"
+      "stars": 17698,
+      "forks": 2176,
+      "added_stars": "412 stars today"
     },
     {
-      "title": "orailnoor / cross-platform-llm-client",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
-      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
+      "title": "simdjson / simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2147,
-      "forks": 420,
-      "added_stars": "211 stars today"
-    },
-    {
-      "title": "flameshot-org / flameshot",
-      "url": "https://github.com/flameshot-org/flameshot",
-      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31509,
-      "forks": 2098,
-      "added_stars": "24 stars today"
+      "stars": 24569,
+      "forks": 1360,
+      "added_stars": "12 stars today"
     },
     {
       "title": "ggml-org / llama.cpp",
@@ -40,29 +50,19 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 134029,
-      "forks": 25373,
-      "added_stars": "120 stars today"
+      "stars": 134201,
+      "forks": 25461,
+      "added_stars": "162 stars today"
     },
     {
-      "title": "deepseek-ai / 3FS",
-      "url": "https://github.com/deepseek-ai/3FS",
-      "description": "A high-performance distributed file system designed to address the challenges of AI training and inference workloads.",
+      "title": "orailnoor / cross-platform-llm-client",
+      "url": "https://github.com/orailnoor/cross-platform-llm-client",
+      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10451,
-      "forks": 1153,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "noctalia-dev / umbriel",
-      "url": "https://github.com/noctalia-dev/umbriel",
-      "description": "A Wayland compositor designed for daily use, with scrolling, dwindle, master, and stacking layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1610,
-      "forks": 121,
-      "added_stars": "26 stars today"
+      "stars": 2194,
+      "forks": 430,
+      "added_stars": "75 stars today"
     },
     {
       "title": "throneproj / Throne",
@@ -70,79 +70,39 @@
       "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7825,
-      "forks": 462,
+      "stars": 7847,
+      "forks": 461,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "mg-chao / snow-shot",
+      "url": "https://github.com/mg-chao/snow-shot",
+      "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6965,
+      "forks": 449,
+      "added_stars": "46 stars today"
+    },
+    {
+      "title": "alibaba / MNN",
+      "url": "https://github.com/alibaba/MNN",
+      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16504,
+      "forks": 2524,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "harry7557558 / spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2338,
+      "forks": 222,
       "added_stars": "25 stars today"
-    },
-    {
-      "title": "LibreSprite / LibreSprite",
-      "url": "https://github.com/LibreSprite/LibreSprite",
-      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8776,
-      "forks": 622,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "dariulone / cyberpunk-vr-port",
-      "url": "https://github.com/dariulone/cyberpunk-vr-port",
-      "description": "",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 558,
-      "forks": 59,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "mozilla-ai / llamafile",
-      "url": "https://github.com/mozilla-ai/llamafile",
-      "description": "Distribute and run LLMs with a single file.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 26613,
-      "forks": 1675,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "boykopovar / AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 53087,
-      "forks": 5034,
-      "added_stars": "367 stars today"
-    },
-    {
-      "title": "moonlight-stream / moonlight-qt",
-      "url": "https://github.com/moonlight-stream/moonlight-qt",
-      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 19472,
-      "forks": 1529,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "notepad-plus-plus / notepad-plus-plus",
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
-      "description": "Notepad++ official repository",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29846,
-      "forks": 5429,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "YimMenu / YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1826,
-      "forks": 411,
-      "added_stars": "2 stars today"
     }
   ]
 }

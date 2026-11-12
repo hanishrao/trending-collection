@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:45:06 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:04:42 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepEP",
@@ -10,9 +10,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10431,
-      "forks": 1555,
-      "added_stars": "6 stars today"
+      "stars": 10435,
+      "forks": 1557,
+      "added_stars": "3 stars today"
     },
     {
       "title": "flashinfer-ai / flashinfer",
@@ -20,8 +20,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6894,
-      "forks": 1736,
+      "stars": 6905,
+      "forks": 1741,
       "added_stars": "8 stars today"
     },
     {
@@ -30,9 +30,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9183,
-      "forks": 1526,
-      "added_stars": "7 stars today"
+      "stars": 9187,
+      "forks": 1525,
+      "added_stars": "6 stars today"
     },
     {
       "title": "karpathy / llm.c",
@@ -40,29 +40,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31424,
-      "forks": 3813,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1700,
-      "forks": 415,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "deepseek-ai / DeepSelect",
-      "url": "https://github.com/deepseek-ai/DeepSelect",
-      "description": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 539,
-      "forks": 76,
-      "added_stars": "3 stars today"
+      "stars": 31441,
+      "forks": 3819,
+      "added_stars": "9 stars today"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -71,18 +51,38 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 893,
-      "forks": 263,
+      "forks": 264,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1701,
+      "forks": 415,
       "added_stars": "0 stars today"
     },
     {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
+      "title": "pyscf / gpu4pyscf",
+      "url": "https://github.com/pyscf/gpu4pyscf",
+      "description": "A plugin to use Nvidia GPU in PySCF package",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1108,
-      "forks": 256,
-      "added_stars": "3 stars today"
+      "stars": 370,
+      "forks": 106,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 4006,
+      "forks": 554,
+      "added_stars": "2 stars today"
     }
   ]
 }

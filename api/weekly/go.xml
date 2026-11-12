@@ -4,7 +4,7 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 11 Nov 2026 08:47:25 GMT</pubDate>
+  <pubDate>Thu, 12 Nov 2026 09:07:09 GMT</pubDate>
   <item>
     <title>prometheus / prometheus</title>
     <link>https://github.com/prometheus/prometheus</link>
@@ -14,11 +14,6 @@
     <title>multica-ai / multica</title>
     <link>https://github.com/multica-ai/multica</link>
     <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
-  </item>
-  <item>
-    <title>JuliusBrussee / caveman</title>
-    <link>https://github.com/JuliusBrussee/caveman</link>
-    <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
   </item>
   <item>
     <title>etcd-io / etcd</title>
@@ -36,6 +31,11 @@
     <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
   </item>
   <item>
+    <title>JuliusBrussee / caveman</title>
+    <link>https://github.com/JuliusBrussee/caveman</link>
+    <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
+  </item>
+  <item>
     <title>moby / moby</title>
     <link>https://github.com/moby/moby</link>
     <description>The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</description>
@@ -46,9 +46,14 @@
     <description>The Go programming language</description>
   </item>
   <item>
-    <title>nektos / act</title>
-    <link>https://github.com/nektos/act</link>
-    <description>Run your GitHub Actions locally 🚀</description>
+    <title>cli / cli</title>
+    <link>https://github.com/cli/cli</link>
+    <description>GitHub’s official command line tool</description>
+  </item>
+  <item>
+    <title>gosom / google-maps-scraper</title>
+    <link>https://github.com/gosom/google-maps-scraper</link>
+    <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
   </item>
   <item>
     <title>openchoreo / openchoreo</title>
@@ -61,19 +66,9 @@
     <description>Production-Grade Container Scheduling and Management</description>
   </item>
   <item>
-    <title>superplanehq / superplane</title>
-    <link>https://github.com/superplanehq/superplane</link>
-    <description>Open source factory for one-shot engineering</description>
-  </item>
-  <item>
-    <title>cli / cli</title>
-    <link>https://github.com/cli/cli</link>
-    <description>GitHub’s official command line tool</description>
-  </item>
-  <item>
-    <title>grafana / grafana</title>
-    <link>https://github.com/grafana/grafana</link>
-    <description>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</description>
+    <title>nektos / act</title>
+    <link>https://github.com/nektos/act</link>
+    <description>Run your GitHub Actions locally 🚀</description>
   </item>
   <item>
     <title>google-gemini / gemini-api-cli</title>
@@ -81,29 +76,34 @@
     <description>An (experimental) CLI for the Gemini API</description>
   </item>
   <item>
-    <title>gin-gonic / gin</title>
-    <link>https://github.com/gin-gonic/gin</link>
-    <description>Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.</description>
-  </item>
-  <item>
     <title>microsoft / TypeScript</title>
     <link>https://github.com/microsoft/TypeScript</link>
     <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
   </item>
   <item>
-    <title>fleetdm / fleet</title>
-    <link>https://github.com/fleetdm/fleet</link>
-    <description>Open device management</description>
-  </item>
-  <item>
-    <title>gastownhall / beads</title>
-    <link>https://github.com/gastownhall/beads</link>
-    <description>Beads - A memory upgrade for your coding agent</description>
+    <title>trufflesecurity / trufflehog</title>
+    <link>https://github.com/trufflesecurity/trufflehog</link>
+    <description>Find, verify, and analyze leaked credentials</description>
   </item>
   <item>
     <title>googleapis / google-cloud-go</title>
     <link>https://github.com/googleapis/google-cloud-go</link>
     <description>Google Cloud Client Libraries for Go.</description>
+  </item>
+  <item>
+    <title>podman-container-tools / podman</title>
+    <link>https://github.com/podman-container-tools/podman</link>
+    <description>Podman: A tool for managing OCI containers and pods.</description>
+  </item>
+  <item>
+    <title>gitleaks / gitleaks</title>
+    <link>https://github.com/gitleaks/gitleaks</link>
+    <description>Find secrets with Gitleaks 🔑</description>
+  </item>
+  <item>
+    <title>VictoriaMetrics / VictoriaMetrics</title>
+    <link>https://github.com/VictoriaMetrics/VictoriaMetrics</link>
+    <description>VictoriaMetrics: fast, cost-effective monitoring solution and time series database</description>
   </item>
 </channel>
 </rss>

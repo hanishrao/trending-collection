@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:47:25 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:07:09 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,19 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46902,
+      "stars": 46927,
       "forks": 4436,
-      "added_stars": "112 stars this week"
+      "added_stars": "126 stars this week"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40326,
+      "forks": 1974,
+      "added_stars": "49 stars this week"
     },
     {
       "title": "hadolint / hadolint",
@@ -20,9 +30,19 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12524,
-      "forks": 513,
-      "added_stars": "15 stars this week"
+      "stars": 12525,
+      "forks": 514,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "reanimate / reanimate",
+      "url": "https://github.com/reanimate/reanimate",
+      "description": "Haskell library for building declarative animations based on SVG graphics",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1379,
+      "forks": 89,
+      "added_stars": "134 stars this week"
     },
     {
       "title": "agda / agda",
@@ -32,7 +52,7 @@
       "languageColor": "#5e5086",
       "stars": 2970,
       "forks": 432,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "haskell / cabal",
@@ -60,9 +80,9 @@
       "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4817,
+      "stars": 4816,
       "forks": 424,
-      "added_stars": "11 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "commercialhaskell / stack",
@@ -75,44 +95,14 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 40321,
-      "forks": 1974,
-      "added_stars": "49 stars this week"
-    },
-    {
       "title": "simplex-chat / simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19680,
-      "forks": 1329,
-      "added_stars": "45 stars this week"
-    },
-    {
-      "title": "purescript / purescript",
-      "url": "https://github.com/purescript/purescript",
-      "description": "A strongly-typed language that compiles to JavaScript",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 8922,
-      "forks": 574,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "unisonweb / unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 6785,
-      "forks": 315,
-      "added_stars": "17 stars this week"
+      "stars": 19684,
+      "forks": 1330,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "PostgREST / postgrest",
@@ -120,9 +110,19 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27749,
+      "stars": 27751,
       "forks": 1238,
-      "added_stars": "17 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "purescript / purescript",
+      "url": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to JavaScript",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 8921,
+      "forks": 574,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "digital-asset / daml",
@@ -143,16 +143,6 @@
       "stars": 3172,
       "forks": 764,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2077,
-      "forks": 90,
-      "added_stars": "33 stars this week"
     }
   ]
 }

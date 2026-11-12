@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:49:44 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:09:35 GMT",
   "items": [
     {
       "title": "ollama / ollama",
@@ -10,19 +10,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 186616,
-      "forks": 19012,
-      "added_stars": "4,871 stars this month"
-    },
-    {
-      "title": "prometheus / prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 67632,
-      "forks": 11020,
-      "added_stars": "1,652 stars this month"
+      "stars": 186741,
+      "forks": 19033,
+      "added_stars": "4,849 stars this month"
     },
     {
       "title": "moby / moby",
@@ -30,9 +20,19 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 72369,
-      "forks": 19327,
-      "added_stars": "452 stars this month"
+      "stars": 72268,
+      "forks": 19310,
+      "added_stars": "449 stars this month"
+    },
+    {
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 67563,
+      "forks": 11008,
+      "added_stars": "1,608 stars this month"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -40,29 +40,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 33908,
-      "forks": 5322,
-      "added_stars": "8,659 stars this month"
-    },
-    {
-      "title": "docker / compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38720,
-      "forks": 5921,
-      "added_stars": "548 stars this month"
-    },
-    {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30885,
-      "forks": 1847,
-      "added_stars": "1,114 stars this month"
+      "stars": 33981,
+      "forks": 5343,
+      "added_stars": "8,694 stars this month"
     },
     {
       "title": "gosom / google-maps-scraper",
@@ -70,19 +50,19 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7888,
-      "forks": 1242,
-      "added_stars": "1,499 stars this month"
+      "stars": 7931,
+      "forks": 1249,
+      "added_stars": "1,550 stars this month"
     },
     {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
+      "title": "netbirdio / netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24589,
-      "forks": 8135,
-      "added_stars": "265 stars this month"
+      "stars": 30908,
+      "forks": 1849,
+      "added_stars": "1,114 stars this month"
     },
     {
       "title": "rclone / rclone",
@@ -90,9 +70,19 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 60932,
-      "forks": 5675,
-      "added_stars": "820 stars this month"
+      "stars": 60967,
+      "forks": 5678,
+      "added_stars": "824 stars this month"
+    },
+    {
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24594,
+      "forks": 8141,
+      "added_stars": "265 stars this month"
     },
     {
       "title": "Asymptote-Labs / agent-beacon",
@@ -100,19 +90,9 @@
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3422,
-      "forks": 303,
-      "added_stars": "1,625 stars this month"
-    },
-    {
-      "title": "gin-gonic / gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 89620,
-      "forks": 8917,
-      "added_stars": "601 stars this month"
+      "stars": 3440,
+      "forks": 305,
+      "added_stars": "1,626 stars this month"
     },
     {
       "title": "gitleaks / gitleaks",
@@ -120,9 +100,19 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30896,
-      "forks": 2363,
-      "added_stars": "1,106 stars this month"
+      "stars": 30947,
+      "forks": 2365,
+      "added_stars": "1,130 stars this month"
+    },
+    {
+      "title": "linguo2625469 / workbuddy2api-panel",
+      "url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4800,
+      "forks": 1726,
+      "added_stars": "2,239 stars this month"
     },
     {
       "title": "tailscale / tailscale",
@@ -130,49 +120,19 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38917,
-      "forks": 3461,
-      "added_stars": "1,652 stars this month"
+      "stars": 38973,
+      "forks": 3468,
+      "added_stars": "1,673 stars this month"
     },
     {
-      "title": "etcd-io / etcd",
-      "url": "https://github.com/etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "title": "gin-gonic / gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 52692,
-      "forks": 10596,
-      "added_stars": "542 stars this month"
-    },
-    {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 39225,
-      "forks": 850,
-      "added_stars": "928 stars this month"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 118981,
-      "forks": 6921,
-      "added_stars": "8,566 stars this month"
-    },
-    {
-      "title": "go-gitea / gitea",
-      "url": "https://github.com/go-gitea/gitea",
-      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 59020,
-      "forks": 7383,
-      "added_stars": "721 stars this month"
+      "stars": 89538,
+      "forks": 8906,
+      "added_stars": "594 stars this month"
     },
     {
       "title": "VictoriaMetrics / VictoriaMetrics",
@@ -180,9 +140,9 @@
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18088,
-      "forks": 1806,
-      "added_stars": "263 stars this month"
+      "stars": 18097,
+      "forks": 1808,
+      "added_stars": "275 stars this month"
     },
     {
       "title": "istio / istio",
@@ -191,8 +151,38 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": 38502,
-      "forks": 8443,
-      "added_stars": "96 stars this month"
+      "forks": 8442,
+      "added_stars": "100 stars this month"
+    },
+    {
+      "title": "etcd-io / etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 52599,
+      "forks": 10595,
+      "added_stars": "544 stars this month"
+    },
+    {
+      "title": "go-gitea / gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 59039,
+      "forks": 7389,
+      "added_stars": "715 stars this month"
+    },
+    {
+      "title": "php / frankenphp",
+      "url": "https://github.com/php/frankenphp",
+      "description": "🧟 The modern PHP app server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11528,
+      "forks": 514,
+      "added_stars": "147 stars this month"
     },
     {
       "title": "XTLS / Xray-core",
@@ -200,9 +190,29 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42816,
-      "forks": 6139,
-      "added_stars": "890 stars this month"
+      "stars": 42846,
+      "forks": 6141,
+      "added_stars": "908 stars this month"
+    },
+    {
+      "title": "docker / compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 38793,
+      "forks": 5944,
+      "added_stars": "599 stars this month"
+    },
+    {
+      "title": "traefik / traefik",
+      "url": "https://github.com/traefik/traefik",
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 65539,
+      "forks": 6311,
+      "added_stars": "519 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:45:06 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:04:42 GMT",
   "items": [
     {
       "title": "apache / spark",
@@ -10,9 +10,19 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 44466,
-      "forks": 29593,
-      "added_stars": "19 stars today"
+      "stars": 44480,
+      "forks": 29590,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "lichess-org / lila",
+      "url": "https://github.com/lichess-org/lila",
+      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 18975,
+      "forks": 2810,
+      "added_stars": "7 stars today"
     },
     {
       "title": "OpenXiangShan / XiangShan",
@@ -20,9 +30,9 @@
       "description": "Open-source high-performance RISC-V processor",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 7384,
-      "forks": 982,
-      "added_stars": "7 stars today"
+      "stars": 7391,
+      "forks": 984,
+      "added_stars": "5 stars today"
     },
     {
       "title": "delta-io / delta",
@@ -30,19 +40,39 @@
       "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 9074,
-      "forks": 2216,
-      "added_stars": "2 stars today"
+      "stars": 9075,
+      "forks": 2218,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "twitter / the-algorithm",
-      "url": "https://github.com/twitter/the-algorithm",
-      "description": "Source code for the X Recommendation Algorithm",
+      "title": "zio / zio-schema",
+      "url": "https://github.com/zio/zio-schema",
+      "description": "Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 74060,
-      "forks": 13257,
-      "added_stars": "7 stars today"
+      "stars": 167,
+      "forks": 224,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "akka / akka-core",
+      "url": "https://github.com/akka/akka-core",
+      "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 13284,
+      "forks": 3529,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "scala / scala3",
+      "url": "https://github.com/scala/scala3",
+      "description": "The Scala 3 compiler, also known as Dotty.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 6337,
+      "forks": 1192,
+      "added_stars": "1 star today"
     },
     {
       "title": "zio / zio",
@@ -51,28 +81,8 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": 4435,
-      "forks": 1597,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "lichess-org / lila",
-      "url": "https://github.com/lichess-org/lila",
-      "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 18971,
-      "forks": 2809,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "scala / scala",
-      "url": "https://github.com/scala/scala",
-      "description": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 14543,
-      "forks": 3262,
-      "added_stars": "3 stars today"
+      "forks": 1598,
+      "added_stars": "0 stars today"
     },
     {
       "title": "llm4s / llm4s",
@@ -81,7 +91,57 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": 279,
-      "forks": 142,
+      "forks": 141,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "zio / izumi-reflect",
+      "url": "https://github.com/zio/izumi-reflect",
+      "description": "TypeTag without scala-reflect. Supports Scala 2 and Scala 3.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 156,
+      "forks": 70,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "twitter / the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 74068,
+      "forks": 13257,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "canton-network / splice",
+      "url": "https://github.com/canton-network/splice",
+      "description": "Splice repository",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 122,
+      "forks": 135,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "apache / datafusion-comet",
+      "url": "https://github.com/apache/datafusion-comet",
+      "description": "Apache DataFusion Comet Spark Accelerator",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1321,
+      "forks": 417,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "guardian / grid",
+      "url": "https://github.com/guardian/grid",
+      "description": "The Guardian’s image management system",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1460,
+      "forks": 122,
       "added_stars": "0 stars today"
     }
   ]

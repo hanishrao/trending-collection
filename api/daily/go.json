@@ -2,77 +2,37 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:45:06 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:04:42 GMT",
   "items": [
-    {
-      "title": "dsx-ai-factory / nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1133,
-      "forks": 138,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 118981,
-      "forks": 6921,
-      "added_stars": "270 stars today"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37166,
-      "forks": 5141,
-      "added_stars": "117 stars today"
-    },
     {
       "title": "gosom / google-maps-scraper",
       "url": "https://github.com/gosom/google-maps-scraper",
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7887,
-      "forks": 1241,
-      "added_stars": "121 stars today"
+      "stars": 7931,
+      "forks": 1249,
+      "added_stars": "60 stars today"
     },
     {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "smart charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6423,
-      "forks": 723,
-      "added_stars": "87 stars today"
+      "stars": 7599,
+      "forks": 1651,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
+      "title": "henrygd / beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18525,
-      "forks": 6309,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 34383,
-      "forks": 5329,
-      "added_stars": "13 stars today"
+      "stars": 27235,
+      "forks": 1173,
+      "added_stars": "67 stars today"
     },
     {
       "title": "trufflesecurity / trufflehog",
@@ -80,79 +40,109 @@
       "description": "Find, verify, and analyze leaked credentials",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29187,
-      "forks": 2718,
-      "added_stars": "96 stars today"
+      "stars": 29234,
+      "forks": 2727,
+      "added_stars": "57 stars today"
     },
     {
-      "title": "github / gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
+      "title": "Tencent / LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5615,
-      "forks": 625,
-      "added_stars": "11 stars today"
+      "stars": 415,
+      "forks": 75,
+      "added_stars": "94 stars today"
     },
     {
-      "title": "mikefarah / yq",
-      "url": "https://github.com/mikefarah/yq",
-      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+      "title": "projectdiscovery / nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16266,
-      "forks": 1296,
-      "added_stars": "9 stars today"
+      "stars": 32821,
+      "forks": 3994,
+      "added_stars": "50 stars today"
     },
     {
-      "title": "flipped-aurora / gin-vue-admin",
-      "url": "https://github.com/flipped-aurora/gin-vue-admin",
-      "description": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25130,
-      "forks": 7103,
-      "added_stars": "4 stars today"
+      "stars": 49875,
+      "forks": 3682,
+      "added_stars": "62 stars today"
     },
     {
-      "title": "k0sproject / k0s",
-      "url": "https://github.com/k0sproject/k0s",
-      "description": "k0s - The Zero Friction Kubernetes",
+      "title": "XTLS / Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6587,
-      "forks": 541,
-      "added_stars": "6 stars today"
+      "stars": 42845,
+      "forks": 6141,
+      "added_stars": "41 stars today"
     },
     {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 94008,
-      "forks": 11301,
-      "added_stars": "95 stars today"
+      "stars": 6501,
+      "forks": 734,
+      "added_stars": "90 stars today"
     },
     {
-      "title": "dsx-ai-factory / run-ai",
-      "url": "https://github.com/dsx-ai-factory/run-ai",
-      "description": "Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.",
+      "title": "unstablebuild / rune",
+      "url": "https://github.com/unstablebuild/rune",
+      "description": "a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 744,
-      "forks": 120,
-      "added_stars": "12 stars today"
+      "stars": 1758,
+      "forks": 117,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 30896,
-      "forks": 2363,
-      "added_stars": "34 stars today"
+      "stars": 55814,
+      "forks": 7373,
+      "added_stars": "200 stars today"
+    },
+    {
+      "title": "everywall / ladder",
+      "url": "https://github.com/everywall/ladder",
+      "description": "Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9417,
+      "forks": 542,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 37272,
+      "forks": 5154,
+      "added_stars": "104 stars today"
+    },
+    {
+      "title": "kagent-dev / kagent",
+      "url": "https://github.com/kagent-dev/kagent",
+      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4255,
+      "forks": 902,
+      "added_stars": "17 stars today"
     },
     {
       "title": "opencode-ai / opencode",
@@ -160,9 +150,39 @@
       "description": "A powerful AI coding agent. Built for the terminal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13884,
-      "forks": 2472,
-      "added_stars": "3 stars today"
+      "stars": 13889,
+      "forks": 2473,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "devaccuracy / ledgerforge",
+      "url": "https://github.com/devaccuracy/ledgerforge",
+      "description": "The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 222,
+      "forks": 29,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "router-for-me / CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 58356,
+      "forks": 8949,
+      "added_stars": "129 stars today"
+    },
+    {
+      "title": "keploy / keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19722,
+      "forks": 2453,
+      "added_stars": "47 stars today"
     }
   ]
 }

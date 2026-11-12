@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 11 Nov 2026 08:47:25 GMT",
+  "pubDate": "Thu, 12 Nov 2026 09:07:09 GMT",
   "items": [
     {
       "title": "leanprover-community / mathlib4",
@@ -10,9 +10,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4469,
-      "forks": 1847,
-      "added_stars": "43 stars this week"
+      "stars": 4472,
+      "forks": 1856,
+      "added_stars": "42 stars this week"
     },
     {
       "title": "leanprover / lean4",
@@ -20,9 +20,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9957,
-      "forks": 1102,
-      "added_stars": "95 stars this week"
+      "stars": 9979,
+      "forks": 1103,
+      "added_stars": "97 stars this week"
     },
     {
       "title": "kim-em / hex-dev",
@@ -35,26 +35,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1358,
-      "forks": 584,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "leanprover-community / mathlib3",
-      "url": "https://github.com/leanprover-community/mathlib3",
-      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1666,
-      "forks": 291,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -62,7 +42,7 @@
       "languageColor": "#ccc",
       "stars": 432,
       "forks": 174,
-      "added_stars": "4 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -85,24 +65,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 119,
-      "forks": 30,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 232,
-      "forks": 49,
-      "added_stars": "2 stars this week"
+      "stars": 38,
+      "forks": 14,
+      "added_stars": "1 star this week"
     },
     {
       "title": "leanprover-community / import-graph",
@@ -122,17 +92,37 @@
       "languageColor": "#ccc",
       "stars": 414,
       "forks": 63,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
+      "title": "leanprover-community / plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 38,
-      "forks": 14,
+      "stars": 120,
+      "forks": 30,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 232,
+      "forks": 49,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "leanprover-community / NNG4",
+      "url": "https://github.com/leanprover-community/NNG4",
+      "description": "Natural Number Game",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 394,
+      "forks": 98,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "verse-lab / veil",
@@ -140,9 +130,19 @@
       "description": "A verifier for automated and interactive proofs about transition systems.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 392,
+      "stars": 393,
       "forks": 37,
-      "added_stars": "43 stars this week"
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1359,
+      "forks": 587,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "leanprover-community / physlib",
