@@ -2,8 +2,18 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:07:09 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:01:04 GMT",
   "items": [
+    {
+      "title": "Azure / bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 3661,
+      "forks": 833,
+      "added_stars": "3 stars this week"
+    },
     {
       "title": "Azure / azure-quickstart-templates",
       "url": "https://github.com/Azure/azure-quickstart-templates",
@@ -11,28 +21,8 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 14905,
-      "forks": 16164,
+      "forks": 16163,
       "added_stars": "8 stars this week"
-    },
-    {
-      "title": "Azure / bicep",
-      "url": "https://github.com/Azure/bicep",
-      "description": "Bicep is a declarative language for describing and deploying Azure resources",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 3659,
-      "forks": 833,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
-      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
-      "description": "AZ-104 Microsoft Azure Administrator",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 4718,
-      "forks": 4530,
-      "added_stars": "15 stars this week"
     },
     {
       "title": "microsoft / azure-container-apps",
@@ -51,8 +41,18 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 743,
-      "forks": 577,
+      "forks": 576,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "MicrosoftLearning / AZ-104-MicrosoftAzureAdministrator",
+      "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+      "description": "AZ-104 Microsoft Azure Administrator",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 4720,
+      "forks": 4530,
+      "added_stars": "15 stars this week"
     }
   ]
 }

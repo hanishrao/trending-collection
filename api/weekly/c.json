@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:07:09 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:01:04 GMT",
   "items": [
     {
       "title": "lz4 / lz4",
@@ -10,9 +10,9 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12779,
-      "forks": 1658,
-      "added_stars": "588 stars this week"
+      "stars": 12797,
+      "forks": 1659,
+      "added_stars": "489 stars this week"
     },
     {
       "title": "JustVugg / colibri",
@@ -20,9 +20,9 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 50072,
-      "forks": 5898,
-      "added_stars": "2,379 stars this week"
+      "stars": 50579,
+      "forks": 5974,
+      "added_stars": "2,279 stars this week"
     },
     {
       "title": "openssl / openssl",
@@ -30,9 +30,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31424,
-      "forks": 11598,
-      "added_stars": "277 stars this week"
+      "stars": 31432,
+      "forks": 11609,
+      "added_stars": "281 stars this week"
     },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
@@ -40,9 +40,9 @@
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11856,
-      "forks": 1829,
-      "added_stars": "1,757 stars this week"
+      "stars": 11939,
+      "forks": 1844,
+      "added_stars": "1,206 stars this week"
     },
     {
       "title": "mpv-player / mpv",
@@ -50,9 +50,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 38079,
-      "forks": 3651,
-      "added_stars": "397 stars this week"
+      "stars": 38094,
+      "forks": 3652,
+      "added_stars": "384 stars this week"
     },
     {
       "title": "lvgl / lvgl",
@@ -60,9 +60,19 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25150,
-      "forks": 4448,
-      "added_stars": "70 stars this week"
+      "stars": 25157,
+      "forks": 4447,
+      "added_stars": "72 stars this week"
+    },
+    {
+      "title": "redis / redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 77484,
+      "forks": 25056,
+      "added_stars": "330 stars this week"
     },
     {
       "title": "madler / zlib",
@@ -70,19 +80,9 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7220,
-      "forks": 2900,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 29188,
-      "forks": 13415,
-      "added_stars": "118 stars this week"
+      "stars": 7224,
+      "forks": 2902,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "curl / curl",
@@ -90,9 +90,19 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 43490,
-      "forks": 7497,
-      "added_stars": "144 stars this week"
+      "stars": 43498,
+      "forks": 7500,
+      "added_stars": "141 stars this week"
+    },
+    {
+      "title": "meta / zstd",
+      "url": "https://github.com/meta/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28257,
+      "forks": 2686,
+      "added_stars": "89 stars this week"
     },
     {
       "title": "fluent / fluent-bit",
@@ -101,28 +111,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 8187,
-      "forks": 2035,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17065,
-      "forks": 10418,
-      "added_stars": "75 stars this week"
-    },
-    {
-      "title": "meta / zstd",
-      "url": "https://github.com/meta/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28240,
-      "forks": 2684,
-      "added_stars": "78 stars this week"
+      "forks": 2036,
+      "added_stars": "10 stars this week"
     }
   ]
 }

@@ -2,17 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:04:42 GMT",
+  "pubDate": "Fri, 13 Nov 2026 08:59:33 GMT",
   "items": [
     {
-      "title": "boykopovar / AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 53326,
-      "forks": 5065,
-      "added_stars": "299 stars today"
+      "stars": 134766,
+      "forks": 25531,
+      "added_stars": "176 stars today"
     },
     {
       "title": "facebookresearch / faiss",
@@ -20,89 +20,139 @@
       "description": "A library for efficient similarity search and clustering of dense vectors.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41476,
-      "forks": 4616,
-      "added_stars": "111 stars today"
+      "stars": 41571,
+      "forks": 4629,
+      "added_stars": "81 stars today"
     },
     {
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "title": "Atmosphere-NX / Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17698,
-      "forks": 2176,
-      "added_stars": "412 stars today"
+      "stars": 20371,
+      "forks": 1529,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "simdjson / simdjson",
-      "url": "https://github.com/simdjson/simdjson",
-      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 24569,
-      "forks": 1360,
-      "added_stars": "12 stars today"
+      "stars": 201581,
+      "forks": 77959,
+      "added_stars": "86 stars today"
     },
     {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
+      "title": "dariulone / cyberpunk-vr-port",
+      "url": "https://github.com/dariulone/cyberpunk-vr-port",
+      "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 134201,
-      "forks": 25461,
-      "added_stars": "162 stars today"
+      "stars": 611,
+      "forks": 62,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "orailnoor / cross-platform-llm-client",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
-      "description": "A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.",
+      "title": "Tencent / ncnn",
+      "url": "https://github.com/Tencent/ncnn",
+      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2194,
-      "forks": 430,
-      "added_stars": "75 stars today"
+      "stars": 24048,
+      "forks": 4550,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "throneproj / Throne",
-      "url": "https://github.com/throneproj/Throne",
-      "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7847,
-      "forks": 461,
-      "added_stars": "20 stars today"
+      "stars": 39737,
+      "forks": 10942,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "mg-chao / snow-shot",
-      "url": "https://github.com/mg-chao/snow-shot",
-      "description": "Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。",
+      "title": "JakeATX / llamAmpere",
+      "url": "https://github.com/JakeATX/llamAmpere",
+      "description": "llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6965,
-      "forks": 449,
-      "added_stars": "46 stars today"
+      "stars": 378,
+      "forks": 44,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "alibaba / MNN",
-      "url": "https://github.com/alibaba/MNN",
-      "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+      "title": "love2d / love",
+      "url": "https://github.com/love2d/love",
+      "description": "LÖVE is an awesome 2D game framework for Lua.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16504,
-      "forks": 2524,
-      "added_stars": "19 stars today"
+      "stars": 8962,
+      "forks": 671,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "harry7557558 / spirula-studio",
-      "url": "https://github.com/harry7557558/spirula-studio",
-      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "title": "telegramdesktop / tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2338,
-      "forks": 222,
-      "added_stars": "25 stars today"
+      "stars": 33551,
+      "forks": 7615,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "openxla / xla",
+      "url": "https://github.com/openxla/xla",
+      "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4672,
+      "forks": 1012,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 72169,
+      "forks": 16359,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "notepad-plus-plus / notepad-plus-plus",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+      "description": "Notepad++ official repository",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29868,
+      "forks": 5434,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 50893,
+      "forks": 7517,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "catchorg / Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21579,
+      "forks": 3440,
+      "added_stars": "13 stars today"
     }
   ]
 }

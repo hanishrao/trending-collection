@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:09:35 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:02:33 GMT",
   "items": [
     {
       "title": "NixOS / nixpkgs",
@@ -10,9 +10,39 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26804,
-      "forks": 20727,
+      "stars": 26811,
+      "forks": 20740,
       "added_stars": "439 stars this month"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10518,
+      "forks": 2511,
+      "added_stars": "114 stars this month"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3362,
+      "forks": 1003,
+      "added_stars": "40 stars this month"
+    },
+    {
+      "title": "nix-community / disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3432,
+      "forks": 341,
+      "added_stars": "73 stars this month"
     },
     {
       "title": "supabase / postgres",
@@ -21,38 +51,18 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": 1806,
-      "forks": 277,
+      "forks": 276,
       "added_stars": "16 stars this month"
     },
     {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
+      "title": "finix-community / finix",
+      "url": "https://github.com/finix-community/finix",
+      "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3359,
-      "forks": 1003,
-      "added_stars": "40 stars this month"
-    },
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10516,
-      "forks": 2512,
-      "added_stars": "113 stars this month"
-    },
-    {
-      "title": "nix-community / disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3431,
-      "forks": 341,
-      "added_stars": "72 stars this month"
+      "stars": 619,
+      "forks": 46,
+      "added_stars": "56 stars this month"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:09:35 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:02:33 GMT",
   "items": [
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8828,
+      "forks": 2641,
+      "added_stars": "58 stars this month"
+    },
     {
       "title": "bazel-contrib / rules_perl",
       "url": "https://github.com/bazel-contrib/rules_perl",
@@ -15,14 +25,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8828,
-      "forks": 2641,
-      "added_stars": "56 stars this month"
+      "stars": 23249,
+      "forks": 1438,
+      "added_stars": "136 stars this month"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -41,7 +51,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 695,
-      "forks": 738,
+      "forks": 741,
       "added_stars": "7 stars this month"
     },
     {
@@ -55,14 +65,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23224,
-      "forks": 1438,
-      "added_stars": "119 stars this month"
+      "stars": 856,
+      "forks": 688,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -75,34 +85,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 855,
-      "forks": 687,
-      "added_stars": "7 stars this month"
-    },
-    {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 4054,
+      "stars": 4053,
       "forks": 312,
-      "added_stars": "50 stars this month"
-    },
-    {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 149,
-      "forks": 101,
-      "added_stars": "2 stars this month"
+      "added_stars": "49 stars this month"
     }
   ]
 }

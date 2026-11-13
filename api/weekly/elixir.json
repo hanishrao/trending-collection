@@ -2,8 +2,18 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:07:09 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:01:04 GMT",
   "items": [
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4781,
+      "forks": 3224,
+      "added_stars": "7 stars this week"
+    },
     {
       "title": "googleapis / elixir-google-api",
       "url": "https://github.com/googleapis/elixir-google-api",
@@ -12,7 +22,7 @@
       "languageColor": "#6e4a7e",
       "stars": 1081,
       "forks": 479,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "firezone / firezone",
@@ -20,9 +30,9 @@
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9182,
-      "forks": 466,
-      "added_stars": "19 stars this week"
+      "stars": 9183,
+      "forks": 467,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -30,9 +40,9 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9255,
-      "forks": 1040,
-      "added_stars": "27 stars this week"
+      "stars": 9260,
+      "forks": 1039,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "OpenFn / lightning",
@@ -40,8 +50,8 @@
       "description": "Lightning ⚡️ is latest version of the OpenFn platform, a DPG and DPI building block that governments use to manage complex service/workflow automation and data integration projects.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 321,
-      "forks": 92,
+      "stars": 322,
+      "forks": 93,
       "added_stars": "0 stars this week"
     },
     {
@@ -50,7 +60,7 @@
       "description": "A toolkit for data mapping and language integrated query.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6500,
+      "stars": 6501,
       "forks": 1488,
       "added_stars": "2 stars this week"
     },
@@ -60,29 +70,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26715,
+      "stars": 26717,
       "forks": 3719,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "elixir-lsp / elixir-ls",
-      "url": "https://github.com/elixir-lsp/elixir-ls",
-      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1783,
-      "forks": 230,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "ash-project / ash",
-      "url": "https://github.com/ash-project/ash",
-      "description": "A declarative, extensible framework for building Elixir applications.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 2561,
-      "forks": 469,
-      "added_stars": "9 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -90,9 +80,69 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6839,
-      "forks": 1063,
+      "stars": 6840,
+      "forks": 1064,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5457,
+      "forks": 182,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7682,
+      "forks": 486,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "elixir-lsp / elixir-ls",
+      "url": "https://github.com/elixir-lsp/elixir-ls",
+      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1784,
+      "forks": 230,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23217,
+      "forks": 3215,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 29834,
+      "forks": 1938,
+      "added_stars": "64 stars this week"
+    },
+    {
+      "title": "ash-project / ash",
+      "url": "https://github.com/ash-project/ash",
+      "description": "A declarative, extensible framework for building Elixir applications.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2562,
+      "forks": 469,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -102,46 +152,16 @@
       "languageColor": "#6e4a7e",
       "stars": 344,
       "forks": 46,
-      "added_stars": "0 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
+      "title": "tuist / tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23217,
-      "forks": 3216,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29827,
-      "forks": 1939,
-      "added_stars": "66 stars this week"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4779,
-      "forks": 3218,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 7682,
-      "forks": 485,
+      "stars": 5864,
+      "forks": 783,
       "added_stars": "4 stars this week"
     },
     {
@@ -152,27 +172,7 @@
       "languageColor": "#6e4a7e",
       "stars": 138,
       "forks": 168,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "tuist / tuist",
-      "url": "https://github.com/tuist/tuist",
-      "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5864,
-      "forks": 781,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5458,
-      "forks": 182,
-      "added_stars": "21 stars this week"
+      "added_stars": "3 stars this week"
     }
   ]
 }

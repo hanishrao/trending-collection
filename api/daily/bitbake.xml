@@ -4,16 +4,26 @@
   <title>GitHub Bitbake Languages Daily Trending</title>
   <description>Daily Trending of Bitbake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 12 Nov 2026 09:04:42 GMT</pubDate>
+  <pubDate>Fri, 13 Nov 2026 08:59:33 GMT</pubDate>
+  <item>
+    <title>ros / meta-ros</title>
+    <link>https://github.com/ros/meta-ros</link>
+    <description>OpenEmbedded Layers for ROS 1 and ROS 2</description>
+  </item>
   <item>
     <title>qualcomm-linux / meta-qcom</title>
     <link>https://github.com/qualcomm-linux/meta-qcom</link>
     <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
   </item>
   <item>
-    <title>space-grade-linux / meta-sgl</title>
-    <link>https://github.com/space-grade-linux/meta-sgl</link>
-    <description></description>
+    <title>OE4T / meta-tegra</title>
+    <link>https://github.com/OE4T/meta-tegra</link>
+    <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
+  </item>
+  <item>
+    <title>Freescale / meta-freescale</title>
+    <link>https://github.com/Freescale/meta-freescale</link>
+    <description>Layer containing NXP hardware support metadata</description>
   </item>
   <item>
     <title>openembedded / meta-openembedded</title>
@@ -26,29 +36,19 @@
     <description>Yocto receipes to generate a swupdate rootfilesystem as initrd</description>
   </item>
   <item>
-    <title>Freescale / meta-freescale</title>
-    <link>https://github.com/Freescale/meta-freescale</link>
-    <description>Layer containing NXP hardware support metadata</description>
-  </item>
-  <item>
-    <title>mendersoftware / meta-mender</title>
-    <link>https://github.com/mendersoftware/meta-mender</link>
-    <description>Yocto Project meta layer for the Mender client</description>
-  </item>
-  <item>
     <title>openbmc / openbmc</title>
     <link>https://github.com/openbmc/openbmc</link>
     <description>OpenBMC Distribution</description>
   </item>
   <item>
-    <title>kraj / meta-clang</title>
-    <link>https://github.com/kraj/meta-clang</link>
-    <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
-  </item>
-  <item>
     <title>rauc / meta-rauc</title>
     <link>https://github.com/rauc/meta-rauc</link>
     <description>Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</description>
+  </item>
+  <item>
+    <title>kraj / meta-clang</title>
+    <link>https://github.com/kraj/meta-clang</link>
+    <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
   </item>
 </channel>
 </rss>

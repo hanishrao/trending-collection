@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:09:35 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:02:33 GMT",
   "items": [
     {
       "title": "semgrep / semgrep-rules",
@@ -12,7 +12,7 @@
       "languageColor": "#844FBA",
       "stars": 1298,
       "forks": 621,
-      "added_stars": "32 stars this month"
+      "added_stars": "31 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -21,8 +21,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5015,
-      "forks": 4412,
-      "added_stars": "10 stars this month"
+      "forks": 4410,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -40,9 +40,9 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2136,
-      "forks": 1284,
-      "added_stars": "26 stars this month"
+      "stars": 2139,
+      "forks": 1285,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -55,16 +55,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3284,
-      "forks": 4623,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-iam",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
       "description": "Terraform module to create AWS IAM resources 🇺🇦",
@@ -72,7 +62,27 @@
       "languageColor": "#844FBA",
       "stars": 876,
       "forks": 1115,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3283,
+      "forks": 4622,
+      "added_stars": "12 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-rds-aurora",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-rds-aurora",
+      "description": "Terraform module to create AWS RDS Aurora resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 421,
+      "forks": 609,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -83,6 +93,16 @@
       "stars": 1043,
       "forks": 783,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 928,
+      "forks": 136,
+      "added_stars": "36 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-iam",
@@ -110,29 +130,19 @@
       "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1279,
-      "added_stars": "2 stars this month"
+      "stars": 503,
+      "forks": 1278,
+      "added_stars": "3 stars this month"
     },
     {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 926,
-      "forks": 136,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 180,
-      "added_stars": "0 stars this month"
+      "stars": 970,
+      "forks": 590,
+      "added_stars": "7 stars this month"
     }
   ]
 }

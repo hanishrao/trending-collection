@@ -2,27 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 12 Nov 2026 09:07:09 GMT",
+  "pubDate": "Fri, 13 Nov 2026 09:01:04 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4472,
-      "forks": 1856,
-      "added_stars": "42 stars this week"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9979,
+      "stars": 9987,
       "forks": 1103,
-      "added_stars": "97 stars this week"
+      "added_stars": "100 stars this week"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 4479,
+      "forks": 1860,
+      "added_stars": "41 stars this week"
     },
     {
       "title": "kim-em / hex-dev",
@@ -35,6 +35,16 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 125,
+      "forks": 30,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -45,14 +55,24 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 125,
+      "stars": 1360,
+      "forks": 591,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "leanprover-community / plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 120,
       "forks": 30,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "leanprover-community / quote4",
@@ -95,16 +115,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 120,
-      "forks": 30,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "leanprover-community / ProofWidgets4",
       "url": "https://github.com/leanprover-community/ProofWidgets4",
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
@@ -130,19 +140,9 @@
       "description": "A verifier for automated and interactive proofs about transition systems.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 393,
+      "stars": 395,
       "forks": 37,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1359,
-      "forks": 587,
-      "added_stars": "13 stars this week"
+      "added_stars": "40 stars this week"
     },
     {
       "title": "leanprover-community / physlib",
@@ -150,9 +150,9 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 835,
-      "forks": 225,
-      "added_stars": "16 stars this week"
+      "stars": 836,
+      "forks": 224,
+      "added_stars": "13 stars this week"
     }
   ]
 }
