@@ -4,7 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 13 Nov 2026 08:59:33 GMT</pubDate>
+  <pubDate>Sat, 14 Nov 2026 08:26:48 GMT</pubDate>
   <item>
     <title>apache / spark</title>
     <link>https://github.com/apache/spark</link>
@@ -21,24 +21,9 @@
     <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
-    <title>apache / datafusion-comet</title>
-    <link>https://github.com/apache/datafusion-comet</link>
-    <description>Apache DataFusion Comet Spark Accelerator</description>
-  </item>
-  <item>
-    <title>ucb-bar / chipyard</title>
-    <link>https://github.com/ucb-bar/chipyard</link>
-    <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
-  </item>
-  <item>
-    <title>twitter / the-algorithm</title>
-    <link>https://github.com/twitter/the-algorithm</link>
-    <description>Source code for the X Recommendation Algorithm</description>
-  </item>
-  <item>
-    <title>canton-network / splice</title>
-    <link>https://github.com/canton-network/splice</link>
-    <description>Splice repository</description>
+    <title>NVIDIA / cudf-spark</title>
+    <link>https://github.com/NVIDIA/cudf-spark</link>
+    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
   </item>
   <item>
     <title>delta-io / delta</title>
@@ -46,9 +31,19 @@
     <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
-    <title>zio / zio-http</title>
-    <link>https://github.com/zio/zio-http</link>
-    <description>A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers</description>
+    <title>canton-network / splice</title>
+    <link>https://github.com/canton-network/splice</link>
+    <description>Splice repository</description>
+  </item>
+  <item>
+    <title>apache / gluten</title>
+    <link>https://github.com/apache/gluten</link>
+    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
+  </item>
+  <item>
+    <title>ucb-bar / gemmini</title>
+    <link>https://github.com/ucb-bar/gemmini</link>
+    <description>Berkeley&#x27;s Spatial Array Generator</description>
   </item>
   <item>
     <title>zio / zio-schema</title>
@@ -59,6 +54,11 @@
     <title>zio / zio</title>
     <link>https://github.com/zio/zio</link>
     <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+  </item>
+  <item>
+    <title>apache / datafusion-comet</title>
+    <link>https://github.com/apache/datafusion-comet</link>
+    <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
 </channel>
 </rss>

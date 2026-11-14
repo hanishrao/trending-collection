@@ -2,17 +2,57 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 13 Nov 2026 08:59:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 08:26:48 GMT",
   "items": [
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7683,
+      "forks": 486,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "tuist / tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5864,
+      "forks": 783,
+      "added_stars": "1 star today"
+    },
     {
       "title": "plausible / analytics",
       "url": "https://github.com/plausible/analytics",
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 29834,
-      "forks": 1938,
-      "added_stars": "8 stars today"
+      "stars": 29845,
+      "forks": 1939,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Blazing-fast remote access",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9184,
+      "forks": 467,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9263,
+      "forks": 1039,
+      "added_stars": "7 stars today"
     },
     {
       "title": "blockscout / blockscout",
@@ -22,17 +62,7 @@
       "languageColor": "#6e4a7e",
       "stars": 4781,
       "forks": 3224,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 7682,
-      "forks": 486,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "elixir-lang / elixir",
@@ -40,9 +70,19 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26717,
-      "forks": 3719,
-      "added_stars": "2 stars today"
+      "stars": 26720,
+      "forks": 3714,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "elixir-lsp / elixir_sense",
+      "url": "https://github.com/elixir-lsp/elixir_sense",
+      "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 344,
+      "forks": 46,
+      "added_stars": "0 stars today"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -50,48 +90,18 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5457,
+      "stars": 5461,
       "forks": 182,
-      "added_stars": "3 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "tuist / tuist",
-      "url": "https://github.com/tuist/tuist",
-      "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
+      "title": "bartblast / hologram",
+      "url": "https://github.com/bartblast/hologram",
+      "description": "Full-stack Elixir web framework that runs your Elixir code in the browser",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5864,
-      "forks": 783,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Blazing-fast remote access",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9183,
-      "forks": 467,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9260,
-      "forks": 1039,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Spectral-Finance / lux",
-      "url": "https://github.com/Spectral-Finance/lux",
-      "description": "Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 138,
-      "forks": 168,
+      "stars": 1577,
+      "forks": 122,
       "added_stars": "0 stars today"
     }
   ]

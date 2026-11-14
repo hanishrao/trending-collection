@@ -2,17 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 13 Nov 2026 08:59:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 08:26:48 GMT",
   "items": [
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 50897,
+      "forks": 3793,
+      "added_stars": "215 stars today"
+    },
     {
       "title": "GoogleChrome / modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3844,
-      "forks": 230,
-      "added_stars": "739 stars today"
+      "stars": 5146,
+      "forks": 282,
+      "added_stars": "1,925 stars today"
     },
     {
       "title": "openai / codex-security",
@@ -20,29 +30,19 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12719,
-      "forks": 996,
-      "added_stars": "643 stars today"
+      "stars": 13310,
+      "forks": 1031,
+      "added_stars": "751 stars today"
     },
     {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 96078,
-      "forks": 10762,
-      "added_stars": "63 stars today"
-    },
-    {
-      "title": "pookjw / HermesEnabler",
-      "url": "https://github.com/pookjw/HermesEnabler",
-      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 1669,
-      "forks": 146,
-      "added_stars": "218 stars today"
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 71929,
+      "forks": 57375,
+      "added_stars": "256 stars today"
     },
     {
       "title": "we-promise / sure",
@@ -50,89 +50,79 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 14254,
-      "forks": 1074,
-      "added_stars": "967 stars today"
+      "stars": 14920,
+      "forks": 1135,
+      "added_stars": "925 stars today"
     },
     {
-      "title": "QwenLM / qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 30035,
-      "forks": 3413,
-      "added_stars": "151 stars today"
+      "stars": 10595,
+      "forks": 792,
+      "added_stars": "108 stars today"
     },
     {
-      "title": "ashhart / TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 2031,
-      "forks": 398,
-      "added_stars": "54 stars today"
-    },
-    {
-      "title": "nodejs / node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "title": "louislam / uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 123670,
-      "forks": 38060,
-      "added_stars": "62 stars today"
+      "stars": 93977,
+      "forks": 8729,
+      "added_stars": "71 stars today"
     },
     {
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 116920,
-      "forks": 12221,
-      "added_stars": "816 stars today"
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 37374,
+      "forks": 4944,
+      "added_stars": "97 stars today"
     },
     {
-      "title": "meta / astryx",
-      "url": "https://github.com/meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26984,
-      "forks": 2088,
-      "added_stars": "1,830 stars today"
-    },
-    {
-      "title": "CopilotKit / OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11916,
-      "forks": 1462,
-      "added_stars": "298 stars today"
-    },
-    {
-      "title": "Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "title": "tradermonty / claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69621,
-      "forks": 10800,
-      "added_stars": "415 stars today"
+      "stars": 4339,
+      "forks": 883,
+      "added_stars": "69 stars today"
     },
     {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9601,
+      "forks": 437,
+      "added_stars": "256 stars today"
+    },
+    {
+      "title": "Likely7 / Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 134766,
-      "forks": 25531,
-      "added_stars": "176 stars today"
+      "stars": 1746,
+      "forks": 78,
+      "added_stars": "256 stars today"
+    },
+    {
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 55737,
+      "forks": 4618,
+      "added_stars": "67 stars today"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 13 Nov 2026 09:01:04 GMT",
+  "pubDate": "Sat, 14 Nov 2026 08:30:07 GMT",
   "items": [
+    {
+      "title": "sherlock-project / sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 111369,
+      "forks": 12891,
+      "added_stars": "13,364 stars this week"
+    },
     {
       "title": "anthropics / skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 193865,
-      "forks": 22807,
-      "added_stars": "6,055 stars this week"
+      "stars": 194282,
+      "forks": 22861,
+      "added_stars": "6,169 stars this week"
     },
     {
       "title": "milind-soni / OpenMausBot",
@@ -20,9 +30,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 21900,
-      "forks": 3038,
-      "added_stars": "9,104 stars this week"
+      "stars": 22375,
+      "forks": 3111,
+      "added_stars": "7,763 stars this week"
     },
     {
       "title": "vercel-labs / agent-browser",
@@ -30,9 +40,29 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 50463,
-      "forks": 3510,
-      "added_stars": "4,601 stars this week"
+      "stars": 50863,
+      "forks": 3541,
+      "added_stars": "4,360 stars this week"
+    },
+    {
+      "title": "google / elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Open-source plugin for designing and reviewing software with agents",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 18761,
+      "forks": 1401,
+      "added_stars": "5,560 stars this week"
+    },
+    {
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 71930,
+      "forks": 57376,
+      "added_stars": "3,778 stars this week"
     },
     {
       "title": "NVIDIA / auto-ontology",
@@ -40,49 +70,9 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12376,
-      "forks": 1016,
-      "added_stars": "5,802 stars this week"
-    },
-    {
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 71435,
-      "forks": 4757,
-      "added_stars": "10,700 stars this week"
-    },
-    {
-      "title": "vercel-labs / agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22961,
-      "forks": 1699,
-      "added_stars": "6,414 stars this week"
-    },
-    {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 323296,
-      "forks": 27129,
-      "added_stars": "8,731 stars this week"
-    },
-    {
-      "title": "zed-industries / zed",
-      "url": "https://github.com/zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 94890,
-      "forks": 11677,
-      "added_stars": "2,339 stars this week"
+      "stars": 12658,
+      "forks": 1043,
+      "added_stars": "4,108 stars this week"
     },
     {
       "title": "google-deepmind / mujoco",
@@ -90,29 +80,79 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17808,
-      "forks": 2184,
-      "added_stars": "1,671 stars this week"
+      "stars": 17913,
+      "forks": 2188,
+      "added_stars": "1,764 stars this week"
     },
     {
-      "title": "google / skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24107,
-      "forks": 2006,
-      "added_stars": "1,933 stars this week"
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 324014,
+      "forks": 27198,
+      "added_stars": "7,599 stars this week"
     },
     {
-      "title": "D4Vinci / Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 117270,
+      "forks": 12269,
+      "added_stars": "3,502 stars this week"
+    },
+    {
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 72117,
+      "forks": 4807,
+      "added_stars": "8,829 stars this week"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 94990,
+      "forks": 11698,
+      "added_stars": "2,117 stars this week"
+    },
+    {
+      "title": "anthropics / claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 102324,
-      "forks": 10651,
-      "added_stars": "4,743 stars this week"
+      "stars": 20897,
+      "forks": 3491,
+      "added_stars": "1,731 stars this week"
+    },
+    {
+      "title": "vercel-labs / agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 23483,
+      "forks": 1740,
+      "added_stars": "5,408 stars this week"
+    },
+    {
+      "title": "lobehub / lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 85476,
+      "forks": 16307,
+      "added_stars": "1,126 stars this week"
     }
   ]
 }
