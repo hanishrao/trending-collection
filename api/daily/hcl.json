@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 14 Nov 2026 08:26:48 GMT",
+  "pubDate": "Sun, 15 Nov 2026 08:43:41 GMT",
   "items": [
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
@@ -10,18 +10,18 @@
       "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2139,
-      "forks": 1285,
+      "stars": 2140,
+      "forks": 1286,
       "added_stars": "1 star today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1287,
-      "forks": 1296,
+      "stars": 5015,
+      "forks": 4411,
       "added_stars": "0 stars today"
     },
     {
@@ -31,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3283,
-      "forks": 4621,
+      "forks": 4622,
       "added_stars": "0 stars today"
     },
     {
@@ -45,6 +45,26 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "cloudposse / terraform-aws-s3-bucket",
+      "url": "https://github.com/cloudposse/terraform-aws-s3-bucket",
+      "description": "Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 177,
+      "forks": 858,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
+      "description": "Terraform Azure Verified Resource Module for Storage Account",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 39,
+      "forks": 79,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "terraform-aws-modules / terraform-aws-lambda",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
@@ -55,53 +75,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "terraform-aws-modules / terraform-aws-eventbridge",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
+      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5015,
-      "forks": 4410,
+      "stars": 156,
+      "forks": 180,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 32,
-      "forks": 74,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 678,
-      "forks": 670,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-iam",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-iam",
-      "description": "Terraform module to create AWS IAM resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 876,
-      "forks": 1115,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cloudposse / terraform-aws-elasticache-redis",
-      "url": "https://github.com/cloudposse/terraform-aws-elasticache-redis",
-      "description": "Terraform module to provision an ElastiCache Redis Cluster",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 144,
-      "forks": 254,
+      "stars": 351,
+      "forks": 239,
       "added_stars": "0 stars today"
     },
     {
@@ -112,16 +102,6 @@
       "languageColor": "#844FBA",
       "stars": 40,
       "forks": 38,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eventbridge",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eventbridge",
-      "description": "Terraform module to create AWS EventBridge resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 156,
-      "forks": 180,
       "added_stars": "0 stars today"
     }
   ]

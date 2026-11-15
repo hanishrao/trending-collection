@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 14 Nov 2026 08:32:28 GMT</pubDate>
+  <pubDate>Sun, 15 Nov 2026 08:49:25 GMT</pubDate>
   <item>
     <title>pbakaus / impeccable</title>
     <link>https://github.com/pbakaus/impeccable</link>
@@ -41,6 +41,11 @@
     <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
   </item>
   <item>
+    <title>astral-sh / ruff</title>
+    <link>https://github.com/astral-sh/ruff</link>
+    <description>An extremely fast Python linter and code formatter, written in Rust.</description>
+  </item>
+  <item>
     <title>vercel-labs / agent-desktop</title>
     <link>https://github.com/vercel-labs/agent-desktop</link>
     <description>Computer use CLI for AI agents</description>
@@ -56,14 +61,14 @@
     <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
   </item>
   <item>
-    <title>astral-sh / ruff</title>
-    <link>https://github.com/astral-sh/ruff</link>
-    <description>An extremely fast Python linter and code formatter, written in Rust.</description>
-  </item>
-  <item>
     <title>jub0t / Concat</title>
     <link>https://github.com/jub0t/Concat</link>
     <description>Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API &amp; MCP.</description>
+  </item>
+  <item>
+    <title>fabio-rovai / open-ontologies</title>
+    <link>https://github.com/fabio-rovai/open-ontologies</link>
+    <description>Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.</description>
   </item>
   <item>
     <title>macro-inc / macro</title>
@@ -71,19 +76,24 @@
     <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
   </item>
   <item>
+    <title>ModernRelay / omnigraph</title>
+    <link>https://github.com/ModernRelay/omnigraph</link>
+    <description>Object-storage native graph database with branching and typed ontology</description>
+  </item>
+  <item>
     <title>Mesh-LLM / mesh-llm</title>
     <link>https://github.com/Mesh-LLM/mesh-llm</link>
     <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
   </item>
   <item>
-    <title>NVIDIA / OpenShell</title>
-    <link>https://github.com/NVIDIA/OpenShell</link>
-    <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
-  </item>
-  <item>
     <title>oven-sh / bun</title>
     <link>https://github.com/oven-sh/bun</link>
     <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
+  </item>
+  <item>
+    <title>astral-sh / uv</title>
+    <link>https://github.com/astral-sh/uv</link>
+    <description>An extremely fast Python package and project manager, written in Rust.</description>
   </item>
   <item>
     <title>trymirai / uzu</title>
@@ -94,11 +104,6 @@
     <title>memvid / memvid</title>
     <link>https://github.com/memvid/memvid</link>
     <description>Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.</description>
-  </item>
-  <item>
-    <title>ModernRelay / omnigraph</title>
-    <link>https://github.com/ModernRelay/omnigraph</link>
-    <description>Object-storage native graph database with branching and typed ontology</description>
   </item>
 </channel>
 </rss>

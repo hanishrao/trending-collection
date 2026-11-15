@@ -2,17 +2,27 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 14 Nov 2026 08:30:07 GMT",
+  "pubDate": "Sun, 15 Nov 2026 08:47:02 GMT",
   "items": [
+    {
+      "title": "NVIDIA / cudnn-frontend",
+      "url": "https://github.com/NVIDIA/cudnn-frontend",
+      "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1000,
+      "forks": 337,
+      "added_stars": "10 stars this week"
+    },
     {
       "title": "flashinfer-ai / flashinfer",
       "url": "https://github.com/flashinfer-ai/flashinfer",
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6919,
-      "forks": 1753,
-      "added_stars": "53 stars this week"
+      "stars": 6928,
+      "forks": 1756,
+      "added_stars": "57 stars this week"
     },
     {
       "title": "karpathy / llm.c",
@@ -20,19 +30,19 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31469,
+      "stars": 31477,
       "forks": 3825,
-      "added_stars": "76 stars this week"
+      "added_stars": "82 stars this week"
     },
     {
-      "title": "NVIDIA / cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 895,
-      "forks": 266,
-      "added_stars": "5 stars this week"
+      "stars": 1115,
+      "forks": 259,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -42,27 +52,17 @@
       "languageColor": "#3A4E3A",
       "stars": 1702,
       "forks": 415,
-      "added_stars": "7 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
+      "title": "NVIDIA / cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1114,
-      "forks": 260,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2613,
-      "forks": 276,
-      "added_stars": "11 stars this week"
+      "stars": 897,
+      "forks": 265,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -70,9 +70,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9192,
+      "stars": 9195,
       "forks": 1531,
-      "added_stars": "37 stars this week"
+      "added_stars": "34 stars this week"
     }
   ]
 }

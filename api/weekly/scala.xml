@@ -4,7 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 14 Nov 2026 08:30:07 GMT</pubDate>
+  <pubDate>Sun, 15 Nov 2026 08:47:02 GMT</pubDate>
   <item>
     <title>apache / spark</title>
     <link>https://github.com/apache/spark</link>
@@ -21,6 +21,11 @@
     <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
+    <title>delta-io / delta</title>
+    <link>https://github.com/delta-io/delta</link>
+    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
+  </item>
+  <item>
     <title>JohnSnowLabs / spark-nlp</title>
     <link>https://github.com/JohnSnowLabs/spark-nlp</link>
     <description>State of the Art Natural Language Processing</description>
@@ -31,11 +36,6 @@
     <description>XiangShanLab is the open-source XiangShan ecosystem&#x27;s entry layer — a learning, practice, and collaboration hub spanning the RISC-V processor core and its specialized domains, making high-performance processor design learnable, doable, and participable, and welcoming collaborators from academia and industry to join real open-source development.</description>
   </item>
   <item>
-    <title>delta-io / delta</title>
-    <link>https://github.com/delta-io/delta</link>
-    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
-  </item>
-  <item>
     <title>zio / zio</title>
     <link>https://github.com/zio/zio</link>
     <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
@@ -44,16 +44,6 @@
     <title>ucb-bar / chipyard</title>
     <link>https://github.com/ucb-bar/chipyard</link>
     <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
-  </item>
-  <item>
-    <title>llm4s / llm4s</title>
-    <link>https://github.com/llm4s/llm4s</link>
-    <description>Agentic and LLM Programming in Scala</description>
-  </item>
-  <item>
-    <title>apache / datafusion-comet</title>
-    <link>https://github.com/apache/datafusion-comet</link>
-    <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
     <title>akka / akka-core</title>
@@ -71,19 +61,19 @@
     <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
   </item>
   <item>
-    <title>apache / gluten</title>
-    <link>https://github.com/apache/gluten</link>
-    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
-  </item>
-  <item>
     <title>joernio / joern</title>
     <link>https://github.com/joernio/joern</link>
     <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
-    <title>scalapb / ScalaPB</title>
-    <link>https://github.com/scalapb/ScalaPB</link>
-    <description>Protocol buffer compiler for Scala.</description>
+    <title>apache / gluten</title>
+    <link>https://github.com/apache/gluten</link>
+    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
+  </item>
+  <item>
+    <title>llm4s / llm4s</title>
+    <link>https://github.com/llm4s/llm4s</link>
+    <description>Agentic and LLM Programming in Scala</description>
   </item>
 </channel>
 </rss>

@@ -2,37 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 14 Nov 2026 08:30:07 GMT",
+  "pubDate": "Sun, 15 Nov 2026 08:47:02 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4478,
-      "forks": 1863,
-      "added_stars": "39 stars this week"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9996,
-      "forks": 1104,
-      "added_stars": "103 stars this week"
+      "stars": 10005,
+      "forks": 1106,
+      "added_stars": "105 stars this week"
     },
     {
-      "title": "ethereum / EthLib",
-      "url": "https://github.com/ethereum/EthLib",
-      "description": "Formally verified Ethereum primitives, written in Lean.",
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 99,
-      "forks": 28,
-      "added_stars": "14 stars this week"
+      "stars": 4483,
+      "forks": 1864,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -41,8 +31,18 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 1360,
-      "forks": 597,
-      "added_stars": "11 stars this week"
+      "forks": 601,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "ethereum / EthLib",
+      "url": "https://github.com/ethereum/EthLib",
+      "description": "Formally verified Ethereum primitives, written in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 99,
+      "forks": 30,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "leanprover-community / batteries",
@@ -50,9 +50,9 @@
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 432,
+      "stars": 433,
       "forks": 174,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -75,16 +75,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 38,
-      "forks": 14,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "leanprover-community / import-graph",
       "url": "https://github.com/leanprover-community/import-graph",
       "description": "Tool to analyse the import structure of lean projects.",
@@ -95,14 +85,34 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 415,
-      "forks": 63,
+      "stars": 38,
+      "forks": 14,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 836,
+      "forks": 227,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "leanprover-community / NNG4",
+      "url": "https://github.com/leanprover-community/NNG4",
+      "description": "Natural Number Game",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 394,
+      "forks": 98,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "leanprover-community / quote4",
@@ -122,37 +132,27 @@
       "languageColor": "#ccc",
       "stars": 233,
       "forks": 49,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "leanprover-community / aesop",
+      "url": "https://github.com/leanprover-community/aesop",
+      "description": "White-box automation for Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 415,
+      "forks": 63,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "verse-lab / veil",
-      "url": "https://github.com/verse-lab/veil",
-      "description": "A verifier for automated and interactive proofs about transition systems.",
+      "title": "facebookresearch / atlas-lean",
+      "url": "https://github.com/facebookresearch/atlas-lean",
+      "description": "ATLAS Autoformalized Textbook Library At Scale",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 398,
-      "forks": 37,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "leanprover-community / NNG4",
-      "url": "https://github.com/leanprover-community/NNG4",
-      "description": "Natural Number Game",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 394,
-      "forks": 98,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 835,
-      "forks": 226,
-      "added_stars": "13 stars this week"
+      "stars": 332,
+      "forks": 54,
+      "added_stars": "3 stars this week"
     }
   ]
 }

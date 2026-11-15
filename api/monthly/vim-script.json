@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 14 Nov 2026 08:32:28 GMT",
+  "pubDate": "Sun, 15 Nov 2026 08:49:25 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -10,9 +10,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 41320,
-      "forks": 6333,
-      "added_stars": "333 stars this month"
+      "stars": 41342,
+      "forks": 6338,
+      "added_stars": "321 stars this month"
     },
     {
       "title": "neovim / neovim",
@@ -20,9 +20,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 103625,
-      "forks": 7422,
-      "added_stars": "1,241 stars this month"
+      "stars": 103658,
+      "forks": 7427,
+      "added_stars": "1,179 stars this month"
     },
     {
       "title": "github / copilot.vim",
@@ -31,8 +31,8 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 11712,
-      "forks": 839,
-      "added_stars": "48 stars this month"
+      "forks": 841,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "kristijanhusak / vim-dadbod-completion",
@@ -50,19 +50,9 @@
       "description": "📝 Today I Learned",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14161,
+      "stars": 14162,
       "forks": 748,
-      "added_stars": "21 stars this month"
-    },
-    {
-      "title": "tpope / vim-surround",
-      "url": "https://github.com/tpope/vim-surround",
-      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14109,
-      "forks": 449,
-      "added_stars": "20 stars this month"
+      "added_stars": "22 stars this month"
     },
     {
       "title": "tpope / vim-fugitive",
@@ -70,9 +60,19 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21822,
-      "forks": 1082,
-      "added_stars": "40 stars this month"
+      "stars": 21824,
+      "forks": 1083,
+      "added_stars": "39 stars this month"
+    },
+    {
+      "title": "tpope / vim-surround",
+      "url": "https://github.com/tpope/vim-surround",
+      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14108,
+      "forks": 449,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "mhinz / vim-galore",
@@ -80,9 +80,9 @@
       "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 18053,
-      "forks": 625,
-      "added_stars": "66 stars this month"
+      "stars": 18057,
+      "forks": 624,
+      "added_stars": "68 stars this month"
     },
     {
       "title": "preservim / nerdtree",
@@ -92,27 +92,17 @@
       "languageColor": "#199f4b",
       "stars": 20086,
       "forks": 1434,
-      "added_stars": "24 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
-      "title": "dense-analysis / ale",
-      "url": "https://github.com/dense-analysis/ale",
-      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14026,
-      "forks": 1488,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "morhetz / gruvbox",
-      "url": "https://github.com/morhetz/gruvbox",
-      "description": "Retro groove color scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 15838,
-      "forks": 1122,
-      "added_stars": "80 stars this month"
+      "stars": 35787,
+      "forks": 1928,
+      "added_stars": "63 stars this month"
     },
     {
       "title": "tpope / vim-dadbod",
@@ -125,24 +115,34 @@
       "added_stars": "16 stars this month"
     },
     {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 15840,
+      "forks": 1122,
+      "added_stars": "81 stars this month"
+    },
+    {
       "title": "junegunn / fzf.vim",
       "url": "https://github.com/junegunn/fzf.vim",
       "description": "fzf ❤️ vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 10275,
+      "stars": 10277,
       "forks": 604,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
-      "title": "vim-airline / vim-airline",
-      "url": "https://github.com/vim-airline/vim-airline",
-      "description": "lean & mean status/tabline for vim that's light as air",
+      "title": "dense-analysis / ale",
+      "url": "https://github.com/dense-analysis/ale",
+      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 17966,
-      "forks": 1099,
-      "added_stars": "18 stars this month"
+      "stars": 14026,
+      "forks": 1488,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "kristijanhusak / vim-dadbod-ui",
@@ -152,17 +152,17 @@
       "languageColor": "#199f4b",
       "stars": 2063,
       "forks": 139,
-      "added_stars": "10 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
+      "title": "vim-airline / vim-airline",
+      "url": "https://github.com/vim-airline/vim-airline",
+      "description": "lean & mean status/tabline for vim that's light as air",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35781,
-      "forks": 1928,
-      "added_stars": "60 stars this month"
+      "stars": 17965,
+      "forks": 1099,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "fatih / vim-go",

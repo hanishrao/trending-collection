@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 14 Nov 2026 08:26:48 GMT",
+  "pubDate": "Sun, 15 Nov 2026 08:43:41 GMT",
   "items": [
     {
       "title": "Likely7 / Veyra-NRVideo",
@@ -10,9 +10,39 @@
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1746,
-      "forks": 78,
-      "added_stars": "256 stars today"
+      "stars": 2462,
+      "forks": 205,
+      "added_stars": "420 stars today"
+    },
+    {
+      "title": "kunkundi / crossdesk",
+      "url": "https://github.com/kunkundi/crossdesk",
+      "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4770,
+      "forks": 478,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "f3d-app / f3d",
+      "url": "https://github.com/f3d-app/f3d",
+      "description": "Fast and minimalist 3D viewer.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5057,
+      "forks": 476,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "abseil / abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18200,
+      "forks": 3190,
+      "added_stars": "2 stars today"
     },
     {
       "title": "ggml-org / llama.cpp",
@@ -20,89 +50,109 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 134938,
-      "forks": 25588,
-      "added_stars": "494 stars today"
+      "stars": 135124,
+      "forks": 25635,
+      "added_stars": "240 stars today"
     },
     {
-      "title": "ggml-org / whisper.cpp",
-      "url": "https://github.com/ggml-org/whisper.cpp",
-      "description": "Port of OpenAI's Whisper model in C/C++",
+      "title": "ggml-org / ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 55175,
-      "forks": 6300,
+      "stars": 15796,
+      "forks": 1947,
+      "added_stars": "154 stars today"
+    },
+    {
+      "title": "Helldez / BigMoeOnEdge",
+      "url": "https://github.com/Helldez/BigMoeOnEdge",
+      "description": "Run MoE models bigger than your RAM. Frontier-size MoE on a phone, laptop, edge. Lossless, on stock llama.cpp. An adaptive streaming optimizer. Any hardware, any OS, any model, any quantization, behind a local OpenAI-compatible server.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 854,
+      "forks": 94,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "microsoft / WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 34388,
+      "forks": 1889,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12673,
+      "forks": 607,
       "added_stars": "40 stars today"
     },
     {
-      "title": "dariulone / cyberpunk-vr-port",
-      "url": "https://github.com/dariulone/cyberpunk-vr-port",
-      "description": "",
+      "title": "catchorg / Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 617,
-      "forks": 62,
-      "added_stars": "13 stars today"
+      "stars": 21561,
+      "forks": 3435,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "boykopovar / AnyPS5",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "title": "nlohmann / json",
+      "url": "https://github.com/nlohmann/json",
+      "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 53788,
-      "forks": 5131,
-      "added_stars": "239 stars today"
-    },
-    {
-      "title": "facebookresearch / faiss",
-      "url": "https://github.com/facebookresearch/faiss",
-      "description": "A library for efficient similarity search and clustering of dense vectors.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41634,
-      "forks": 4634,
-      "added_stars": "89 stars today"
-    },
-    {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 39738,
-      "forks": 10943,
+      "stars": 50893,
+      "forks": 7524,
       "added_stars": "7 stars today"
     },
     {
-      "title": "redpanda-data / redpanda",
-      "url": "https://github.com/redpanda-data/redpanda",
-      "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+      "title": "canonical / multipass",
+      "url": "https://github.com/canonical/multipass",
+      "description": "Multipass orchestrates virtual Ubuntu instances",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12681,
-      "forks": 805,
-      "added_stars": "1 star today"
+      "stars": 9392,
+      "forks": 845,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "eugeniosegala / MAKO",
-      "url": "https://github.com/eugeniosegala/MAKO",
-      "description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing frame generation, scaling and more, to Steam Deck, Steam Machine and desktop Linux.",
+      "title": "google-ai-edge / mediapipe",
+      "url": "https://github.com/google-ai-edge/mediapipe",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 796,
-      "forks": 26,
-      "added_stars": "60 stars today"
+      "stars": 37698,
+      "forks": 6226,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "microsoft / BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41577,
-      "forks": 3882,
-      "added_stars": "18 stars today"
+      "stars": 72176,
+      "forks": 16361,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "ArduPilot / ardupilot",
+      "url": "https://github.com/ArduPilot/ardupilot",
+      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16366,
+      "forks": 21804,
+      "added_stars": "9 stars today"
     }
   ]
 }

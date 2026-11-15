@@ -2,87 +2,47 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 14 Nov 2026 08:26:48 GMT",
+  "pubDate": "Sun, 15 Nov 2026 08:43:41 GMT",
   "items": [
-    {
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 71930,
-      "forks": 57376,
-      "added_stars": "256 stars today"
-    },
     {
       "title": "tradermonty / claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4340,
-      "forks": 883,
-      "added_stars": "69 stars today"
+      "stars": 5052,
+      "forks": 1065,
+      "added_stars": "553 stars today"
     },
     {
-      "title": "Tencent-Hunyuan / Hy-MT2",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+      "title": "andrewyng / openworker",
+      "url": "https://github.com/andrewyng/openworker",
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1754,
-      "forks": 185,
-      "added_stars": "28 stars today"
+      "stars": 19262,
+      "forks": 2751,
+      "added_stars": "100 stars today"
     },
     {
-      "title": "davila7 / claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 33506,
-      "forks": 3937,
-      "added_stars": "62 stars today"
+      "stars": 5869,
+      "forks": 901,
+      "added_stars": "124 stars today"
     },
     {
-      "title": "avenoxai / avenoxbeyin",
-      "url": "https://github.com/avenoxai/avenoxbeyin",
-      "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
+      "title": "NVIDIA / SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 460,
-      "forks": 76,
-      "added_stars": "51 stars today"
-    },
-    {
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 71376,
-      "forks": 11491,
-      "added_stars": "73 stars today"
-    },
-    {
-      "title": "anthropics / claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47236,
-      "forks": 4904,
-      "added_stars": "130 stars today"
-    },
-    {
-      "title": "headroomlabs-ai / headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 79615,
-      "forks": 6230,
-      "added_stars": "120 stars today"
+      "stars": 1284,
+      "forks": 154,
+      "added_stars": "133 stars today"
     },
     {
       "title": "Alishahryar1 / free-claude-code",
@@ -90,79 +50,129 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 69986,
-      "forks": 10848,
-      "added_stars": "787 stars today"
+      "stars": 70347,
+      "forks": 10918,
+      "added_stars": "366 stars today"
     },
     {
-      "title": "ahujasid / mcp-for-blender",
-      "url": "https://github.com/ahujasid/mcp-for-blender",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 34360,
-      "forks": 3130,
+      "stars": 47329,
+      "forks": 4916,
       "added_stars": "136 stars today"
     },
     {
-      "title": "realiti4 / claude-swap",
-      "url": "https://github.com/realiti4/claude-swap",
-      "description": "Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions",
+      "title": "pnnbao97 / VieNeu-TTS",
+      "url": "https://github.com/pnnbao97/VieNeu-TTS",
+      "description": "Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4702,
-      "forks": 505,
-      "added_stars": "25 stars today"
+      "stars": 3367,
+      "forks": 1029,
+      "added_stars": "73 stars today"
     },
     {
-      "title": "volcengine / OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "title": "0x0funky / agent-sprite-forge",
+      "url": "https://github.com/0x0funky/agent-sprite-forge",
+      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 42220,
-      "forks": 3480,
-      "added_stars": "113 stars today"
+      "stars": 5741,
+      "forks": 559,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "langchain-ai / langgraph",
-      "url": "https://github.com/langchain-ai/langgraph",
-      "description": "Build resilient agents.",
+      "title": "microsoft / PyRIT",
+      "url": "https://github.com/microsoft/PyRIT",
+      "description": "Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 44940,
-      "forks": 7754,
-      "added_stars": "49 stars today"
+      "stars": 4849,
+      "forks": 1058,
+      "added_stars": "26 stars today"
     },
     {
-      "title": "kajisho5 / ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "title": "headroomlabs-ai / headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5487,
-      "forks": 473,
-      "added_stars": "168 stars today"
+      "stars": 79691,
+      "forks": 6240,
+      "added_stars": "93 stars today"
     },
     {
-      "title": "NVIDIA / SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25943,
-      "forks": 2302,
-      "added_stars": "190 stars today"
+      "stars": 36167,
+      "forks": 4428,
+      "added_stars": "59 stars today"
     },
     {
-      "title": "mvanhorn / last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "title": "dreammis / social-auto-upload",
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 67589,
-      "forks": 5942,
-      "added_stars": "111 stars today"
+      "stars": 16552,
+      "forks": 2809,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "LibreTranslate / LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17733,
+      "forks": 1860,
+      "added_stars": "130 stars today"
+    },
+    {
+      "title": "SigmaHQ / sigma",
+      "url": "https://github.com/SigmaHQ/sigma",
+      "description": "Main Sigma Rule Repository",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11512,
+      "forks": 2944,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "bmad-code-org / BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 55382,
+      "forks": 6172,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "zulip / zulip",
+      "url": "https://github.com/zulip/zulip",
+      "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26230,
+      "forks": 10596,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "FujiwaraChoki / supoclip",
+      "url": "https://github.com/FujiwaraChoki/supoclip",
+      "description": "An open-source OpusClip alternative",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3143,
+      "forks": 710,
+      "added_stars": "88 stars today"
     }
   ]
 }
