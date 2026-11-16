@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-15T08:42:19.713804+00:00",
-  "snapshot_date": "2026-11-15",
+  "updated_at": "2026-11-16T08:52:00.291470+00:00",
+  "snapshot_date": "2026-11-16",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-14",
+  "comparison_date": "2026-11-15",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-09",
+  "window_start": "2026-11-10",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-16",
+      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    },
     {
       "date": "2026-11-15",
       "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
@@ -39,11 +44,6 @@
       "date": "2026-11-10",
       "id": "speridlabs/idol",
       "url": "https://huggingface.co/speridlabs/idol"
-    },
-    {
-      "date": "2026-11-09",
-      "id": "speridlabs/idol",
-      "url": "https://huggingface.co/speridlabs/idol"
     }
   ],
   "items": [
@@ -55,7 +55,7 @@
       "first_seen": "2026-11-08",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 512
+      "likes_change": 192
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Image",
@@ -63,9 +63,9 @@
       "rank": 2,
       "status": "continuing",
       "first_seen": "2026-11-11",
-      "appearances_7d": 5,
+      "appearances_7d": 6,
       "rank_change": 0,
-      "likes_change": 79
+      "likes_change": 91
     },
     {
       "id": "Qwen/Qwen3.8-27B",
@@ -74,8 +74,8 @@
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": 2,
-      "likes_change": 128
+      "rank_change": 0,
+      "likes_change": 114
     },
     {
       "id": "Lightricks/LTX-2.5",
@@ -84,148 +84,148 @@
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": -1,
-      "likes_change": 137
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "rank": 5,
-      "status": "continuing",
-      "first_seen": "2026-11-06",
-      "appearances_7d": 7,
-      "rank_change": 2,
-      "likes_change": 57
+      "rank_change": 0,
+      "likes_change": 148
     },
     {
       "id": "Comfy-Org/MiniMax-H3-Image",
       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
-      "rank": 6,
+      "rank": 5,
       "status": "continuing",
       "first_seen": "2026-11-11",
-      "appearances_7d": 5,
-      "rank_change": 3,
-      "likes_change": 27
-    },
-    {
-      "id": "speridlabs/idol",
-      "url": "https://huggingface.co/speridlabs/idol",
-      "rank": 7,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 7,
-      "rank_change": -1,
-      "likes_change": 29
-    },
-    {
-      "id": "NousResearch/Arete-27B",
-      "url": "https://huggingface.co/NousResearch/Arete-27B",
-      "rank": 8,
-      "status": "continuing",
-      "first_seen": "2026-11-08",
-      "appearances_7d": 7,
-      "rank_change": -4,
-      "likes_change": 27
+      "appearances_7d": 6,
+      "rank_change": 1,
+      "likes_change": 40
     },
     {
       "id": "Zyphra/ZONOS3-Mini",
       "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
-      "rank": 9,
+      "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-13",
-      "appearances_7d": 3,
-      "rank_change": 1,
-      "likes_change": 43
+      "appearances_7d": 4,
+      "rank_change": 3,
+      "likes_change": 60
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "rank": 7,
+      "status": "continuing",
+      "first_seen": "2026-11-06",
+      "appearances_7d": 7,
+      "rank_change": -2,
+      "likes_change": 49
     },
     {
       "id": "thinkingmachines/Inkling-2-Small",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-      "rank": 10,
+      "rank": 8,
       "status": "continuing",
       "first_seen": "2026-11-14",
-      "appearances_7d": 2,
-      "rank_change": 1,
-      "likes_change": 53
-    },
-    {
-      "id": "moonshotai/Kimi-K3.1-Pro",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "rank": 11,
-      "status": "continuing",
-      "first_seen": "2026-11-06",
-      "appearances_7d": 7,
-      "rank_change": -3,
-      "likes_change": 32
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "rank": 12,
-      "status": "continuing",
-      "first_seen": "2026-11-13",
       "appearances_7d": 3,
       "rank_change": 2,
-      "likes_change": 68
-    },
-    {
-      "id": "Edge0/Edge0-145B-NVFP4",
-      "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
-      "rank": 13,
-      "status": "new",
-      "first_seen": "2026-11-15",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
-    },
-    {
-      "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-      "rank": 14,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 7,
-      "rank_change": -2,
-      "likes_change": 68
-    },
-    {
-      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
-      "url": "https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
-      "rank": 15,
-      "status": "continuing",
-      "first_seen": "2026-11-11",
-      "appearances_7d": 5,
-      "rank_change": 0,
-      "likes_change": 13
+      "likes_change": 37
     },
     {
       "id": "higurashi-ai/Haru-4B",
       "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-      "rank": 16,
-      "status": "new",
+      "rank": 9,
+      "status": "continuing",
       "first_seen": "2026-11-15",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": 7,
+      "likes_change": 90
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "rank": 10,
+      "status": "continuing",
+      "first_seen": "2026-11-13",
+      "appearances_7d": 4,
+      "rank_change": 2,
+      "likes_change": 51
+    },
+    {
+      "id": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "rank": 11,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 7,
+      "rank_change": -4,
+      "likes_change": 29
+    },
+    {
+      "id": "Edge0/Edge0-145B-NVFP4",
+      "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+      "rank": 12,
+      "status": "continuing",
+      "first_seen": "2026-11-15",
+      "appearances_7d": 2,
+      "rank_change": 1,
+      "likes_change": 49
+    },
+    {
+      "id": "moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "rank": 13,
+      "status": "continuing",
+      "first_seen": "2026-11-06",
+      "appearances_7d": 7,
+      "rank_change": -2,
+      "likes_change": 31
+    },
+    {
+      "id": "NousResearch/Arete-27B",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "rank": 14,
+      "status": "continuing",
+      "first_seen": "2026-11-08",
+      "appearances_7d": 7,
+      "rank_change": -6,
+      "likes_change": 18
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "rank": 15,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 7,
+      "rank_change": -1,
+      "likes_change": 72
     },
     {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "rank": 17,
-      "status": "new",
+      "rank": 16,
+      "status": "continuing",
       "first_seen": "2026-11-15",
+      "appearances_7d": 2,
+      "rank_change": 1,
+      "likes_change": 33
+    },
+    {
+      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+      "url": "https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+      "rank": 17,
+      "status": "continuing",
+      "first_seen": "2026-11-11",
+      "appearances_7d": 6,
+      "rank_change": -2,
+      "likes_change": 14
+    },
+    {
+      "id": "meituan-longcat/LongCat-2.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+      "rank": 18,
+      "status": "new",
+      "first_seen": "2026-11-16",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
-    },
-    {
-      "id": "facebook/sam3",
-      "url": "https://huggingface.co/facebook/sam3",
-      "rank": 18,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 6,
-      "rank_change": -1,
-      "likes_change": 52
     },
     {
       "id": "Cactus-Compute/mirage",
@@ -233,19 +233,19 @@
       "rank": 19,
       "status": "continuing",
       "first_seen": "2026-11-13",
-      "appearances_7d": 3,
-      "rank_change": 1,
-      "likes_change": 29
+      "appearances_7d": 4,
+      "rank_change": 0,
+      "likes_change": 27
     },
     {
-      "id": "tencent/Qwen3.8-27B-DSpine-b16",
-      "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
+      "id": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
       "rank": 20,
       "status": "continuing",
-      "first_seen": "2026-11-12",
-      "appearances_7d": 4,
-      "rank_change": -4,
-      "likes_change": 14
+      "first_seen": "2026-11-03",
+      "appearances_7d": 7,
+      "rank_change": -2,
+      "likes_change": 71
     }
   ]
 }

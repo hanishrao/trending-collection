@@ -5,7 +5,7 @@ Discover GitHub repositories, Hugging Face models and datasets worth exploring.
 
 [GitHub](#github) · [Models](#models) · [Datasets](#datasets) · [Analytics](#analytics) · [Archives](#archives) · [API & RSS](#api)
 
-**3,498 GitHub days archived since 2015** · **6 featured languages** · **Daily collection**
+**3,499 GitHub days archived since 2015** · **6 featured languages** · **Daily collection**
 
 Hugging Face history begins with the first saved snapshot. Each source’s collection date appears below.
 
@@ -13,92 +13,92 @@ Hugging Face history begins with the first saved snapshot. Each source’s colle
 
 | Explore | Source freshness | Start here |
 |---|---|---|
-| GitHub | Latest archive: 2026-11-15 | Browse tools and libraries across six featured languages |
-| Hugging Face models | 2026-11-15 08:42 UTC | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| Hugging Face datasets | 2026-11-15 08:42 UTC | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
+| GitHub | Latest archive: 2026-11-16 | Browse tools and libraries across six featured languages |
+| Hugging Face models | 2026-11-16 08:52 UTC | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| Hugging Face datasets | 2026-11-16 08:52 UTC | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 
 <a id="github"></a>
 
 ## 🔥 Today's Trending · GitHub trending
 
-Archive date: **2026-11-15**. One pick per featured language; expand for the top three.
+Archive date: **2026-11-16**. One pick per featured language; expand for the top three.
 
 | Repository | Language | What it does |
 |---|---|---|
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars… |
-| [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Rust | A WiFi security auditing software |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 dis… |
+| [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) | Rust | Object-storage native graph database with branching and typed ontology |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | A fancy self-hosted monitoring tool |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministi… |
-| [apple/container](https://github.com/apple/container) | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written i… |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share wi… |
+| [suversal/WrapPin](https://github.com/suversal/WrapPin) | Swift | iOS 27+ 本机虚拟定位与步行路线测试工具 |
+| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processi… |
 
 <details>
 <summary>Top three per featured language</summary>
 
 | Repository | Language | What it does |
 |---|---|---|
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars… |
-| [andrewyng/openworker](https://github.com/andrewyng/openworker) | Python | — |
 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 dis… |
-| [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Rust | A WiFi security auditing software |
+| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars… |
+| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic… |
 | [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) | Rust | Object-storage native graph database with branching and typed ontology |
-| [verus-lang/verus](https://github.com/verus-lang/verus) | Rust | Verified Rust for low-level systems code |
+| [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) | Rust | Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninst… |
+| [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) | Rust | A WiFi security auditing software |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | JavaScript | A fancy self-hosted monitoring tool |
-| [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) | JavaScript | 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送… |
-| [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) | JavaScript | 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli |
+| [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | JavaScript | An all-in-one email service platform powered by Cloudflare &#124; 基于 Cloudflare 的一站式邮箱服务平台 &#124; Cloudflare Email 邮箱 M… |
+| [qist/tvbox](https://github.com/qist/tvbox) | JavaScript | OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministi… |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens b… |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts an… |
-| [apple/container](https://github.com/apple/container) | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written i… |
-| [apple/coreai-models](https://github.com/apple/coreai-models) | Swift | Model export recipes, Python primitives, and Swift runtime utilities for on-device AI |
-| [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) | Swift | An an app that installs Sidestore on iOS 27, fully on-device |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share wi… |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | Keep your coding agent up to date with the latest web best practices |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | Chrome DevTools for coding agents |
+| [google/ax](https://github.com/google/ax) | Go | Agent Executor (AX) is Google&#x27;s open agentic orchestration runtime |
+| [suversal/WrapPin](https://github.com/suversal/WrapPin) | Swift | iOS 27+ 本机虚拟定位与步行路线测试工具 |
+| [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | Swift | Dynamic Island for macOS |
+| [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) | Swift | Nuvio tvOS client |
+| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processi… |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills op… |
 
 </details>
 
-[Full GitHub day](./2026/2026-11-15.md)
+[Full GitHub day](./2026/2026-11-16.md)
 
 <a id="models"></a>
 
 ## 🤗 Hugging Face models
 
-Collected 2026-11-15 08:42 UTC · Top 20 by Hugging Face trending rank.
+Collected 2026-11-16 08:52 UTC · Top 20 by Hugging Face trending rank.
 
 | Model | Task | Parameters | Downloads · 30d | Likes |
 |---|---|---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | text-generation | 9.4B | 24,470 | 7,419 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | — | 517,948 | 1,134 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | 27.8B | 6,757,964 | 20,044 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | — | 2,777,667 | 11,965 |
-| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | image-text-to-text | — | 1,657,783 | 3,135 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | text-generation | 9.4B | 27,037 | 7,611 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | — | 571,067 | 1,225 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | 27.8B | 6,547,772 | 20,158 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | — | 2,754,355 | 12,113 |
+| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | text-to-image | — | 1,973,388 | 431 |
 
 <details>
 <summary>Explore all 20 models</summary>
 
 | Model | Task | Parameters | Downloads · 30d | Likes |
 |---|---|---|---|---|
-| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | text-generation | 9.4B | 24,470 | 7,419 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | — | 517,948 | 1,134 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | 27.8B | 6,757,964 | 20,044 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | — | 2,777,667 | 11,965 |
-| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | image-text-to-text | — | 1,657,783 | 3,135 |
-| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | text-to-image | — | 1,615,613 | 391 |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | image-to-3d | — | 32,619 | 2,348 |
-| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | text-generation | 27.4B | 6,191 | 602 |
-| [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | text-to-speech | — | 19,743 | 359 |
-| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) | image-text-to-text | 594.1B | 3,647 | 323 |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | image-text-to-text | 2.8T | 43,687 | 2,085 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | — | — | 6,422,783 | 5,962 |
-| [Edge0/Edge0-145B-NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | text-generation | — | 33,819 | 272 |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) | image-to-image | — | 1,292,519 | 3,195 |
-| [mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF) | — | — | 116,423 | 289 |
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | audio-to-audio | 5.3B | 1,262 | 251 |
-| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | text-to-image | — | 96,251 | 299 |
-| [facebook/sam3](https://huggingface.co/facebook/sam3) | mask-generation | 859.9M | 2,065,427 | 6,610 |
-| [Cactus-Compute/mirage](https://huggingface.co/Cactus-Compute/mirage) | image-text-to-text | — | 24,452 | 305 |
-| [tencent/Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | text-generation | 2B | 4,873 | 274 |
+| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | text-generation | 9.4B | 27,037 | 7,611 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | — | 571,067 | 1,225 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | 27.8B | 6,547,772 | 20,158 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | — | 2,754,355 | 12,113 |
+| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | text-to-image | — | 1,973,388 | 431 |
+| [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | text-to-speech | — | 39,862 | 419 |
+| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | image-text-to-text | — | 1,708,637 | 3,184 |
+| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) | image-text-to-text | 594.1B | 7,329 | 360 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | audio-to-audio | 5.3B | 2,098 | 341 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | — | — | 6,566,295 | 6,013 |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | image-to-3d | — | 33,423 | 2,377 |
+| [Edge0/Edge0-145B-NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | text-generation | — | 41,606 | 321 |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | image-text-to-text | 2.8T | 46,766 | 2,116 |
+| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | text-generation | 27.4B | 7,497 | 620 |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) | image-to-image | — | 1,182,267 | 3,267 |
+| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | text-to-image | — | 120,618 | 332 |
+| [mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF) | — | — | 149,532 | 303 |
+| [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | image-text-to-text | 1.8T | 1,573 | 288 |
+| [Cactus-Compute/mirage](https://huggingface.co/Cactus-Compute/mirage) | image-text-to-text | — | 28,553 | 332 |
+| [facebook/sam3](https://huggingface.co/facebook/sam3) | mask-generation | 859.9M | 2,011,153 | 6,681 |
 
 </details>
 
@@ -111,71 +111,71 @@ Collected 2026-11-15 08:42 UTC · Top 20 by Hugging Face trending rank.
 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | other | minimax-h3 | 2026-11-12 01:52 UTC |
 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | apache-2.0 | transformers | 2026-11-07 04:42 UTC |
 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | other | diffusion-single-file | 2026-10-11 07:00 UTC |
-| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | apache-2.0 | — | 2026-11-13 07:11 UTC |
 | [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | other | diffusion-single-file | 2026-11-11 12:10 UTC |
-| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | apache-2.0 | idol | 2026-10-29 18:17 UTC |
-| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | apache-2.0 | — | 2026-11-06 21:04 UTC |
 | [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | apache-2.0 | zonos3 | 2026-11-14 05:48 UTC |
+| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | apache-2.0 | — | 2026-11-13 07:11 UTC |
 | [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) | apache-2.0 | transformers | 2026-11-15 05:54 UTC |
-| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | other | transformers | 2026-11-05 07:11 UTC |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | apache-2.0 | — | 2026-11-12 02:15 UTC |
-| [Edge0/Edge0-145B-NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | other | edge0 | 2026-11-15 07:13 UTC |
-| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) | other | diffusion-single-file | 2026-11-02 23:49 UTC |
-| [mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF) | apache-2.0 | transformers | 2026-11-08 04:48 UTC |
 | [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | apache-2.0 | — | 2026-11-13 01:22 UTC |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | apache-2.0 | — | 2026-11-12 02:15 UTC |
+| [speridlabs/idol](https://huggingface.co/speridlabs/idol) | apache-2.0 | idol | 2026-10-29 18:17 UTC |
+| [Edge0/Edge0-145B-NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | other | edge0 | 2026-11-15 17:09 UTC |
+| [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | other | transformers | 2026-11-05 07:11 UTC |
+| [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | apache-2.0 | — | 2026-11-06 21:04 UTC |
+| [black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) | other | diffusion-single-file | 2026-11-02 23:49 UTC |
 | [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | other | diffusers | 2026-11-14 17:03 UTC |
-| [facebook/sam3](https://huggingface.co/facebook/sam3) | other | transformers | 2025-11-20 22:05 UTC |
+| [mradermacher/gemma-4-31B-it-ARA-heretic-GGUF](https://huggingface.co/mradermacher/gemma-4-31B-it-ARA-heretic-GGUF) | apache-2.0 | transformers | 2026-11-08 04:48 UTC |
+| [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | mit | — | 2026-11-10 07:28 UTC |
 | [Cactus-Compute/mirage](https://huggingface.co/Cactus-Compute/mirage) | apache-2.0 | cactus-compute | 2026-11-06 18:51 UTC |
-| [tencent/Qwen3.8-27B-DSpine-b16](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16) | apache-2.0 | — | 2026-11-14 13:34 UTC |
+| [facebook/sam3](https://huggingface.co/facebook/sam3) | other | transformers | 2025-11-20 22:05 UTC |
 
 </details>
 
-**In this sample:** image-text-to-text: 5 · text-generation: 4 · text-to-image: 3 · Unknown: 2.
+**In this sample:** image-text-to-text: 6 · text-generation: 3 · text-to-image: 3 · Unknown: 2.
 Each model has one task label. Counts describe this collected ranking, not the whole Hub.
 
 <a id="datasets"></a>
 
 ## 🤗 Hugging Face datasets
 
-Collected 2026-11-15 08:42 UTC · Top 20 by Hugging Face trending rank.
+Collected 2026-11-16 08:52 UTC · Top 20 by Hugging Face trending rank.
 
 | Dataset | Category | Downloads · 30d | Likes | License |
 |---|---|---|---|---|
-| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 57,565 | 487 | cc0-1.0 |
-| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 20,702 | 1,069 | apache-2.0 |
-| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,569,965 | 1,581 | cc-by-4.0 |
-| [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig) | — | 5,803 | 103 | other |
-| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | — | 9,492 | 53 | cc-by-4.0 |
+| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 60,255 | 518 | cc0-1.0 |
+| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 22,529 | 1,105 | apache-2.0 |
+| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,596,662 | 1,602 | cc-by-4.0 |
+| [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig) | — | 5,848 | 113 | other |
+| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | — | 10,767 | 61 | cc-by-4.0 |
 
 <details>
 <summary>Explore all 20 datasets</summary>
 
 | Dataset | Category | Downloads · 30d | Likes | License |
 |---|---|---|---|---|
-| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 57,565 | 487 | cc0-1.0 |
-| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 20,702 | 1,069 | apache-2.0 |
-| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,569,965 | 1,581 | cc-by-4.0 |
-| [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig) | — | 5,803 | 103 | other |
-| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | — | 9,492 | 53 | cc-by-4.0 |
-| [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam) | text-generation, question-answering | 43,834 | 60 | cc-by-4.0 |
-| [israellaguan/codex-tool-use-trajectories](https://huggingface.co/datasets/israellaguan/codex-tool-use-trajectories) | text-generation | 895 | 48 | mit |
-| [arc4g/arc-art](https://huggingface.co/datasets/arc4g/arc-art) | — | 2,197 | 44 | cc-by-nc-4.0 |
-| [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news) | text-generation, feature-extractio… | 459,114 | 582 | odc-by |
-| [NousResearch/arete-data-pairs](https://huggingface.co/datasets/NousResearch/arete-data-pairs) | text-generation, question-answering | 1,521 | 71 | — |
-| [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data) | — | 206,660 | 720 | other |
-| [ccore/ThreeJS-3D-Scenes](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes) | text-generation | 11,902 | 122 | mit |
-| [codepawl/pixel-atlas-glb](https://huggingface.co/datasets/codepawl/pixel-atlas-glb) | — | 24,972 | 32 | cc0-1.0 |
-| [codepawl/abo-glb](https://huggingface.co/datasets/codepawl/abo-glb) | — | 63,523 | 126 | cc-by-4.0 |
-| [NousResearch/Propaganda_Eval](https://huggingface.co/datasets/NousResearch/Propaganda_Eval) | question-answering | 4,280 | 61 | mit |
-| [bones-studio/seed](https://huggingface.co/datasets/bones-studio/seed) | robotics, text-to-video, video-tex… | 13,667 | 441 | other |
-| [google/multimodal-knowledge-agent](https://huggingface.co/datasets/google/multimodal-knowledge-agent) | image-text-to-text, visual-questio… | 2,835 | 27 | apache-2.0 |
-| [scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection) | — | 51,900 | 410 | cc-by-4.0 |
-| [PentesterFlow/OffsecCyber](https://huggingface.co/datasets/PentesterFlow/OffsecCyber) | text-generation, text-classificati… | 8,057 | 104 | apache-2.0 |
-| [nvidia/Nemotron-Personas-Finance-Japan](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Finance-Japan) | text-generation | 2,966 | 21 | cc-by-4.0 |
+| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 60,255 | 518 | cc0-1.0 |
+| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 22,529 | 1,105 | apache-2.0 |
+| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,596,662 | 1,602 | cc-by-4.0 |
+| [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig) | — | 5,848 | 113 | other |
+| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | — | 10,767 | 61 | cc-by-4.0 |
+| [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam) | text-generation, question-answering | 84,956 | 71 | cc-by-4.0 |
+| [arc4g/arc-art](https://huggingface.co/datasets/arc4g/arc-art) | — | 2,285 | 52 | cc-by-nc-4.0 |
+| [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data) | — | 208,204 | 739 | other |
+| [google/multimodal-knowledge-agent](https://huggingface.co/datasets/google/multimodal-knowledge-agent) | image-text-to-text, visual-questio… | 3,316 | 40 | apache-2.0 |
+| [codepawl/pixel-atlas-glb](https://huggingface.co/datasets/codepawl/pixel-atlas-glb) | — | 25,195 | 37 | cc0-1.0 |
+| [bones-studio/seed](https://huggingface.co/datasets/bones-studio/seed) | robotics, text-to-video, video-tex… | 13,721 | 452 | other |
+| [ccore/ThreeJS-3D-Scenes](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes) | text-generation | 12,318 | 127 | mit |
+| [codepawl/abo-glb](https://huggingface.co/datasets/codepawl/abo-glb) | — | 64,985 | 130 | cc-by-4.0 |
+| [laion/laion-audio-xl](https://huggingface.co/datasets/laion/laion-audio-xl) | audio-classification, text-to-audi… | 9,411 | 26 | other |
+| [NousResearch/arete-data-pairs](https://huggingface.co/datasets/NousResearch/arete-data-pairs) | text-generation, question-answering | 1,623 | 73 | — |
+| [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news) | text-generation, feature-extractio… | 453,177 | 584 | odc-by |
+| [nvidia/USDCraft-10K](https://huggingface.co/datasets/nvidia/USDCraft-10K) | robotics | 3,674 | 26 | apache-2.0 |
+| [nvidia/Nemotron-Personas-Finance-Japan](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Finance-Japan) | text-generation | 3,180 | 22 | cc-by-4.0 |
+| [PentesterFlow/OffsecCyber](https://huggingface.co/datasets/PentesterFlow/OffsecCyber) | text-generation, text-classificati… | 8,310 | 106 | apache-2.0 |
+| [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x) | text-generation, question-answering | 6,713 | 499 | apache-2.0 |
 
 </details>
 
-**In this sample:** Unknown: 8 · text-generation: 8 · question-answering: 5 · text-classification: 2.
+**In this sample:** text-generation: 8 · Unknown: 7 · question-answering: 5 · feature-extraction: 2.
 Datasets may have multiple categories. Counts describe this collected ranking, not the whole Hub.
 
 <a id="analytics"></a>
@@ -186,17 +186,17 @@ Hugging Face movement is measured within our tracked top 20, separately for mode
 
 ### Models
 
-Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observed.
+Comparing 2026-11-16 with 2026-11-15 (1-day interval). Coverage: 7/7 days observed.
 
-**3 new to tracking** · **0 re-entries**
+**1 new to tracking** · **0 re-entries**
 
 | Rising entry | Rank change | Likes change |
 |---|---|---|
-| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | ↑ 3 | +27 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | ↑ 2 | +128 |
-| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | ↑ 2 | +57 |
-| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ↑ 2 | +68 |
-| [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | ↑ 1 | +43 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | ↑ 7 | +90 |
+| [Zyphra/ZONOS3-Mini](https://huggingface.co/Zyphra/ZONOS3-Mini) | ↑ 3 | +60 |
+| [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) | ↑ 2 | +37 |
+| [unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) | ↑ 2 | +51 |
+| [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | ↑ 1 | +40 |
 
 <details>
 <summary>Repeat appearances in the last seven days</summary>
@@ -216,13 +216,13 @@ Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observ
 
 | Snapshot date | Leader |
 |---|---|
+| 2026-11-16 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 | 2026-11-15 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 | 2026-11-14 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 | 2026-11-13 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 | 2026-11-12 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 | 2026-11-11 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 | 2026-11-10 | [speridlabs/idol](https://huggingface.co/speridlabs/idol) |
-| 2026-11-09 | [speridlabs/idol](https://huggingface.co/speridlabs/idol) |
 
 </details>
 
@@ -231,25 +231,23 @@ Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observ
 
 | Entry | Status | First observed |
 |---|---|---|
-| [Edge0/Edge0-145B-NVFP4](https://huggingface.co/Edge0/Edge0-145B-NVFP4) | new | 2026-11-15 |
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | new | 2026-11-15 |
-| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | new | 2026-11-15 |
+| [meituan-longcat/LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | new | 2026-11-16 |
 
 </details>
 
 ### Datasets
 
-Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observed.
+Comparing 2026-11-16 with 2026-11-15 (1-day interval). Coverage: 7/7 days observed.
 
 **2 new to tracking** · **1 re-entries**
 
 | Rising entry | Rank change | Likes change |
 |---|---|---|
-| [arc4g/arc-art](https://huggingface.co/datasets/arc4g/arc-art) | ↑ 7 | +2 |
-| [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam) | ↑ 6 | +7 |
-| [israellaguan/codex-tool-use-trajectories](https://huggingface.co/datasets/israellaguan/codex-tool-use-trajectories) | ↑ 4 | +1 |
-| [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data) | ↑ 3 | +7 |
-| [codepawl/pixel-atlas-glb](https://huggingface.co/datasets/codepawl/pixel-atlas-glb) | ↑ 3 | +3 |
+| [google/multimodal-knowledge-agent](https://huggingface.co/datasets/google/multimodal-knowledge-agent) | ↑ 8 | +13 |
+| [bones-studio/seed](https://huggingface.co/datasets/bones-studio/seed) | ↑ 5 | +11 |
+| [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://huggingface.co/datasets/venvoo/china-a-share-l2-level2-limit-order-book-tick-data) | ↑ 3 | +19 |
+| [codepawl/pixel-atlas-glb](https://huggingface.co/datasets/codepawl/pixel-atlas-glb) | ↑ 3 | +5 |
+| [nvidia/Nemotron-Personas-Finance-Japan](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Finance-Japan) | ↑ 2 | +1 |
 
 <details>
 <summary>Repeat appearances in the last seven days</summary>
@@ -260,7 +258,7 @@ Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observ
 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | 7 | 2026-11-03 |
 | [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | 7 | 2026-11-03 |
 | [tencent/TailorRig](https://huggingface.co/datasets/tencent/TailorRig) | 7 | 2026-11-06 |
-| [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news) | 7 | 2026-11-03 |
+| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | 7 | 2026-11-10 |
 
 </details>
 
@@ -269,13 +267,13 @@ Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observ
 
 | Snapshot date | Leader |
 |---|---|
+| 2026-11-16 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 | 2026-11-15 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 | 2026-11-14 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 | 2026-11-13 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 | 2026-11-12 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 | 2026-11-11 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 | 2026-11-10 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
-| 2026-11-09 | [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) |
 
 </details>
 
@@ -284,9 +282,9 @@ Comparing 2026-11-15 with 2026-11-14 (1-day interval). Coverage: 7/7 days observ
 
 | Entry | Status | First observed |
 |---|---|---|
-| [google/multimodal-knowledge-agent](https://huggingface.co/datasets/google/multimodal-knowledge-agent) | new | 2026-11-15 |
-| [scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection) | reentry | 2026-11-03 |
-| [nvidia/Nemotron-Personas-Finance-Japan](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Finance-Japan) | new | 2026-11-15 |
+| [laion/laion-audio-xl](https://huggingface.co/datasets/laion/laion-audio-xl) | new | 2026-11-16 |
+| [nvidia/USDCraft-10K](https://huggingface.co/datasets/nvidia/USDCraft-10K) | new | 2026-11-16 |
+| [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x) | reentry | 2026-11-03 |
 
 </details>
 
@@ -296,11 +294,11 @@ First observed in our tracked GitHub archive during the last 30 days; these are 
 
 | Repository | Language | First observed |
 |---|---|---|
-| [andrewyng/openworker](https://github.com/andrewyng/openworker) | Python | 2026-11-15 |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | 2026-11-15 |
-| [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) | Python | 2026-11-15 |
-| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | Python | 2026-11-15 |
-| [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) | Python | 2026-11-15 |
+| [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) | Python | 2026-11-16 |
+| [huytieu/COG-second-brain](https://github.com/huytieu/COG-second-brain) | Python | 2026-11-16 |
+| [antithesishq/bombadil](https://github.com/antithesishq/bombadil) | Rust | 2026-11-16 |
+| [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) | Go | 2026-11-16 |
+| [suversal/WrapPin](https://github.com/suversal/WrapPin) | Swift | 2026-11-16 |
 
 <a id="archives"></a>
 
@@ -311,13 +309,13 @@ First observed in our tracked GitHub archive during the last 30 days; these are 
 
 | Date | Python | Rust | JavaScript | Go | Swift | TypeScript |
 |---|---|---|---|---|---|---|
+| [2026-11-16](./2026/2026-11-16.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [WrapPin](https://github.com/suversal/WrapPin) | [univer](https://github.com/dream-num/univer) |
 | [2026-11-15](./2026/2026-11-15.md) | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [airgorah](https://github.com/martin-olivier/airgorah) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [plannotator](https://github.com/backnotprop/plannotator) |
 | [2026-11-14](./2026/2026-11-14.md) | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [buzz](https://github.com/block/buzz) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) |
 | [2026-11-13](./2026/2026-11-13.md) | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [topcoat](https://github.com/tokio-rs/topcoat) | [node](https://github.com/nodejs/node) | [LoopForge](https://github.com/Tencent/LoopForge) | [xtool](https://github.com/xtool-org/xtool) | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) |
 | [2026-11-12](./2026/2026-11-12.md) | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [agent-skills](https://github.com/addyosmani/agent-skills) | [google-maps-scraper](https://github.com/gosom/google-maps-scraper) | [3105](https://github.com/YangJiiii/3105) | [astryx](https://github.com/meta/astryx) |
 | [2026-11-11](./2026/2026-11-11.md) | [skills](https://github.com/anthropics/skills) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [agent-skills](https://github.com/addyosmani/agent-skills) | [nvke](https://github.com/dsx-ai-factory/nvke) | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | [astryx](https://github.com/meta/astryx) |
 | [2026-11-10](./2026/2026-11-10.md) | [skills](https://github.com/anthropics/skills) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | [google-maps-scraper](https://github.com/gosom/google-maps-scraper) | [purge-app](https://github.com/jithin-sabu/purge-app) | [astryx](https://github.com/meta/astryx) |
-| [2026-11-09](./2026/2026-11-09.md) | [sherlock](https://github.com/sherlock-project/sherlock) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | [nvke](https://github.com/dsx-ai-factory/nvke) | [try-omarchy](https://github.com/omacom/try-omarchy) | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) |
 
 </details>
 

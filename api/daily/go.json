@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 15 Nov 2026 08:43:41 GMT",
+  "pubDate": "Mon, 16 Nov 2026 08:53:56 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,19 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 51616,
-      "forks": 4002,
-      "added_stars": "893 stars today"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 120226,
-      "forks": 7009,
-      "added_stars": "227 stars today"
+      "stars": 52497,
+      "forks": 4214,
+      "added_stars": "691 stars today"
     },
     {
       "title": "Tencent / LoopForge",
@@ -30,9 +20,19 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1047,
-      "forks": 235,
-      "added_stars": "33 stars today"
+      "stars": 2009,
+      "forks": 319,
+      "added_stars": "423 stars today"
+    },
+    {
+      "title": "google / ax",
+      "url": "https://github.com/google/ax",
+      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14731,
+      "forks": 794,
+      "added_stars": "31 stars today"
     },
     {
       "title": "tailscale / tailcat",
@@ -40,29 +40,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9876,
-      "forks": 458,
-      "added_stars": "488 stars today"
-    },
-    {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 31004,
-      "forks": 1858,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "restic / restic",
-      "url": "https://github.com/restic/restic",
-      "description": "Fast, secure, efficient backup program",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37235,
-      "forks": 1969,
-      "added_stars": "22 stars today"
+      "stars": 9964,
+      "forks": 461,
+      "added_stars": "238 stars today"
     },
     {
       "title": "kubescape / kubescape",
@@ -70,29 +50,59 @@
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11906,
-      "forks": 1105,
+      "stars": 11927,
+      "forks": 1111,
       "added_stars": "13 stars today"
     },
     {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "title": "trustwallet / assets",
+      "url": "https://github.com/trustwallet/assets",
+      "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39358,
-      "forks": 880,
-      "added_stars": "51 stars today"
+      "stars": 5417,
+      "forks": 27645,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "An open, programmable decision layer for models and compute.",
+      "title": "HuskerMinion / techo5",
+      "url": "https://github.com/HuskerMinion/techo5",
+      "description": "Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6477,
-      "forks": 1121,
-      "added_stars": "6 stars today"
+      "stars": 708,
+      "forks": 119,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "gravitational / teleport",
+      "url": "https://github.com/gravitational/teleport",
+      "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 21108,
+      "forks": 2191,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "XTLS / Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 42938,
+      "forks": 6153,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "erigontech / erigon",
+      "url": "https://github.com/erigontech/erigon",
+      "description": "Ethereum implementation on the efficiency frontier",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3633,
+      "forks": 1581,
+      "added_stars": "3 stars today"
     },
     {
       "title": "getlago / lago",
@@ -100,59 +110,69 @@
       "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 10862,
-      "forks": 793,
-      "added_stars": "20 stars today"
+      "stars": 10882,
+      "forks": 797,
+      "added_stars": "25 stars today"
     },
     {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "title": "mudler / LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39132,
-      "forks": 3483,
-      "added_stars": "56 stars today"
+      "stars": 50390,
+      "forks": 4610,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "kopia / kopia",
-      "url": "https://github.com/kopia/kopia",
-      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "title": "jaegertracing / jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "description": "CNCF Jaeger, a Distributed Tracing Platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14705,
-      "forks": 803,
-      "added_stars": "43 stars today"
+      "stars": 23415,
+      "forks": 3248,
+      "added_stars": "1 star today"
     },
     {
-      "title": "wailsapp / wails",
-      "url": "https://github.com/wailsapp/wails",
-      "description": "Create beautiful applications using Go",
+      "title": "black-ant / Ant-Browser",
+      "url": "https://github.com/black-ant/Ant-Browser",
+      "description": "指纹浏览器",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37114,
-      "forks": 1936,
-      "added_stars": "21 stars today"
+      "stars": 2193,
+      "forks": 358,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "projectdiscovery / nuclei",
-      "url": "https://github.com/projectdiscovery/nuclei",
-      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "title": "meshery / meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32928,
-      "forks": 4006,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "opentofu / opentofu",
-      "url": "https://github.com/opentofu/opentofu",
-      "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 30866,
-      "forks": 1429,
+      "stars": 12214,
+      "forks": 4191,
       "added_stars": "14 stars today"
+    },
+    {
+      "title": "gohugoio / hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 90479,
+      "forks": 8489,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "aldinokemal / go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5055,
+      "forks": 1235,
+      "added_stars": "8 stars today"
     }
   ]
 }

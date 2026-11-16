@@ -2,27 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 15 Nov 2026 08:47:02 GMT",
+  "pubDate": "Mon, 16 Nov 2026 08:55:32 GMT",
   "items": [
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 120226,
-      "forks": 7009,
-      "added_stars": "1,902 stars this week"
-    },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 51616,
-      "forks": 4002,
-      "added_stars": "1,672 stars this week"
+      "stars": 52499,
+      "forks": 4214,
+      "added_stars": "2,238 stars this week"
     },
     {
       "title": "opensandbox-group / OpenSandbox",
@@ -30,29 +20,19 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17313,
+      "stars": 17340,
       "forks": 1650,
-      "added_stars": "814 stars this week"
+      "added_stars": "698 stars this week"
     },
     {
-      "title": "trufflesecurity / trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29352,
-      "forks": 2749,
-      "added_stars": "392 stars this week"
-    },
-    {
-      "title": "cli / cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 47023,
-      "forks": 9315,
-      "added_stars": "144 stars this week"
+      "stars": 120569,
+      "forks": 7042,
+      "added_stars": "2,215 stars this week"
     },
     {
       "title": "dsx-ai-factory / nvke",
@@ -60,9 +40,19 @@
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1228,
-      "forks": 161,
-      "added_stars": "799 stars this week"
+      "stars": 1230,
+      "forks": 162,
+      "added_stars": "491 stars this week"
+    },
+    {
+      "title": "trufflesecurity / trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29387,
+      "forks": 2756,
+      "added_stars": "409 stars this week"
     },
     {
       "title": "henrygd / beszel",
@@ -70,9 +60,19 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27350,
+      "stars": 27397,
       "forks": 1183,
-      "added_stars": "474 stars this week"
+      "added_stars": "391 stars this week"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47038,
+      "forks": 9347,
+      "added_stars": "143 stars this week"
     },
     {
       "title": "aquasecurity / trivy",
@@ -80,109 +80,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 39358,
-      "forks": 880,
-      "added_stars": "258 stars this week"
-    },
-    {
-      "title": "evcc-io / evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "smart charging ☀️🚘",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7616,
-      "forks": 1661,
-      "added_stars": "86 stars this week"
-    },
-    {
-      "title": "tailscale / tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9876,
-      "forks": 458,
-      "added_stars": "1,007 stars this week"
-    },
-    {
-      "title": "router-for-me / CLIProxyAPI",
-      "url": "https://github.com/router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 58594,
-      "forks": 8989,
-      "added_stars": "739 stars this week"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 56144,
-      "forks": 7416,
-      "added_stars": "951 stars this week"
-    },
-    {
-      "title": "sundowndev / phoneinfoga",
-      "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering framework for phone numbers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 18567,
-      "forks": 6335,
-      "added_stars": "147 stars this week"
-    },
-    {
-      "title": "kagent-dev / kagent",
-      "url": "https://github.com/kagent-dev/kagent",
-      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4335,
-      "forks": 915,
-      "added_stars": "124 stars this week"
-    },
-    {
-      "title": "gosom / google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8087,
-      "forks": 1282,
-      "added_stars": "618 stars this week"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6697,
-      "forks": 751,
-      "added_stars": "446 stars this week"
-    },
-    {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 31043,
-      "forks": 2378,
-      "added_stars": "271 stars this week"
-    },
-    {
-      "title": "prometheus / prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 67618,
-      "forks": 11023,
-      "added_stars": "399 stars this week"
+      "stars": 39393,
+      "forks": 887,
+      "added_stars": "260 stars this week"
     },
     {
       "title": "runkids / skillshare",
@@ -190,19 +90,109 @@
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3134,
-      "forks": 275,
-      "added_stars": "175 stars this week"
+      "stars": 3167,
+      "forks": 381,
+      "added_stars": "182 stars this week"
     },
     {
-      "title": "guohuiyuan / go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6315,
-      "forks": 607,
-      "added_stars": "237 stars this week"
+      "stars": 9964,
+      "forks": 461,
+      "added_stars": "1,148 stars this week"
+    },
+    {
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "smart charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7619,
+      "forks": 1649,
+      "added_stars": "82 stars this week"
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 56286,
+      "forks": 7432,
+      "added_stars": "953 stars this week"
+    },
+    {
+      "title": "kagent-dev / kagent",
+      "url": "https://github.com/kagent-dev/kagent",
+      "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4365,
+      "forks": 919,
+      "added_stars": "169 stars this week"
+    },
+    {
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8124,
+      "forks": 1288,
+      "added_stars": "583 stars this week"
+    },
+    {
+      "title": "router-for-me / CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 58686,
+      "forks": 9000,
+      "added_stars": "728 stars this week"
+    },
+    {
+      "title": "sundowndev / phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 18589,
+      "forks": 6342,
+      "added_stars": "148 stars this week"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10059,
+      "forks": 709,
+      "added_stars": "936 stars this week"
+    },
+    {
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 31071,
+      "forks": 2383,
+      "added_stars": "285 stars this week"
+    },
+    {
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6850,
+      "forks": 761,
+      "added_stars": "565 stars this week"
     }
   ]
 }
