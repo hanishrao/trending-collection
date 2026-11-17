@@ -4,11 +4,16 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 16 Nov 2026 08:53:56 GMT</pubDate>
+  <pubDate>Tue, 17 Nov 2026 10:01:06 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
     <description>Nix Packages collection &amp; NixOS</description>
+  </item>
+  <item>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
     <title>nix-community / home-manager</title>
@@ -16,24 +21,14 @@
     <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
-    <title>supabase / postgres</title>
-    <link>https://github.com/supabase/postgres</link>
-    <description>Unmodified Postgres with some useful extensions</description>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
   </item>
   <item>
-    <title>catppuccin / nix</title>
-    <link>https://github.com/catppuccin/nix</link>
-    <description>❄️ Soothing pastel theme for Nix</description>
-  </item>
-  <item>
-    <title>nvmd / nixos-raspberrypi</title>
-    <link>https://github.com/nvmd/nixos-raspberrypi</link>
-    <description>Nix flake for a fully declarative NixOS on Raspberry Pi</description>
-  </item>
-  <item>
-    <title>NixOS / nixos-hardware</title>
-    <link>https://github.com/NixOS/nixos-hardware</link>
-    <description>A collection of NixOS modules covering hardware quirks.</description>
+    <title>zardus / ctf-tools</title>
+    <link>https://github.com/zardus/ctf-tools</link>
+    <description>Some setup scripts for security research tools.</description>
   </item>
   <item>
     <title>numtide / llm-agents.nix</title>
@@ -41,14 +36,9 @@
     <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
   </item>
   <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
-  </item>
-  <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
+    <title>NixOS / nixos-hardware</title>
+    <link>https://github.com/NixOS/nixos-hardware</link>
+    <description>A collection of NixOS modules covering hardware quirks.</description>
   </item>
 </channel>
 </rss>

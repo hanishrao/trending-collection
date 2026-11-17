@@ -2,27 +2,57 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 16 Nov 2026 08:53:56 GMT",
+  "pubDate": "Tue, 17 Nov 2026 10:01:06 GMT",
   "items": [
+    {
+      "title": "google / styleguide",
+      "url": "https://github.com/google/styleguide",
+      "description": "Style guides for Google-originated open-source projects",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 39835,
+      "forks": 12920,
+      "added_stars": "4 stars today"
+    },
     {
       "title": "syl20bnr / spacemacs",
       "url": "https://github.com/syl20bnr/spacemacs",
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24557,
+      "stars": 24558,
       "forks": 4814,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3571,
-      "forks": 454,
+      "stars": 2704,
+      "forks": 379,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5253,
+      "forks": 1426,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2064,
+      "forks": 264,
+      "added_stars": "4 stars today"
     }
   ]
 }

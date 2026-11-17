@@ -2,17 +2,17 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 16 Nov 2026 08:53:56 GMT",
+  "pubDate": "Tue, 17 Nov 2026 10:01:06 GMT",
   "items": [
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 695,
-      "forks": 742,
-      "added_stars": "0 stars today"
+      "stars": 402,
+      "forks": 970,
+      "added_stars": "1 star today"
     },
     {
       "title": "tronbyt / apps",
@@ -22,37 +22,37 @@
       "languageColor": "#76d275",
       "stars": 69,
       "forks": 167,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 401,
-      "forks": 969,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 245,
-      "forks": 196,
+      "stars": 598,
+      "forks": 349,
       "added_stars": "0 stars today"
     },
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8830,
-      "forks": 2643,
-      "added_stars": "1 star today"
+      "stars": 295,
+      "forks": 115,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23275,
+      "forks": 1442,
+      "added_stars": "4 stars today"
     }
   ]
 }

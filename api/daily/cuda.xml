@@ -4,17 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 16 Nov 2026 08:53:56 GMT</pubDate>
-  <item>
-    <title>flashinfer-ai / flashinfer</title>
-    <link>https://github.com/flashinfer-ai/flashinfer</link>
-    <description>FlashInfer: Kernel Library for LLM Serving</description>
-  </item>
-  <item>
-    <title>deepseek-ai / DeepEP</title>
-    <link>https://github.com/deepseek-ai/DeepEP</link>
-    <description>DeepEP: an efficient expert-parallel communication library</description>
-  </item>
+  <pubDate>Tue, 17 Nov 2026 10:01:06 GMT</pubDate>
   <item>
     <title>NVIDIA / cudnn-frontend</title>
     <link>https://github.com/NVIDIA/cudnn-frontend</link>
@@ -26,19 +16,24 @@
     <description>GPU accelerated decision optimization</description>
   </item>
   <item>
+    <title>deepseek-ai / DeepGEMM</title>
+    <link>https://github.com/deepseek-ai/DeepGEMM</link>
+    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepEP</title>
+    <link>https://github.com/deepseek-ai/DeepEP</link>
+    <description>DeepEP: an efficient expert-parallel communication library</description>
+  </item>
+  <item>
     <title>NVIDIA / cuvs</title>
     <link>https://github.com/NVIDIA/cuvs</link>
     <description>cuVS - a library for vector search and clustering on the GPU</description>
   </item>
   <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-  </item>
-  <item>
-    <title>deepseek-ai / DeepGEMM</title>
-    <link>https://github.com/deepseek-ai/DeepGEMM</link>
-    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+    <title>flashinfer-ai / flashinfer</title>
+    <link>https://github.com/flashinfer-ai/flashinfer</link>
+    <description>FlashInfer: Kernel Library for LLM Serving</description>
   </item>
   <item>
     <title>karpathy / llm.c</title>
@@ -49,6 +44,11 @@
     <title>thu-ml / SageAttention</title>
     <link>https://github.com/thu-ml/SageAttention</link>
     <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuCollections</title>
+    <link>https://github.com/NVIDIA/cuCollections</link>
+    <description></description>
   </item>
 </channel>
 </rss>
