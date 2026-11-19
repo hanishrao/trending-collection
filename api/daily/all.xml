@@ -4,11 +4,16 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 18 Nov 2026 09:37:24 GMT</pubDate>
+  <pubDate>Thu, 19 Nov 2026 09:45:11 GMT</pubDate>
   <item>
-    <title>elementalsouls / Claude-BugHunter</title>
-    <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+    <title>cursor / plugins</title>
+    <link>https://github.com/cursor/plugins</link>
+    <description>Cursor plugin specification and official plugins</description>
+  </item>
+  <item>
+    <title>HKUDS / CLI-Anything</title>
+    <link>https://github.com/HKUDS/CLI-Anything</link>
+    <description>&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
   </item>
   <item>
     <title>mvanhorn / last30days-skill</title>
@@ -16,24 +21,29 @@
     <description>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</description>
   </item>
   <item>
-    <title>alibaba / open-code-review</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <description>Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
-  </item>
-  <item>
-    <title>Tencent / LoopForge</title>
-    <link>https://github.com/Tencent/LoopForge</link>
-    <description>Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.</description>
-  </item>
-  <item>
-    <title>dream-num / univer</title>
-    <link>https://github.com/dream-num/univer</link>
-    <description>Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.</description>
-  </item>
-  <item>
     <title>getarcaneapp / arcane</title>
     <link>https://github.com/getarcaneapp/arcane</link>
     <description>Modern Docker Management, Designed for Everyone</description>
+  </item>
+  <item>
+    <title>NVIDIA / SkillEvaluator</title>
+    <link>https://github.com/NVIDIA/SkillEvaluator</link>
+    <description>Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.</description>
+  </item>
+  <item>
+    <title>nvm-sh / nvm</title>
+    <link>https://github.com/nvm-sh/nvm</link>
+    <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.</description>
+  </item>
+  <item>
+    <title>astral-sh / uv</title>
+    <link>https://github.com/astral-sh/uv</link>
+    <description>An extremely fast Python package and project manager, written in Rust.</description>
+  </item>
+  <item>
+    <title>google-research / paper-orchestra</title>
+    <link>https://github.com/google-research/paper-orchestra</link>
+    <description>PaperOrchestra is a multi-agent framework for automated AI research paper writing.</description>
   </item>
   <item>
     <title>google-labs-code / stitch-skills</title>
@@ -41,9 +51,24 @@
     <description>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</description>
   </item>
   <item>
-    <title>cursor / plugins</title>
-    <link>https://github.com/cursor/plugins</link>
-    <description>Cursor plugin specification and official plugins</description>
+    <title>sveltejs / svelte</title>
+    <link>https://github.com/sveltejs/svelte</link>
+    <description>web development for the rest of us</description>
+  </item>
+  <item>
+    <title>jquery / jquery</title>
+    <link>https://github.com/jquery/jquery</link>
+    <description>jQuery JavaScript Library</description>
+  </item>
+  <item>
+    <title>appwrite / appwrite</title>
+    <link>https://github.com/appwrite/appwrite</link>
+    <description>The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more</description>
+  </item>
+  <item>
+    <title>openvinotoolkit / openvino</title>
+    <link>https://github.com/openvinotoolkit/openvino</link>
+    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
   </item>
   <item>
     <title>obra / superpowers</title>
@@ -51,34 +76,29 @@
     <description>An agentic skills framework &amp; software development methodology that works.</description>
   </item>
   <item>
-    <title>ag-ui-protocol / ag-ui</title>
-    <link>https://github.com/ag-ui-protocol/ag-ui</link>
-    <description>AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.</description>
-  </item>
-  <item>
-    <title>backnotprop / plannotator</title>
-    <link>https://github.com/backnotprop/plannotator</link>
-    <description>The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.</description>
-  </item>
-  <item>
-    <title>sveltejs / svelte</title>
-    <link>https://github.com/sveltejs/svelte</link>
-    <description>web development for the rest of us</description>
-  </item>
-  <item>
     <title>affaan-m / ECC</title>
     <link>https://github.com/affaan-m/ECC</link>
     <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
   </item>
   <item>
-    <title>jingyaogong / minimind</title>
-    <link>https://github.com/jingyaogong/minimind</link>
-    <description>🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
+    <title>DeanChensj / jiangshan-map</title>
+    <link>https://github.com/DeanChensj/jiangshan-map</link>
+    <description>江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes</description>
   </item>
   <item>
-    <title>google-research / paper-orchestra</title>
-    <link>https://github.com/google-research/paper-orchestra</link>
-    <description>PaperOrchestra is a multi-agent framework for automated AI research paper writing.</description>
+    <title>n8n-io / n8n</title>
+    <link>https://github.com/n8n-io/n8n</link>
+    <description>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
+  </item>
+  <item>
+    <title>solidjs / solid</title>
+    <link>https://github.com/solidjs/solid</link>
+    <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+  </item>
+  <item>
+    <title>punkpeye / awesome-mcp-servers</title>
+    <link>https://github.com/punkpeye/awesome-mcp-servers</link>
+    <description>A collection of MCP servers.</description>
   </item>
 </channel>
 </rss>

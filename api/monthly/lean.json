@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:40:27 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:48:56 GMT",
   "items": [
     {
       "title": "anthropics / formal-math",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 472,
-      "forks": 88,
-      "added_stars": "172 stars this month"
+      "stars": 473,
+      "forks": 89,
+      "added_stars": "171 stars this month"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,9 +20,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4498,
-      "forks": 1868,
-      "added_stars": "186 stars this month"
+      "stars": 4500,
+      "forks": 1871,
+      "added_stars": "188 stars this month"
     },
     {
       "title": "leanprover / lean4",
@@ -30,9 +30,19 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 10046,
-      "forks": 1111,
-      "added_stars": "488 stars this month"
+      "stars": 10057,
+      "forks": 1116,
+      "added_stars": "477 stars this month"
+    },
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1365,
+      "forks": 624,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "leanprover-community / mathlib3",
@@ -42,17 +52,7 @@
       "languageColor": "#ccc",
       "stars": 1664,
       "forks": 290,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1364,
-      "forks": 619,
-      "added_stars": "41 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -60,9 +60,9 @@
       "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 125,
+      "stars": 126,
       "forks": 30,
-      "added_stars": "1 star this month"
+      "added_stars": "2 stars this month"
     },
     {
       "title": "leanprover-community / plausible",
@@ -70,9 +70,9 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 121,
+      "stars": 122,
       "forks": 30,
-      "added_stars": "4 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "leanprover-community / quote4",
@@ -85,16 +85,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "leanprover-community / import-graph",
-      "url": "https://github.com/leanprover-community/import-graph",
-      "description": "Tool to analyse the import structure of lean projects.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 30,
-      "forks": 17,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "leanprover-community / aesop",
       "url": "https://github.com/leanprover-community/aesop",
       "description": "White-box automation for Lean 4",
@@ -103,6 +93,16 @@
       "stars": 415,
       "forks": 63,
       "added_stars": "8 stars this month"
+    },
+    {
+      "title": "leanprover-community / batteries",
+      "url": "https://github.com/leanprover-community/batteries",
+      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 436,
+      "forks": 176,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
@@ -115,14 +115,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "leanprover-community / batteries",
-      "url": "https://github.com/leanprover-community/batteries",
-      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
+      "title": "leanprover-community / import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 435,
-      "forks": 176,
-      "added_stars": "14 stars this month"
+      "stars": 30,
+      "forks": 17,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "leanprover-community / ProofWidgets4",
@@ -140,9 +140,19 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 292,
+      "stars": 294,
       "forks": 63,
-      "added_stars": "13 stars this month"
+      "added_stars": "14 stars this month"
+    },
+    {
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 819,
+      "forks": 232,
+      "added_stars": "54 stars this month"
     }
   ]
 }

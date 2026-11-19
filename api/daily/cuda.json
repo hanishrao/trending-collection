@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:37:24 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:45:11 GMT",
   "items": [
     {
       "title": "flashinfer-ai / flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6958,
-      "forks": 1772,
-      "added_stars": "11 stars today"
+      "stars": 6962,
+      "forks": 1774,
+      "added_stars": "9 stars today"
     },
     {
       "title": "NVIDIA / cudnn-frontend",
@@ -20,19 +20,9 @@
       "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1006,
+      "stars": 1008,
       "forks": 340,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 9204,
-      "forks": 1537,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -40,19 +30,39 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10454,
+      "stars": 10456,
       "forks": 1563,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 9207,
+      "forks": 1541,
       "added_stars": "3 stars today"
     },
     {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31502,
-      "forks": 3828,
-      "added_stars": "8 stars today"
+      "stars": 1707,
+      "forks": 418,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "NVIDIA / nvbench",
+      "url": "https://github.com/NVIDIA/nvbench",
+      "description": "CUDA Kernel Benchmarking Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 951,
+      "forks": 137,
+      "added_stars": "0 stars today"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -60,8 +70,18 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 900,
-      "forks": 266,
+      "stars": 902,
+      "forks": 267,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "NVlabs / instant-ngp",
+      "url": "https://github.com/NVlabs/instant-ngp",
+      "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 17607,
+      "forks": 2067,
       "added_stars": "1 star today"
     },
     {
@@ -72,47 +92,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1120,
       "forks": 262,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 4014,
-      "forks": 559,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1708,
-      "forks": 418,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "NVIDIA / nccl-extensions",
-      "url": "https://github.com/NVIDIA/nccl-extensions",
-      "description": "Communication patterns for AI, built on top of NCCL device and host APIs",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 83,
-      "forks": 30,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3803,
-      "forks": 349,
-      "added_stars": "1 star today"
     }
   ]
 }

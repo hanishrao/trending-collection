@@ -2,17 +2,37 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:37:24 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:45:11 GMT",
   "items": [
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10017,
+      "forks": 571,
+      "added_stars": "547 stars today"
+    },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 54039,
-      "forks": 4462,
-      "added_stars": "763 stars today"
+      "stars": 54270,
+      "forks": 4489,
+      "added_stars": "622 stars today"
+    },
+    {
+      "title": "docker / compose",
+      "url": "https://github.com/docker/compose",
+      "description": "Define and run multi-container applications with Docker",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 39000,
+      "forks": 6044,
+      "added_stars": "173 stars today"
     },
     {
       "title": "Tencent / LoopForge",
@@ -20,89 +40,69 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3661,
-      "forks": 500,
-      "added_stars": "591 stars today"
+      "stars": 3967,
+      "forks": 570,
+      "added_stars": "821 stars today"
     },
     {
-      "title": "getarcaneapp / arcane",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9531,
-      "forks": 524,
-      "added_stars": "618 stars today"
+      "stars": 140059,
+      "forks": 20272,
+      "added_stars": "150 stars today"
     },
     {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+      "title": "opensandbox-group / OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 121165,
-      "forks": 7079,
-      "added_stars": "318 stars today"
+      "stars": 17635,
+      "forks": 1701,
+      "added_stars": "106 stars today"
     },
     {
-      "title": "crossplane / crossplane",
-      "url": "https://github.com/crossplane/crossplane",
-      "description": "The Cloud Native Control Plane",
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12251,
-      "forks": 1296,
-      "added_stars": "2 stars today"
+      "stars": 7695,
+      "forks": 846,
+      "added_stars": "377 stars today"
     },
     {
-      "title": "seaweedfs / seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36133,
-      "forks": 3127,
-      "added_stars": "25 stars today"
+      "stars": 34593,
+      "forks": 5498,
+      "added_stars": "127 stars today"
     },
     {
-      "title": "knadh / listmonk",
-      "url": "https://github.com/knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "title": "aquasecurity / trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24365,
-      "forks": 2808,
-      "added_stars": "22 stars today"
+      "stars": 39524,
+      "forks": 910,
+      "added_stars": "38 stars today"
     },
     {
-      "title": "guohuiyuan / go-music-dl",
-      "url": "https://github.com/guohuiyuan/go-music-dl",
-      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6564,
-      "forks": 623,
-      "added_stars": "71 stars today"
-    },
-    {
-      "title": "Christ9038 / Ydisks-Xianyu-Helper",
-      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
-      "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2466,
-      "forks": 656,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "QuantumNous / new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 52138,
-      "forks": 12728,
-      "added_stars": "79 stars today"
+      "stars": 9233,
+      "forks": 557,
+      "added_stars": "19 stars today"
     },
     {
       "title": "Autumn-27 / ScopeSentry",
@@ -110,39 +110,59 @@
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2505,
-      "forks": 631,
-      "added_stars": "29 stars today"
+      "stars": 2540,
+      "forks": 646,
+      "added_stars": "51 stars today"
     },
     {
-      "title": "ArvinLovegood / go-stock",
-      "url": "https://github.com/ArvinLovegood/go-stock",
-      "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8200,
-      "forks": 1431,
-      "added_stars": "27 stars today"
+      "stars": 46304,
+      "forks": 10037,
+      "added_stars": "92 stars today"
     },
     {
-      "title": "basketikun / chatgpt2api",
-      "url": "https://github.com/basketikun/chatgpt2api",
-      "description": "ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件",
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6945,
-      "forks": 1759,
-      "added_stars": "16 stars today"
+      "stars": 129214,
+      "forks": 45102,
+      "added_stars": "135 stars today"
     },
     {
-      "title": "google / ax",
-      "url": "https://github.com/google/ax",
-      "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14779,
-      "forks": 796,
-      "added_stars": "24 stars today"
+      "stars": 52215,
+      "forks": 12742,
+      "added_stars": "80 stars today"
+    },
+    {
+      "title": "gohugoio / hugo",
+      "url": "https://github.com/gohugoio/hugo",
+      "description": "The world’s fastest framework for building websites.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 90514,
+      "forks": 8542,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 13370,
+      "forks": 1239,
+      "added_stars": "41 stars today"
     }
   ]
 }

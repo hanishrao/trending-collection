@@ -2,17 +2,27 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:37:24 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:45:11 GMT",
   "items": [
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8837,
-      "forks": 2641,
-      "added_stars": "3 stars today"
+      "stars": 23287,
+      "forks": 1444,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 403,
+      "forks": 976,
+      "added_stars": "1 star today"
     },
     {
       "title": "uber / hermetic_cc_toolchain",
@@ -35,14 +45,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 402,
-      "forks": 973,
-      "added_stars": "0 stars today"
+      "stars": 8837,
+      "forks": 2642,
+      "added_stars": "1 star today"
     },
     {
       "title": "cncf / xds",
@@ -65,34 +75,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 598,
-      "forks": 349,
+      "stars": 856,
+      "forks": 695,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 694,
-      "forks": 742,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23285,
-      "forks": 1442,
-      "added_stars": "12 stars today"
     }
   ]
 }

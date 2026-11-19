@@ -2,47 +2,27 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:37:24 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:45:11 GMT",
   "items": [
+    {
+      "title": "janestreet / core",
+      "url": "https://github.com/janestreet/core",
+      "description": "Jane Street Capital's standard library overlay",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1386,
+      "forks": 138,
+      "added_stars": "11 stars today"
+    },
     {
       "title": "opengrep / opengrep",
       "url": "https://github.com/opengrep/opengrep",
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3354,
-      "forks": 297,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "AeneasVerif / aeneas",
-      "url": "https://github.com/AeneasVerif/aeneas",
-      "description": "A verification toolchain for Rust programs",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1214,
-      "forks": 156,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ocaml / ocaml",
-      "url": "https://github.com/ocaml/ocaml",
-      "description": "The core OCaml system: compilers, runtime system, base libraries",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 6644,
-      "forks": 1458,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ocaml / dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1935,
-      "forks": 512,
-      "added_stars": "2 stars today"
+      "stars": 3360,
+      "forks": 298,
+      "added_stars": "7 stars today"
     },
     {
       "title": "semgrep / semgrep-interfaces",
@@ -55,24 +35,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "janestreet / core",
-      "url": "https://github.com/janestreet/core",
-      "description": "Jane Street Capital's standard library overlay",
+      "title": "janestreet / hardcaml",
+      "url": "https://github.com/janestreet/hardcaml",
+      "description": "Hardcaml is an OCaml library for designing hardware.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1380,
-      "forks": 138,
-      "added_stars": "7 stars today"
+      "stars": 1188,
+      "forks": 68,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "janestreet / bonsai",
-      "url": "https://github.com/janestreet/bonsai",
-      "description": "A library for building dynamic webapps, using Js_of_ocaml",
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1450,
-      "forks": 58,
-      "added_stars": "1 star today"
+      "stars": 6646,
+      "forks": 1458,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "ocaml / opam",
+      "url": "https://github.com/ocaml/opam",
+      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1389,
+      "forks": 412,
+      "added_stars": "0 stars today"
     }
   ]
 }

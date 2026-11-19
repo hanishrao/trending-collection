@@ -2,8 +2,18 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:40:27 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:48:56 GMT",
   "items": [
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23287,
+      "forks": 1444,
+      "added_stars": "158 stars this month"
+    },
     {
       "title": "googleapis / googleapis",
       "url": "https://github.com/googleapis/googleapis",
@@ -11,18 +21,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 8837,
-      "forks": 2641,
+      "forks": 2642,
       "added_stars": "59 stars this month"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23285,
-      "forks": 1442,
-      "added_stars": "156 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -31,7 +31,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 694,
-      "forks": 742,
+      "forks": 743,
       "added_stars": "7 stars this month"
     },
     {
@@ -50,8 +50,8 @@
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 857,
-      "forks": 694,
+      "stars": 856,
+      "forks": 695,
       "added_stars": "9 stars this month"
     },
     {
@@ -81,8 +81,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 69,
-      "forks": 167,
+      "forks": 168,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 403,
+      "forks": 976,
+      "added_stars": "12 stars this month"
     }
   ]
 }

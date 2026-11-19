@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:38:55 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:47:08 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,79 +10,9 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 51826,
-      "forks": 6273,
-      "added_stars": "2,113 stars this week"
-    },
-    {
-      "title": "FareedKhan-dev / kimi-k3-in-c",
-      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12321,
-      "forks": 1901,
-      "added_stars": "699 stars this week"
-    },
-    {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 35048,
-      "forks": 8127,
-      "added_stars": "68 stars this week"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22782,
-      "forks": 1994,
-      "added_stars": "96 stars this week"
-    },
-    {
-      "title": "redis / redis",
-      "url": "https://github.com/redis/redis",
-      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 77532,
-      "forks": 25058,
-      "added_stars": "411 stars this week"
-    },
-    {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 64363,
-      "forks": 28771,
-      "added_stars": "142 stars this week"
-    },
-    {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 155123,
-      "forks": 14249,
-      "added_stars": "627 stars this week"
-    },
-    {
-      "title": "meshcore-dev / MeshCore",
-      "url": "https://github.com/meshcore-dev/MeshCore",
-      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4089,
-      "forks": 1608,
-      "added_stars": "53 stars this week"
+      "stars": 52072,
+      "forks": 6300,
+      "added_stars": "2,019 stars this week"
     },
     {
       "title": "semgrep / semgrep",
@@ -90,19 +20,69 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17794,
-      "forks": 1197,
-      "added_stars": "182 stars this week"
+      "stars": 17819,
+      "forks": 1199,
+      "added_stars": "201 stars this week"
     },
     {
-      "title": "eclipse-mosquitto / mosquitto",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "title": "FareedKhan-dev / kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11470,
-      "forks": 2670,
-      "added_stars": "104 stars this week"
+      "stars": 12430,
+      "forks": 1921,
+      "added_stars": "571 stars this week"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 155184,
+      "forks": 14252,
+      "added_stars": "633 stars this week"
+    },
+    {
+      "title": "nothings / stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 35056,
+      "forks": 8125,
+      "added_stars": "63 stars this week"
+    },
+    {
+      "title": "Cisco-Talos / clamav",
+      "url": "https://github.com/Cisco-Talos/clamav",
+      "description": "ClamAV - Documentation is here: https://docs.clamav.net",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7671,
+      "forks": 982,
+      "added_stars": "126 stars this week"
+    },
+    {
+      "title": "redis / redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 77546,
+      "forks": 25056,
+      "added_stars": "488 stars this week"
+    },
+    {
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 79735,
+      "forks": 11298,
+      "added_stars": "712 stars this week"
     },
     {
       "title": "ventoy / Ventoy",
@@ -110,9 +90,39 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 80964,
-      "forks": 5092,
-      "added_stars": "463 stars this week"
+      "stars": 80978,
+      "forks": 5089,
+      "added_stars": "548 stars this week"
+    },
+    {
+      "title": "meshcore-dev / MeshCore",
+      "url": "https://github.com/meshcore-dev/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4096,
+      "forks": 1615,
+      "added_stars": "53 stars this week"
+    },
+    {
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 64398,
+      "forks": 28774,
+      "added_stars": "132 stars this week"
+    },
+    {
+      "title": "CTCaer / hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 9040,
+      "forks": 704,
+      "added_stars": "53 stars this week"
     }
   ]
 }

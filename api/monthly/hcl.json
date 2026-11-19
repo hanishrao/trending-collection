@@ -2,17 +2,27 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 18 Nov 2026 09:40:27 GMT",
+  "pubDate": "Thu, 19 Nov 2026 09:48:56 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5015,
+      "forks": 4413,
+      "added_stars": "7 stars this month"
+    },
     {
       "title": "semgrep / semgrep-rules",
       "url": "https://github.com/semgrep/semgrep-rules",
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1303,
-      "forks": 626,
-      "added_stars": "28 stars this month"
+      "stars": 1304,
+      "forks": 627,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -21,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1286,
-      "forks": 1297,
+      "forks": 1298,
       "added_stars": "6 stars this month"
     },
     {
@@ -31,7 +41,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2143,
-      "forks": 1288,
+      "forks": 1289,
       "added_stars": "30 stars this month"
     },
     {
@@ -41,8 +51,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3288,
-      "forks": 4622,
-      "added_stars": "14 stars this month"
+      "forks": 4623,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -60,9 +70,9 @@
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 931,
+      "stars": 934,
       "forks": 137,
-      "added_stars": "33 stars this month"
+      "added_stars": "34 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-project-factory",
@@ -72,7 +82,17 @@
       "languageColor": "#844FBA",
       "stars": 972,
       "forks": 590,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-iam",
+      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
+      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 244,
+      "forks": 191,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "terraform-google-modules / terraform-google-network",
@@ -83,26 +103,6 @@
       "stars": 505,
       "forks": 1278,
       "added_stars": "5 stars this month"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 244,
-      "forks": 191,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 117,
-      "forks": 205,
-      "added_stars": "0 stars this month"
     }
   ]
 }
