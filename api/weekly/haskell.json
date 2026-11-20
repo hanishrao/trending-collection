@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 19 Nov 2026 09:47:08 GMT",
+  "pubDate": "Fri, 20 Nov 2026 09:35:21 GMT",
   "items": [
     {
       "title": "simplex-chat / simplex-chat",
@@ -10,9 +10,39 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19727,
-      "forks": 1320,
+      "stars": 19730,
+      "forks": 1319,
       "added_stars": "55 stars this week"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40360,
+      "forks": 1979,
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 47011,
+      "forks": 4426,
+      "added_stars": "112 stars this week"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12539,
+      "forks": 514,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -20,9 +50,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2121,
+      "stars": 2122,
       "forks": 91,
-      "added_stars": "37 stars this week"
+      "added_stars": "30 stars this week"
     },
     {
       "title": "PostgREST / postgrest",
@@ -31,38 +61,8 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 27764,
-      "forks": 1239,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12542,
-      "forks": 515,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 46998,
-      "forks": 4432,
-      "added_stars": "90 stars this week"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 40358,
-      "forks": 1978,
-      "added_stars": "41 stars this week"
+      "forks": 1240,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "mtolly / onyx",
@@ -72,7 +72,17 @@
       "languageColor": "#5e5086",
       "stars": 314,
       "forks": 25,
-      "added_stars": "4 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "hledgerorg / hledger",
+      "url": "https://github.com/hledgerorg/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4829,
+      "forks": 426,
+      "added_stars": "14 stars this week"
     }
   ]
 }

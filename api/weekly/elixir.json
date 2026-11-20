@@ -2,17 +2,37 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 19 Nov 2026 09:47:08 GMT",
+  "pubDate": "Fri, 20 Nov 2026 09:35:21 GMT",
   "items": [
     {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4783,
-      "forks": 3223,
-      "added_stars": "9 stars this week"
+      "stars": 9295,
+      "forks": 1042,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "tuist / tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5868,
+      "forks": 786,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 29895,
+      "forks": 1945,
+      "added_stars": "71 stars this week"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -22,37 +42,7 @@
       "languageColor": "#6e4a7e",
       "stars": 5474,
       "forks": 181,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 7688,
-      "forks": 488,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29885,
-      "forks": 1943,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Blazing-fast remote access",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9194,
-      "forks": 467,
-      "added_stars": "12 stars this week"
+      "added_stars": "20 stars this week"
     },
     {
       "title": "elixir-lang / elixir",
@@ -60,9 +50,39 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26729,
+      "stars": 26737,
       "forks": 3714,
-      "added_stars": "19 stars this week"
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Blazing-fast remote access",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9197,
+      "forks": 470,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "supabase / supavisor",
+      "url": "https://github.com/supabase/supavisor",
+      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2286,
+      "forks": 127,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7687,
+      "forks": 488,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "elixir-lsp / elixir-ls",
@@ -70,19 +90,19 @@
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1785,
+      "stars": 1784,
       "forks": 231,
-      "added_stars": "3 stars this week"
+      "added_stars": "1 star this week"
     },
     {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "title": "livebook-dev / livebook",
+      "url": "https://github.com/livebook-dev/livebook",
+      "description": "Automate code & data workflows with interactive Elixir notebooks",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9291,
-      "forks": 1041,
-      "added_stars": "37 stars this week"
+      "stars": 5945,
+      "forks": 536,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -90,9 +110,29 @@
       "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 345,
+      "stars": 344,
       "forks": 46,
-      "added_stars": "3 stars this week"
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4780,
+      "forks": 3222,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23223,
+      "forks": 3216,
+      "added_stars": "12 stars this week"
     }
   ]
 }

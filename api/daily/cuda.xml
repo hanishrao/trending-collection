@@ -4,11 +4,16 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 19 Nov 2026 09:45:11 GMT</pubDate>
+  <pubDate>Fri, 20 Nov 2026 09:31:57 GMT</pubDate>
   <item>
     <title>flashinfer-ai / flashinfer</title>
     <link>https://github.com/flashinfer-ai/flashinfer</link>
     <description>FlashInfer: Kernel Library for LLM Serving</description>
+  </item>
+  <item>
+    <title>deepseek-ai / DeepEP</title>
+    <link>https://github.com/deepseek-ai/DeepEP</link>
+    <description>DeepEP: an efficient expert-parallel communication library</description>
   </item>
   <item>
     <title>NVIDIA / cudnn-frontend</title>
@@ -16,9 +21,9 @@
     <description>cuDNN Frontend is NVIDIA&#x27;s modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.</description>
   </item>
   <item>
-    <title>deepseek-ai / DeepEP</title>
-    <link>https://github.com/deepseek-ai/DeepEP</link>
-    <description>DeepEP: an efficient expert-parallel communication library</description>
+    <title>NVIDIA / raft</title>
+    <link>https://github.com/NVIDIA/raft</link>
+    <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
   </item>
   <item>
     <title>deepseek-ai / DeepGEMM</title>
@@ -31,9 +36,14 @@
     <description>NCCL Tests</description>
   </item>
   <item>
-    <title>NVIDIA / nvbench</title>
-    <link>https://github.com/NVIDIA/nvbench</link>
-    <description>CUDA Kernel Benchmarking Library</description>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+  </item>
+  <item>
+    <title>karpathy / llm.c</title>
+    <link>https://github.com/karpathy/llm.c</link>
+    <description>LLM training in simple, raw C/CUDA</description>
   </item>
   <item>
     <title>NVIDIA / cuvs</title>
@@ -46,9 +56,14 @@
     <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
   </item>
   <item>
-    <title>NVIDIA / cuopt</title>
-    <link>https://github.com/NVIDIA/cuopt</link>
-    <description>GPU accelerated decision optimization</description>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
+  </item>
+  <item>
+    <title>NVIDIA / cuCollections</title>
+    <link>https://github.com/NVIDIA/cuCollections</link>
+    <description></description>
   </item>
 </channel>
 </rss>

@@ -2,18 +2,8 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 19 Nov 2026 09:47:08 GMT",
+  "pubDate": "Fri, 20 Nov 2026 09:35:21 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3288,
-      "forks": 4623,
-      "added_stars": "6 stars this week"
-    },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
@@ -22,7 +12,17 @@
       "languageColor": "#844FBA",
       "stars": 2143,
       "forks": 1289,
-      "added_stars": "9 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3288,
+      "forks": 4623,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -41,8 +41,28 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1044,
-      "forks": 783,
+      "forks": 784,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2433,
+      "forks": 1642,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 32,
+      "forks": 74,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-project-factory",
@@ -50,19 +70,9 @@
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 972,
+      "stars": 971,
       "forks": 590,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 505,
-      "forks": 1278,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "cloudposse / terraform-aws-security-group",
@@ -72,26 +82,6 @@
       "languageColor": "#844FBA",
       "stars": 40,
       "forks": 38,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-sql-db",
-      "url": "https://github.com/terraform-google-modules/terraform-google-sql-db",
-      "description": "Creates a Cloud SQL database instance",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 298,
-      "forks": 491,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cloudposse / terraform-aws-ecs-container-definition",
-      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
-      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 351,
-      "forks": 239,
       "added_stars": "0 stars this week"
     }
   ]

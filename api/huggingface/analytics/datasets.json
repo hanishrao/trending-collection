@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-19T09:43:19.649646+00:00",
-  "snapshot_date": "2026-11-19",
+  "updated_at": "2026-11-20T09:30:29.478096+00:00",
+  "snapshot_date": "2026-11-20",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-18",
+  "comparison_date": "2026-11-19",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-13",
+  "window_start": "2026-11-14",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-20",
+      "id": "Vyber07/cyber-security",
+      "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
+    },
     {
       "date": "2026-11-19",
       "id": "Vyber07/cyber-security",
@@ -39,11 +44,6 @@
       "date": "2026-11-14",
       "id": "Angais/pixel-art-atlas-1.4m",
       "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m"
-    },
-    {
-      "date": "2026-11-13",
-      "id": "Angais/pixel-art-atlas-1.4m",
-      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m"
     }
   ],
   "items": [
@@ -55,7 +55,7 @@
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 42
+      "likes_change": 51
     },
     {
       "id": "Angais/pixel-art-atlas-1.4m",
@@ -65,184 +65,184 @@
       "first_seen": "2026-11-09",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 14
-    },
-    {
-      "id": "nvidia/simready-assets",
-      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
-      "rank": 3,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 7,
-      "rank_change": 0,
-      "likes_change": 13
+      "likes_change": 37
     },
     {
       "id": "nvidia/USDCraft-10K",
       "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
-      "rank": 4,
+      "rank": 3,
       "status": "continuing",
       "first_seen": "2026-11-16",
-      "appearances_7d": 4,
-      "rank_change": 0,
-      "likes_change": 13
+      "appearances_7d": 5,
+      "rank_change": 1,
+      "likes_change": 31
     },
     {
-      "id": "google/physical-engineerings-last-exam",
-      "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
-      "rank": 5,
+      "id": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
+      "rank": 4,
       "status": "continuing",
-      "first_seen": "2026-11-13",
+      "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": 0,
-      "likes_change": 19
-    },
-    {
-      "id": "HubLabs/HubEgo-100K",
-      "url": "https://huggingface.co/datasets/HubLabs/HubEgo-100K",
-      "rank": 6,
-      "status": "continuing",
-      "first_seen": "2026-11-17",
-      "appearances_7d": 3,
-      "rank_change": 2,
-      "likes_change": 6
+      "rank_change": -1,
+      "likes_change": 27
     },
     {
       "id": "Digitaluz/uzbek-language-corpus",
       "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
-      "rank": 7,
-      "status": "new",
+      "rank": 5,
+      "status": "continuing",
       "first_seen": "2026-11-19",
+      "appearances_7d": 2,
+      "rank_change": 2,
+      "likes_change": 25
+    },
+    {
+      "id": "google/physical-engineerings-last-exam",
+      "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
+      "rank": 6,
+      "status": "continuing",
+      "first_seen": "2026-11-13",
+      "appearances_7d": 7,
+      "rank_change": -1,
+      "likes_change": 27
+    },
+    {
+      "id": "HubLabs/HubEgo-100K",
+      "url": "https://huggingface.co/datasets/HubLabs/HubEgo-100K",
+      "rank": 7,
+      "status": "continuing",
+      "first_seen": "2026-11-17",
+      "appearances_7d": 4,
+      "rank_change": -1,
+      "likes_change": 15
+    },
+    {
+      "id": "google/multimodal-knowledge-agent",
+      "url": "https://huggingface.co/datasets/google/multimodal-knowledge-agent",
+      "rank": 8,
+      "status": "continuing",
+      "first_seen": "2026-11-15",
+      "appearances_7d": 6,
+      "rank_change": 9,
+      "likes_change": 14
+    },
+    {
+      "id": "nvidia/PhysicalAI-Human-1M-100K",
+      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
+      "rank": 9,
+      "status": "continuing",
+      "first_seen": "2026-11-10",
+      "appearances_7d": 7,
+      "rank_change": 9,
+      "likes_change": 13
+    },
+    {
+      "id": "codepawl/cmu-mocap-glb",
+      "url": "https://huggingface.co/datasets/codepawl/cmu-mocap-glb",
+      "rank": 10,
+      "status": "new",
+      "first_seen": "2026-11-20",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
-    },
-    {
-      "id": "ccore/ThreeJS-3D-Scenes",
-      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
-      "rank": 8,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 7,
-      "rank_change": 4,
-      "likes_change": 4
     },
     {
       "id": "KORMo-VL/EVIDENT",
       "url": "https://huggingface.co/datasets/KORMo-VL/EVIDENT",
-      "rank": 9,
+      "rank": 11,
       "status": "continuing",
       "first_seen": "2026-11-18",
-      "appearances_7d": 2,
-      "rank_change": 5,
-      "likes_change": 4
+      "appearances_7d": 3,
+      "rank_change": -2,
+      "likes_change": 16
     },
     {
       "id": "HuggingFaceFW/fineweb",
       "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
-      "rank": 10,
+      "rank": 12,
       "status": "continuing",
       "first_seen": "2026-11-17",
-      "appearances_7d": 3,
-      "rank_change": 5,
-      "likes_change": 5
+      "appearances_7d": 4,
+      "rank_change": -2,
+      "likes_change": 14
     },
     {
-      "id": "laion/laion-audio-xl",
-      "url": "https://huggingface.co/datasets/laion/laion-audio-xl",
-      "rank": 11,
+      "id": "ccore/ThreeJS-3D-Scenes",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
+      "rank": 13,
       "status": "continuing",
-      "first_seen": "2026-11-16",
-      "appearances_7d": 4,
-      "rank_change": 2,
-      "likes_change": 5
+      "first_seen": "2026-11-03",
+      "appearances_7d": 7,
+      "rank_change": -5,
+      "likes_change": 13
     },
     {
       "id": "KORMo-VL/Ko-Screenspot",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Screenspot",
-      "rank": 12,
-      "status": "new",
+      "rank": 14,
+      "status": "continuing",
       "first_seen": "2026-11-19",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": -2,
+      "likes_change": 12
     },
     {
       "id": "KORMo-VL/Ko-Online-Mind2Web",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web",
-      "rank": 13,
-      "status": "new",
+      "rank": 15,
+      "status": "continuing",
       "first_seen": "2026-11-19",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": -2,
+      "likes_change": 12
     },
     {
-      "id": "llamaindex/ParseBench-2",
-      "url": "https://huggingface.co/datasets/llamaindex/ParseBench-2",
-      "rank": 14,
-      "status": "new",
-      "first_seen": "2026-11-19",
-      "appearances_7d": 1,
+      "id": "ropedia-ai/Ropedia-Xperience-2",
+      "url": "https://huggingface.co/datasets/ropedia-ai/Ropedia-Xperience-2",
+      "rank": 16,
+      "status": "reentry",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 2,
       "rank_change": null,
       "likes_change": null
     },
     {
       "id": "KORMo-VL/Ko-MultimodalMind2Web",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-MultimodalMind2Web",
-      "rank": 15,
-      "status": "new",
+      "rank": 17,
+      "status": "continuing",
       "first_seen": "2026-11-19",
-      "appearances_7d": 1,
+      "appearances_7d": 2,
+      "rank_change": -2,
+      "likes_change": 20
+    },
+    {
+      "id": "bones-studio/seed",
+      "url": "https://huggingface.co/datasets/bones-studio/seed",
+      "rank": 18,
+      "status": "reentry",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 6,
       "rank_change": null,
       "likes_change": null
     },
     {
       "id": "AJ-Gonzalez/qwen4-max-reasoning-250x",
       "url": "https://huggingface.co/datasets/AJ-Gonzalez/qwen4-max-reasoning-250x",
-      "rank": 16,
-      "status": "new",
-      "first_seen": "2026-11-19",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
-    },
-    {
-      "id": "google/multimodal-knowledge-agent",
-      "url": "https://huggingface.co/datasets/google/multimodal-knowledge-agent",
-      "rank": 17,
-      "status": "continuing",
-      "first_seen": "2026-11-15",
-      "appearances_7d": 5,
-      "rank_change": -10,
-      "likes_change": 4
-    },
-    {
-      "id": "nvidia/PhysicalAI-Human-1M-100K",
-      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
-      "rank": 18,
-      "status": "continuing",
-      "first_seen": "2026-11-10",
-      "appearances_7d": 7,
-      "rank_change": -12,
-      "likes_change": 8
-    },
-    {
-      "id": "WNT3D/Ultimate-Offensive-Red-Team",
-      "url": "https://huggingface.co/datasets/WNT3D/Ultimate-Offensive-Red-Team",
       "rank": 19,
-      "status": "new",
+      "status": "continuing",
       "first_seen": "2026-11-19",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": -3,
+      "likes_change": 11
     },
     {
-      "id": "TheAgenticDataCompany/open-yap-1k",
-      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
+      "id": "alphaXiv/AgentAlphaXiv",
+      "url": "https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv",
       "rank": 20,
-      "status": "reentry",
-      "first_seen": "2026-11-03",
+      "status": "new",
+      "first_seen": "2026-11-20",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null

@@ -2,157 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 19 Nov 2026 09:45:11 GMT",
+  "pubDate": "Fri, 20 Nov 2026 09:31:57 GMT",
   "items": [
     {
-      "title": "astral-sh / uv",
-      "url": "https://github.com/astral-sh/uv",
-      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "title": "janhq / jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 92361,
-      "forks": 3935,
-      "added_stars": "258 stars today"
-    },
-    {
-      "title": "SaladDay / cc-switch-cli",
-      "url": "https://github.com/SaladDay/cc-switch-cli",
-      "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5539,
-      "forks": 381,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36275,
-      "forks": 1684,
-      "added_stars": "42 stars today"
-    },
-    {
-      "title": "leepokai / Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2270,
-      "forks": 232,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "BurntSushi / ripgrep",
-      "url": "https://github.com/BurntSushi/ripgrep",
-      "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 70056,
-      "forks": 3586,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "ViceVerse-cz / Serein",
-      "url": "https://github.com/ViceVerse-cz/Serein",
-      "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1453,
-      "forks": 145,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "microsoft / edit",
-      "url": "https://github.com/microsoft/edit",
-      "description": "We all edit.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14788,
-      "forks": 746,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "antithesishq / bombadil",
-      "url": "https://github.com/antithesishq/bombadil",
-      "description": "Property-based testing for web and terminal UIs",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2752,
-      "forks": 99,
-      "added_stars": "148 stars today"
-    },
-    {
-      "title": "screenpipe / screenpipe",
-      "url": "https://github.com/screenpipe/screenpipe",
-      "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22468,
-      "forks": 2310,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "stalwartlabs / stalwart",
-      "url": "https://github.com/stalwartlabs/stalwart",
-      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 16049,
-      "forks": 1058,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "louis-e / arnis",
-      "url": "https://github.com/louis-e/arnis",
-      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18724,
-      "forks": 1588,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "astral-sh / ruff",
-      "url": "https://github.com/astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 51294,
-      "forks": 2765,
-      "added_stars": "120 stars today"
-    },
-    {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 122227,
-      "forks": 16666,
-      "added_stars": "175 stars today"
-    },
-    {
-      "title": "tauri-apps / tauri",
-      "url": "https://github.com/tauri-apps/tauri",
-      "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 112977,
-      "forks": 4228,
-      "added_stars": "141 stars today"
-    },
-    {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17853,
-      "forks": 846,
-      "added_stars": "28 stars today"
+      "stars": 45923,
+      "forks": 3219,
+      "added_stars": "54 stars today"
     },
     {
       "title": "malisper / pgrust",
@@ -160,19 +20,129 @@
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5931,
-      "forks": 240,
+      "stars": 5958,
+      "forks": 241,
       "added_stars": "47 stars today"
     },
     {
-      "title": "trycua / cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+      "title": "pola-rs / polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32645,
-      "forks": 2462,
-      "added_stars": "101 stars today"
+      "stars": 40392,
+      "forks": 3250,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31025,
+      "forks": 2827,
+      "added_stars": "155 stars today"
+    },
+    {
+      "title": "juspay / hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 45851,
+      "forks": 6695,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 33440,
+      "forks": 3564,
+      "added_stars": "91 stars today"
+    },
+    {
+      "title": "SaladDay / cc-switch-cli",
+      "url": "https://github.com/SaladDay/cc-switch-cli",
+      "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5544,
+      "forks": 381,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "0xPlaygrounds / rig",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9199,
+      "forks": 1028,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 87235,
+      "forks": 5611,
+      "added_stars": "146 stars today"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 130412,
+      "forks": 20981,
+      "added_stars": "221 stars today"
+    },
+    {
+      "title": "perspective-dev / perspective",
+      "url": "https://github.com/perspective-dev/perspective",
+      "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 11616,
+      "forks": 1372,
+      "added_stars": "36 stars today"
+    },
+    {
+      "title": "louis-e / arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18748,
+      "forks": 1588,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "wealthfolio / wealthfolio",
+      "url": "https://github.com/wealthfolio/wealthfolio",
+      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9618,
+      "forks": 842,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "ruffle-rs / ruffle",
+      "url": "https://github.com/ruffle-rs/ruffle",
+      "description": "A Flash Player emulator written in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18892,
+      "forks": 1200,
+      "added_stars": "6 stars today"
     }
   ]
 }

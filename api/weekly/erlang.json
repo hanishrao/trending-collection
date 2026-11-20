@@ -2,27 +2,37 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 19 Nov 2026 09:47:08 GMT",
+  "pubDate": "Fri, 20 Nov 2026 09:35:21 GMT",
   "items": [
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7524,
+      "forks": 1173,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 41,
+      "added_stars": "0 stars this week"
+    },
     {
       "title": "erlang / rebar3",
       "url": "https://github.com/erlang/rebar3",
       "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 1826,
+      "stars": 1825,
       "forks": 529,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "emqx / emqx",
-      "url": "https://github.com/emqx/emqx",
-      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 16927,
-      "forks": 2583,
-      "added_stars": "20 stars this week"
     },
     {
       "title": "eproxus / meck",
@@ -33,16 +43,6 @@
       "stars": 840,
       "forks": 230,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "erlang / otp",
-      "url": "https://github.com/erlang/otp",
-      "description": "Erlang/OTP",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 12364,
-      "forks": 3220,
-      "added_stars": "7 stars this week"
     }
   ]
 }
