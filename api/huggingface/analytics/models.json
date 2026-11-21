@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-20T09:30:29.462166+00:00",
-  "snapshot_date": "2026-11-20",
+  "updated_at": "2026-11-21T09:02:33.984953+00:00",
+  "snapshot_date": "2026-11-21",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-19",
+  "comparison_date": "2026-11-20",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-14",
+  "window_start": "2026-11-15",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-21",
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+    },
     {
       "date": "2026-11-20",
       "id": "tencent/Hy4-flash",
@@ -39,23 +44,18 @@
       "date": "2026-11-15",
       "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
-    },
-    {
-      "date": "2026-11-14",
-      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
     }
   ],
   "items": [
     {
-      "id": "tencent/Hy4-flash",
-      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
       "rank": 1,
-      "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 3,
-      "rank_change": 1,
-      "likes_change": 116
+      "status": "new",
+      "first_seen": "2026-11-21",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
     },
     {
       "id": "higurashi-ai/Haru-4B",
@@ -63,106 +63,66 @@
       "rank": 2,
       "status": "continuing",
       "first_seen": "2026-11-15",
-      "appearances_7d": 6,
-      "rank_change": -1,
-      "likes_change": 2194
-    },
-    {
-      "id": "apple/FastFrames-L",
-      "url": "https://huggingface.co/apple/FastFrames-L",
-      "rank": 3,
-      "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 3,
-      "rank_change": 3,
-      "likes_change": 123
-    },
-    {
-      "id": "inworld/voice-isolator",
-      "url": "https://huggingface.co/inworld/voice-isolator",
-      "rank": 4,
-      "status": "continuing",
-      "first_seen": "2026-11-19",
-      "appearances_7d": 2,
-      "rank_change": 13,
-      "likes_change": 173
+      "appearances_7d": 7,
+      "rank_change": 0,
+      "likes_change": 2016
     },
     {
       "id": "harness-hub/Qwen3.8-27B-pi-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "rank": 3,
+      "status": "continuing",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 4,
+      "rank_change": 2,
+      "likes_change": 68
+    },
+    {
+      "id": "Sentinel7/h3",
+      "url": "https://huggingface.co/Sentinel7/h3",
+      "rank": 4,
+      "status": "new",
+      "first_seen": "2026-11-21",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "tencent/Hy4-flash",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
       "rank": 5,
       "status": "continuing",
       "first_seen": "2026-11-18",
-      "appearances_7d": 3,
-      "rank_change": 0,
-      "likes_change": 122
-    },
-    {
-      "id": "Qwen/Qwen3.8-27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "rank": 6,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 7,
-      "rank_change": -3,
-      "likes_change": 111
-    },
-    {
-      "id": "MiniMaxAI/MiniMax-H3-Image",
-      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "rank": 7,
-      "status": "continuing",
-      "first_seen": "2026-11-11",
-      "appearances_7d": 7,
-      "rank_change": -3,
-      "likes_change": 58
+      "appearances_7d": 4,
+      "rank_change": -4,
+      "likes_change": 169
     },
     {
       "id": "Lightricks/LTX-2.5",
       "url": "https://huggingface.co/Lightricks/LTX-2.5",
-      "rank": 8,
+      "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": 1,
-      "likes_change": 125
+      "rank_change": 2,
+      "likes_change": 70
     },
     {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "rank": 9,
-      "status": "continuing",
-      "first_seen": "2026-11-15",
-      "appearances_7d": 6,
-      "rank_change": 3,
-      "likes_change": 58
-    },
-    {
-      "id": "sensenova/SenseNova-Loop-9B",
-      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-      "rank": 10,
-      "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 3,
-      "rank_change": 4,
-      "likes_change": 50
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "rank": 11,
+      "id": "inworld/voice-isolator",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "rank": 7,
       "status": "continuing",
       "first_seen": "2026-11-19",
-      "appearances_7d": 2,
-      "rank_change": 9,
-      "likes_change": 59
+      "appearances_7d": 3,
+      "rank_change": -3,
+      "likes_change": 203
     },
     {
-      "id": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
-      "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
-      "rank": 12,
+      "id": "unsloth/Inkling-2-Mini-GGUF",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "rank": 8,
       "status": "new",
-      "first_seen": "2026-11-20",
+      "first_seen": "2026-11-21",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
@@ -170,19 +130,89 @@
     {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-      "rank": 13,
+      "rank": 9,
       "status": "continuing",
       "first_seen": "2026-11-18",
+      "appearances_7d": 4,
+      "rank_change": 4,
+      "likes_change": 54
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "rank": 10,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
+      "appearances_7d": 7,
+      "rank_change": -4,
+      "likes_change": 39
+    },
+    {
+      "id": "sensenova/SenseNova-Loop-9B",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+      "rank": 11,
+      "status": "continuing",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 4,
+      "rank_change": -1,
+      "likes_change": 54
+    },
+    {
+      "id": "RadixArk/DaisyRose-27B",
+      "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+      "rank": 12,
+      "status": "new",
+      "first_seen": "2026-11-21",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "rank": 13,
+      "status": "continuing",
+      "first_seen": "2026-11-11",
+      "appearances_7d": 7,
+      "rank_change": -6,
+      "likes_change": 33
+    },
+    {
+      "id": "apple/FastFrames-L",
+      "url": "https://huggingface.co/apple/FastFrames-L",
+      "rank": 14,
+      "status": "continuing",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 4,
+      "rank_change": -11,
+      "likes_change": 128
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "rank": 15,
+      "status": "continuing",
+      "first_seen": "2026-11-19",
       "appearances_7d": 3,
-      "rank_change": -5,
+      "rank_change": -4,
       "likes_change": 60
     },
     {
-      "id": "briaai/RMBG-3.0",
-      "url": "https://huggingface.co/briaai/RMBG-3.0",
-      "rank": 14,
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "rank": 16,
+      "status": "continuing",
+      "first_seen": "2026-11-15",
+      "appearances_7d": 7,
+      "rank_change": -7,
+      "likes_change": 67
+    },
+    {
+      "id": "apple/DepthPro2",
+      "url": "https://huggingface.co/apple/DepthPro2",
+      "rank": 17,
       "status": "new",
-      "first_seen": "2026-11-20",
+      "first_seen": "2026-11-21",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
@@ -190,62 +220,32 @@
     {
       "id": "n4ze3m/tiny-voca",
       "url": "https://huggingface.co/n4ze3m/tiny-voca",
-      "rank": 15,
+      "rank": 18,
       "status": "continuing",
       "first_seen": "2026-11-18",
-      "appearances_7d": 3,
-      "rank_change": -8,
-      "likes_change": 40
+      "appearances_7d": 4,
+      "rank_change": -3,
+      "likes_change": 44
     },
     {
-      "id": "Reson8/Rumble-2-Flash",
-      "url": "https://huggingface.co/Reson8/Rumble-2-Flash",
-      "rank": 16,
-      "status": "new",
-      "first_seen": "2026-11-20",
-      "appearances_7d": 1,
+      "id": "maxwell-model/Maxwell-V1-Flash",
+      "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
+      "rank": 19,
+      "status": "reentry",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 3,
       "rank_change": null,
       "likes_change": null
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "rank": 17,
-      "status": "continuing",
-      "first_seen": "2026-11-13",
-      "appearances_7d": 7,
-      "rank_change": -2,
-      "likes_change": 37
-    },
-    {
-      "id": "thinkingmachines/Inkling-2-Small",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
-      "rank": 18,
-      "status": "continuing",
-      "first_seen": "2026-11-14",
-      "appearances_7d": 7,
-      "rank_change": -7,
-      "likes_change": 39
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "rank": 19,
-      "status": "continuing",
-      "first_seen": "2026-11-06",
-      "appearances_7d": 7,
-      "rank_change": -6,
-      "likes_change": 49
-    },
-    {
-      "id": "Zyphra/ZONOS3-Mini",
-      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
       "rank": 20,
       "status": "continuing",
       "first_seen": "2026-11-13",
       "appearances_7d": 7,
-      "rank_change": -2,
-      "likes_change": 25
+      "rank_change": -3,
+      "likes_change": -26
     }
   ]
 }
