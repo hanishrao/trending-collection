@@ -5,7 +5,7 @@ Discover GitHub repositories, Hugging Face models and datasets worth exploring.
 
 [GitHub](#github) · [Models](#models) · [Datasets](#datasets) · [Analytics](#analytics) · [Archives](#archives) · [API & RSS](#api)
 
-**3,505 GitHub days archived since 2015** · **6 featured languages** · **Daily collection**
+**3,506 GitHub days archived since 2015** · **6 featured languages** · **Daily collection**
 
 Hugging Face history begins with the first saved snapshot. Each source’s collection date appears below.
 
@@ -13,15 +13,15 @@ Hugging Face history begins with the first saved snapshot. Each source’s colle
 
 | Explore | Source freshness | Start here |
 |---|---|---|
-| GitHub | Latest archive: 2026-11-22 | Browse tools and libraries across six featured languages |
-| Hugging Face models | 2026-11-22 09:11 UTC | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
-| Hugging Face datasets | 2026-11-22 09:11 UTC | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
+| GitHub | Latest archive: 2026-11-23 | Browse tools and libraries across six featured languages |
+| Hugging Face models | 2026-11-23 10:06 UTC | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
+| Hugging Face datasets | 2026-11-23 10:06 UTC | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 
 <a id="github"></a>
 
 ## 🔥 Today's Trending · GitHub trending
 
-Archive date: **2026-11-22**. One pick per featured language; expand for the top three.
+Archive date: **2026-11-23**. One pick per featured language; expand for the top three.
 
 | Repository | Language | What it does |
 |---|---|---|
@@ -58,47 +58,47 @@ Archive date: **2026-11-22**. One pick per featured language; expand for the top
 
 </details>
 
-[Full GitHub day](./2026/2026-11-22.md)
+[Full GitHub day](./2026/2026-11-23.md)
 
 <a id="models"></a>
 
 ## 🤗 Hugging Face models
 
-Collected 2026-11-22 09:11 UTC · Top 20 by Hugging Face trending rank.
+Collected 2026-11-23 10:06 UTC · Top 20 by Hugging Face trending rank.
 
 | Model | Task | Parameters | Downloads · 30d | Likes |
 |---|---|---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | 26.4B | 7,944 | 3,441 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | — | 238,152 | 713 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | — | 0 | 548 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | image-text-to-text | 220.3B | 5,588 | 567 |
-| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) | text-to-video | — | 0 | 502 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | 26.4B | 23,543 | 5,206 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | — | 805,993 | 964 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | — | 0 | 673 |
+| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | image-text-to-text | 220.3B | 6,617 | 631 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | image-text-to-text | — | 2,831 | 1,007 |
 
 <details>
 <summary>Explore all 20 models</summary>
 
 | Model | Task | Parameters | Downloads · 30d | Likes |
 |---|---|---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | 26.4B | 7,944 | 3,441 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | — | 238,152 | 713 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | — | 0 | 548 |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | image-text-to-text | 220.3B | 5,588 | 567 |
-| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) | text-to-video | — | 0 | 502 |
-| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | image-text-to-text | — | 2,383 | 949 |
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | audio-to-audio | 5.3B | 8,120 | 848 |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | 27.8B | 6,298,190 | 20,831 |
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | image-text-to-text | — | 9,540 | 317 |
-| [apple/DepthPro2](https://huggingface.co/apple/DepthPro2) | depth-estimation | — | 0 | 220 |
-| [sensenova/SenseNova-Loop-9B](https://huggingface.co/sensenova/SenseNova-Loop-9B) | image-text-to-text | 9.7B | 1,745 | 470 |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | — | 3,000,544 | 12,977 |
-| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | text-to-image | — | 339,903 | 753 |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | — | 916,726 | 1,699 |
-| [meituan-longcat/LongCat-Video-Avatar-1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6) | — | — | 3,031 | 400 |
-| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | — | — | 1,186 | 726 |
-| [n4ze3m/tiny-voca](https://huggingface.co/n4ze3m/tiny-voca) | text-to-speech | — | 9,323 | 382 |
-| [maxwell-model/Maxwell-V1-Flash](https://huggingface.co/maxwell-model/Maxwell-V1-Flash) | text-generation | 36.8B | 2,959 | 330 |
-| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | image-text-to-text | — | 1,787,788 | 3,476 |
-| [RadixArk/DaisyRose-27B](https://huggingface.co/RadixArk/DaisyRose-27B) | image-text-to-text | 27.8B | 1,375 | 282 |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | image-text-to-text | 26.4B | 23,543 | 5,206 |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | image-text-to-text | — | 805,993 | 964 |
+| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | audio-to-audio | — | 0 | 673 |
+| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | image-text-to-text | 220.3B | 6,617 | 631 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | image-text-to-text | — | 2,831 | 1,007 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | image-text-to-text | — | 129,693 | 555 |
+| [apple/DepthPro2](https://huggingface.co/apple/DepthPro2) | depth-estimation | — | 0 | 1,080 |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | audio-to-audio | 5.3B | 8,608 | 911 |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | image-text-to-text | 27.8B | 6,185,088 | 21,629 |
+| [sensenova/SenseNova-Loop-9B](https://huggingface.co/sensenova/SenseNova-Loop-9B) | image-text-to-text | 9.7B | 1,863 | 592 |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | — | — | 78,931 | 814 |
+| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) | text-to-video | — | 0 | 548 |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | image-to-video | — | 3,002,698 | 13,111 |
+| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | text-to-image | — | 381,769 | 826 |
+| [meituan-longcat/LongCat-Video-Avatar-1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6) | — | — | 3,483 | 450 |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | text-to-image | — | 952,024 | 2,470 |
+| [maxwell-model/Maxwell-V1-Flash](https://huggingface.co/maxwell-model/Maxwell-V1-Flash) | text-generation | 36.8B | 3,317 | 366 |
+| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | image-text-to-text | — | 1,833,410 | 4,244 |
+| [RadixArk/DaisyRose-27B](https://huggingface.co/RadixArk/DaisyRose-27B) | image-text-to-text | 27.8B | 1,815 | 322 |
+| [Sentinel7/h3](https://huggingface.co/Sentinel7/h3) | — | — | 0 | 1,329 |
 
 </details>
 
@@ -107,75 +107,75 @@ Collected 2026-11-22 09:11 UTC · Top 20 by Hugging Face trending rank.
 
 | Model | License | Library | Last updated |
 |---|---|---|---|
-| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | apache-2.0 | transformers | 2026-11-21 22:23 UTC |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | apache-2.0 | — | 2026-11-22 04:22 UTC |
+| [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | apache-2.0 | transformers | 2026-11-23 08:08 UTC |
+| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | apache-2.0 | — | 2026-11-23 09:07 UTC |
 | [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | apache-2.0 | inworld-voice-isolation | 2026-11-14 02:14 UTC |
-| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | other | transformers | 2026-11-19 11:25 UTC |
-| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) | apple-amlr | — | 2026-11-20 02:22 UTC |
+| [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | other | transformers | 2026-11-23 06:53 UTC |
 | [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | apache-2.0 | peft | 2026-11-21 04:31 UTC |
-| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | apache-2.0 | — | 2026-11-13 01:22 UTC |
-| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | apache-2.0 | transformers | 2026-11-07 04:42 UTC |
 | [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | apache-2.0 | — | 2026-11-21 17:57 UTC |
 | [apple/DepthPro2](https://huggingface.co/apple/DepthPro2) | other | depth-pro-2 | 2026-11-20 11:28 UTC |
+| [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | apache-2.0 | — | 2026-11-13 01:22 UTC |
+| [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | apache-2.0 | transformers | 2026-11-07 04:42 UTC |
 | [sensenova/SenseNova-Loop-9B](https://huggingface.co/sensenova/SenseNova-Loop-9B) | apache-2.0 | transformers | 2026-11-20 05:34 UTC |
-| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | other | diffusion-single-file | 2026-10-11 07:00 UTC |
-| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | other | diffusers | 2026-11-22 01:44 UTC |
-| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | other | minimax-h3 | 2026-11-16 10:00 UTC |
-| [meituan-longcat/LongCat-Video-Avatar-1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6) | mit | longcat-video-avatar-1.6 | 2026-11-13 11:27 UTC |
 | [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | other | minimax-h3 | 2026-11-21 09:16 UTC |
-| [n4ze3m/tiny-voca](https://huggingface.co/n4ze3m/tiny-voca) | apache-2.0 | — | 2026-11-20 16:00 UTC |
+| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) | apple-amlr | — | 2026-11-20 02:22 UTC |
+| [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | other | diffusion-single-file | 2026-10-11 07:00 UTC |
+| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | other | diffusers | 2026-11-23 01:41 UTC |
+| [meituan-longcat/LongCat-Video-Avatar-1.6](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6) | mit | longcat-video-avatar-1.6 | 2026-11-13 11:27 UTC |
+| [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | other | minimax-h3 | 2026-11-16 10:00 UTC |
 | [maxwell-model/Maxwell-V1-Flash](https://huggingface.co/maxwell-model/Maxwell-V1-Flash) | apache-2.0 | — | 2026-11-14 03:50 UTC |
 | [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | apache-2.0 | — | 2026-11-13 07:11 UTC |
 | [RadixArk/DaisyRose-27B](https://huggingface.co/RadixArk/DaisyRose-27B) | apache-2.0 | transformers | 2026-11-19 21:10 UTC |
+| [Sentinel7/h3](https://huggingface.co/Sentinel7/h3) | — | — | 2026-11-23 05:54 UTC |
 
 </details>
 
-**In this sample:** image-text-to-text: 9 · Unknown: 2 · audio-to-audio: 2 · text-to-image: 2.
+**In this sample:** image-text-to-text: 9 · Unknown: 3 · audio-to-audio: 2 · text-to-image: 2.
 Each model has one task label. Counts describe this collected ranking, not the whole Hub.
 
 <a id="datasets"></a>
 
 ## 🤗 Hugging Face datasets
 
-Collected 2026-11-22 09:11 UTC · Top 20 by Hugging Face trending rank.
+Collected 2026-11-23 10:06 UTC · Top 20 by Hugging Face trending rank.
 
 | Dataset | Category | Downloads · 30d | Likes | License |
 |---|---|---|---|---|
-| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 28,737 | 1,384 | apache-2.0 |
-| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 73,974 | 668 | cc0-1.0 |
-| [nvidia/USDCraft-10K](https://huggingface.co/datasets/nvidia/USDCraft-10K) | robotics | 59,674 | 144 | apache-2.0 |
-| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,737,165 | 1,722 | cc-by-4.0 |
-| [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam) | text-generation, question-answering | 316,255 | 189 | cc-by-4.0 |
+| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 30,255 | 1,455 | apache-2.0 |
+| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 75,279 | 694 | cc0-1.0 |
+| [nvidia/USDCraft-10K](https://huggingface.co/datasets/nvidia/USDCraft-10K) | robotics | 76,240 | 161 | apache-2.0 |
+| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,751,763 | 1,745 | cc-by-4.0 |
+| [Digitaluz/uzbek-language-corpus](https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus) | text-generation, fill-mask | 2,029 | 124 | odc-by |
 
 <details>
 <summary>Explore all 20 datasets</summary>
 
 | Dataset | Category | Downloads · 30d | Likes | License |
 |---|---|---|---|---|
-| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 28,737 | 1,384 | apache-2.0 |
-| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 73,974 | 668 | cc0-1.0 |
-| [nvidia/USDCraft-10K](https://huggingface.co/datasets/nvidia/USDCraft-10K) | robotics | 59,674 | 144 | apache-2.0 |
-| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,737,165 | 1,722 | cc-by-4.0 |
-| [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam) | text-generation, question-answering | 316,255 | 189 | cc-by-4.0 |
-| [Digitaluz/uzbek-language-corpus](https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus) | text-generation, fill-mask | 1,857 | 100 | odc-by |
-| [HubLabs/HubEgo-100K](https://huggingface.co/datasets/HubLabs/HubEgo-100K) | robotics, video-classification, vi… | 223,738 | 93 | cc-by-4.0 |
-| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | — | 20,532 | 127 | cc-by-4.0 |
-| [KORMo-VL/EVIDENT](https://huggingface.co/datasets/KORMo-VL/EVIDENT) | — | 798 | 76 | — |
-| [JaimeMaLangue/JML-fon-speech-v1](https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1) | automatic-speech-recognition | 382 | 63 | cc-by-sa-4.0 |
-| [google/multimodal-knowledge-agent](https://huggingface.co/datasets/google/multimodal-knowledge-agent) | image-text-to-text, visual-questio… | 8,377 | 100 | apache-2.0 |
-| [KORMo-VL/Ko-Screenspot](https://huggingface.co/datasets/KORMo-VL/Ko-Screenspot) | image-text-to-text | 174 | 63 | cc-by-4.0 |
-| [KORMo-VL/Ko-Online-Mind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web) | text-generation | 134 | 60 | cc-by-4.0 |
-| [KORMo-VL/Ko-MultimodalMind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-MultimodalMind2Web) | image-text-to-text | 141 | 62 | cc-by-4.0 |
-| [AJ-Gonzalez/qwen4-max-reasoning-250x](https://huggingface.co/datasets/AJ-Gonzalez/qwen4-max-reasoning-250x) | text-generation | 296 | 54 | other |
-| [codepawl/cmu-mocap-glb](https://huggingface.co/datasets/codepawl/cmu-mocap-glb) | — | 3,610 | 50 | other |
-| [ccore/ThreeJS-3D-Scenes-v2](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2) | text-generation | 1,497 | 45 | mit |
-| [ILSVRC/imagenet-1k](https://huggingface.co/datasets/ILSVRC/imagenet-1k) | image-classification | 92,689 | 1,212 | other |
-| [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | text-generation | 363,449 | 3,797 | odc-by |
-| [ccore/ThreeJS-3D-Scenes](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes) | text-generation | 15,825 | 177 | mit |
+| [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) | text-generation, question-answering | 30,255 | 1,455 | apache-2.0 |
+| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | text-to-image | 75,279 | 694 | cc0-1.0 |
+| [nvidia/USDCraft-10K](https://huggingface.co/datasets/nvidia/USDCraft-10K) | robotics | 76,240 | 161 | apache-2.0 |
+| [nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets) | — | 1,751,763 | 1,745 | cc-by-4.0 |
+| [Digitaluz/uzbek-language-corpus](https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus) | text-generation, fill-mask | 2,029 | 124 | odc-by |
+| [google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam) | text-generation, question-answering | 378,338 | 215 | cc-by-4.0 |
+| [HubLabs/HubEgo-100K](https://huggingface.co/datasets/HubLabs/HubEgo-100K) | robotics, video-classification, vi… | 257,205 | 116 | cc-by-4.0 |
+| [KORMo-VL/EVIDENT](https://huggingface.co/datasets/KORMo-VL/EVIDENT) | — | 825 | 94 | — |
+| [JaimeMaLangue/JML-fon-speech-v1](https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1) | automatic-speech-recognition | 564 | 75 | cc-by-sa-4.0 |
+| [nvidia/PhysicalAI-Human-1M-100K](https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K) | — | 21,855 | 152 | cc-by-4.0 |
+| [KORMo-VL/Ko-Online-Mind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web) | text-generation | 154 | 80 | cc-by-4.0 |
+| [KORMo-VL/Ko-Screenspot](https://huggingface.co/datasets/KORMo-VL/Ko-Screenspot) | image-text-to-text | 199 | 77 | cc-by-4.0 |
+| [KORMo-VL/Ko-MultimodalMind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-MultimodalMind2Web) | image-text-to-text | 170 | 80 | cc-by-4.0 |
+| [AJ-Gonzalez/qwen4-max-reasoning-250x](https://huggingface.co/datasets/AJ-Gonzalez/qwen4-max-reasoning-250x) | text-generation | 351 | 71 | other |
+| [ILSVRC/imagenet-1k](https://huggingface.co/datasets/ILSVRC/imagenet-1k) | image-classification | 92,016 | 1,235 | other |
+| [ccore/ThreeJS-3D-Scenes-v2](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2) | text-generation | 1,840 | 67 | mit |
+| [codepawl/cmu-mocap-glb](https://huggingface.co/datasets/codepawl/cmu-mocap-glb) | — | 4,012 | 69 | other |
+| [TheAgenticDataCompany/open-yap-1k](https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k) | audio-to-audio, automatic-speech-r… | 8,324 | 286 | cc-by-4.0 |
+| [alphaXiv/AgentAlphaXiv](https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv) | text-generation, summarization, te… | 934 | 60 | cc-by-4.0 |
+| [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | text-generation | 361,530 | 3,819 | odc-by |
 
 </details>
 
-**In this sample:** text-generation: 8 · Unknown: 4 · image-text-to-text: 3 · question-answering: 2.
+**In this sample:** text-generation: 8 · Unknown: 4 · automatic-speech-recognition: 2 · image-text-to-text: 2.
 Datasets may have multiple categories. Counts describe this collected ranking, not the whole Hub.
 
 <a id="analytics"></a>
@@ -186,17 +186,17 @@ Hugging Face movement is measured within our tracked top 20, separately for mode
 
 ### Models
 
-Comparing 2026-11-22 with 2026-11-21 (1-day interval). Coverage: 7/7 days observed.
+Comparing 2026-11-23 with 2026-11-22 (1-day interval). Coverage: 7/7 days observed.
 
-**2 new to tracking** · **1 re-entries**
+**0 new to tracking** · **1 re-entries**
 
 | Rising entry | Rank change | Likes change |
 |---|---|---|
-| [apple/FastFrames-L](https://huggingface.co/apple/FastFrames-L) | ↑ 9 | +10 |
-| [apple/DepthPro2](https://huggingface.co/apple/DepthPro2) | ↑ 7 | +75 |
-| [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | ↑ 6 | +376 |
-| [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | ↑ 4 | +36 |
-| [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized) | ↑ 3 | -19 |
+| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | ↑ 5 | +88 |
+| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | ↑ 3 | +238 |
+| [apple/DepthPro2](https://huggingface.co/apple/DepthPro2) | ↑ 3 | +860 |
+| [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | ↑ 1 | +58 |
+| [sensenova/SenseNova-Loop-9B](https://huggingface.co/sensenova/SenseNova-Loop-9B) | ↑ 1 | +122 |
 
 <details>
 <summary>Repeat appearances in the last seven days</summary>
@@ -216,13 +216,13 @@ Comparing 2026-11-22 with 2026-11-21 (1-day interval). Coverage: 7/7 days observ
 
 | Snapshot date | Leader |
 |---|---|
+| 2026-11-23 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
 | 2026-11-22 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
 | 2026-11-21 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
 | 2026-11-20 | [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) |
 | 2026-11-19 | [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) |
 | 2026-11-18 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
 | 2026-11-17 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| 2026-11-16 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
 
 </details>
 
@@ -231,23 +231,23 @@ Comparing 2026-11-22 with 2026-11-21 (1-day interval). Coverage: 7/7 days observ
 
 | Entry | Status | First observed |
 |---|---|---|
-| [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | new | 2026-11-22 |
-| [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | new | 2026-11-22 |
-| [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heret…](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) | reentry | 2026-11-06 |
+| [Sentinel7/h3](https://huggingface.co/Sentinel7/h3) | reentry | 2026-11-21 |
 
 </details>
 
 ### Datasets
 
-Comparing 2026-11-22 with 2026-11-21 (1-day interval). Coverage: 7/7 days observed.
+Comparing 2026-11-23 with 2026-11-22 (1-day interval). Coverage: 7/7 days observed.
 
-**2 new to tracking** · **0 re-entries**
+**0 new to tracking** · **2 re-entries**
 
 | Rising entry | Rank change | Likes change |
 |---|---|---|
-| [codepawl/cmu-mocap-glb](https://huggingface.co/datasets/codepawl/cmu-mocap-glb) | ↑ 3 | +13 |
-| [ILSVRC/imagenet-1k](https://huggingface.co/datasets/ILSVRC/imagenet-1k) | ↑ 2 | +15 |
-| [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) | ↑ 1 | +15 |
+| [ILSVRC/imagenet-1k](https://huggingface.co/datasets/ILSVRC/imagenet-1k) | ↑ 3 | +23 |
+| [KORMo-VL/Ko-Online-Mind2Web](https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web) | ↑ 2 | +20 |
+| [Digitaluz/uzbek-language-corpus](https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus) | ↑ 1 | +24 |
+| [KORMo-VL/EVIDENT](https://huggingface.co/datasets/KORMo-VL/EVIDENT) | ↑ 1 | +18 |
+| [JaimeMaLangue/JML-fon-speech-v1](https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1) | ↑ 1 | +12 |
 
 <details>
 <summary>Repeat appearances in the last seven days</summary>
@@ -267,13 +267,13 @@ Comparing 2026-11-22 with 2026-11-21 (1-day interval). Coverage: 7/7 days observ
 
 | Snapshot date | Leader |
 |---|---|
+| 2026-11-23 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 | 2026-11-22 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 | 2026-11-21 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 | 2026-11-20 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 | 2026-11-19 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 | 2026-11-18 | [Vyber07/cyber-security](https://huggingface.co/datasets/Vyber07/cyber-security) |
 | 2026-11-17 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
-| 2026-11-16 | [Angais/pixel-art-atlas-1.4m](https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m) |
 
 </details>
 
@@ -282,8 +282,8 @@ Comparing 2026-11-22 with 2026-11-21 (1-day interval). Coverage: 7/7 days observ
 
 | Entry | Status | First observed |
 |---|---|---|
-| [JaimeMaLangue/JML-fon-speech-v1](https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1) | new | 2026-11-22 |
-| [ccore/ThreeJS-3D-Scenes-v2](https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2) | new | 2026-11-22 |
+| [TheAgenticDataCompany/open-yap-1k](https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k) | reentry | 2026-11-03 |
+| [alphaXiv/AgentAlphaXiv](https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv) | reentry | 2026-11-20 |
 
 </details>
 
@@ -308,13 +308,13 @@ First observed in our tracked GitHub archive during the last 30 days; these are 
 
 | Date | Python | Rust | JavaScript | Go | Swift | TypeScript |
 |---|---|---|---|---|---|---|
+| [2026-11-23](./2026/2026-11-23.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-22](./2026/2026-11-22.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-21](./2026/2026-11-21.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-20](./2026/2026-11-20.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-19](./2026/2026-11-19.md) | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | [uv](https://github.com/astral-sh/uv) | [svelte](https://github.com/sveltejs/svelte) | [arcane](https://github.com/getarcaneapp/arcane) | [openhaystack](https://github.com/seemoo-lab/openhaystack) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-18](./2026/2026-11-18.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jiff](https://github.com/BurntSushi/jiff) | [svelte](https://github.com/sveltejs/svelte) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [univer](https://github.com/dream-num/univer) |
 | [2026-11-17](./2026/2026-11-17.md) | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | [arcane](https://github.com/getarcaneapp/arcane) | [Liter8](https://github.com/Xplo8E/Liter8) | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) |
-| [2026-11-16](./2026/2026-11-16.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [WrapPin](https://github.com/suversal/WrapPin) | [univer](https://github.com/dream-num/univer) |
 
 </details>
 

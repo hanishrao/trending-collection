@@ -1,7 +1,7 @@
 {
   "title": "Hugging Face Trending Models",
   "source": "https://huggingface.co/models?sort=trending",
-  "updated_at": "2026-11-22T09:11:06.560236+00:00",
+  "updated_at": "2026-11-23T10:06:23.960273+00:00",
   "ranking": "huggingface_trending_score",
   "download_window_days": 30,
   "items": [
@@ -9,12 +9,12 @@
       "rank": 1,
       "id": "thinkingmachines/Inkling-2-Mini",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "downloads_30d": 7944,
-      "downloads_all_time": 7944,
-      "likes": 3441,
-      "trending_score": 755,
+      "downloads_30d": 23543,
+      "downloads_all_time": 23543,
+      "likes": 5206,
+      "trending_score": 1013,
       "created_at": "2026-11-17T00:26:57.000Z",
-      "last_modified": "2026-11-21T22:23:18.000Z",
+      "last_modified": "2026-11-23T08:08:49.000Z",
       "licenses": [
         "apache-2.0"
       ],
@@ -22,9 +22,8 @@
         "transformers",
         "safetensors",
         "inkling2_loop",
-        "text-generation",
-        "conversational",
         "image-text-to-text",
+        "conversational",
         "moe",
         "license:apache-2.0",
         "endpoints_compatible",
@@ -40,12 +39,12 @@
       "rank": 2,
       "id": "unsloth/Inkling-2-Mini-GGUF",
       "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "downloads_30d": 238152,
-      "downloads_all_time": 238152,
-      "likes": 713,
-      "trending_score": 662,
+      "downloads_30d": 805993,
+      "downloads_all_time": 805993,
+      "likes": 964,
+      "trending_score": 873,
       "created_at": "2026-11-20T13:09:48.000Z",
-      "last_modified": "2026-11-22T04:22:49.000Z",
+      "last_modified": "2026-11-23T09:07:27.000Z",
       "licenses": [
         "apache-2.0"
       ],
@@ -72,8 +71,8 @@
       "url": "https://huggingface.co/inworld/voice-isolator",
       "downloads_30d": 0,
       "downloads_all_time": 0,
-      "likes": 548,
-      "trending_score": 403,
+      "likes": 673,
+      "trending_score": 508,
       "created_at": "2026-11-14T02:14:35.000Z",
       "last_modified": "2026-11-14T02:14:37.000Z",
       "licenses": [
@@ -103,12 +102,12 @@
       "rank": 4,
       "id": "tencent/Hy4-flash",
       "url": "https://huggingface.co/tencent/Hy4-flash",
-      "downloads_30d": 5588,
-      "downloads_all_time": 5588,
-      "likes": 567,
-      "trending_score": 402,
+      "downloads_30d": 6617,
+      "downloads_all_time": 6617,
+      "likes": 631,
+      "trending_score": 431,
       "created_at": "2026-11-17T03:44:46.000Z",
-      "last_modified": "2026-11-19T11:25:34.000Z",
+      "last_modified": "2026-11-23T06:53:19.000Z",
       "licenses": [
         "other"
       ],
@@ -134,38 +133,12 @@
     },
     {
       "rank": 5,
-      "id": "apple/FastFrames-L",
-      "url": "https://huggingface.co/apple/FastFrames-L",
-      "downloads_30d": 0,
-      "downloads_all_time": 0,
-      "likes": 502,
-      "trending_score": 348,
-      "created_at": "2026-11-16T17:21:04.000Z",
-      "last_modified": "2026-11-20T02:22:20.000Z",
-      "licenses": [
-        "apple-amlr"
-      ],
-      "tags": [
-        "safetensors",
-        "text-to-video",
-        "arxiv:2611.23226",
-        "base_model:Wan-AI/Wan2.1-T2V-14B",
-        "base_model:finetune:Wan-AI/Wan2.1-T2V-14B",
-        "license:apple-amlr",
-        "region:us"
-      ],
-      "task": "text-to-video",
-      "library": null,
-      "parameters": null
-    },
-    {
-      "rank": 6,
       "id": "harness-hub/Qwen3.8-27B-pi-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-      "downloads_30d": 2383,
-      "downloads_all_time": 2383,
-      "likes": 949,
-      "trending_score": 321.5,
+      "downloads_30d": 2831,
+      "downloads_all_time": 2831,
+      "likes": 1007,
+      "trending_score": 338.5,
       "created_at": "2026-11-16T06:52:31.000Z",
       "last_modified": "2026-11-21T04:31:16.000Z",
       "licenses": [
@@ -198,13 +171,72 @@
       "parameters": null
     },
     {
+      "rank": 6,
+      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "downloads_30d": 129693,
+      "downloads_all_time": 129693,
+      "likes": 555,
+      "trending_score": 334.59999999999997,
+      "created_at": "2026-11-20T20:42:23.000Z",
+      "last_modified": "2026-11-21T17:57:39.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "inkling2",
+        "uncensored",
+        "lora",
+        "image-text-to-text",
+        "base_model:thinkingmachines/Inkling-2-Mini",
+        "base_model:adapter:thinkingmachines/Inkling-2-Mini",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "region:us",
+        "imatrix",
+        "conversational"
+      ],
+      "task": "image-text-to-text",
+      "library": null,
+      "parameters": null
+    },
+    {
       "rank": 7,
+      "id": "apple/DepthPro2",
+      "url": "https://huggingface.co/apple/DepthPro2",
+      "downloads_30d": 0,
+      "downloads_all_time": 0,
+      "likes": 1080,
+      "trending_score": 298,
+      "created_at": "2026-11-03T16:55:03.000Z",
+      "last_modified": "2026-11-20T11:28:24.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "depth-pro-2",
+        "depth-estimation",
+        "metric-depth",
+        "monocular-depth",
+        "video-depth",
+        "arxiv:2611.26603",
+        "license:other",
+        "region:us"
+      ],
+      "task": "depth-estimation",
+      "library": "depth-pro-2",
+      "parameters": null
+    },
+    {
+      "rank": 8,
       "id": "higurashi-ai/Haru-4B",
       "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-      "downloads_30d": 8120,
-      "downloads_all_time": 8120,
-      "likes": 848,
-      "trending_score": 298,
+      "downloads_30d": 8608,
+      "downloads_all_time": 8608,
+      "likes": 911,
+      "trending_score": 267.5,
       "created_at": "2026-11-12T11:05:59.000Z",
       "last_modified": "2026-11-13T01:22:38.000Z",
       "licenses": [
@@ -234,13 +266,13 @@
       "parameters": 5270000897
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "Qwen/Qwen3.8-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "downloads_30d": 6298190,
-      "downloads_all_time": 24314164,
-      "likes": 20831,
-      "trending_score": 212.5,
+      "downloads_30d": 6185088,
+      "downloads_all_time": 24704762,
+      "likes": 21629,
+      "trending_score": 200.5,
       "created_at": "2026-08-05T08:22:59.000Z",
       "last_modified": "2026-11-07T04:42:17.000Z",
       "licenses": [
@@ -264,72 +296,13 @@
       "parameters": 27781427952
     },
     {
-      "rank": 9,
-      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "downloads_30d": 9540,
-      "downloads_all_time": 9540,
-      "likes": 317,
-      "trending_score": 196,
-      "created_at": "2026-11-20T20:42:23.000Z",
-      "last_modified": "2026-11-21T17:57:39.000Z",
-      "licenses": [
-        "apache-2.0"
-      ],
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "inkling2",
-        "uncensored",
-        "lora",
-        "image-text-to-text",
-        "base_model:thinkingmachines/Inkling-2-Mini",
-        "base_model:adapter:thinkingmachines/Inkling-2-Mini",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "region:us",
-        "imatrix",
-        "conversational"
-      ],
-      "task": "image-text-to-text",
-      "library": null,
-      "parameters": null
-    },
-    {
       "rank": 10,
-      "id": "apple/DepthPro2",
-      "url": "https://huggingface.co/apple/DepthPro2",
-      "downloads_30d": 0,
-      "downloads_all_time": 0,
-      "likes": 220,
-      "trending_score": 187,
-      "created_at": "2026-11-03T16:55:03.000Z",
-      "last_modified": "2026-11-20T11:28:24.000Z",
-      "licenses": [
-        "other"
-      ],
-      "tags": [
-        "depth-pro-2",
-        "depth-estimation",
-        "metric-depth",
-        "monocular-depth",
-        "video-depth",
-        "arxiv:2611.26603",
-        "license:other",
-        "region:us"
-      ],
-      "task": "depth-estimation",
-      "library": "depth-pro-2",
-      "parameters": null
-    },
-    {
-      "rank": 11,
       "id": "sensenova/SenseNova-Loop-9B",
       "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-      "downloads_30d": 1745,
-      "downloads_all_time": 1745,
-      "likes": 470,
-      "trending_score": 187,
+      "downloads_30d": 1863,
+      "downloads_all_time": 1863,
+      "likes": 592,
+      "trending_score": 199,
       "created_at": "2026-11-17T10:16:41.000Z",
       "last_modified": "2026-11-20T05:34:36.000Z",
       "licenses": [
@@ -356,13 +329,63 @@
       "parameters": 9656254576
     },
     {
+      "rank": 11,
+      "id": "SulphurAI/Sulphur-3",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+      "downloads_30d": 78931,
+      "downloads_all_time": 78931,
+      "likes": 814,
+      "trending_score": 186,
+      "created_at": "2026-10-31T20:31:01.000Z",
+      "last_modified": "2026-11-21T09:16:45.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "minimax-h3",
+        "base_model:MiniMaxAI/MiniMax-H3",
+        "base_model:finetune:MiniMaxAI/MiniMax-H3",
+        "license:other",
+        "region:us"
+      ],
+      "task": null,
+      "library": "minimax-h3",
+      "parameters": null
+    },
+    {
       "rank": 12,
+      "id": "apple/FastFrames-L",
+      "url": "https://huggingface.co/apple/FastFrames-L",
+      "downloads_30d": 0,
+      "downloads_all_time": 0,
+      "likes": 548,
+      "trending_score": 185,
+      "created_at": "2026-11-16T17:21:04.000Z",
+      "last_modified": "2026-11-20T02:22:20.000Z",
+      "licenses": [
+        "apple-amlr"
+      ],
+      "tags": [
+        "safetensors",
+        "text-to-video",
+        "arxiv:2611.23226",
+        "base_model:Wan-AI/Wan2.1-T2V-14B",
+        "base_model:finetune:Wan-AI/Wan2.1-T2V-14B",
+        "license:apple-amlr",
+        "region:us"
+      ],
+      "task": "text-to-video",
+      "library": null,
+      "parameters": null
+    },
+    {
+      "rank": 13,
       "id": "Lightricks/LTX-2.5",
       "url": "https://huggingface.co/Lightricks/LTX-2.5",
-      "downloads_30d": 3000544,
-      "downloads_all_time": 7632923,
-      "likes": 12977,
-      "trending_score": 176,
+      "downloads_30d": 3002698,
+      "downloads_all_time": 7780803,
+      "likes": 13111,
+      "trending_score": 173,
       "created_at": "2026-07-23T07:55:24.000Z",
       "last_modified": "2026-10-11T07:00:53.000Z",
       "licenses": [
@@ -404,15 +427,15 @@
       "parameters": null
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "downloads_30d": 339903,
-      "downloads_all_time": 339903,
-      "likes": 753,
-      "trending_score": 149,
+      "downloads_30d": 381769,
+      "downloads_all_time": 381769,
+      "likes": 826,
+      "trending_score": 159,
       "created_at": "2026-11-03T16:13:25.000Z",
-      "last_modified": "2026-11-22T01:44:57.000Z",
+      "last_modified": "2026-11-23T01:41:20.000Z",
       "licenses": [
         "other"
       ],
@@ -441,44 +464,13 @@
       "parameters": null
     },
     {
-      "rank": 14,
-      "id": "MiniMaxAI/MiniMax-H3-Image",
-      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "downloads_30d": 916726,
-      "downloads_all_time": 916726,
-      "likes": 1699,
-      "trending_score": 146,
-      "created_at": "2026-11-03T06:34:36.000Z",
-      "last_modified": "2026-11-16T10:00:08.000Z",
-      "licenses": [
-        "other"
-      ],
-      "tags": [
-        "minimax-h3",
-        "diffusers",
-        "safetensors",
-        "text-to-image",
-        "image-to-image",
-        "image-editing",
-        "image-generation",
-        "en",
-        "base_model:MiniMaxAI/MiniMax-H3",
-        "base_model:finetune:MiniMaxAI/MiniMax-H3",
-        "license:other",
-        "region:us"
-      ],
-      "task": "text-to-image",
-      "library": "minimax-h3",
-      "parameters": null
-    },
-    {
       "rank": 15,
       "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-      "downloads_30d": 3031,
-      "downloads_all_time": 3031,
-      "likes": 400,
-      "trending_score": 135.5,
+      "downloads_30d": 3483,
+      "downloads_all_time": 3483,
+      "likes": 450,
+      "trending_score": 131.5,
       "created_at": "2026-11-13T02:45:33.000Z",
       "last_modified": "2026-11-13T11:27:11.000Z",
       "licenses": [
@@ -508,62 +500,43 @@
     },
     {
       "rank": 16,
-      "id": "SulphurAI/Sulphur-3",
-      "url": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "downloads_30d": 1186,
-      "downloads_all_time": 1186,
-      "likes": 726,
-      "trending_score": 125,
-      "created_at": "2026-10-31T20:31:01.000Z",
-      "last_modified": "2026-11-21T09:16:45.000Z",
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "downloads_30d": 952024,
+      "downloads_all_time": 952024,
+      "likes": 2470,
+      "trending_score": 118.5,
+      "created_at": "2026-11-03T06:34:36.000Z",
+      "last_modified": "2026-11-16T10:00:08.000Z",
       "licenses": [
         "other"
       ],
       "tags": [
         "minimax-h3",
+        "diffusers",
+        "safetensors",
+        "text-to-image",
+        "image-to-image",
+        "image-editing",
+        "image-generation",
+        "en",
         "base_model:MiniMaxAI/MiniMax-H3",
         "base_model:finetune:MiniMaxAI/MiniMax-H3",
         "license:other",
         "region:us"
       ],
-      "task": null,
+      "task": "text-to-image",
       "library": "minimax-h3",
       "parameters": null
     },
     {
       "rank": 17,
-      "id": "n4ze3m/tiny-voca",
-      "url": "https://huggingface.co/n4ze3m/tiny-voca",
-      "downloads_30d": 9323,
-      "downloads_all_time": 9323,
-      "likes": 382,
-      "trending_score": 115.5,
-      "created_at": "2026-11-14T15:46:27.000Z",
-      "last_modified": "2026-11-20T16:00:45.000Z",
-      "licenses": [
-        "apache-2.0"
-      ],
-      "tags": [
-        "onnx",
-        "gguf",
-        "text-to-speech",
-        "en",
-        "dataset:n4ze3m/tiny-voca",
-        "license:apache-2.0",
-        "region:us"
-      ],
-      "task": "text-to-speech",
-      "library": null,
-      "parameters": null
-    },
-    {
-      "rank": 18,
       "id": "maxwell-model/Maxwell-V1-Flash",
       "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
-      "downloads_30d": 2959,
-      "downloads_all_time": 2959,
-      "likes": 330,
-      "trending_score": 112.5,
+      "downloads_30d": 3317,
+      "downloads_all_time": 3317,
+      "likes": 366,
+      "trending_score": 117.5,
       "created_at": "2026-10-13T07:53:39.000Z",
       "last_modified": "2026-11-14T03:50:21.000Z",
       "licenses": [
@@ -584,13 +557,13 @@
       "parameters": 36810559422
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "downloads_30d": 1787788,
-      "downloads_all_time": 5019365,
-      "likes": 3476,
-      "trending_score": 105,
+      "downloads_30d": 1833410,
+      "downloads_all_time": 5148617,
+      "likes": 4244,
+      "trending_score": 106,
       "created_at": "2026-09-01T07:01:09.000Z",
       "last_modified": "2026-11-13T07:11:09.000Z",
       "licenses": [
@@ -656,13 +629,13 @@
       "parameters": null
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": "RadixArk/DaisyRose-27B",
       "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
-      "downloads_30d": 1375,
-      "downloads_all_time": 1375,
-      "likes": 282,
-      "trending_score": 95.5,
+      "downloads_30d": 1815,
+      "downloads_all_time": 1815,
+      "likes": 322,
+      "trending_score": 105,
       "created_at": "2026-11-18T05:31:35.000Z",
       "last_modified": "2026-11-19T21:10:17.000Z",
       "licenses": [
@@ -686,6 +659,25 @@
       "task": "image-text-to-text",
       "library": "transformers",
       "parameters": 27781427952
+    },
+    {
+      "rank": 20,
+      "id": "Sentinel7/h3",
+      "url": "https://huggingface.co/Sentinel7/h3",
+      "downloads_30d": 0,
+      "downloads_all_time": 0,
+      "likes": 1329,
+      "trending_score": 101,
+      "created_at": "2026-08-06T04:13:52.000Z",
+      "last_modified": "2026-11-23T05:54:00.000Z",
+      "licenses": [],
+      "tags": [
+        "region:us",
+        "not-for-all-audiences"
+      ],
+      "task": null,
+      "library": null,
+      "parameters": null
     }
   ]
 }
