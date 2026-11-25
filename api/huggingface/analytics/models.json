@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-24T11:53:29.609439+00:00",
-  "snapshot_date": "2026-11-24",
+  "updated_at": "2026-11-25T10:45:17.191998+00:00",
+  "snapshot_date": "2026-11-25",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-23",
+  "comparison_date": "2026-11-24",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-18",
+  "window_start": "2026-11-19",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-25",
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+    },
     {
       "date": "2026-11-24",
       "id": "thinkingmachines/Inkling-2-Mini",
@@ -39,11 +44,6 @@
       "date": "2026-11-19",
       "id": "higurashi-ai/Haru-4B",
       "url": "https://huggingface.co/higurashi-ai/Haru-4B"
-    },
-    {
-      "date": "2026-11-18",
-      "id": "MiniMaxAI/MiniMax-H3-Image",
-      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
     }
   ],
   "items": [
@@ -53,9 +53,9 @@
       "rank": 1,
       "status": "continuing",
       "first_seen": "2026-11-21",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 419
+      "likes_change": 249
     },
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
@@ -63,9 +63,9 @@
       "rank": 2,
       "status": "continuing",
       "first_seen": "2026-11-21",
-      "appearances_7d": 4,
+      "appearances_7d": 5,
       "rank_change": 0,
-      "likes_change": 214
+      "likes_change": 117
     },
     {
       "id": "inworld/voice-isolator",
@@ -73,9 +73,9 @@
       "rank": 3,
       "status": "continuing",
       "first_seen": "2026-11-19",
-      "appearances_7d": 6,
+      "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 96
+      "likes_change": 75
     },
     {
       "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
@@ -83,89 +83,89 @@
       "rank": 4,
       "status": "continuing",
       "first_seen": "2026-11-22",
-      "appearances_7d": 3,
-      "rank_change": 2,
-      "likes_change": 138
-    },
-    {
-      "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-      "rank": 5,
-      "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 7,
+      "appearances_7d": 4,
       "rank_change": 0,
-      "likes_change": 44
-    },
-    {
-      "id": "higurashi-ai/Haru-4B",
-      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-      "rank": 6,
-      "status": "continuing",
-      "first_seen": "2026-11-15",
-      "appearances_7d": 7,
-      "rank_change": 2,
-      "likes_change": 38
-    },
-    {
-      "id": "tencent/Hy4-flash",
-      "url": "https://huggingface.co/tencent/Hy4-flash",
-      "rank": 7,
-      "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 7,
-      "rank_change": -3,
-      "likes_change": 33
+      "likes_change": 90
     },
     {
       "id": "SulphurAI/Sulphur-3",
       "url": "https://huggingface.co/SulphurAI/Sulphur-3",
-      "rank": 8,
+      "rank": 5,
       "status": "continuing",
       "first_seen": "2026-11-22",
-      "appearances_7d": 3,
+      "appearances_7d": 4,
       "rank_change": 3,
-      "likes_change": 54
+      "likes_change": 98
     },
     {
-      "id": "sensenova/SenseNova-Loop-9B",
-      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-      "rank": 9,
+      "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-18",
       "appearances_7d": 7,
-      "rank_change": 1,
-      "likes_change": 68
+      "rank_change": -1,
+      "likes_change": 32
     },
     {
-      "id": "apple/FastFrames-L",
-      "url": "https://huggingface.co/apple/FastFrames-L",
-      "rank": 10,
+      "id": "higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "rank": 7,
       "status": "continuing",
-      "first_seen": "2026-11-18",
+      "first_seen": "2026-11-15",
       "appearances_7d": 7,
-      "rank_change": 2,
-      "likes_change": 31
+      "rank_change": -1,
+      "likes_change": 34
     },
     {
       "id": "apple/DepthPro2",
       "url": "https://huggingface.co/apple/DepthPro2",
-      "rank": 11,
+      "rank": 8,
       "status": "continuing",
       "first_seen": "2026-11-21",
-      "appearances_7d": 4,
-      "rank_change": -4,
-      "likes_change": 76
+      "appearances_7d": 5,
+      "rank_change": 3,
+      "likes_change": 54
     },
     {
-      "id": "Qwen/Qwen3.8-27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "rank": 12,
+      "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "rank": 9,
+      "status": "new",
+      "first_seen": "2026-11-25",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "tencent/Hy4-flash",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "rank": 10,
       "status": "continuing",
-      "first_seen": "2026-11-03",
+      "first_seen": "2026-11-18",
       "appearances_7d": 7,
       "rank_change": -3,
-      "likes_change": 70
+      "likes_change": 21
+    },
+    {
+      "id": "llamaindex/OCRia-nano-1",
+      "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "rank": 11,
+      "status": "new",
+      "first_seen": "2026-11-25",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "inclusionAI/Ling-3.2-air",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "rank": 12,
+      "status": "continuing",
+      "first_seen": "2026-11-24",
+      "appearances_7d": 2,
+      "rank_change": 3,
+      "likes_change": 48
     },
     {
       "id": "Lightricks/LTX-2.5",
@@ -175,27 +175,27 @@
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 133
+      "likes_change": 109
     },
     {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "id": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "rank": 14,
       "status": "continuing",
-      "first_seen": "2026-11-15",
+      "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": 0,
-      "likes_change": 42
+      "rank_change": -2,
+      "likes_change": 50
     },
     {
-      "id": "inclusionAI/Ling-3.2-air",
-      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "id": "apple/FastFrames-L",
+      "url": "https://huggingface.co/apple/FastFrames-L",
       "rank": 15,
-      "status": "new",
-      "first_seen": "2026-11-24",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "status": "continuing",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 7,
+      "rank_change": -5,
+      "likes_change": 23
     },
     {
       "id": "Sentinel7/h3",
@@ -203,49 +203,49 @@
       "rank": 16,
       "status": "continuing",
       "first_seen": "2026-11-21",
-      "appearances_7d": 3,
-      "rank_change": 4,
-      "likes_change": 375
-    },
-    {
-      "id": "RadixArk/DaisyRose-27B",
-      "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
-      "rank": 17,
-      "status": "continuing",
-      "first_seen": "2026-11-21",
       "appearances_7d": 4,
-      "rank_change": 2,
-      "likes_change": 26
+      "rank_change": 0,
+      "likes_change": 181
     },
     {
       "id": "inclusionAI/LingSante-3.1-flash",
       "url": "https://huggingface.co/inclusionAI/LingSante-3.1-flash",
-      "rank": 18,
-      "status": "new",
+      "rank": 17,
+      "status": "continuing",
       "first_seen": "2026-11-24",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": 1,
+      "likes_change": 36
     },
     {
       "id": "facebook/sam-3d-body-dinov3",
       "url": "https://huggingface.co/facebook/sam-3d-body-dinov3",
+      "rank": 18,
+      "status": "continuing",
+      "first_seen": "2026-11-24",
+      "appearances_7d": 2,
+      "rank_change": 1,
+      "likes_change": 74
+    },
+    {
+      "id": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
       "rank": 19,
       "status": "new",
-      "first_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
     },
     {
-      "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
-      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "id": "RadixArk/DaisyRose-27B",
+      "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
       "rank": 20,
       "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 7,
-      "rank_change": -5,
-      "likes_change": 26
+      "first_seen": "2026-11-21",
+      "appearances_7d": 5,
+      "rank_change": -3,
+      "likes_change": 14
     }
   ]
 }
