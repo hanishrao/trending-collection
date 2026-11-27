@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-26T10:17:25.943101+00:00",
-  "snapshot_date": "2026-11-26",
+  "updated_at": "2026-11-27T10:23:45.874191+00:00",
+  "snapshot_date": "2026-11-27",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-25",
+  "comparison_date": "2026-11-26",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-20",
+  "window_start": "2026-11-21",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-27",
+      "id": "Vyber07/cyber-security",
+      "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
+    },
     {
       "date": "2026-11-26",
       "id": "Vyber07/cyber-security",
@@ -39,11 +44,6 @@
       "date": "2026-11-21",
       "id": "Vyber07/cyber-security",
       "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
-    },
-    {
-      "date": "2026-11-20",
-      "id": "Vyber07/cyber-security",
-      "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
     }
   ],
   "items": [
@@ -55,7 +55,7 @@
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 259
+      "likes_change": 147
     },
     {
       "id": "Angais/pixel-art-atlas-1.4m",
@@ -65,7 +65,7 @@
       "first_seen": "2026-11-09",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 29
+      "likes_change": 24
     },
     {
       "id": "google/physical-engineerings-last-exam",
@@ -75,174 +75,174 @@
       "first_seen": "2026-11-13",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 28
-    },
-    {
-      "id": "nvidia/USDCraft-10K",
-      "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
-      "rank": 4,
-      "status": "continuing",
-      "first_seen": "2026-11-16",
-      "appearances_7d": 7,
-      "rank_change": 0,
-      "likes_change": 19
+      "likes_change": 30
     },
     {
       "id": "nvidia/simready-assets",
       "url": "https://huggingface.co/datasets/nvidia/simready-assets",
-      "rank": 5,
+      "rank": 4,
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": 0,
-      "likes_change": 22
-    },
-    {
-      "id": "JaimeMaLangue/JML-fon-speech-v1",
-      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
-      "rank": 6,
-      "status": "continuing",
-      "first_seen": "2026-11-22",
-      "appearances_7d": 5,
       "rank_change": 1,
-      "likes_change": 15
+      "likes_change": 35
     },
     {
-      "id": "Digitaluz/uzbek-language-corpus",
-      "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
-      "rank": 7,
+      "id": "nvidia/USDCraft-10K",
+      "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
+      "rank": 5,
       "status": "continuing",
-      "first_seen": "2026-11-19",
+      "first_seen": "2026-11-16",
       "appearances_7d": 7,
       "rank_change": -1,
-      "likes_change": 25
+      "likes_change": 20
     },
     {
       "id": "ccore/ThreeJS-3D-Scenes-v2",
       "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
-      "rank": 8,
+      "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-22",
-      "appearances_7d": 5,
-      "rank_change": 0,
-      "likes_change": 34
-    },
-    {
-      "id": "alphaXiv/AgentAlphaXiv",
-      "url": "https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv",
-      "rank": 9,
-      "status": "continuing",
-      "first_seen": "2026-11-20",
-      "appearances_7d": 5,
-      "rank_change": 0,
-      "likes_change": 25
-    },
-    {
-      "id": "codepawl/cmu-mocap-glb",
-      "url": "https://huggingface.co/datasets/codepawl/cmu-mocap-glb",
-      "rank": 10,
-      "status": "continuing",
-      "first_seen": "2026-11-20",
-      "appearances_7d": 7,
-      "rank_change": 1,
-      "likes_change": 21
-    },
-    {
-      "id": "inclusionAI/LingSante-MedGuard",
-      "url": "https://huggingface.co/datasets/inclusionAI/LingSante-MedGuard",
-      "rank": 11,
-      "status": "continuing",
-      "first_seen": "2026-11-25",
-      "appearances_7d": 2,
-      "rank_change": -1,
-      "likes_change": 23
+      "appearances_7d": 6,
+      "rank_change": 2,
+      "likes_change": 31
     },
     {
       "id": "Jackrong/DeepSeek-V4.1-Flash-Nemotron-Competitive-Coding-Distill",
       "url": "https://huggingface.co/datasets/Jackrong/DeepSeek-V4.1-Flash-Nemotron-Competitive-Coding-Distill",
-      "rank": 12,
+      "rank": 7,
       "status": "continuing",
       "first_seen": "2026-11-24",
+      "appearances_7d": 4,
+      "rank_change": 5,
+      "likes_change": 37
+    },
+    {
+      "id": "JaimeMaLangue/JML-fon-speech-v1",
+      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
+      "rank": 8,
+      "status": "continuing",
+      "first_seen": "2026-11-22",
+      "appearances_7d": 6,
+      "rank_change": -2,
+      "likes_change": 26
+    },
+    {
+      "id": "inclusionAI/LingSante-MedGuard",
+      "url": "https://huggingface.co/datasets/inclusionAI/LingSante-MedGuard",
+      "rank": 9,
+      "status": "continuing",
+      "first_seen": "2026-11-25",
       "appearances_7d": 3,
-      "rank_change": 0,
+      "rank_change": 2,
       "likes_change": 31
     },
     {
-      "id": "yurun-chen/EgoUseBench",
-      "url": "https://huggingface.co/datasets/yurun-chen/EgoUseBench",
-      "rank": 13,
-      "status": "new",
-      "first_seen": "2026-11-26",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "id": "Digitaluz/uzbek-language-corpus",
+      "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
+      "rank": 10,
+      "status": "continuing",
+      "first_seen": "2026-11-19",
+      "appearances_7d": 7,
+      "rank_change": -3,
+      "likes_change": 31
     },
     {
       "id": "bones-studio/seed",
       "url": "https://huggingface.co/datasets/bones-studio/seed",
-      "rank": 14,
+      "rank": 11,
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 4,
       "rank_change": 3,
-      "likes_change": 28
+      "likes_change": 26
     },
     {
       "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
       "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-      "rank": 15,
+      "rank": 12,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 3,
-      "rank_change": 0,
-      "likes_change": 34
+      "appearances_7d": 4,
+      "rank_change": 3,
+      "likes_change": 27
     },
     {
       "id": "ILSVRC/imagenet-1k",
       "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
-      "rank": 16,
+      "rank": 13,
       "status": "continuing",
       "first_seen": "2026-11-18",
+      "appearances_7d": 7,
+      "rank_change": 3,
+      "likes_change": 17
+    },
+    {
+      "id": "TheAgenticDataCompany/open-yap-1k",
+      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
+      "rank": 14,
+      "status": "continuing",
+      "first_seen": "2026-11-03",
       "appearances_7d": 6,
-      "rank_change": 0,
+      "rank_change": 5,
       "likes_change": 24
     },
     {
       "id": "nvidia/PhysicalAI-Human-1M-100K",
       "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
-      "rank": 17,
+      "rank": 15,
       "status": "continuing",
       "first_seen": "2026-11-10",
       "appearances_7d": 7,
-      "rank_change": 1,
-      "likes_change": 24
+      "rank_change": 2,
+      "likes_change": 22
     },
     {
       "id": "xlangai/RoboWild",
       "url": "https://huggingface.co/datasets/xlangai/RoboWild",
-      "rank": 18,
-      "status": "new",
+      "rank": 16,
+      "status": "continuing",
       "first_seen": "2026-11-26",
+      "appearances_7d": 2,
+      "rank_change": 2,
+      "likes_change": 15
+    },
+    {
+      "id": "datapointai/multilingual-tts-ad-human-preferences-270k",
+      "url": "https://huggingface.co/datasets/datapointai/multilingual-tts-ad-human-preferences-270k",
+      "rank": 17,
+      "status": "new",
+      "first_seen": "2026-11-27",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
     },
     {
-      "id": "TheAgenticDataCompany/open-yap-1k",
-      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
-      "rank": 19,
+      "id": "yurun-chen/EgoUseBench",
+      "url": "https://huggingface.co/datasets/yurun-chen/EgoUseBench",
+      "rank": 18,
       "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 5,
+      "first_seen": "2026-11-26",
+      "appearances_7d": 2,
       "rank_change": -5,
-      "likes_change": 26
+      "likes_change": 29
     },
     {
-      "id": "RodrigoFlorencio/brazilian-portuguese-medicine-corpus",
-      "url": "https://huggingface.co/datasets/RodrigoFlorencio/brazilian-portuguese-medicine-corpus",
+      "id": "alphaXiv/AgentAlphaXiv",
+      "url": "https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv",
+      "rank": 19,
+      "status": "continuing",
+      "first_seen": "2026-11-20",
+      "appearances_7d": 5,
+      "rank_change": -10,
+      "likes_change": 15
+    },
+    {
+      "id": "fka/prompts.chat",
+      "url": "https://huggingface.co/datasets/fka/prompts.chat",
       "rank": 20,
       "status": "new",
-      "first_seen": "2026-11-26",
+      "first_seen": "2026-11-27",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
