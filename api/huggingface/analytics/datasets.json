@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-27T10:23:45.874191+00:00",
-  "snapshot_date": "2026-11-27",
+  "updated_at": "2026-11-28T09:40:22.515366+00:00",
+  "snapshot_date": "2026-11-28",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-26",
+  "comparison_date": "2026-11-27",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-21",
+  "window_start": "2026-11-22",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-28",
+      "id": "Vyber07/cyber-security",
+      "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
+    },
     {
       "date": "2026-11-27",
       "id": "Vyber07/cyber-security",
@@ -39,11 +44,6 @@
       "date": "2026-11-22",
       "id": "Vyber07/cyber-security",
       "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
-    },
-    {
-      "date": "2026-11-21",
-      "id": "Vyber07/cyber-security",
-      "url": "https://huggingface.co/datasets/Vyber07/cyber-security"
     }
   ],
   "items": [
@@ -55,17 +55,17 @@
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 147
+      "likes_change": 84
     },
     {
-      "id": "Angais/pixel-art-atlas-1.4m",
-      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
+      "id": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
       "rank": 2,
       "status": "continuing",
-      "first_seen": "2026-11-09",
+      "first_seen": "2026-11-03",
       "appearances_7d": 7,
-      "rank_change": 0,
-      "likes_change": 24
+      "rank_change": 2,
+      "likes_change": 61
     },
     {
       "id": "google/physical-engineerings-last-exam",
@@ -75,17 +75,17 @@
       "first_seen": "2026-11-13",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 30
+      "likes_change": 41
     },
     {
-      "id": "nvidia/simready-assets",
-      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
+      "id": "Angais/pixel-art-atlas-1.4m",
+      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
       "rank": 4,
       "status": "continuing",
-      "first_seen": "2026-11-03",
+      "first_seen": "2026-11-09",
       "appearances_7d": 7,
-      "rank_change": 1,
-      "likes_change": 35
+      "rank_change": -2,
+      "likes_change": 34
     },
     {
       "id": "nvidia/USDCraft-10K",
@@ -94,68 +94,68 @@
       "status": "continuing",
       "first_seen": "2026-11-16",
       "appearances_7d": 7,
-      "rank_change": -1,
-      "likes_change": 20
-    },
-    {
-      "id": "ccore/ThreeJS-3D-Scenes-v2",
-      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
-      "rank": 6,
-      "status": "continuing",
-      "first_seen": "2026-11-22",
-      "appearances_7d": 6,
-      "rank_change": 2,
-      "likes_change": 31
+      "rank_change": 0,
+      "likes_change": 26
     },
     {
       "id": "Jackrong/DeepSeek-V4.1-Flash-Nemotron-Competitive-Coding-Distill",
       "url": "https://huggingface.co/datasets/Jackrong/DeepSeek-V4.1-Flash-Nemotron-Competitive-Coding-Distill",
-      "rank": 7,
+      "rank": 6,
       "status": "continuing",
       "first_seen": "2026-11-24",
-      "appearances_7d": 4,
-      "rank_change": 5,
-      "likes_change": 37
+      "appearances_7d": 5,
+      "rank_change": 1,
+      "likes_change": 18
     },
     {
-      "id": "JaimeMaLangue/JML-fon-speech-v1",
-      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
-      "rank": 8,
+      "id": "ccore/ThreeJS-3D-Scenes-v2",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
+      "rank": 7,
       "status": "continuing",
       "first_seen": "2026-11-22",
-      "appearances_7d": 6,
-      "rank_change": -2,
-      "likes_change": 26
+      "appearances_7d": 7,
+      "rank_change": -1,
+      "likes_change": 15
     },
     {
       "id": "inclusionAI/LingSante-MedGuard",
       "url": "https://huggingface.co/datasets/inclusionAI/LingSante-MedGuard",
-      "rank": 9,
+      "rank": 8,
       "status": "continuing",
       "first_seen": "2026-11-25",
-      "appearances_7d": 3,
-      "rank_change": 2,
-      "likes_change": 31
-    },
-    {
-      "id": "Digitaluz/uzbek-language-corpus",
-      "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
-      "rank": 10,
-      "status": "continuing",
-      "first_seen": "2026-11-19",
-      "appearances_7d": 7,
-      "rank_change": -3,
-      "likes_change": 31
+      "appearances_7d": 4,
+      "rank_change": 1,
+      "likes_change": 28
     },
     {
       "id": "bones-studio/seed",
       "url": "https://huggingface.co/datasets/bones-studio/seed",
-      "rank": 11,
+      "rank": 9,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": 3,
-      "likes_change": 26
+      "appearances_7d": 5,
+      "rank_change": 2,
+      "likes_change": 19
+    },
+    {
+      "id": "JaimeMaLangue/JML-fon-speech-v1",
+      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
+      "rank": 10,
+      "status": "continuing",
+      "first_seen": "2026-11-22",
+      "appearances_7d": 7,
+      "rank_change": -2,
+      "likes_change": 19
+    },
+    {
+      "id": "Digitaluz/uzbek-language-corpus",
+      "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
+      "rank": 11,
+      "status": "continuing",
+      "first_seen": "2026-11-19",
+      "appearances_7d": 7,
+      "rank_change": -1,
+      "likes_change": 17
     },
     {
       "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
@@ -163,89 +163,89 @@
       "rank": 12,
       "status": "continuing",
       "first_seen": "2026-11-03",
-      "appearances_7d": 4,
-      "rank_change": 3,
-      "likes_change": 27
+      "appearances_7d": 5,
+      "rank_change": 0,
+      "likes_change": 33
     },
     {
-      "id": "ILSVRC/imagenet-1k",
-      "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
+      "id": "Lego-X/UXInteract",
+      "url": "https://huggingface.co/datasets/Lego-X/UXInteract",
       "rank": 13,
-      "status": "continuing",
-      "first_seen": "2026-11-18",
-      "appearances_7d": 7,
-      "rank_change": 3,
-      "likes_change": 17
-    },
-    {
-      "id": "TheAgenticDataCompany/open-yap-1k",
-      "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
-      "rank": 14,
-      "status": "continuing",
-      "first_seen": "2026-11-03",
-      "appearances_7d": 6,
-      "rank_change": 5,
-      "likes_change": 24
-    },
-    {
-      "id": "nvidia/PhysicalAI-Human-1M-100K",
-      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
-      "rank": 15,
-      "status": "continuing",
-      "first_seen": "2026-11-10",
-      "appearances_7d": 7,
-      "rank_change": 2,
-      "likes_change": 22
-    },
-    {
-      "id": "xlangai/RoboWild",
-      "url": "https://huggingface.co/datasets/xlangai/RoboWild",
-      "rank": 16,
-      "status": "continuing",
-      "first_seen": "2026-11-26",
-      "appearances_7d": 2,
-      "rank_change": 2,
-      "likes_change": 15
-    },
-    {
-      "id": "datapointai/multilingual-tts-ad-human-preferences-270k",
-      "url": "https://huggingface.co/datasets/datapointai/multilingual-tts-ad-human-preferences-270k",
-      "rank": 17,
       "status": "new",
-      "first_seen": "2026-11-27",
+      "first_seen": "2026-11-28",
       "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "HuggingFaceFW/fineweb",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+      "rank": 14,
+      "status": "reentry",
+      "first_seen": "2026-11-17",
+      "appearances_7d": 4,
       "rank_change": null,
       "likes_change": null
     },
     {
       "id": "yurun-chen/EgoUseBench",
       "url": "https://huggingface.co/datasets/yurun-chen/EgoUseBench",
-      "rank": 18,
+      "rank": 15,
       "status": "continuing",
       "first_seen": "2026-11-26",
-      "appearances_7d": 2,
-      "rank_change": -5,
-      "likes_change": 29
+      "appearances_7d": 3,
+      "rank_change": 3,
+      "likes_change": 30
     },
     {
-      "id": "alphaXiv/AgentAlphaXiv",
-      "url": "https://huggingface.co/datasets/alphaXiv/AgentAlphaXiv",
-      "rank": 19,
+      "id": "nvidia/PhysicalAI-Human-1M-100K",
+      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
+      "rank": 16,
       "status": "continuing",
-      "first_seen": "2026-11-20",
-      "appearances_7d": 5,
-      "rank_change": -10,
-      "likes_change": 15
+      "first_seen": "2026-11-10",
+      "appearances_7d": 7,
+      "rank_change": -1,
+      "likes_change": 21
     },
     {
-      "id": "fka/prompts.chat",
-      "url": "https://huggingface.co/datasets/fka/prompts.chat",
-      "rank": 20,
+      "id": "ILSVRC/imagenet-1k",
+      "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
+      "rank": 17,
+      "status": "continuing",
+      "first_seen": "2026-11-18",
+      "appearances_7d": 7,
+      "rank_change": -4,
+      "likes_change": 16
+    },
+    {
+      "id": "Jackrong/Qwen3.8-2.4T-A95B-Distill",
+      "url": "https://huggingface.co/datasets/Jackrong/Qwen3.8-2.4T-A95B-Distill",
+      "rank": 18,
       "status": "new",
-      "first_seen": "2026-11-27",
+      "first_seen": "2026-11-28",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
+    },
+    {
+      "id": "cfahlgren1/tesla-fsd-drive-5min",
+      "url": "https://huggingface.co/datasets/cfahlgren1/tesla-fsd-drive-5min",
+      "rank": 19,
+      "status": "new",
+      "first_seen": "2026-11-28",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "datapointai/multilingual-tts-ad-human-preferences-270k",
+      "url": "https://huggingface.co/datasets/datapointai/multilingual-tts-ad-human-preferences-270k",
+      "rank": 20,
+      "status": "continuing",
+      "first_seen": "2026-11-27",
+      "appearances_7d": 2,
+      "rank_change": -3,
+      "likes_change": 20
     }
   ]
 }

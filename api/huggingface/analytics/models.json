@@ -1,15 +1,20 @@
 {
-  "updated_at": "2026-11-27T10:23:45.786185+00:00",
-  "snapshot_date": "2026-11-27",
+  "updated_at": "2026-11-28T09:40:22.447652+00:00",
+  "snapshot_date": "2026-11-28",
   "tracking_started": "2026-11-03",
-  "comparison_date": "2026-11-26",
+  "comparison_date": "2026-11-27",
   "comparison_interval_days": 1,
-  "window_start": "2026-11-21",
+  "window_start": "2026-11-22",
   "observed_days_7d": 7,
   "window_days": 7,
   "sample_limit": 20,
   "scope": "Observed Hugging Face top-20 rankings; positive rank_change means rising.",
   "daily_leaders": [
+    {
+      "date": "2026-11-28",
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+    },
     {
       "date": "2026-11-27",
       "id": "thinkingmachines/Inkling-2-Mini",
@@ -39,11 +44,6 @@
       "date": "2026-11-22",
       "id": "thinkingmachines/Inkling-2-Mini",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
-    },
-    {
-      "date": "2026-11-21",
-      "id": "thinkingmachines/Inkling-2-Mini",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
     }
   ],
   "items": [
@@ -55,7 +55,7 @@
       "first_seen": "2026-11-21",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 235
+      "likes_change": 164
     },
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
@@ -65,7 +65,7 @@
       "first_seen": "2026-11-21",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 123
+      "likes_change": 97
     },
     {
       "id": "SulphurAI/Sulphur-3",
@@ -73,29 +73,29 @@
       "rank": 3,
       "status": "continuing",
       "first_seen": "2026-11-22",
-      "appearances_7d": 6,
-      "rank_change": 2,
-      "likes_change": 141
-    },
-    {
-      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "rank": 4,
-      "status": "continuing",
-      "first_seen": "2026-11-22",
-      "appearances_7d": 6,
+      "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 97
+      "likes_change": 110
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
-      "rank": 5,
+      "rank": 4,
       "status": "continuing",
       "first_seen": "2026-11-25",
-      "appearances_7d": 3,
+      "appearances_7d": 4,
       "rank_change": 1,
-      "likes_change": 157
+      "likes_change": 87
+    },
+    {
+      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "rank": 5,
+      "status": "continuing",
+      "first_seen": "2026-11-22",
+      "appearances_7d": 7,
+      "rank_change": -1,
+      "likes_change": 88
     },
     {
       "id": "inworld/voice-isolator",
@@ -104,8 +104,8 @@
       "status": "continuing",
       "first_seen": "2026-11-19",
       "appearances_7d": 7,
-      "rank_change": -3,
-      "likes_change": 60
+      "rank_change": 0,
+      "likes_change": 42
     },
     {
       "id": "Lightricks/LTX-2.5",
@@ -115,124 +115,84 @@
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
       "rank_change": 0,
-      "likes_change": 146
-    },
-    {
-      "id": "nvidia/Nemotron-Labs-Image-30B-A3B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
-      "rank": 8,
-      "status": "continuing",
-      "first_seen": "2026-11-26",
-      "appearances_7d": 2,
-      "rank_change": 3,
-      "likes_change": 83
+      "likes_change": 137
     },
     {
       "id": "llamaindex/OCRia-nano-1",
       "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+      "rank": 8,
+      "status": "continuing",
+      "first_seen": "2026-11-25",
+      "appearances_7d": 4,
+      "rank_change": 1,
+      "likes_change": 78
+    },
+    {
+      "id": "nvidia/Nemotron-Labs-Image-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
       "rank": 9,
       "status": "continuing",
-      "first_seen": "2026-11-25",
-      "appearances_7d": 3,
-      "rank_change": 0,
-      "likes_change": 46
-    },
-    {
-      "id": "apple/DepthPro2",
-      "url": "https://huggingface.co/apple/DepthPro2",
-      "rank": 10,
-      "status": "continuing",
-      "first_seen": "2026-11-21",
-      "appearances_7d": 7,
-      "rank_change": -2,
-      "likes_change": 63
-    },
-    {
-      "id": "inclusionAI/Ling-3.2-air",
-      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
-      "rank": 11,
-      "status": "continuing",
-      "first_seen": "2026-11-24",
-      "appearances_7d": 4,
-      "rank_change": -1,
-      "likes_change": 34
-    },
-    {
-      "id": "strata-engine/Inkling-2-Mini-Strata",
-      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
-      "rank": 12,
-      "status": "continuing",
       "first_seen": "2026-11-26",
-      "appearances_7d": 2,
-      "rank_change": 6,
-      "likes_change": 84
-    },
-    {
-      "id": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "rank": 13,
-      "status": "continuing",
-      "first_seen": "2026-11-25",
       "appearances_7d": 3,
-      "rank_change": 1,
-      "likes_change": 50
-    },
-    {
-      "id": "Sentinel7/h3",
-      "url": "https://huggingface.co/Sentinel7/h3",
-      "rank": 14,
-      "status": "continuing",
-      "first_seen": "2026-11-21",
-      "appearances_7d": 6,
-      "rank_change": 2,
-      "likes_change": 120
+      "rank_change": -1,
+      "likes_change": 53
     },
     {
       "id": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
-      "rank": 15,
-      "status": "new",
+      "rank": 10,
+      "status": "continuing",
       "first_seen": "2026-11-27",
-      "appearances_7d": 1,
-      "rank_change": null,
-      "likes_change": null
+      "appearances_7d": 2,
+      "rank_change": 5,
+      "likes_change": 128
     },
     {
-      "id": "orcarouter/Inkling-2-Mini-abliterated-GGUF",
-      "url": "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF",
-      "rank": 16,
+      "id": "strata-engine/Inkling-2-Mini-Strata",
+      "url": "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata",
+      "rank": 11,
       "status": "continuing",
       "first_seen": "2026-11-26",
-      "appearances_7d": 2,
-      "rank_change": 4,
-      "likes_change": 68
+      "appearances_7d": 3,
+      "rank_change": 1,
+      "likes_change": 60
     },
     {
       "id": "sand-ai/MAGI-2-preview",
       "url": "https://huggingface.co/sand-ai/MAGI-2-preview",
-      "rank": 17,
-      "status": "new",
+      "rank": 12,
+      "status": "continuing",
       "first_seen": "2026-11-27",
+      "appearances_7d": 2,
+      "rank_change": 5,
+      "likes_change": 65
+    },
+    {
+      "id": "apple/DepthPro2",
+      "url": "https://huggingface.co/apple/DepthPro2",
+      "rank": 13,
+      "status": "continuing",
+      "first_seen": "2026-11-21",
+      "appearances_7d": 7,
+      "rank_change": -3,
+      "likes_change": 42
+    },
+    {
+      "id": "kandinskylab/Kandinsky-ImageSR-2.0",
+      "url": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+      "rank": 14,
+      "status": "new",
+      "first_seen": "2026-11-28",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
     },
     {
-      "id": "Aleph-Alpha/Kolibri-1.1",
-      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1.1",
-      "rank": 18,
-      "status": "continuing",
-      "first_seen": "2026-11-26",
-      "appearances_7d": 2,
-      "rank_change": 1,
-      "likes_change": 27
-    },
-    {
-      "id": "KRAFTON/Raon-1-mini",
-      "url": "https://huggingface.co/KRAFTON/Raon-1-mini",
-      "rank": 19,
+      "id": "baidu/ERNIE-5.5-Flash-Preview",
+      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+      "rank": 15,
       "status": "new",
-      "first_seen": "2026-11-27",
+      "first_seen": "2026-11-28",
       "appearances_7d": 1,
       "rank_change": null,
       "likes_change": null
@@ -240,12 +200,52 @@
     {
       "id": "Qwen/Qwen3.8-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "rank": 20,
+      "rank": 16,
       "status": "continuing",
       "first_seen": "2026-11-03",
       "appearances_7d": 7,
+      "rank_change": 4,
+      "likes_change": 65
+    },
+    {
+      "id": "Lakonik/pi-H3",
+      "url": "https://huggingface.co/Lakonik/pi-H3",
+      "rank": 17,
+      "status": "new",
+      "first_seen": "2026-11-28",
+      "appearances_7d": 1,
+      "rank_change": null,
+      "likes_change": null
+    },
+    {
+      "id": "inclusionAI/Ling-3.2-air",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+      "rank": 18,
+      "status": "continuing",
+      "first_seen": "2026-11-24",
+      "appearances_7d": 5,
+      "rank_change": -7,
+      "likes_change": 35
+    },
+    {
+      "id": "orcarouter/Inkling-2-Mini-abliterated-GGUF",
+      "url": "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF",
+      "rank": 19,
+      "status": "continuing",
+      "first_seen": "2026-11-26",
+      "appearances_7d": 3,
       "rank_change": -3,
-      "likes_change": 67
+      "likes_change": 42
+    },
+    {
+      "id": "Sentinel7/h3",
+      "url": "https://huggingface.co/Sentinel7/h3",
+      "rank": 20,
+      "status": "continuing",
+      "first_seen": "2026-11-21",
+      "appearances_7d": 6,
+      "rank_change": -6,
+      "likes_change": 105
     }
   ]
 }

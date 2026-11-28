@@ -1,0 +1,779 @@
+{
+  "title": "Hugging Face Trending Datasets",
+  "source": "https://huggingface.co/datasets?sort=trending",
+  "updated_at": "2026-11-28T09:40:22.515366+00:00",
+  "ranking": "huggingface_trending_score",
+  "download_window_days": 30,
+  "items": [
+    {
+      "rank": 1,
+      "id": "Vyber07/cyber-security",
+      "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
+      "downloads_30d": 110926,
+      "downloads_all_time": 123316,
+      "likes": 2254,
+      "trending_score": 653,
+      "created_at": "2026-05-30T16:41:46.000Z",
+      "last_modified": "2026-08-31T17:57:10.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:question-answering",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:n<1K",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "cybersecurity",
+        "penetration-testing",
+        "red-team",
+        "blue-team",
+        "web-security",
+        "cloud-security",
+        "malware",
+        "forensics",
+        "exploit",
+        "vulnerability",
+        "iot",
+        "ai-security",
+        "bug-bounty",
+        "offensive-security",
+        "defensive-security"
+      ],
+      "task_categories": [
+        "text-generation",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "nvidia/simready-assets",
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
+      "downloads_30d": 1321334,
+      "downloads_all_time": 2143669,
+      "likes": 1905,
+      "trending_score": 42.5,
+      "created_at": "2026-06-29T15:38:26.000Z",
+      "last_modified": "2026-11-19T22:07:42.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "license:cc-by-4.0",
+        "region:us",
+        "simready"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 3,
+      "id": "google/physical-engineerings-last-exam",
+      "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
+      "downloads_30d": 597533,
+      "downloads_all_time": 598561,
+      "likes": 375,
+      "trending_score": 34.5,
+      "created_at": "2026-10-18T08:54:22.000Z",
+      "last_modified": "2026-11-25T01:51:01.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "benchmark:official",
+        "benchmark:eval-yaml",
+        "task_categories:text-generation",
+        "task_categories:question-answering",
+        "language:en",
+        "license:cc-by-4.0",
+        "size_categories:n<1K",
+        "format:parquet",
+        "modality:document",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "library:harbor",
+        "arxiv:2610.30537",
+        "region:us",
+        "benchmark",
+        "agents",
+        "engineering",
+        "electrical-engineering",
+        "civil-engineering",
+        "structural-engineering",
+        "mechanical-engineering",
+        "harbor"
+      ],
+      "task_categories": [
+        "text-generation",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 4,
+      "id": "Angais/pixel-art-atlas-1.4m",
+      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
+      "downloads_30d": 83152,
+      "downloads_all_time": 83152,
+      "likes": 824,
+      "trending_score": 29,
+      "created_at": "2026-11-06T12:37:24.000Z",
+      "last_modified": "2026-11-06T13:05:13.000Z",
+      "licenses": [
+        "cc0-1.0"
+      ],
+      "tags": [
+        "task_categories:text-to-image",
+        "language:en",
+        "license:cc0-1.0",
+        "size_categories:1M<n<10M",
+        "format:parquet",
+        "modality:image",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "pixel-art",
+        "sprites",
+        "synthetic",
+        "ai-generated"
+      ],
+      "task_categories": [
+        "text-to-image"
+      ]
+    },
+    {
+      "rank": 5,
+      "id": "nvidia/USDCraft-10K",
+      "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
+      "downloads_30d": 121722,
+      "downloads_all_time": 121722,
+      "likes": 255,
+      "trending_score": 16.5,
+      "created_at": "2026-10-28T13:26:28.000Z",
+      "last_modified": "2026-11-28T05:10:14.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:robotics",
+        "license:apache-2.0",
+        "size_categories:10K<n<100K",
+        "format:csv",
+        "modality:image",
+        "modality:tabular",
+        "modality:text",
+        "modality:3d",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "arxiv:2610.11322",
+        "region:us",
+        "usd",
+        "openusd",
+        "isaac-sim",
+        "physx",
+        "simulation",
+        "articulated-objects",
+        "3d",
+        "synthetic",
+        "simready"
+      ],
+      "task_categories": [
+        "robotics"
+      ]
+    },
+    {
+      "rank": 6,
+      "id": "Jackrong/DeepSeek-V4.1-Flash-Nemotron-Competitive-Coding-Distill",
+      "url": "https://huggingface.co/datasets/Jackrong/DeepSeek-V4.1-Flash-Nemotron-Competitive-Coding-Distill",
+      "downloads_30d": 485,
+      "downloads_all_time": 485,
+      "likes": 145,
+      "trending_score": 16,
+      "created_at": "2026-11-21T01:40:14.000Z",
+      "last_modified": "2026-11-26T14:13:28.000Z",
+      "licenses": [
+        "cc-by-sa-4.0",
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "source_datasets:nvidia/Nemotron-RL-coding-competitive_coding",
+        "language:en",
+        "license:cc-by-sa-4.0",
+        "license:apache-2.0",
+        "size_categories:1K<n<10K",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "reasoning",
+        "distillation",
+        "code",
+        "competitive-programming",
+        "chain-of-thought",
+        "deepseek-v4.1-flash"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    },
+    {
+      "rank": 7,
+      "id": "ccore/ThreeJS-3D-Scenes-v2",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
+      "downloads_30d": 4038,
+      "downloads_all_time": 4038,
+      "likes": 175,
+      "trending_score": 15,
+      "created_at": "2026-11-17T22:46:50.000Z",
+      "last_modified": "2026-11-17T22:47:16.000Z",
+      "licenses": [
+        "mit"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "language:en",
+        "license:mit",
+        "size_categories:1K<n<10K",
+        "format:parquet",
+        "modality:image",
+        "modality:text",
+        "modality:3d",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "3d",
+        "threejs",
+        "code",
+        "reasoning",
+        "conversational",
+        "html",
+        "javascript",
+        "voxel",
+        "multidomain"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    },
+    {
+      "rank": 8,
+      "id": "inclusionAI/LingSante-MedGuard",
+      "url": "https://huggingface.co/datasets/inclusionAI/LingSante-MedGuard",
+      "downloads_30d": 369,
+      "downloads_all_time": 369,
+      "likes": 116,
+      "trending_score": 11.5,
+      "created_at": "2026-11-18T07:02:22.000Z",
+      "last_modified": "2026-11-24T09:30:49.000Z",
+      "licenses": [],
+      "tags": [
+        "task_categories:text-classification",
+        "size_categories:10K<n<100K",
+        "format:json",
+        "modality:image",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "arxiv:2611.25509",
+        "region:us",
+        "medical",
+        "safety",
+        "guardrail",
+        "benchmark"
+      ],
+      "task_categories": [
+        "text-classification"
+      ]
+    },
+    {
+      "rank": 9,
+      "id": "bones-studio/seed",
+      "url": "https://huggingface.co/datasets/bones-studio/seed",
+      "downloads_30d": 19104,
+      "downloads_all_time": 59404,
+      "likes": 640,
+      "trending_score": 11,
+      "created_at": "2026-03-10T23:17:48.000Z",
+      "last_modified": "2026-05-03T15:03:12.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "task_categories:robotics",
+        "task_categories:text-to-video",
+        "task_categories:video-text-to-text",
+        "language:en",
+        "license:other",
+        "size_categories:100K<n<1M",
+        "region:us",
+        "motion-capture",
+        "humanoid-robotics",
+        "human-motion",
+        "physical-ai",
+        "whole-body-control",
+        "NVIDIA-SOMA",
+        "Unitree-G1",
+        "BVH",
+        "MuJoCo",
+        "language-to-action",
+        "locomotion",
+        "gesture",
+        "dance",
+        "object-interaction",
+        "multimodal",
+        "annotated"
+      ],
+      "task_categories": [
+        "robotics",
+        "text-to-video",
+        "video-text-to-text"
+      ]
+    },
+    {
+      "rank": 10,
+      "id": "JaimeMaLangue/JML-fon-speech-v1",
+      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
+      "downloads_30d": 1123,
+      "downloads_all_time": 1123,
+      "likes": 158,
+      "trending_score": 10,
+      "created_at": "2026-11-16T17:08:15.000Z",
+      "last_modified": "2026-11-19T01:08:11.000Z",
+      "licenses": [
+        "cc-by-sa-4.0"
+      ],
+      "tags": [
+        "task_categories:automatic-speech-recognition",
+        "language:fon",
+        "license:cc-by-sa-4.0",
+        "size_categories:100K<n<1M",
+        "format:csv",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "doi:10.57967/hf/11698",
+        "region:us",
+        "fon",
+        "fongbe",
+        "benin",
+        "tonal",
+        "speech",
+        "jaime-ma-langue"
+      ],
+      "task_categories": [
+        "automatic-speech-recognition"
+      ]
+    },
+    {
+      "rank": 11,
+      "id": "Digitaluz/uzbek-language-corpus",
+      "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
+      "downloads_30d": 3810,
+      "downloads_all_time": 3810,
+      "likes": 231,
+      "trending_score": 9.5,
+      "created_at": "2026-11-18T14:02:31.000Z",
+      "last_modified": "2026-11-24T04:04:42.000Z",
+      "licenses": [
+        "odc-by"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:fill-mask",
+        "task_ids:language-modeling",
+        "task_ids:masked-language-modeling",
+        "multilinguality:monolingual",
+        "language:uz",
+        "license:odc-by",
+        "size_categories:1M<n<10M",
+        "format:parquet",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "uzbek",
+        "pretraining",
+        "latin",
+        "cyrillic"
+      ],
+      "task_categories": [
+        "text-generation",
+        "fill-mask"
+      ]
+    },
+    {
+      "rank": 12,
+      "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
+      "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
+      "downloads_30d": 5728,
+      "downloads_all_time": 14939,
+      "likes": 706,
+      "trending_score": 9,
+      "created_at": "2026-09-02T12:52:47.000Z",
+      "last_modified": "2026-10-10T12:16:08.000Z",
+      "licenses": [
+        "apache-2.0"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "task_categories:question-answering",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:10K<n<100K",
+        "format:json",
+        "modality:text",
+        "library:datasets",
+        "library:pandas",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "fable 5.1",
+        "coding",
+        "synthetic",
+        "thinking",
+        "think",
+        "reason",
+        "reasoning",
+        "distill",
+        "distillation",
+        "agent",
+        "agentic",
+        "SFT",
+        "CoT",
+        "code",
+        "programming",
+        "thought",
+        "thoughts",
+        "SWE",
+        "tool-use",
+        "mythos 5.1",
+        "mythos",
+        "fable class",
+        "mythos class",
+        "fable 5",
+        "mythos 5"
+      ],
+      "task_categories": [
+        "text-generation",
+        "question-answering"
+      ]
+    },
+    {
+      "rank": 13,
+      "id": "Lego-X/UXInteract",
+      "url": "https://huggingface.co/datasets/Lego-X/UXInteract",
+      "downloads_30d": 12,
+      "downloads_all_time": 12,
+      "likes": 10,
+      "trending_score": 9,
+      "created_at": "2026-11-19T14:22:13.000Z",
+      "last_modified": "2026-11-20T11:27:09.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "language:en",
+        "license:other",
+        "size_categories:n<1K",
+        "modality:text",
+        "library:datasets",
+        "library:harbor",
+        "library:mlcroissant",
+        "region:us",
+        "rl-environment",
+        "harbor"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 14,
+      "id": "HuggingFaceFW/fineweb",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+      "downloads_30d": 398204,
+      "downloads_all_time": 10846475,
+      "likes": 3904,
+      "trending_score": 8,
+      "created_at": "2024-04-18T14:33:13.000Z",
+      "last_modified": "2025-07-11T20:16:53.000Z",
+      "licenses": [
+        "odc-by"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "language:en",
+        "license:odc-by",
+        "size_categories:10B<n<100B",
+        "format:parquet",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "arxiv:2306.01116",
+        "arxiv:2109.07445",
+        "arxiv:2406.17557",
+        "doi:10.57967/hf/2493",
+        "region:us"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    },
+    {
+      "rank": 15,
+      "id": "yurun-chen/EgoUseBench",
+      "url": "https://huggingface.co/datasets/yurun-chen/EgoUseBench",
+      "downloads_30d": 78,
+      "downloads_all_time": 78,
+      "likes": 70,
+      "trending_score": 8,
+      "created_at": "2026-11-25T12:20:35.000Z",
+      "last_modified": "2026-11-26T07:06:18.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "language:en",
+        "license:other",
+        "arxiv:2611.34466",
+        "region:us",
+        "benchmark",
+        "computer-use",
+        "egocentric-video"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 16,
+      "id": "nvidia/PhysicalAI-Human-1M-100K",
+      "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
+      "downloads_30d": 34103,
+      "downloads_all_time": 34103,
+      "likes": 245,
+      "trending_score": 7.5,
+      "created_at": "2026-11-04T22:32:05.000Z",
+      "last_modified": "2026-11-07T01:51:33.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "language:en",
+        "license:cc-by-4.0",
+        "size_categories:n<1K",
+        "modality:image",
+        "modality:tabular",
+        "modality:text",
+        "modality:video",
+        "library:datasets",
+        "library:mlcroissant",
+        "library:lerobot",
+        "region:us",
+        "robotics",
+        "physical-ai",
+        "egocentric-video",
+        "human-demonstrations",
+        "stereo",
+        "hand-tracking",
+        "lerobot"
+      ],
+      "task_categories": []
+    },
+    {
+      "rank": 17,
+      "id": "ILSVRC/imagenet-1k",
+      "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
+      "downloads_30d": 97722,
+      "downloads_all_time": 2611689,
+      "likes": 1327,
+      "trending_score": 7,
+      "created_at": "2022-05-02T16:33:23.000Z",
+      "last_modified": "2025-09-17T04:58:55.000Z",
+      "licenses": [
+        "other"
+      ],
+      "tags": [
+        "task_categories:image-classification",
+        "task_ids:multi-class-image-classification",
+        "annotations_creators:crowdsourced",
+        "language_creators:crowdsourced",
+        "multilinguality:monolingual",
+        "source_datasets:original",
+        "language:en",
+        "license:other",
+        "size_categories:1M<n<10M",
+        "format:parquet",
+        "format:optimized-parquet",
+        "modality:image",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "arxiv:1409.0575",
+        "arxiv:1912.07726",
+        "arxiv:1811.12231",
+        "arxiv:2109.13228",
+        "region:us"
+      ],
+      "task_categories": [
+        "image-classification"
+      ]
+    },
+    {
+      "rank": 18,
+      "id": "Jackrong/Qwen3.8-2.4T-A95B-Distill",
+      "url": "https://huggingface.co/datasets/Jackrong/Qwen3.8-2.4T-A95B-Distill",
+      "downloads_30d": 240,
+      "downloads_all_time": 240,
+      "likes": 110,
+      "trending_score": 7,
+      "created_at": "2026-11-21T02:47:57.000Z",
+      "last_modified": "2026-11-26T14:54:58.000Z",
+      "licenses": [
+        "apache-2.0",
+        "mit"
+      ],
+      "tags": [
+        "task_categories:text-generation",
+        "source_datasets:mlabonne/FineTome-100k",
+        "source_datasets:sahil2801/CodeAlpaca-20k",
+        "source_datasets:nvidia/OpenCodeReasoning",
+        "source_datasets:open-thoughts/OpenThoughts3-1.2M",
+        "language:en",
+        "language:zh",
+        "license:apache-2.0",
+        "license:mit",
+        "size_categories:10K<n<100K",
+        "region:us",
+        "reasoning",
+        "distillation",
+        "code",
+        "chain-of-thought",
+        "qwen3.8-max",
+        "qwen"
+      ],
+      "task_categories": [
+        "text-generation"
+      ]
+    },
+    {
+      "rank": 19,
+      "id": "cfahlgren1/tesla-fsd-drive-5min",
+      "url": "https://huggingface.co/datasets/cfahlgren1/tesla-fsd-drive-5min",
+      "downloads_30d": 2850,
+      "downloads_all_time": 2850,
+      "likes": 95,
+      "trending_score": 7,
+      "created_at": "2026-11-23T03:42:20.000Z",
+      "last_modified": "2026-11-23T04:59:47.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "task_categories:video-classification",
+        "license:cc-by-4.0",
+        "size_categories:n<1K",
+        "modality:tabular",
+        "modality:text",
+        "modality:video",
+        "library:datasets",
+        "library:mlcroissant",
+        "region:us",
+        "autonomous-driving",
+        "tesla",
+        "fsd",
+        "dashcam",
+        "multi-camera",
+        "video"
+      ],
+      "task_categories": [
+        "video-classification"
+      ]
+    },
+    {
+      "rank": 20,
+      "id": "datapointai/multilingual-tts-ad-human-preferences-270k",
+      "url": "https://huggingface.co/datasets/datapointai/multilingual-tts-ad-human-preferences-270k",
+      "downloads_30d": 1130,
+      "downloads_all_time": 1130,
+      "likes": 89,
+      "trending_score": 7,
+      "created_at": "2026-11-23T22:14:39.000Z",
+      "last_modified": "2026-11-23T23:58:30.000Z",
+      "licenses": [
+        "cc-by-4.0"
+      ],
+      "tags": [
+        "task_categories:text-to-speech",
+        "task_categories:reinforcement-learning",
+        "language:en",
+        "language:es",
+        "language:pt",
+        "language:fr",
+        "language:de",
+        "language:it",
+        "language:hi",
+        "language:ar",
+        "license:cc-by-4.0",
+        "size_categories:100K<n<1M",
+        "format:parquet",
+        "modality:audio",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
+        "region:us",
+        "audio",
+        "text-to-speech",
+        "speech-synthesis",
+        "multilingual",
+        "advertising",
+        "voiceover",
+        "human-feedback",
+        "human-preferences",
+        "preference-learning",
+        "pairwise-comparison",
+        "reward-model",
+        "rlhf",
+        "dpo",
+        "arena",
+        "leaderboard",
+        "elo",
+        "benchmark"
+      ],
+      "task_categories": [
+        "text-to-speech",
+        "reinforcement-learning"
+      ]
+    }
+  ]
+}
